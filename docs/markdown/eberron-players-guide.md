@@ -479,7 +479,7 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 **Wind's Favor**: Because of my Mark of Storm, I get +2 to Drive when piloting airships or sailing vessels.
 
-**Call Lightning**: Because of my Mark of Storm, once per session I can call down a lightning strike as a Shoot attack using Will, but only outdoors.
+**Call Lightning**: Because of my Mark of Storm, I can use Will to make a Shoot attack by calling down lightning, but only outdoors.
 
 ### Mark of Warding (House Kundarak)
 
@@ -606,6 +606,16 @@ Earn fate points when:
 - **Create an Advantage**: Create or discover an aspect
 - **Attack**: Harm someone
 - **Defend**: Avoid attacks or advantages
+
+### Zone Attacks
+
+When you want to attack everyone in a zone—whether through a fireball, explosive, or sweeping area effect—you can spend an invoke (a free invoke or a fate point) to target the entire zone instead of taking the usual +2 bonus.
+
+Roll your attack once. Every valid target in the zone defends individually against your roll. You deal stress to each target based on how much you beat their defense.
+
+> **Example**: Jak throws an alchemical bomb into a room with three Daask thugs. He has a free invoke on *Volatile Mixture* from creating the bomb last turn. Instead of using that invoke for +2, he spends it to make the attack hit everyone in the zone.
+>
+> He rolls Shoot and gets +4. The thugs defend with Athletics: +2, +1, and +3. Jak deals 2 stress to the first, 3 stress to the second, and 1 stress to the third.
 
 ### Stress and Consequences
 

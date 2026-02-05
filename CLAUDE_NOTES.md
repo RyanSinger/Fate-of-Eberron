@@ -57,8 +57,13 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - **"Once per scene/session" limits** only for effects that would be problematic if spammed:
   - Healing/clearing consequences (Healing Touch)
   - Story declarations (Safe Haven)
-  - Attacks using off-stats (Call Lightning)
 - **Bodyguard-style stunts** (redirect stress) are self-balancing—you pay with your own stress track
+
+### Zone Attacks
+- Spend an invoke (free invoke or fate point) instead of taking +2
+- Roll once, all targets in zone defend individually
+- Damage dealt based on margin against each defender
+- Ties area effects to the fiction (need something to invoke)
 
 ### What's NOT in the system
 - No custom extras (everything in aspects, skills, stunts)
