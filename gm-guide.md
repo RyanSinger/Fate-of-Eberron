@@ -57,7 +57,75 @@ Use zones aggressively. Create environmental hazards. Let players destroy the sc
 
 ---
 
+## Your Fate Points
+
+As GM, you have your own pool of fate points to use for NPCs.
+
+**Starting Each Scene**: You begin each scene with fate points equal to the number of PCs. If a major NPC or boss previously conceded a conflict, or if the PCs invoked aspects against them in earlier scenes, add those fate points to your pool. Unspent fate points from compels in the previous scene also carry over.
+
+**Spending Fate Points**: You spend fate points to invoke aspects for NPCs, refuse compels on NPCs, or activate NPC stunts that require spending. This works just like it does for players.
+
+**Compels Are Free**: You don't need to spend fate points to compel PC aspects—you have an unlimited supply for that purpose. Compels generate story and give players fate points. Use them liberally.
+
+**Earning Fate Points**: When PCs invoke aspects against your NPCs, when NPCs concede conflicts, or when certain stunts trigger, fate points flow to your reserve.
+
+> *In practice, don't stress too much about tracking this precisely. The goal is to ensure NPCs can invoke aspects when dramatically appropriate, while keeping compels flowing freely. If you're unsure, err on the side of letting the NPCs be competent—but not at the cost of fun.*
+
+---
+
+## Setting Difficulty and Opposition
+
+When players roll against passive opposition, you set the difficulty. Here's a simple framework:
+
+**Difficulty Guidelines:**
+- **Low (Fair +2)**: Routine tasks for a competent person. Anyone with relevant training should succeed most of the time.
+- **Moderate (Good +3)**: Requires real effort or expertise. Failure is plausible even for skilled characters.
+- **High (Great +4)**: Challenging even for experts. Success requires both skill and luck.
+- **Extreme (Superb +5 or higher)**: Legendary difficulty. Most characters need to invoke aspects to succeed.
+
+**Start at +2 and adjust.** Most difficulties should be Fair (+2). Raise it if:
+- The task is inherently difficult
+- Circumstances work against the character (but consider making this an aspect instead)
+- Success should feel like an accomplishment
+
+**Use aspects instead of difficulty bumps.** If the situation has a complication, make it an aspect rather than adding +2 to difficulty. *Slippery Floor* is more interesting than "the floor is slippery, so +2 to the difficulty." Aspects can be invoked, compelled, and addressed.
+
+**Active opposition is usually better.** When someone or something actively resists, have them roll instead of setting a static number. It's more dynamic and gives you something to invoke.
+
+---
+
+## Safety Tools
+
+Eberron's themes include war, moral ambiguity, and dark conspiracies. Before play, establish boundaries with your group.
+
+**The X-Card**: Place an index card with an "X" on the table. Any player can tap it to indicate that content has crossed a line—no explanation required. When someone uses it, edit, rewind, or skip the content.
+
+**Script Change**: Borrow from theater. Players can call:
+- **Pause**: Stop and discuss what's happening
+- **Rewind**: Replay a scene differently
+- **Fast-Forward**: Skip past uncomfortable content
+- **Resume**: Continue when ready
+
+**Lines and Veils**: Discuss before play:
+- **Lines**: Content that won't appear in the game at all
+- **Veils**: Content that can exist but happens "off-screen"
+
+Common topics to discuss: torture, violence against children, mind control and possession, slavery (common in some Eberron cultures), graphic violence, romantic or sexual content.
+
+**Use these tools.** Eberron works best when everyone feels safe to engage with its darker themes. Safety tools let you explore moral complexity without causing real harm.
+
+---
+
 ## Building Adversaries
+
+There are two approaches to creating NPCs:
+
+**Quick NPCs**: For characters who appear once or aren't meant to be major obstacles, keep it simple:
+- Give them one aspect (their concept)
+- One or two skills at +1 to +3
+- No stress track—one hit takes them out, or they concede
+
+**Detailed NPCs**: For recurring characters, major villains, or anyone who needs to last multiple scenes, use the adversary framework below.
 
 The Fate Adversary Toolkit provides a framework for building opposition based on narrative role rather than power level. Choose adversary types based on the story function you need.
 

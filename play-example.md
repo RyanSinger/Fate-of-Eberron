@@ -234,27 +234,21 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - *Electrical Sparks from the Wand*
 - *Ready for Them* [two free invokes]
 
-**GM**: Let's determine turn order. Roll Notice.
+**GM**: Alright, it's a conflict. You've got the free invokes from *Ready for Them*, so you had the drop on them—you pick who goes first.
 
-*Everyone rolls:*
-- Vex: +4 (Great) + rolls +2 = **+6**
-- Kira: +3 (Good, Notice from Spy mode) + rolls +1 = **+4**
-- Half-elf (enemy leader): +3 + rolls +0 = **+3**
-- Kaela: +3 (Good, Notice from Soldier mode) + rolls -1 = **+2**
-- Brother Theron: +2 (Fair) + rolls +0 = **+2**
-- Thugs: +1 + rolls +0 = **+1**
-- Jak: +1 (Average) + rolls -1 = **+0**
-- Changeling: +2 + rolls -2 = **+0**
+> *Fate Condensed uses "popcorn" initiative: the side with the advantage picks who acts first. After you act, you pick who goes next—from either side. Once everyone on a side has acted, you must pick someone from the other side. The last person in an exchange picks who starts the next exchange.*
 
-**GM**: Order is: Vex, Kira, half-elf, Kaela, Theron, thugs, Jak, changeling. Vex, you're up.
+**Vex's Player**: The changeling came through the same balcony where Molric was killed. I want them. I'll go first.
 
 ---
 
-#### Round 1
+#### Exchange 1
 
-**Vex's Player**: The changeling came through the balcony—same place Molric was killed. I'm going for them. I Attack with Fight. *Rolls: +0.* That's Fair (+2). Not great.
+**Vex's Player**: I Attack the changeling with Fight. *Rolls: +0.* That's Fair (+2). Not great.
 
-**GM**: The changeling defends with Athletics... *rolls: +2.* That's Good (+3). They twist aside, your metal fist grazing their shoulder but not landing solidly. No damage.
+**GM**: The changeling defends with Athletics... *rolls: +2.* That's Good (+3). They twist aside, your metal fist grazing their shoulder but not landing solidly. No damage. Vex, who goes next?
+
+**Vex's Player**: Kira—set up Kaela to finish their leader.
 
 **Kira's Player**: I want to Create an Advantage on the half-elf. I'm going to use Deceive to feint—make them think I'm going for their wand when I'm actually setting up Kaela for a strike. Something like *Off-Balance*.
 
@@ -264,45 +258,51 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: Their Will is Fair (+2)... *rolls: -1.* That's only +1. You succeed with style—you get *Off-Balance* with two free invokes.
 
-**Kira's Player**: I'll give one of those invokes to Kaela.
+**Kira's Player**: I'll give one of those invokes to Kaela. And I pick Kaela to go next—strike now while they're off-balance!
 
-**GM**: The half-elf's turn. They level the wand at Vex—the warforged is clearly the biggest threat—and discharge a bolt of lightning. That's an Attack with their Shoot equivalent, which is Good (+3). *Rolls: +1.* That's Great (+4).
-
-**Vex's Player**: I defend with Athletics... wait, I don't have Athletics. What's my best defense?
-
-**GM**: Without Athletics, you're probably using Physique to just tank it, but that's normally for resisting rather than dodging. You could use Fight to parry if you have something to deflect with.
-
-**Vex's Player**: I'll use Physique to endure it. Physique is Great (+4). *Rolls: -2.* That's only Fair (+2). They hit me with a +4.
-
-**GM**: That's 2 shifts of stress. You want to use one of your *Ready for Them* invokes to boost your defense?
-
-**Vex's Player**: Yes. That brings my defense to +4, tying them. No damage.
-
-**GM**: The lightning crackles over your metal frame, but you grounded yourself. Sparks fly but you're unharmed.
-
-**Kaela's Player**: My turn. I'm attacking the half-elf with Fight, and I'm invoking both *Off-Balance* and the remaining *Ready for Them*. Fight is Superb (+5), plus +4 from invokes. *Rolls: +1.* That's +10!
+**Kaela's Player**: Perfect. I'm attacking the half-elf with Fight, invoking both *Off-Balance* and one of the *Ready for Them* invokes. Fight is Superb (+5), plus +4 from invokes. *Rolls: +1.* That's +10!
 
 **GM**: They defend with Athletics at Fair (+2)... *rolls: +0.* That's only +2. You hit them for 8 shifts.
 
 **Kaela's Player**: Eight shifts!
 
-**GM**: The half-elf can absorb some of that. They have 2 stress boxes and a mild consequence. They check both stress boxes (2 shifts) and take a mild consequence (2 more shifts)—let's call it *Slashed Across the Ribs*. That's 4 absorbed, leaving 4 shifts that they can't absorb. They're Taken Out.
-
-**GM**: Kaela, you describe it.
+**GM**: The half-elf can absorb some of that. They have 2 stress boxes and a mild consequence. They check both stress boxes (2 shifts) and take a mild consequence (2 more shifts)—let's call it *Slashed Across the Ribs*. That's 4 absorbed, leaving 4 shifts. They're Taken Out.
 
 **Kaela's Player**: As Kira feints, I come in low and fast. My blade catches them across the ribs, and when they double over, I pommel-strike the back of their head. They crumple.
 
-**GM**: The half-elf drops. The wand clatters across the floor toward the balcony.
+**GM**: The half-elf drops. The wand clatters across the floor toward the balcony. Kaela, who goes next?
 
-**Brother Theron's Player**: My turn. I want to protect Tolas. I'll Create an Advantage—*Shield of Faith*—using Will to create a protective aura around the gnome.
+**Kaela's Player**: Theron—protect the client.
+
+**Brother Theron's Player**: I'll Create an Advantage—*Shield of Faith*—using Will to create a protective aura around Tolas.
 
 **GM**: Roll Will.
 
 **Brother Theron's Player**: Will at Superb (+5). *Rolls: +2.* That's +7! I create *Shield of Faith* with two free invokes. If anyone attacks Tolas, I can invoke this to help defend him.
 
-**GM**: Divine light shimmers around the terrified gnome. The thugs hesitate.
+**GM**: Divine light shimmers around the terrified gnome. The thugs hesitate. Who goes next, Theron?
 
-**GM**: Speaking of which—the two thugs. One goes for Kaela (she just dropped their leader), one goes for Kira. They both attack with Fight at Fair (+2).
+**Brother Theron's Player**: Jak—grab that wand before the enemy can.
+
+**Jak's Player**: The wand rolled toward the balcony. I want to grab it before the changeling can. That's... what? Athletics to dive for it?
+
+**GM**: Let's call it an Overcome with Athletics. But you don't have Athletics.
+
+**Jak's Player**: Can I use Crafts? I understand how magical devices work—I might be able to call it to me with my Mark?
+
+**GM**: That's a stretch, but it's flavorful. I'll allow a Crafts roll at -2 since you're using it unconventionally.
+
+**Jak's Player**: Crafts at Superb (+5), minus 2 is Good (+3). *Rolls: +3.* That's +6, Fantastic!
+
+**GM**: Your mark flares. The wand skitters across the floor and leaps into your hand like it was magnetized. The changeling's eyes widen.
+
+**Jak's Player**: "Cannith engineering. We made this."
+
+**GM**: All the PCs have acted, so you have to pick an enemy. Who goes next?
+
+**Jak's Player**: The thugs, I guess—keep the changeling for last.
+
+**GM**: The two thugs attack. One goes for Kaela—she just dropped their leader—one goes for Kira. They both attack with Fight at Fair (+2).
 
 **GM**: Thug 1 vs Kaela: *rolls: +1.* Good (+3).
 
@@ -316,23 +316,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Kira's Player**: Will at Superb (+5). *Rolls: -1.* That's +4. Beats their Fair (+2) easily.
 
-**GM**: You sidestep just in time. Jak, you're up.
-
-**Jak's Player**: The wand rolled toward the balcony. I want to grab it before the changeling can. That's... what? Athletics to dive for it?
-
-**GM**: Let's call it an Overcome with Athletics. But you don't have Athletics.
-
-**Jak's Player**: Can I use Crafts? I understand how magical devices work—I might be able to call it to me or disable it remotely with my Mark?
-
-**GM**: That's a stretch, but it's flavorful. I'll allow a Crafts roll at -2 since you're using it unconventionally.
-
-**Jak's Player**: Crafts at Superb (+5), minus 2 is Good (+3). *Rolls: +3.* That's +6, Fantastic!
-
-**GM**: Your mark flares. The wand skitters across the floor and leaps into your hand like it was magnetized. The changeling's eyes widen.
-
-**Jak's Player**: "Cannith engineering. We made this."
-
-**GM**: The changeling's turn. Seeing their leader down and their weapon stolen, they make a choice. They throw a dagger at Jak—Attack with Shoot at Fair (+2). *Rolls: +1.* Good (+3).
+**GM**: You sidestep just in time. That leaves the changeling. They see their leader down and their weapon stolen. They throw a dagger at Jak—Attack with Shoot at Fair (+2). *Rolls: +1.* Good (+3).
 
 **Jak's Player**: I don't have a good defense. Physique? That's only Average (+1). *Rolls: +0.* +1. I'm hit for 2 shifts.
 
@@ -340,17 +324,35 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Jak's Player**: I check my second stress box.
 
-**GM**: Then the changeling turns and leaps off the balcony.
+**GM**: Then the changeling turns and leaps off the balcony. As the last to act this exchange, they pick who goes first next exchange—and they pick themselves. They're running!
 
-**Kaela's Player**: They're running!
+**Kaela's Player**: They're getting away!
 
 ---
 
-#### Round 2
+#### Exchange 2
 
-**GM**: New round. Vex, the changeling just jumped. The thugs are still fighting but their leader is down. What do you do?
+**GM**: The changeling went last and chose to go first this exchange. They're already running—that's their action. They'll try to escape through the alley below. Changeling picks... the thugs, keeping the PCs locked out as long as possible.
 
-**Vex's Player**: The changeling knows something—they came in the same way Molric's killer did. I pursue. I run to the balcony and jump after them.
+> *This is the tactical depth of popcorn initiative—the changeling went last specifically so they could control the start of the next exchange and keep the PCs from acting while they flee.*
+
+**GM**: The thugs look at each other. Their boss is down, the mage's wand is gone. They're going to try to disengage—Overcome with Athletics to get to the door.
+
+**Kaela's Player**: I want to stop them. Can I oppose?
+
+**GM**: You can. Roll Fight to block their escape.
+
+**GM**: Thug 1 rolls Athletics at Average (+1). *Rolls: +1.* Fair (+2).
+
+**Kaela's Player**: Fight at Superb (+5). *Rolls: -1.* That's +4. I block him.
+
+**GM**: You step into his path, blade ready. He freezes. Thug 2 tries to slip past toward the door. Athletics +1. *Rolls: +0.* Average (+1). Kira, you're closest to the door.
+
+**Kira's Player**: I'll use Deceive to fake him out—make him think I'm going to attack so he hesitates. *Rolls: +2.* Good (+3) plus the roll is Superb (+5).
+
+**GM**: He stumbles back. Both thugs are stuck. All enemies have acted—the thugs have to pick a PC. They pick Vex, hoping the warforged will chase the changeling and leave them an opening.
+
+**Vex's Player**: They're right. The changeling knows something—they came in the same way Molric's killer did. I pursue. I run to the balcony and jump after them.
 
 **GM**: That's risky. Fifty-foot drop. Roll Athletics to catch a handhold or land safely.
 
@@ -360,25 +362,19 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Vex's Player**: Physique Great (+4). *Rolls: +1.* Superb (+5). I make it.
 
-**GM**: You drop off the balcony, metal limbs clanging against fire escapes and window ledges on the way down. You land heavily in the rain-slicked alley—dented but functional. The changeling is fifteen feet ahead, running.
+**GM**: You drop off the balcony, metal limbs clanging against fire escapes and window ledges on the way down. You land heavily in the rain-slicked alley—dented but functional. The changeling is fifteen feet ahead, running. Who goes next?
 
-**GM**: Meanwhile, upstairs—Kira, your turn.
+**Vex's Player**: Kira—finish these thugs so you can back me up.
 
-**Kira's Player**: These thugs are just hired muscle. I want to intimidate them into surrendering. "Your boss is down. Your mage is down. Drop your weapons." That's Provoke to Create an Advantage—*We've Already Won*.
-
-**GM**: Roll Provoke against their Will.
-
-**Kira's Player**: I don't have Provoke. Can I use Deceive? Making them believe the situation is more hopeless than it is?
-
-**GM**: That works. Roll Deceive.
-
-**Kira's Player**: Deceive at Good (+3). *Rolls: +2.* Superb (+5).
+**Kira's Player**: "Your boss is down. Your mage is down. Drop your weapons or join them." I'm using Deceive to make them think the situation is more hopeless than it is. *Rolls: +2.* Good (+3) Deceive, total Superb (+5).
 
 **GM**: Their Will is only Average (+1). *Rolls: +0.* They look at their unconscious leader, at the priest glowing with divine light, at the Cyran noblewoman with the bloody sword, and they drop their weapons. "We're out. We were just hired for security—we don't know anything!"
 
 **Kaela's Player**: "Hired by whom?"
 
 **GM**: One of them points at the unconscious half-elf. "Ask them. Some house agent, paid in gold, asked no questions."
+
+> *The thugs concede—they're out of the conflict. They earn a fate point and get to leave on their terms (alive and unharmed). The conflict in the workshop is over; what remains is the chase.*
 
 ---
 

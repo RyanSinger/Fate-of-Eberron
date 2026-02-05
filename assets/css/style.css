@@ -458,25 +458,42 @@ blockquote code,
   margin: var(--spacing-xl) 0;
 }
 
-.guide-cards h3 {
-  margin-top: 0;
+.guide-card {
+  background: var(--bg-medium);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: var(--spacing-lg);
+  transition: border-color 0.2s ease;
 }
 
-.guide-cards h3 a {
+.guide-card:hover {
+  border-color: var(--accent-gold);
+}
+
+.guide-cards h3,
+.guide-card h3 {
+  margin-top: 0;
+  margin-bottom: var(--spacing-sm);
+}
+
+.guide-cards h3 a,
+.guide-card h3 a {
   color: var(--accent-gold);
   text-decoration: none;
   border-bottom: 2px solid transparent;
   transition: border-color 0.2s ease;
 }
 
-.guide-cards h3 a:hover {
+.guide-cards h3 a:hover,
+.guide-card h3 a:hover {
   border-bottom-color: var(--accent-gold);
   text-decoration: none;
 }
 
-.guide-cards p {
+.guide-cards p,
+.guide-card p {
   color: var(--text-secondary);
-  margin: var(--spacing-sm) 0 0 0;
+  margin: 0;
 }
 
 @media (min-width: 600px) {
