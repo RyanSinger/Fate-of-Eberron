@@ -1,0 +1,35 @@
+{% comment %}
+  Table of Contents generator
+  Extracts h2 and h3 headings from content
+{% endcomment %}
+<ul class="toc-list">
+{% assign headers = include.html | split: '<h2' %}
+{% for header in headers %}
+  {% if header contains 'id="' %}
+    {% assign id_start = header | split: 'id="' | last %}
+    {% assign id = id_start | split: '"' | first %}
+    {% assign title_start = header | split: '>' | slice: 1 | join: '>' %}
+    {% assign title = title_start | split: '</h2>' | first | strip_html %}
+    <li>
+      <a href="#{{ id }}">{{ title }}</a>
+      {% comment %} Check for h3 subheadings {% endcomment %}
+      {% assign subheaders = header | split: '<h3' %}
+      {% if subheaders.size > 1 %}
+      <ul class="toc-sublist">
+        {% for subheader in subheaders %}
+          {% if subheader contains 'id="' %}
+            {% assign sub_id_start = subheader | split: 'id="' | last %}
+            {% assign sub_id = sub_id_start | split: '"' | first %}
+            {% assign sub_title_start = subheader | split: '>' | slice: 1 | join: '>' %}
+            {% assign sub_title = sub_title_start | split: '</h3>' | first | strip_html %}
+            {% if sub_title.size > 0 and sub_title.size < 100 %}
+            <li><a href="#{{ sub_id }}">{{ sub_title }}</a></li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>

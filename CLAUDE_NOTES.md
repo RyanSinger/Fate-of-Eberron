@@ -95,7 +95,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 **GM's Guide**: Running the game. Covers:
 - Core principles for Eberron tone
-- Adversary building (nameless NPCs, supporting NPCs, main NPCs)
+- Adversary building using Fate Adversary Toolkit categories (Threats, Fillers, Hitters, Bosses, Obstacles, Countdowns)
 - All major factions as characters with aspects and agendas
 - Compel examples for Eberron themes
 - Five campaign frameworks (Inquisitive Agency, Xen'drik Expedition, Shadow War, Mournland Salvage, Dragonmarked Intrigue)
@@ -165,6 +165,15 @@ If Ryan wants to expand:
 - Added suggested stunts to all modes
 - Changed skill cap from Great (+4) to Superb (+5)
 
+### Session 4
+- Rewrote GM's Guide adversary section using Fate Adversary Toolkit categories
+- Added Threats (one-hit opposition), Fillers (grouped with shared stress), Hitters (dangerous individuals), Bosses (major antagonists with boss features)
+- Added Obstacles (blocks, hazards, distractions) and Constraints sections
+- Added Countdowns with examples (ritual completion, collapsing ruin, airship going down)
+- Reorganized Quick Antagonist Templates by adversary type
+- Added boss stat blocks (Lord of Blades, Emerald Claw Commander, Daelkyr Cultist Champion, Chamber Dragon)
+- Added Quick Build Reference table
+
 ---
 
-*Last updated: Session 3*
+*Last updated: Session 4*

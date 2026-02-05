@@ -6,6 +6,8 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 ## The Party
 
+![The five iconic adventurers of Fate of Eberron](../../images/iconic-party.png)
+
 ### Vex, Warforged Inquisitive
 
 **High Concept**: *Warforged Detective Who Sees Too Much*

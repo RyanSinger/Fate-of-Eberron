@@ -64,6 +64,8 @@ A theocracy devoted to the Church of the Silver Flame. Thrane values faith, righ
 
 Once considered the jewel of Galifar, Cyre no longer exists. On the Day of Mourning—four years ago—a catastrophic magical event destroyed the entire nation in moments. No one knows what caused it. The Treaty of Thronehold ended the Last War two years later, leaving Cyre's destruction as the conflict's most terrible mystery.
 
+![The Mournland, with a living spell drifting through the devastation](../../images/mournland-living-spell.png)
+
 What remains is the Mournland—a blasted, twisted wasteland where the dead don't decay, living spells roam wild, and reality itself seems broken. The Mournland serves as both a mystery at the heart of the setting and a constant reminder of how devastating magical warfare can be.
 
 ## Other Notable Regions
@@ -78,9 +80,45 @@ What remains is the Mournland—a blasted, twisted wasteland where the dead don'
 
 ## Sharn: The City of Towers
 
+![Sharn, the City of Towers](../../images/sharn-city-of-towers.png)
+
 Sharn is the largest city in Khorvaire and often serves as a campaign's home base. Built on a manifest zone that enhances flight magic, the city rises nearly a mile into the sky—towers stacked upon towers, connected by bridges and served by flying transports.
 
 Sharn is a city of extremes. In the highest spires, dragonmarked barons make deals in crystal towers. In the depths below, criminals rule lightless slums. It's a perfect setting for noir intrigue, with corruption at every level of society.
+
+## Transportation
+
+Khorvaire is connected by a network of magical transportation that makes the continent feel smaller than its size suggests. Two dragonmarked houses dominate travel: House Orien controls ground transportation, while House Lyrandar rules the skies and seas.
+
+### The Lightning Rail
+
+![The lightning rail races across Khorvaire](../../images/lightning-rail.png)
+
+House Orien's lightning rail is the backbone of Khorvairian travel. These elegant trains don't run on tracks—they glide above a path of conductor stones, crackling with bound elemental energy. The rail connects all the major cities of the Five Nations (except the Mournland, where the lines were severed by the Day of Mourning).
+
+Travel by lightning rail is fast, comfortable, and relatively safe. First-class passengers enjoy private cabins, dining cars, and observation lounges. Steerage is cramped but affordable. The journey from Sharn to Wroat takes about a day; crossing the continent takes several.
+
+The lightning rail is also a classic adventure location—murder mysteries, heists, and dramatic confrontations all work beautifully on a train racing through the countryside.
+
+### Airships
+
+House Lyrandar's airships are the most dramatic symbol of Eberron's magical technology. These vessels are wooden ships held aloft by bound elementals—rings of fire or air that encircle the hull and carry it through the sky. A Lyrandar heir with the Mark of Storm pilots the ship by communing with the elemental.
+
+Airship travel is faster than the lightning rail but far more expensive—only the wealthy, the desperate, or those on House business typically fly. Airships also serve military and cargo purposes, and some independent captains operate outside House control (often as smugglers or privateers).
+
+### Other Transportation
+
+- **Skycoaches**: In Sharn, smaller flying vehicles serve as taxis, carrying passengers between towers
+- **Magebred horses**: House Vadalis breeds superior mounts—faster, stronger, and more intelligent than normal horses
+- **Elemental galleons**: House Lyrandar also operates ships with bound water elementals for sea travel
+- **Orien couriers**: For messages and small packages, House Orien's couriers use teleportation magic
+- **House Sivis message stations**: Speaking stones allow long-distance communication, like magical telegraph offices
+
+### Transportation and Adventure
+
+The contrast between magical convenience and frontier danger defines Eberron travel. Within the Five Nations, you can cross the continent in days. But step off the lightning rail into the Eldeen Reaches, venture into Droaam, or try to cross the Mournland—and suddenly civilization feels very far away.
+
+Transportation itself often becomes the adventure. Chases across Sharn's vertical cityscape, intrigue aboard a lightning rail, desperate repairs on a failing airship—these are classic Eberron scenarios.
 
 ## The Dragonmarked Houses
 

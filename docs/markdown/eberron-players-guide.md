@@ -154,6 +154,8 @@ You were raised in the theocracy devoted to the Silver Flame.
 
 ### Warforged
 
+![A warforged veteran on a battlefield at dusk](../../images/warforged-soldier.png)
+
 You were built for war. Now you must find your own purpose.
 
 **Skills**: Athletics, Crafts, Fight, Notice, Physique
@@ -541,6 +543,8 @@ Stunts follow two basic templates:
 ---
 
 ## Dragonmarks
+
+![A dragonmarked heir displaying her mark](../../images/dragonmarked-heir.png)
 
 If your character carries a dragonmark, you'll need:
 

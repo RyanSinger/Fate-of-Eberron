@@ -54,97 +54,203 @@ Use zones aggressively. Create environmental hazards. Let players destroy the sc
 
 ## Building Adversaries
 
-Fate uses several categories of opposition. Match your choice to the story you want to tell.
-
-### Nameless NPCs
-
-No stress track. No consequences. They exist to be overcome or to complicate scenes.
-
-**Mooks** are faceless opposition—Daask thugs, Emerald Claw soldiers, angry mobs. Give them:
-- One aspect (their type: *Daask Enforcer*)
-- One or two skills at Average (+1) or Fair (+2)
-- They attack in groups (one roll with teamwork bonus)
-- One stress box per mook in the group
-
-When you inflict stress on a mook group, remove that many mooks. When the stress fills, the group scatters or is defeated.
-
-**Obstacles** aren't people but block progress:
-- **Hazards** attack every exchange (burning building, poison gas, collapsing tunnel)
-- **Blocks** must be overcome before you can proceed (locked door, magical ward, sheer cliff)
-- **Distractions** must be dealt with or they create complications (civilians in danger, ticking bomb, pursuing authorities)
-
-Give obstacles:
-- An aspect
-- A skill rating for attack (hazards) or opposition (blocks)
-- Optional: A countdown (the bridge collapses after 3 exchanges)
-
-### Supporting NPCs
-
-Characters who matter but aren't central threats. They might become allies, recurring contacts, or secondary antagonists.
-
-Give them:
-- A high concept and one other aspect
-- One Good (+3), two Fair (+2), and three Average (+1) skills
-- One or two stunts (optional)
-- One stress track (1-2 boxes)
-- One consequence slot (mild or moderate)
-
-> **Example: Sergeant Dolom**
-> *Karrnathi Garrison Commander*
-> *The Law Must Be Upheld*
->
-> Skills: Fight Good (+3), Notice Fair (+2), Provoke Fair (+2), Athletics Average (+1), Will Average (+1), Empathy Average (+1)
->
-> Stress: [ ] [ ]
-> Consequence: Mild [ ]
-
-### Main NPCs
-
-Significant antagonists or important allies. They should feel like they could be player characters.
-
-Give them:
-- A full set of five aspects
-- Skills in a pyramid or column (peak at Great +4 or Superb +5)
-- Several stunts
-- Full stress track
-- Full consequence slots
-
-These NPCs should have goals, relationships, and complications. They're people, not obstacles.
-
-> **Example: Lady Elaydren d'Cannith**
-> *House Cannith Patron with Secrets*
-> *Desperate to Restore the House*
-> *Knows More Than She's Telling*
-> *The Schema Must Be Found*
-> *I'll Pay Any Price—Except My Own*
->
-> Skills: Deceive Superb (+5), Rapport Great (+4), Resources Great (+4), Will Good (+3), Lore Good (+3), Contacts Fair (+2), Empathy Fair (+2), Investigate Fair (+2), Notice Average (+1), Academics Average (+1)
->
-> Stunts:
-> - **House Connections**: +2 to Resources when calling on Cannith assets
-> - **Reading People**: Can use Empathy instead of Notice to detect deception
->
-> Stress: [ ] [ ] [ ]
-> Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+The Fate Adversary Toolkit provides a framework for building opposition based on narrative role rather than power level. Choose adversary types based on the story function you need.
 
 ### Adversary Types
 
-Different antagonists fill different story roles:
+#### Threats
 
-**Threats** create problems but don't fight directly. A scheming noble, a corrupt official, a rival scholar. Their danger is social, political, or economic.
+Threats exist to be hit once and go down. They're dangerous in numbers but not individually durable. Use them to create chaos and drain resources.
 
-**Hitters** are dangerous in combat. They're the assassins, monsters, and elite soldiers that make fights threatening.
+**Building Threats:**
+- One aspect (their concept: *Daask Street Thug*, *Emerald Claw Initiate*)
+- One or two skills at Average (+1) or Fair (+2)
+- No stress track—any successful hit takes them out
+- Attack in groups using teamwork (+1 per additional threat, max +3)
 
-**Bosses** are major antagonists that can take on the whole party. Give them legendary actions (extra actions in a round), environmental advantages (home turf), or lieutenants.
+**When to use:** Swarms of enemies, dangerous-but-fragile minions, time pressure through numbers.
 
-**Monsters** are non-humanoid threats. Eberron has plenty:
-- Daelkyr and their aberrant creations
-- Living spells from the Mournland
-- Undead (both Karrnathi soldiers and wilder things)
-- Khyber demons
-- Dragons (often not what they seem)
+> **Example: Boromar Thugs**
+> *Halfling Street Muscle*
+> Skills: Fight Average (+1), Notice Average (+1)
+> A group of 4 attacks at Fair (+2). Each hit removes one thug.
 
-For monsters, aspects do most of the work. *Living Cloudkill* tells you everything about how that fight will go.
+#### Fillers
+
+Fillers are grouped enemies that share a stress track. They're tougher than threats but still exist to be mowed down.
+
+**Building Fillers:**
+- One aspect for the group
+- One or two skills at Fair (+2) or Good (+3)
+- Shared stress track (1 box per member)
+- Attack as one unit with teamwork bonus
+- Removing stress removes individuals from the fight
+
+**When to use:** Guards, cultists, mercenary squads—opposition that should feel substantial but not individually memorable.
+
+> **Example: Emerald Claw Squad (4 soldiers)**
+> *Vol's Faithful Servants*
+> Skills: Fight Fair (+2), Shoot Fair (+2), Will Average (+1)
+> Stress: [ ] [ ] [ ] [ ]
+> Attack at Great (+4) with teamwork. Each stress removes one soldier.
+
+#### Hitters
+
+Hitters deal damage and can take a few hits before going down. They're the dangerous combatants that make fights threatening.
+
+**Building Hitters:**
+- High concept and one other aspect
+- Peak skill at Good (+3) or Great (+4)
+- 2-3 supporting skills
+- Stress track (2-3 boxes)
+- One consequence (mild or moderate)
+- Optional: One stunt that makes them distinctive
+
+**When to use:** Assassins, elite guards, dangerous monsters, anyone who should make the party sweat.
+
+> **Example: House Deneith Blademark**
+> *Professional Mercenary*
+> *Honor in Service*
+> Skills: Fight Great (+4), Athletics Good (+3), Notice Fair (+2), Physique Fair (+2)
+> Stunt: **Shield Wall**—+2 to defense when fighting alongside allies
+> Stress: [ ] [ ] [ ]
+> Consequence: Moderate [ ]
+
+#### Bosses
+
+Bosses are major antagonists who can threaten the whole party. They should feel like they could be player characters—or more.
+
+**Building Bosses:**
+- Full five aspects
+- Skills in a pyramid (peak at Superb +5 or higher for truly legendary foes)
+- Multiple stunts
+- Full stress track
+- Full consequence slots
+- **Boss Features** (pick 1-3):
+  - *Extra Actions*: Acts twice per exchange, or once per PC
+  - *Damage Absorption*: Requires multiple stress boxes to fill one box
+  - *Zone Control*: Free invokes on aspects in their territory
+  - *Lieutenants*: Brings hitters or fillers into the fight
+  - *Recovery*: Clears a mild consequence at end of scene, or can flee to return later
+  - *Special Weakness*: Takes extra stress from specific attacks (drives investigation)
+
+**When to use:** Campaign villains, faction leaders, monsters that define an adventure.
+
+> **Example: The Lord of Blades**
+> *Warforged Prophet of Revolution*
+> *Flesh Is Weakness*
+> *The Mournland Is Our Homeland*
+> *Built for War, Born to Lead*
+> *No Compromise with the Breathers*
+>
+> Skills: Fight Fantastic (+6), Provoke Superb (+5), Will Superb (+5), Physique Great (+4), Lore Great (+4), Athletics Good (+3), Notice Good (+3)
+>
+> Stunts:
+> - **Adamantine Blades**: Weapon:2 on Fight attacks
+> - **Inspiring Presence**: Warforged allies get +2 to Will when they can see him
+> - **Machine Perfection**: Immune to poison, disease, and fear
+>
+> Boss Features: Extra Actions (acts twice), Lieutenants (warforged hitters)
+>
+> Stress: [ ] [ ] [ ] [ ]
+> Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+
+### Obstacles and Constraints
+
+Not all opposition fights back. Obstacles and constraints create problems that must be overcome or worked around.
+
+#### Obstacles
+
+Things that block progress or threaten harm. They don't take actions—they just *are*.
+
+**Blocks** must be overcome to proceed:
+- Locked Cannith vault door (Burglary Great +4 to pick, Physique Legendary +8 to force)
+- Magical ward (Lore Superb +5 to dispel, or find another way)
+- Sheer cliff face (Athletics Good +3 to climb)
+
+**Hazards** attack passively or on a trigger:
+- Poison gas cloud (attacks Physique at Good +3 each exchange)
+- Unstable floor (attacks Athletics at Fair +2 when you move through the zone)
+- Fire spreading through the building (attacks Physique at +2, increasing by +1 each exchange)
+
+**Distrations** demand attention or create consequences:
+- Civilians in danger (ignore them and gain *Innocent Blood on Your Hands*)
+- Evidence about to be destroyed (overcome Resources Good +3 to preserve it)
+- Reinforcements arriving (deal with them or face fillers next exchange)
+
+> **Example: Cannith Security Ward**
+> *Glowing Sigils Pulse with Warning*
+> To bypass: Lore Superb (+5) to dispel, or Burglary Great (+4) to find the physical component
+> If triggered: Attacks everyone in zone at Great (+4) with lightning, then alerts House Cannith
+
+#### Constraints
+
+Constraints are situational aspects that limit options without being overcome directly. They shape the scene.
+
+- *Crowded Marketplace*—collateral damage, witnesses everywhere
+- *Diplomatic Immunity*—can't just arrest them
+- *Eyes of the Twelve*—House agents are watching
+- *No Magic Zone*—manifest zone suppresses arcane effects
+- *Time is Running Out*—represented by a countdown
+
+Constraints should be invokable by both sides and create interesting choices.
+
+### Countdowns
+
+Countdowns create urgency. Something bad happens when they complete.
+
+**Building Countdowns:**
+- Define what happens at zero
+- Set the number of boxes (3-6 typically)
+- Decide what advances the countdown:
+  - *Time*: Advances each exchange or scene
+  - *Action*: Advances when enemies act or succeed
+  - *Failure*: Advances when PCs fail key rolls
+  - *Neglect*: Advances when PCs ignore the threat
+
+The countdown is visible to players. The tension comes from knowing what's coming.
+
+> **Example: Ritual Completion**
+> The Emerald Claw is raising a bone knight. When complete, the battle gets much harder.
+> [ ] [ ] [ ] [ ]
+> Advances each exchange. PCs can spend actions to disrupt (overcome Lore Good +3 to remove a box).
+
+> **Example: Airship Going Down**
+> The elemental ring is damaged. When this fills, the ship crashes.
+> [ ] [ ] [ ]
+> Advances when: Taking hull damage, failed piloting checks, or each exchange after the second.
+> PCs can repair (Crafts Good +3) to remove a box.
+
+> **Example: Cover Blown**
+> The party is infiltrating a Daask stronghold. When this fills, the alarm sounds.
+> [ ] [ ] [ ] [ ] [ ]
+> Advances when: Failed Stealth or Deceive rolls, suspicious activity noticed, time passes.
+
+### Eberron Adversary Categories
+
+Different Eberron threats fill different adversary roles:
+
+| Eberron Threat | Typical Role | Notes |
+|----------------|--------------|-------|
+| Daask street thugs | Threats | Dangerous in packs, fragile individually |
+| Emerald Claw soldiers | Fillers | Trained and organized |
+| House Deneith blademarks | Hitters | Professional, well-equipped |
+| Karrnathi undead soldiers | Fillers/Hitters | Don't break, don't tire |
+| Living spells | Hitters/Bosses | Aspects define their danger |
+| Quori-possessed agents | Hitters | Deceptive, flee when host is defeated |
+| Warforged soldiers (Lord of Blades) | Hitters | Fanatic, won't surrender |
+| Daelkyr | Bosses | Reality-warping horrors |
+| Dragon (Chamber agent) | Bosses | Ancient, cunning, playing long games |
+| Overlord servant | Boss | Campaign-ending threat |
+
+### Quick Build Reference
+
+| Role | Aspects | Peak Skill | Stress | Consequences | Special |
+|------|---------|------------|--------|--------------|---------|
+| Threat | 1 | +1 to +2 | None | None | Taken out by any hit |
+| Filler | 1 (group) | +2 to +3 | 1/member | None | Shared track |
+| Hitter | 2 | +3 to +4 | 2-3 | Mild or Moderate | One stunt optional |
+| Boss | 5 | +5 or higher | 4+ | Full set | Boss features |
 
 ---
 
@@ -555,120 +661,204 @@ The Day of Mourning destroyed Cyre four years ago. No one knows why. This is the
 
 ## Quick Antagonist Templates
 
-### Emerald Claw Agent
+Organized by adversary type for quick reference.
 
-*Devoted to the Blood of Vol*
-*Death Is Not the End*
+### Threats (One-Hit Opposition)
 
-Skills: Fight Fair (+2), Shoot Fair (+2), Will Average (+1), Stealth Average (+1)
+#### Street Gang / Mob
+*[Faction] Street Muscle*
+Skills: Fight Average (+1), Notice Average (+1)
+One hit takes them out. Attack in groups with teamwork.
 
-Stress: [ ] [ ]
+#### Cultist Rabble
+*Touched by Khyber's Madness*
+Skills: Lore Average (+1), Fight Average (+1)
+Fanatic—won't flee. May have minor aberrant abilities.
 
-*Special*: May return as undead if circumstances allow.
+---
 
-### Daask Enforcer
+### Fillers (Grouped Opposition)
 
+#### Emerald Claw Squad (4)
+*Vol's Faithful Servants*
+Skills: Fight Fair (+2), Shoot Fair (+2), Will Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+Attack at Great (+4) with teamwork. May return as undead.
+
+#### Karrnathi Undead Patrol (4)
+*Deathless Servants of Karrnath*
+Skills: Fight Good (+3), Physique Fair (+2)
+Stress: [ ] [ ] [ ] [ ]
+Immune to fear, poison, morale. Never break. Never tire.
+
+#### Daask Thugs (4)
+*Monster Muscle for Hire*
+Skills: Fight Fair (+2), Physique Fair (+2), Provoke Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+Monstrous abilities vary by type (gnoll pack tactics, goblin numbers).
+
+#### House Guard Detachment (4)
+*[House Name]'s Private Security*
+Skills: Fight Fair (+2), Notice Fair (+2), Athletics Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+Professional. Can call for reinforcements.
+
+---
+
+### Hitters (Dangerous Individuals)
+
+#### Daask Enforcer
 *Monster in the City*
 *Strength Demands Respect*
+Skills: Fight Good (+3), Physique Good (+3), Provoke Fair (+2), Notice Average (+1)
+Stress: [ ] [ ] [ ]
+Consequence: Moderate [ ]
+Monstrous heritage grants unusual capabilities (ogre strength, troll regeneration, etc.)
 
-Skills: Fight Good (+3), Physique Fair (+2), Provoke Fair (+2), Notice Average (+1)
-
-Stress: [ ] [ ]
-
-*Special*: Monstrous heritage grants narrative permission for unusual capabilities (ogre strength, gnoll pack tactics, etc.)
-
-### King's Dark Lantern
-
+#### King's Dark Lantern
 *Breland's Hidden Hand*
 *Loyalty to Crown and Country*
-
-Skills: Deceive Good (+3), Investigate Fair (+2), Stealth Fair (+2), Fight Average (+1), Notice Average (+1)
-
-Stress: [ ] [ ]
-Consequence: Mild [ ]
-
-*Special*: Has backup. Always.
-
-### Living Spell (Mournland)
-
-*Magic Given Horrible Life*
-*The Mourning Made Me*
-
-Skills: Magic [type] Great (+4), Notice Fair (+2)
-
+Skills: Deceive Great (+4), Investigate Good (+3), Stealth Good (+3), Fight Fair (+2), Notice Fair (+2)
+Stunt: **Backup Plan**—Once per scene, reveal a prepared advantage
 Stress: [ ] [ ] [ ]
-Consequences: Mild [ ] | Moderate [ ]
+Consequence: Moderate [ ]
+Has backup. Always.
 
-*Special*: Aspects reflect spell type. *Living Cloudkill* spreads poison. *Living Fireball* explodes when defeated.
-
-### Warforged Soldier (Lord of Blades)
-
+#### Warforged Soldier (Lord of Blades)
 *Built for War, Now Free*
 *Flesh Is Weak*
-
-Skills: Fight Good (+3), Physique Good (+3), Notice Fair (+2), Athletics Fair (+2)
-
+Skills: Fight Great (+4), Physique Good (+3), Athletics Good (+3), Notice Fair (+2)
+Stunt: **Relentless**—+2 to overcome when pursuing a target
 Stress: [ ] [ ] [ ]
-Consequences: Mild [ ] | Moderate [ ]
+Consequence: Moderate [ ]
+Immune to poison and disease. Doesn't need food, water, or sleep. Won't surrender.
 
-*Special*: Does not need food, water, or sleep. Immune to poison and disease.
-
-### Karrnathi Undead Soldier
-
-*Deathless Servant of Karrnath*
-*Obeys Without Question*
-
-Skills: Fight Good (+3), Physique Fair (+2), Notice Average (+1)
-
+#### House Assassin
+*[House]'s Quiet Solution*
+*Nothing Personal, Just Business*
+Skills: Stealth Great (+4), Fight Good (+3), Notice Good (+3), Athletics Fair (+2), Deceive Fair (+2)
+Stunt: **Death from Shadows**—+2 to attack when target is unaware
 Stress: [ ] [ ] [ ]
+Consequence: Moderate [ ]
+Patient. Professional. Has an exit strategy.
 
-*Special*: Immune to fear, poison, and disease. Does not tire. Cannot be reasoned with—follows orders absolutely.
-
-### House Agent (Generic)
-
-*[House Name]'s Loyal Operative*
-*The House Comes First*
-
-Skills: Rapport Fair (+2), Deceive Fair (+2), Investigate Average (+1), Notice Average (+1)
-
-Stress: [ ] [ ]
-
-*Special*: Has house resources available. Can call for backup within a scene or two.
-
-### Cult of the Dragon Below Cultist
-
-*Touched by Khyber's Madness*
-*The Darkness Speaks to Me*
-
-Skills: Lore Fair (+2), Fight Average (+1), Will Average (+1), Provoke Average (+1)
-
-Stress: [ ] [ ]
-
-*Special*: May have minor aberrant abilities (darkvision, sense vibrations, etc.) at GM's discretion. Fanatic—will not surrender or flee.
-
-### Quori-Possessed Thrall
-
+#### Quori-Possessed Agent
 *The Dreaming Dark's Puppet*
 *Not Quite Right*
-
-Skills: Deceive Good (+3), Empathy Fair (+2), Will Fair (+2), Notice Average (+1)
-
-Stress: [ ] [ ]
-Consequence: Mild [ ]
-
-*Special*: Telepathic communication with other Inspired/thralls. If reduced to 0 stress, the quori spirit flees—the host remembers nothing. Detecting possession requires opposed Empathy vs. Deceive.
-
-### Droaam Monster (Generic)
-
-*[Monster Type] from Droaam*
-*Strength Earns Respect*
-
-Skills: Fight Good (+3), Physique Fair (+2), Provoke Fair (+2), Notice Average (+1)
-
+Skills: Deceive Great (+4), Empathy Good (+3), Will Good (+3), Notice Fair (+2), Fight Fair (+2)
+Stunt: **Mind Touch**—Can use Deceive to attack mental stress (if you use such rules) or create psychic advantages
 Stress: [ ] [ ] [ ]
-Consequences: Mild [ ]
+Consequence: Moderate [ ]
+Telepathic link to other Inspired. When defeated, the quori flees—the host remembers nothing.
 
-*Special*: Adjust aspects and skills for specific monster type. Ogre gets higher Physique. Harpy gets flight. Medusa gets petrifying gaze (create advantage to place *Turning to Stone* aspect, then attack to complete the effect).
+#### Droaam Monster
+*[Monster Type] Mercenary*
+*Strength Earns Respect*
+Skills: Fight Great (+4), Physique Good (+3), Provoke Good (+3), Notice Fair (+2)
+Stress: [ ] [ ] [ ]
+Consequence: Moderate [ ]
+Adjust for type: Ogre (+5 Physique), Harpy (flight), Medusa (petrifying gaze: create advantage to place *Turning to Stone*, then attack to complete).
+
+#### Living Spell
+*Magic Given Horrible Life*
+*The Mourning Made Me*
+Skills: [Spell Effect] Great (+4), Notice Good (+3), Athletics Fair (+2)
+Stress: [ ] [ ] [ ]
+Consequence: Moderate [ ]
+Aspects define the danger: *Living Cloudkill* poisons zones, *Living Fireball* explodes when defeated, *Living Lightning Bolt* chains between targets.
+
+---
+
+### Bosses (Major Antagonists)
+
+#### Emerald Claw Commander
+*Vol's Chosen General*
+*Death Is Not the End—It's a Beginning*
+*The Queen of Death Will Rise*
+*I've Died Twice Already*
+*Karrnath Betrayed Us First*
+Skills: Fight Superb (+5), Will Great (+4), Provoke Great (+4), Lore Good (+3), Notice Good (+3), Athletics Fair (+2)
+Stunts:
+- **Undying Devotion**: +2 to Will when invoking Vol
+- **Raise the Fallen**: Once per scene, turn a defeated Emerald Claw soldier into a zombie threat
+Boss Feature: Lieutenants (bring 2 Emerald Claw squads)
+Stress: [ ] [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+
+#### Lady Elaydren d'Cannith
+*House Cannith Patron with Secrets*
+*Desperate to Restore the House*
+*Knows More Than She's Telling*
+*The Schema Must Be Found*
+*I'll Pay Any Price—Except My Own*
+Skills: Deceive Superb (+5), Rapport Great (+4), Resources Great (+4), Will Good (+3), Lore Good (+3), Contacts Fair (+2), Empathy Fair (+2)
+Stunts:
+- **House Connections**: +2 to Resources when calling on Cannith assets
+- **Reading People**: Use Empathy instead of Notice to detect deception
+Boss Feature: Recovery (escapes to return with new schemes)
+Stress: [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+Not a combat boss—threatens through manipulation, resources, and information.
+
+#### Daelkyr Cultist Champion
+*Flesh Reshaped by Xoriat*
+*Sanity Is a Limitation*
+*The Gatekeepers Failed Once—They'll Fail Again*
+*My Master Whispers From Beyond*
+*Pain Is Just Information*
+Skills: Fight Superb (+5), Will Superb (+5), Physique Great (+4), Lore Good (+3), Provoke Good (+3)
+Stunts:
+- **Aberrant Anatomy**: Armor:2 against physical attacks
+- **Reality Bleeds**: Once per scene, create a *Xoriat Breach* zone aspect for free
+- **Touch of Madness**: Use Provoke instead of Fight for mental attacks
+Boss Features: Extra Actions (acts twice), Zone Control (free invoke on Xoriat aspects)
+Stress: [ ] [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+
+#### Chamber Dragon (in Humanoid Form)
+*Ancient Wyrm Playing the Long Game*
+*The Prophecy Must Unfold Correctly*
+*Mortals Are Pieces on a Board*
+*Patience Measured in Centuries*
+*This Form Is Merely Convenient*
+Skills: Lore Fantastic (+6), Deceive Superb (+5), Will Superb (+5), Rapport Great (+4), Investigate Great (+4), Notice Good (+3), Resources Good (+3)
+Stunts:
+- **Prophetic Insight**: Once per scene, declare a minor detail of the prophecy is relevant (free invoke on *The Prophecy Unfolds*)
+- **True Form**: Can reveal dragon form—gains Fight Fantastic (+6), Physique Legendary (+8), flight, breath weapon
+- **Timeless Patience**: +2 to Will against provocation or deception
+Boss Features: Recovery (vanishes to machinate elsewhere), Special Weakness (dragons bound by prophecy—using it against them deals +2 stress)
+Stress: [ ] [ ] [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+
+---
+
+### Obstacles and Countdowns
+
+#### Cannith Security Ward (Block)
+*Glowing Sigils Pulse with Warning*
+To bypass: Lore Superb (+5) to dispel, Burglary Great (+4) to disable the physical anchor
+If triggered: Attacks everyone in zone at Great (+4), then alerts House Cannith
+
+#### Mournland Corruption (Hazard)
+*The Land Itself Rejects Life*
+Attacks Physique at Fair (+2) each exchange you're exposed
+Effect: On success, creates *Mournland Corruption* aspect on target
+
+#### Collapsing Ruin (Countdown)
+[ ] [ ] [ ]
+Advances each exchange or when structure takes damage
+At completion: Zone becomes impassable, everyone inside takes Great (+4) attack
+
+#### Ritual of Awakening (Countdown)
+[ ] [ ] [ ] [ ]
+Advances each exchange unless disrupted (overcome Lore Good +3)
+At completion: The bone knight rises (add Boss to the scene)
+
+#### Airship Going Down (Countdown)
+[ ] [ ] [ ]
+Advances on hull damage, failed piloting, or each exchange after round 2
+Repair: Crafts Good (+3) removes a box
+At completion: Everyone makes Athletics Great (+4) defense or takes Severe consequence
 
 ---
 

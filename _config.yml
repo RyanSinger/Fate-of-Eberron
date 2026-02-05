@@ -1,0 +1,34 @@
+# Fate of Eberron - Jekyll Configuration
+title: Fate of Eberron
+description: A Fate Core adaptation for running campaigns in the world of Eberron
+baseurl: "/fate-srd-content" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  auto_ids: true
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE_NOTES.md
+  - LICENSE
+  - vendor
+  - docs
+  - "*.jsonl"
