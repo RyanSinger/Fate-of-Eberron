@@ -871,7 +871,7 @@ Every roll produces one of four outcomes:
 
 ### Aspects and Fate Points
 
-**Aspects** are phrases that describe something important about a character, location, or situation. They are always true—if you have the aspect *Cybernetic Arm*, you have a cybernetic arm.
+**Aspects** are phrases that describe something important about a character, location, or situation. They are always true—if you have the aspect *Warforged Veteran*, you're a warforged who fought in the Last War.
 
 You start each session with fate points equal to your **refresh** (usually 3).
 
@@ -1190,7 +1190,8 @@ From the modes, here's the complete skill list:
 - **War Survivor**: Because I survived the Mourning, once per session I can spend a fate point to ignore all stress from a single attack by describing a flashback to something worse.
 
 **Refresh**: 3
-**Stress**: [ ] [ ] [ ]
+**Physical Stress**: [ ] [ ] [ ]
+**Mental Stress**: [ ] [ ] [ ]
 **Consequences**: Mild (2) [ ] | Moderate (4) [ ] | Severe (6) [ ]
 
 ---
@@ -1237,7 +1238,8 @@ STUNTS                          Provoke        [   ]
    ________________________
 
 
-STRESS          [ ] [ ] [ ]
+PHYSICAL STRESS  [ ] [ ] [ ]
+MENTAL STRESS    [ ] [ ] [ ]
 
 CONSEQUENCES
   Mild (2):     ________________________  [ ]

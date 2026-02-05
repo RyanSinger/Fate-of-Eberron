@@ -31,7 +31,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - **Photographic Memory**: Because I never forget what I see, I get +2 to Investigate when recalling details from a previous scene.
 - **Tireless Sentinel**: Because I don't sleep, I can always be on watch. I get +2 to Notice when detecting ambushes.
 
-**Refresh**: 3 | **Stress**: [ ] [ ] [ ]
+**Refresh**: 3 | **Physical**: [ ] [ ] [ ] | **Mental**: [ ] [ ] [ ]
 
 ---
 
@@ -53,7 +53,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - **Dead Drop Network**: Because I maintained my spy network, once per session I can declare I have a contact in this city who owes me a favor.
 - **Unreadable**: Because I was trained to hide my emotions, I get +2 to Deceive when resisting attempts to read my intentions.
 
-**Refresh**: 3 | **Stress**: [ ] [ ] [ ]
+**Refresh**: 3 | **Physical**: [ ] [ ] [ ] | **Mental**: [ ] [ ] [ ]
 
 ---
 
@@ -75,7 +75,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - **Shield of Faith**: Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks.
 - **Sense Evil**: Because the Flame guides me, I get +2 to Notice when detecting undead, fiends, or supernatural corruption.
 
-**Refresh**: 3 | **Stress**: [ ] [ ] [ ]
+**Refresh**: 3 | **Physical**: [ ] [ ] [ ] | **Mental**: [ ] [ ] [ ]
 
 ---
 
@@ -97,7 +97,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - **Cyran Blade Dance**: Because I trained with Cyran duelists, I get +2 to Fight when I'm outnumbered.
 - **Noble Bearing**: Because I carry myself like the noble I was, I get +2 to Rapport when first impressions matter.
 
-**Refresh**: 3 | **Stress**: [ ] [ ] [ ]
+**Refresh**: 3 | **Physical**: [ ] [ ] [ ] | **Mental**: [ ] [ ] [ ]
 
 ---
 
@@ -119,7 +119,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - **Jury-Rig**: Because of my Mark of Making, I can use Crafts to create a temporary device that lasts one scene, even without proper tools.
 - **Maker's Intuition**: Because I understand how things are built, I get +2 to Investigate when examining constructed objects or magical devices.
 
-**Refresh**: 3 | **Stress**: [ ] [ ] [ ]
+**Refresh**: 3 | **Physical**: [ ] [ ] [ ] | **Mental**: [ ] [ ] [ ]
 
 ---
 
