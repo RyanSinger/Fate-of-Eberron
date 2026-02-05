@@ -230,7 +230,7 @@ You served in the Last War.
 *Suggested Aspects*: *Hundred-Year War Veteran*, *I've Seen Things*, *Brothers and Sisters in Arms*
 
 *Suggested Stunts*:
-- **Combat Reflexes**: Because I've been in countless battles, I always act before enemies in the first exchange of a conflict unless I'm surprised.
+- **Combat Reflexes**: Because I've been in countless battles, when my side has initiative advantage at the start of a conflict, I can go first before the group decides.
 - **Battlefield Awareness**: Because I'm trained to read the flow of combat, I can use Fight instead of Notice to spot tactical opportunities or dangers.
 
 ### Criminal
@@ -562,7 +562,7 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 *Basic Permission*: You can sense danger and magical threats intuitively.
 
-**Sense Danger**: Because of my Mark of Detection, I can never be surprised and always act in the first exchange of a conflict.
+**Sense Danger**: Because of my Mark of Detection, I can never be surprised—if enemies would have initiative advantage, I can act first before they do.
 
 **Pierce Illusion**: Because of my Mark of Detection, I can use Notice instead of Will to defend against illusions and mental deception.
 
