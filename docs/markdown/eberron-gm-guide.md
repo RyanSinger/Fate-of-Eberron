@@ -507,7 +507,7 @@ Everything can be a character. This is especially useful for Eberron's unique el
 **Lyrandar Airship "Storm's Pride"**
 - *Soarwood Hull, Bound Elemental*
 - *Captain Alia d'Lyrandar's Pride and Joy*
-- Skills: Pilot (for maneuverability), Structure (for damage resistance)
+- Skills: Drive Good (+3) for maneuverability, Physique Fair (+2) for structural integrity
 - Stress: [ ] [ ] [ ] [ ]
 - Consequences: Mild [ ] | Moderate [ ]
 
@@ -633,7 +633,7 @@ Skills: Rapport Fair (+2), Deceive Fair (+2), Investigate Average (+1), Notice A
 
 Stress: [ ] [ ]
 
-*Special*: Has house resources available. Can call for backup within 1d4 scenes.
+*Special*: Has house resources available. Can call for backup within a scene or two.
 
 ### Cult of the Dragon Below Cultist
 

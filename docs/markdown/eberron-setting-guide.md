@@ -62,7 +62,7 @@ A theocracy devoted to the Church of the Silver Flame. Thrane values faith, righ
 
 ### Cyre (The Mournland)
 
-Once considered the jewel of Galifar, Cyre no longer exists. Four years ago, on the Day of Mourning, a catastrophic magical event destroyed the entire nation in moments. No one knows what caused it.
+Once considered the jewel of Galifar, Cyre no longer exists. On the Day of Mourning—four years ago—a catastrophic magical event destroyed the entire nation in moments. No one knows what caused it. The Treaty of Thronehold ended the Last War two years later, leaving Cyre's destruction as the conflict's most terrible mystery.
 
 What remains is the Mournland—a blasted, twisted wasteland where the dead don't decay, living spells roam wild, and reality itself seems broken. The Mournland serves as both a mystery at the heart of the setting and a constant reminder of how devastating magical warfare can be.
 
@@ -204,8 +204,6 @@ Your character lives in a world where minor magic is commonplace. You've ridden 
 
 ---
 
-*This guide provides setting information for Eberron. For character creation and game mechanics, see the Player's Guide. For running the game, see the GM's Guide.*
-
 ## Sources
 
 - [Eberron Wiki](https://eberron.fandom.com/)
@@ -213,3 +211,7 @@ Your character lives in a world where minor magic is commonplace. You've ridden 
 - [D&D Beyond - Welcome to Eberron](https://www.dndbeyond.com/posts/279-welcome-to-eberron-an-introduction-to-a-realm-of)
 - [Sly Flourish - Running Eberron](https://slyflourish.com/running_eberron.html)
 - [Roll20 Guide to Eberron](https://pages.roll20.net/dnd/eberron-guide)
+
+---
+
+*This guide provides setting information for Eberron. For character creation and game mechanics, see the Player's Guide. For running the game, see the GM's Guide.*

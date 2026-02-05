@@ -70,7 +70,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 **Player's Guide**: Character creation and rules. Covers:
 - Mode-based character creation
-- Full mode list (9 Origins, 8 Backgrounds, 8 Callings)
+- Full mode list (9 Origins, 8 Backgrounds, 9 Callings)
 - Dragonmark aspects and stunts for all 13 marks
 - Narrative magic and brainstorm rules
 - Invention rules for artificers
@@ -100,7 +100,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - Soldier, Criminal, Scholar, Noble, Entertainer, Outlander, Street Urchin, Dragonmarked Heir
 
 **Callings** (what you do now):
-- Inquisitive, Artificer, Mage, Priest, Warrior, Face, Spy, Explorer
+- Inquisitive, Artificer, Mage, Priest, Warrior, Face, Spy, Explorer, Pilot
 
 ---
 

@@ -68,15 +68,15 @@ If a skill appears in multiple modes, it's **reinforced**—you take the highest
 
 > **Example**: Kaela picks Soldier (Good), Criminal (Fair), and Cyran (Average).
 >
-> In Soldier mode, she makes Fight specialized (+2) and Athletics and Physique focused (+1 each).
+> In Soldier mode (3 points), she makes Fight specialized (2 points) and Athletics focused (1 point).
 >
-> In Criminal mode, she makes Stealth focused (+1) and Burglary focused (+1).
+> In Criminal mode (2 points), she makes Stealth focused (1 point) and Burglary focused (1 point).
 >
-> In Cyran mode, she makes Lore focused (+1).
+> In Cyran mode (1 point), she makes Will focused (1 point).
 >
-> Fight appears only in Soldier at Good +3, plus Specialized +2 = Great (+5). But that exceeds the +4 cap, so it's Great (+4).
+> Fight appears only in Soldier at Good +3, plus Specialized +2 = +5, capped at Great (+4).
 >
-> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = +4. Criminal gives Fair +2 plus Trained +0 = +2. She takes the higher (+4) and adds +1 for reinforcement = Superb (+5). Again capped at Great (+4).
+> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = +4. Criminal gives Fair +2 plus Trained +0 = +2. She takes the higher (+4) and adds +1 for reinforcement = +5, capped at Great (+4).
 >
 > Her final Fight and Athletics are both Great (+4).
 
@@ -659,23 +659,25 @@ From the modes, here's the complete skill list:
 **Free Aspects**: *Karrnathi Swordsmanship Training*, *House Deneith Owes Me Answers*
 
 **Modes**:
-- Soldier (Good +3): Fight (Specialized +2), Athletics (Focused +1), Notice (Focused +1)
-- Noble (Fair +2): Rapport (Focused +1), Contacts (Focused +1)
-- Cyran (Average +1): Will (Focused +1)
+- Soldier (Good +3): Fight (Specialized), Athletics (Focused)
+- Noble (Fair +2): Rapport (Focused), Contacts (Focused)
+- Cyran (Average +1): Will (Focused)
 
 **Skills**:
-- Fight: Great (+4) — Soldier Good (+3) + Specialized (+2), capped at +4
-- Athletics: Great (+4) — Soldier Good (+3) + Focused (+1)
-- Notice: Great (+4) — Soldier Good (+3) + Focused (+1)
-- Rapport: Good (+3) — Noble Fair (+2) + Focused (+1)
-- Contacts: Good (+3) — Noble Fair (+2) + Focused (+1)
-- Will: Fair (+2) — Cyran Average (+1) + Focused (+1)
-- Physique: Good (+3) — Soldier trained
-- Shoot: Good (+3) — Soldier trained
-- Empathy: Fair (+2) — Noble trained
-- Resources: Fair (+2) — Noble trained
-- Deceive: Fair (+2) — Noble trained
-- Lore: Average (+1) — Cyran trained
+- Fight: Great (+4) — Soldier +3, Specialized +2, capped
+- Athletics: Great (+4) — Soldier +3, Focused +1, reinforced by Criminal +1, capped
+- Notice: Good (+3) — Soldier +3, trained
+- Rapport: Good (+3) — Noble +2, Focused +1
+- Contacts: Good (+3) — Noble +2, Focused +1
+- Will: Fair (+2) — Cyran +1, Focused +1
+- Physique: Good (+3) — Soldier +3, trained
+- Shoot: Good (+3) — Soldier +3, trained
+- Stealth: Good (+3) — Criminal +2, Focused +1
+- Burglary: Good (+3) — Criminal +2, Focused +1
+- Empathy: Fair (+2) — Noble +2, trained
+- Resources: Fair (+2) — Noble +2, trained
+- Deceive: Fair (+2) — Noble +2, trained
+- Lore: Average (+1) — Cyran +1, trained
 
 **Stunts**:
 - **Cyran Blade Dance**: Because I trained with Cyran duelists, I get +2 to Fight when I'm outnumbered.
