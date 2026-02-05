@@ -913,7 +913,9 @@ The GM identifies the obstacles and assigns a skill and difficulty to each. Diff
 
 When two or more sides race toward mutually exclusive goals without directly harming each other—a chase, a debate, a race to find a clue—use a **contest**.
 
-Each exchange, both sides roll an appropriate skill as an overcome action. The higher result scores a victory; success with style scores two victories. First to three victories wins. Ties create unexpected complications.
+Each exchange, both sides roll an appropriate skill as an overcome action. The higher result scores a victory; success with style scores two victories. First to three victories wins. Ties create a new situation aspect representing an unexpected twist—neither side scores.
+
+**Creating Advantages in Contests**: Before your overcome roll, you can try to create an advantage. If you fail, choose: forfeit your overcome roll this exchange, or proceed but give your opponent a free invoke on the aspect you just created.
 
 > **Example**: Kira chases a Tyrant assassin across Sharn's towers. Each exchange, both roll Athletics. Kira scores a victory, then the assassin scores one. Kira gets success with style (two victories)—she's at three, she catches them.
 
@@ -923,7 +925,7 @@ When characters can and want to harm each other—a fight, a heated argument, a 
 
 #### Zones
 
-Space is divided into **zones**—discrete areas like "the tavern common room," "the balcony," or "the street outside." You can interact with anything in your zone. Moving to an adjacent zone is free unless something impedes you; impeded movement requires an overcome roll.
+Space is divided into **zones**—discrete areas like "the tavern common room," "the balcony," or "the street outside." Most scenes have 2–4 zones. You can interact with anything in your zone. Moving to an adjacent zone is free unless something impedes you; impeded movement requires an overcome roll.
 
 #### Setting Up
 
@@ -960,7 +962,7 @@ To attack everyone in a zone, spend an invoke (a free invoke or fate point) inst
 
 When you take harm, absorb it with **stress** and **consequences**:
 
-**Stress** represents near-misses and minor hits. You have 3 stress boxes (1 point each). Check boxes to absorb shifts—check as many as needed, each absorbs 1 shift. Stress clears at the end of the scene.
+**Stress** represents near-misses and minor hits. You have two stress tracks—**physical** (3 boxes) and **mental** (3 boxes). Each box absorbs 1 shift; check as many as needed. Physical attacks hit the physical track; mental attacks (Provoke) hit the mental track. Stress clears at the end of the scene.
 
 **Consequences** are lasting injuries represented as aspects:
 
