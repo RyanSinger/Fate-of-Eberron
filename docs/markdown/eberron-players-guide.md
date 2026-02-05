@@ -74,13 +74,13 @@ If a skill appears in multiple modes, it's **reinforced**—you take the highest
 >
 > In Cyran mode (1 point), she makes Will focused (1 point).
 >
-> Fight appears only in Soldier at Good +3, plus Specialized +2 = +5, capped at Great (+4).
+> Fight appears only in Soldier at Good +3, plus Specialized +2 = Superb (+5), exactly at the cap.
 >
-> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = +4. Criminal gives Fair +2 plus Trained +0 = +2. She takes the higher (+4) and adds +1 for reinforcement = +5, capped at Great (+4).
+> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = +4. Criminal gives Fair +2 plus Trained +0 = +2. She takes the higher (+4) and adds +1 for reinforcement = Superb (+5), exactly at the cap.
 >
-> Her final Fight and Athletics are both Great (+4).
+> Her final Fight and Athletics are both Superb (+5).
 
-**Skill Cap**: No skill can exceed Great (+4) at character creation.
+**Skill Cap**: No skill can exceed Superb (+5) at character creation.
 
 ### The Modes
 
@@ -100,6 +100,10 @@ You hail from the nation of knowledge and magic.
 
 *Suggested Aspects*: *Arcanix Graduate*, *Aundairian Patriot*, *The Right Wine for Every Occasion*
 
+*Suggested Stunts*:
+- **Arcane Education**: Because I studied at Arcanix, I get +2 to Lore when identifying magical effects or artifacts.
+- **Courtly Graces**: Because I was raised in Aundairian society, I can use Rapport instead of Deceive when navigating high society.
+
 ### Brelish
 
 You're from the diverse, progressive nation of Breland.
@@ -107,6 +111,10 @@ You're from the diverse, progressive nation of Breland.
 **Skills**: Contacts, Crafts, Deceive, Investigate, Resources
 
 *Suggested Aspects*: *Sharn Street Smart*, *Brelish Pragmatist*, *I Know a Guy*
+
+*Suggested Stunts*:
+- **I Know a Guy**: Because I have connections everywhere, I get +2 to Contacts when looking for someone who can help with a specific problem.
+- **Sharn Native**: Because I know Sharn's vertical geography, I can use Investigate instead of Athletics when navigating the city's towers and lifts.
 
 ### Cyran
 
@@ -116,6 +124,10 @@ You survived the destruction of your homeland. Cyre is gone, but you remain.
 
 *Suggested Aspects*: *Survivor of the Mourning*, *Cyre Lives in Me*, *I've Lost Everything Once Already*
 
+*Suggested Stunts*:
+- **Nothing Left to Lose**: Because I survived the Mourning, I get +2 to Will when resisting fear or intimidation.
+- **Cyran Solidarity**: Because refugees look out for each other, I get +2 to Rapport when dealing with fellow Cyran survivors.
+
 ### Karrnathi
 
 You come from the militaristic nation that used undead soldiers in the war.
@@ -124,6 +136,10 @@ You come from the militaristic nation that used undead soldiers in the war.
 
 *Suggested Aspects*: *Karrnathi Discipline*, *The Dead Served Beside Me*, *Cold as Karrnath*
 
+*Suggested Stunts*:
+- **Karrnathi Discipline**: Because I was raised with military precision, I get +2 to Will when resisting mental influence or distraction.
+- **Unflinching**: Because I fought alongside the undead, I can use Provoke instead of Will to resist fear caused by undead or horror.
+
 ### Thrane
 
 You were raised in the theocracy devoted to the Silver Flame.
@@ -131,6 +147,10 @@ You were raised in the theocracy devoted to the Silver Flame.
 **Skills**: Academics, Empathy, Lore, Provoke, Will
 
 *Suggested Aspects*: *Servant of the Silver Flame*, *Zealous but Righteous*, *The Flame Guides My Path*
+
+*Suggested Stunts*:
+- **Flame's Judgment**: Because I speak with the authority of the Silver Flame, I get +2 to Provoke when confronting those who serve darkness.
+- **Sense Corruption**: Because the Flame guides me, I get +2 to Empathy when detecting lies or evil intent.
 
 ### Warforged
 
@@ -142,6 +162,10 @@ You were built for war. Now you must find your own purpose.
 
 *Suggested Aspects*: *Built for War, Made for Peace*, *What Is My Purpose?*, *I Remember Every Battle*
 
+*Suggested Stunts*:
+- **Integrated Weapon**: Because I was built with a weapon, I get +2 to Fight when using my integrated blade or tool.
+- **Tireless Sentinel**: Because I don't sleep, I can use Notice instead of Will to stay alert during long watches or resist fatigue.
+
 ### Changeling
 
 You can shift your appearance at will.
@@ -151,6 +175,10 @@ You can shift your appearance at will.
 *Special*: You can change your appearance to any humanoid form you've studied. This is a narrative truth—you don't need to roll to change shape, but you might roll Deceive to maintain a persona under scrutiny.
 
 *Suggested Aspects*: *Many Faces, One Truth*, *Persona: [Name]*, *They Fear What They Don't Understand*
+
+*Suggested Stunts*:
+- **Perfect Mimic**: Because I can copy anyone, I get +2 to Deceive when impersonating a specific person I've studied.
+- **Read the Room**: Because I've learned to adapt to any social situation, I can use Empathy instead of Notice to detect social dangers or opportunities.
 
 ### Shifter
 
@@ -162,6 +190,10 @@ You carry lycanthropic heritage and can briefly shift to a more bestial form.
 
 *Suggested Aspects*: *The Beast Within*, *Weretouched Heritage*, *Pack Loyalty*
 
+*Suggested Stunts*:
+- **Predator's Senses**: Because of my bestial nature, I get +2 to Notice when tracking by scent or hunting prey.
+- **Feral Instincts**: Because I trust my animal instincts, I can use Empathy instead of Notice to sense danger or ambushes.
+
 ### Kalashtar
 
 You are bonded with a spirit from the plane of dreams.
@@ -171,6 +203,10 @@ You are bonded with a spirit from the plane of dreams.
 *Special*: You have innate psychic abilities. You can communicate telepathically with willing creatures you can see. You don't dream normally—you share a connection to Dal Quor that the Dreaming Dark would love to exploit.
 
 *Suggested Aspects*: *Two Souls, One Body*, *Hunted by the Dreaming Dark*, *Serenity Amid Chaos*
+
+*Suggested Stunts*:
+- **Psychic Shield**: Because my spirit protects my mind, I get +2 to Will when defending against mental attacks or intrusion.
+- **Dream Sight**: Because I perceive through two sets of senses, I can use Empathy instead of Notice to detect psychic or supernatural presences.
 
 ---
 
@@ -186,6 +222,10 @@ You served in the Last War.
 
 *Suggested Aspects*: *Hundred-Year War Veteran*, *I've Seen Things*, *Brothers and Sisters in Arms*
 
+*Suggested Stunts*:
+- **Combat Reflexes**: Because I've been in countless battles, I get +2 to Notice when rolling for initiative in a conflict.
+- **Battlefield Awareness**: Because I'm trained to read the flow of combat, I can use Fight instead of Notice to spot tactical opportunities or dangers.
+
 ### Criminal
 
 You operated outside the law.
@@ -193,6 +233,10 @@ You operated outside the law.
 **Skills**: Burglary, Contacts, Deceive, Stealth, Notice
 
 *Suggested Aspects*: *Boromar Clan Connections*, *I Know Every Back Alley in Sharn*, *Honor Among Thieves*
+
+*Suggested Stunts*:
+- **Case the Joint**: Because I know how to spot vulnerabilities, I get +2 to Notice when looking for security weaknesses or escape routes.
+- **Underworld Contacts**: Because I know the criminal element, I can use Contacts instead of Investigate when gathering information about illegal activities.
 
 ### Scholar
 
@@ -202,6 +246,10 @@ You pursued knowledge at a university or library.
 
 *Suggested Aspects*: *Morgrave University Researcher*, *Knowledge Is Worth Any Price*, *I Read About This Once*
 
+*Suggested Stunts*:
+- **I Read About This**: Because I've studied widely, I get +2 to Academics when recalling relevant historical or cultural information.
+- **Research Expert**: Because I know how to find information, I can use Academics instead of Investigate when searching through documents or archives.
+
 ### Noble
 
 You were born into privilege.
@@ -209,6 +257,10 @@ You were born into privilege.
 **Skills**: Contacts, Deceive, Empathy, Rapport, Resources
 
 *Suggested Aspects*: *ir'[Name] Family Scion*, *Noblesse Oblige*, *I Know Everyone Who Matters*
+
+*Suggested Stunts*:
+- **Noble Bearing**: Because I carry myself like the noble I am, I get +2 to Rapport when first impressions matter.
+- **Call in a Favor**: Because I have powerful connections, I can use Contacts instead of Resources when acquiring something through social leverage.
 
 ### Entertainer
 
@@ -218,6 +270,10 @@ You performed for crowds—or for marks.
 
 *Suggested Aspects*: *House Phiarlan Performer*, *The Show Must Go On*, *Everyone Loves to Watch*
 
+*Suggested Stunts*:
+- **Captivate the Crowd**: Because I know how to hold an audience, I get +2 to Rapport when performing or giving a speech.
+- **Read the Audience**: Because I've learned to sense what people want, I can use Empathy instead of Deceive to figure out what lie someone wants to hear.
+
 ### Outlander
 
 You grew up far from civilization.
@@ -226,6 +282,10 @@ You grew up far from civilization.
 
 *Suggested Aspects*: *Eldeen Reaches Druid's Apprentice*, *The Wild Is My Home*, *Civilization Is the True Wilderness*
 
+*Suggested Stunts*:
+- **Wilderness Survival**: Because I grew up in the wild, I get +2 to Crafts when foraging, building shelter, or surviving in nature.
+- **One with Nature**: Because I understand the natural world, I can use Notice instead of Empathy when reading the behavior of animals.
+
 ### Street Urchin
 
 You survived on the streets.
@@ -233,6 +293,10 @@ You survived on the streets.
 **Skills**: Athletics, Burglary, Notice, Stealth, Will
 
 *Suggested Aspects*: *Lower Menthis Survivor*, *Nobody Sees the Beggars*, *I've Been Hungry Before*
+
+*Suggested Stunts*:
+- **Slip Away**: Because I've escaped trouble my whole life, I get +2 to Athletics when fleeing or escaping pursuit.
+- **Invisible in Plain Sight**: Because nobody notices the poor, I can use Stealth instead of Deceive when blending into crowds or being overlooked.
 
 ### Dragonmarked Heir
 
@@ -243,6 +307,10 @@ You carry a dragonmark and were raised in a House.
 *Special*: You should also take a dragonmark aspect and may take dragonmark stunts (see the Dragonmarks section).
 
 *Suggested Aspects*: *Heir to House [Name]*, *The Mark Chose Me*, *House Politics Are Cutthroat*
+
+*Suggested Stunts*:
+- **House Connections**: Because I was raised in a dragonmarked house, I get +2 to Contacts when dealing with house members or house business.
+- **Mark Lore**: Because I was taught about dragonmarks, I get +2 to Lore when recalling information about dragonmarks, their history, or their powers.
 
 ---
 
@@ -258,6 +326,10 @@ You solve mysteries and find the truth.
 
 *Suggested Aspects*: *Private Eye for Hire*, *The Truth Is Always Complicated*, *I Notice Things*
 
+*Suggested Stunts*:
+- **Crime Scene Expert**: Because I've investigated hundreds of cases, I get +2 to Investigate when examining a location where a crime occurred.
+- **Read Between the Lines**: Because I know when people are hiding something, I can use Investigate instead of Empathy to detect lies during an interview.
+
 ### Artificer
 
 You create and repair magical devices.
@@ -267,6 +339,10 @@ You create and repair magical devices.
 *Special*: You can use the Invention rules to create magical items (see Magic and Artifice).
 
 *Suggested Aspects*: *If I Can't Fix It, It Can't Be Fixed*, *Magic Is Just Engineering*, *My Workshop Is My Temple*
+
+*Suggested Stunts*:
+- **Jury-Rig**: Because I can make anything work, I get +2 to Crafts when making emergency repairs under time pressure.
+- **Analyze Device**: Because I understand how things work, I can use Crafts instead of Investigate when examining magical or mechanical devices.
 
 ### Mage
 
@@ -278,6 +354,10 @@ You study and wield arcane power.
 
 *Suggested Aspects*: *Aundairian War Mage*, *Morgrave Arcanist*, *Magic Flows Through Me*
 
+*Suggested Stunts*:
+- **Arcane Shield**: Because I can conjure protective wards, I can use Will instead of Athletics to defend against magical attacks.
+- **Identify Magic**: Because I'm trained in the arcane arts, I get +2 to Lore when analyzing spells, enchantments, or magical phenomena.
+
 ### Priest
 
 You serve a faith and channel divine power.
@@ -288,6 +368,10 @@ You serve a faith and channel divine power.
 
 *Suggested Aspects*: *Vassal of the Sovereign Host*, *The Silver Flame Burns Within*, *Undying Court's Chosen*
 
+*Suggested Stunts*:
+- **Words of Comfort**: Because I speak with spiritual authority, I get +2 to Rapport when calming the frightened or grieving.
+- **Shield of Faith**: Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks.
+
 ### Warrior
 
 You excel at combat.
@@ -295,6 +379,10 @@ You excel at combat.
 **Skills**: Athletics, Fight, Notice, Physique, Shoot
 
 *Suggested Aspects*: *Blade for Hire*, *The Best Defense Is a Good Offense*, *I Don't Start Fights, I Finish Them*
+
+*Suggested Stunts*:
+- **Signature Weapon**: Because I've mastered my weapon of choice, I get +2 to Fight when using [specific weapon type].
+- **Combat Assessment**: Because I know how to read a fight, I can use Fight instead of Empathy to gauge an opponent's skill and intentions.
 
 ### Face
 
@@ -304,6 +392,10 @@ You're the one who does the talking.
 
 *Suggested Aspects*: *I Can Talk My Way Out of Anything*, *Everyone's Got a Price*, *A Smile Is Just Another Weapon*
 
+*Suggested Stunts*:
+- **Silver Tongue**: Because I always know what to say, I get +2 to Rapport when negotiating or making deals.
+- **Cutting Remark**: Because I know how to hurt with words, I can use Provoke instead of Fight to make mental attacks in social conflicts.
+
 ### Spy
 
 You gather information and work in shadows.
@@ -311,6 +403,10 @@ You gather information and work in shadows.
 **Skills**: Burglary, Deceive, Investigate, Notice, Stealth
 
 *Suggested Aspects*: *King's Dark Lantern*, *Trust No One*, *I Was Never Here*
+
+*Suggested Stunts*:
+- **Dead Drop**: Because I know tradecraft, I get +2 to Stealth when passing messages or items without being observed.
+- **Cover Identity**: Because I maintain false personas, I can use Deceive instead of Contacts when leveraging a cover identity's network.
 
 ### Explorer
 
@@ -320,6 +416,10 @@ You venture into dangerous places seeking treasure and knowledge.
 
 *Suggested Aspects*: *Xen'drik Expedition Veteran*, *Fortune Favors the Bold*, *Every Ruin Has Secrets*
 
+*Suggested Stunts*:
+- **Trap Sense**: Because I've survived countless ruins, I get +2 to Notice when detecting traps or hazards.
+- **Ancient Languages**: Because I've studied dead civilizations, I can use Lore instead of Academics when deciphering ancient writings or symbols.
+
 ### Pilot
 
 You operate airships, lightning rails, or other vehicles.
@@ -327,6 +427,62 @@ You operate airships, lightning rails, or other vehicles.
 **Skills**: Athletics, Crafts, Drive, Notice, Will
 
 *Suggested Aspects*: *Lyrandar Airship Captain*, *I Can Fly Anything*, *The Sky Is My Home*
+
+*Suggested Stunts*:
+- **Evasive Maneuvers**: Because I'm an expert pilot, I get +2 to Drive when defending my vehicle against attacks or hazards.
+- **Feel the Machine**: Because I understand my vehicle intimately, I can use Drive instead of Crafts to diagnose mechanical problems while in operation.
+
+### Creating Custom Modes
+
+If no existing mode fits your concept, create your own.
+
+**Step 1: Name and Concept**
+
+Give your mode a name that captures its essence. A mode represents a coherent set of capabilities—what someone *is*, *was*, or *does*.
+
+**Step 2: Choose 5 Skills**
+
+Pick 5 skills that make sense for the mode. The skills should hang together thematically.
+
+- Think about what someone with this mode would be good at
+- Include at least one "active" skill (Fight, Shoot, Athletics) and one "social" or "mental" skill for breadth
+- Avoid modes that are just "5 combat skills" or "5 social skills"—that's min-maxing, not a character concept
+
+**Step 3: Add Flavor**
+
+Write 2-3 suggested aspects and 2 suggested stunts that fit the mode. This helps communicate what the mode is about and gives players a starting point.
+
+> **Example Custom Mode: Morgrave Scholar**
+>
+> You study ancient history and lost civilizations at Morgrave University.
+>
+> **Skills**: Academics, Contacts, Investigate, Lore, Resources
+>
+> *Suggested Aspects*: *Morgrave University Professor*, *I've Read About This*, *Academic Rivals Are the Worst*
+>
+> *Suggested Stunts*:
+> - **Expedition Contacts**: Because I've funded digs across Xen'drik, I get +2 to Contacts when dealing with explorers or antiquarians.
+> - **Appraise Artifact**: Because I know relics, I can use Lore instead of Resources to determine an artifact's value.
+
+> **Example Custom Mode: Daask Enforcer**
+>
+> You work for the monstrous crime syndicate.
+>
+> **Skills**: Athletics, Fight, Provoke, Notice, Physique
+>
+> *Suggested Aspects*: *Droaam's Reach in Sharn*, *Fear Is a Tool*, *Monster Among Humans*
+>
+> *Suggested Stunts*:
+> - **Monstrous Reputation**: Because Daask is feared, I get +2 to Provoke when intimidating through threat of violence.
+> - **Droaam Tough**: Because I was raised among monsters, I can use Physique instead of Will to resist fear or intimidation.
+
+**For GMs: Quick NPC Modes**
+
+When building NPCs, you can create modes on the fly. A mode is just "5 skills that make sense together." Don't overthink it.
+
+- **Sharn Watch Guard**: Athletics, Fight, Notice, Physique, Shoot
+- **Boromar Smuggler**: Burglary, Contacts, Deceive, Notice, Stealth
+- **Emerald Claw Knight**: Athletics, Fight, Lore, Physique, Will
 
 ---
 
@@ -479,7 +635,7 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 **Wind's Favor**: Because of my Mark of Storm, I get +2 to Drive when piloting airships or sailing vessels.
 
-**Call Lightning**: Because of my Mark of Storm, once per session I can call down a lightning strike as a Shoot attack using Will, but only outdoors.
+**Call Lightning**: Because of my Mark of Storm, I can use Will to make a Shoot attack by calling down lightning, but only outdoors.
 
 ### Mark of Warding (House Kundarak)
 
@@ -607,6 +763,16 @@ Earn fate points when:
 - **Attack**: Harm someone
 - **Defend**: Avoid attacks or advantages
 
+### Zone Attacks
+
+When you want to attack everyone in a zone—whether through a fireball, explosive, or sweeping area effect—you can spend an invoke (a free invoke or a fate point) to target the entire zone instead of taking the usual +2 bonus.
+
+Roll your attack once. Every valid target in the zone defends individually against your roll. You deal stress to each target based on how much you beat their defense.
+
+> **Example**: Jak throws an alchemical bomb into a room with three Daask thugs. He has a free invoke on *Volatile Mixture* from creating the bomb last turn. Instead of using that invoke for +2, he spends it to make the attack hit everyone in the zone.
+>
+> He rolls Shoot and gets +4. The thugs defend with Athletics: +2, +1, and +3. Jak deals 2 stress to the first, 3 stress to the second, and 1 stress to the third.
+
 ### Stress and Consequences
 
 When you take harm, check stress boxes or take consequences:
@@ -664,19 +830,17 @@ From the modes, here's the complete skill list:
 - Cyran (Average +1): Will (Focused)
 
 **Skills**:
-- Fight: Great (+4) — Soldier +3, Specialized +2, capped
-- Athletics: Great (+4) — Soldier +3, Focused +1, reinforced by Criminal +1, capped
+- Fight: Superb (+5) — Soldier +3, Specialized +2
+- Athletics: Great (+4) — Soldier +3, Focused +1
 - Notice: Good (+3) — Soldier +3, trained
-- Rapport: Good (+3) — Noble +2, Focused +1
-- Contacts: Good (+3) — Noble +2, Focused +1
-- Will: Fair (+2) — Cyran +1, Focused +1
 - Physique: Good (+3) — Soldier +3, trained
 - Shoot: Good (+3) — Soldier +3, trained
-- Stealth: Good (+3) — Criminal +2, Focused +1
-- Burglary: Good (+3) — Criminal +2, Focused +1
+- Rapport: Good (+3) — Noble +2, Focused +1
+- Contacts: Good (+3) — Noble +2, Focused +1
 - Empathy: Fair (+2) — Noble +2, trained
 - Resources: Fair (+2) — Noble +2, trained
 - Deceive: Fair (+2) — Noble +2, trained
+- Will: Fair (+2) — Cyran +1, Focused +1
 - Lore: Average (+1) — Cyran +1, trained
 
 **Stunts**:
