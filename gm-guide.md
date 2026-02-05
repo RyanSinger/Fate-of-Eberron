@@ -116,6 +116,48 @@ Common topics to discuss: torture, violence against children, mind control and p
 
 ---
 
+## Scale
+
+Eberron features dramatic power differentials—ancient dragons, daelkyr, and overlords operate on a completely different level than mortal adventurers. **Scale** is a tool for modeling this in your NPC designs.
+
+Scale isn't something PCs have or earn. It's purely a GM tool for creating adversaries whose power transcends normal skill ratings.
+
+### Scale Levels
+
+| Scale | Eberron Examples |
+|-------|------------------|
+| Mundane | Commoners, magewrights, typical guards |
+| Supernatural | Experienced adventurers, young dragons, lesser fiends |
+| Otherworldly | Adult dragons, rakshasa, daelkyr lieutenants |
+| Legendary | Ancient dragons, daelkyr, the Undying Court |
+| Godlike | Overlords, the Voice of Siberys, Lady Illmarrow at full power |
+
+### Using Scale
+
+When an NPC has scale above Mundane, they gain **one benefit per level of difference** when acting against Mundane opponents:
+
+- **+1 before rolling** (representing raw superiority)
+- **+2 after rolling** if already successful (representing overwhelming force)
+- **One additional free invoke** when creating advantages (representing tactical dominance)
+
+Choose the same benefit multiple times or mix them. A Legendary dragon (3 steps above Mundane) might take +3 before rolling, or +1 before and +2 after, or any combination.
+
+### Scale in Practice
+
+**Scale makes certain fights unwinnable through direct confrontation.** That's intentional. If the PCs pick a straight fight with an overlord, they should lose. Scale models the narrative truth that some enemies require preparation, artifacts, clever plans, or dramatic sacrifice to defeat.
+
+**Use scale sparingly.** Most adversaries—even powerful ones—don't need it. A crime lord, a corrupt noble, or even a mid-level dragon can be modeled with high skills and good stunts. Reserve scale for truly mythic entities.
+
+**Scale can be situational.** A dragon is Legendary in physical combat but might be merely Supernatural in a battle of wits. An overlord is Godlike when manifested but perhaps only Otherworldly when working through agents.
+
+**Scale can be neutralized.** The *Silver Flame* might grant temporary scale against fiends. An artifact forged in the Prophecy might let mortals fight a dragon as equals. Discovering how to neutralize an enemy's scale advantage can be an entire adventure arc.
+
+> **Example**: The party confronts Mordakhesh the Shadowsword, a rakshasa prakhutu (Otherworldly—2 steps above Mundane). In combat, he takes +2 before every roll. The PCs' best fighter has Great (+4) Fight, but Mordakhesh's Good (+3) effectively becomes Superb (+5).
+>
+> Direct combat is suicidal. The party needs another approach: finding his true name, securing a Khyber dragonshard that binds him, or calling in a favor from the Chamber.
+
+---
+
 ## Building Adversaries
 
 There are two approaches to creating NPCs:

@@ -958,6 +958,14 @@ To attack everyone in a zone, spend an invoke (a free invoke or fate point) inst
 - **Create advantages**: Set up aspects with free invokes your allies can use.
 - **Invoke for allies**: Spend fate points to add +2 to someone else's roll.
 
+#### Full Defense
+
+Instead of taking an action on your turn, you can focus entirely on defense. Declare what you're defending against (melee attacks, ranged attacks, a specific opponent, etc.) and gain **+2 to all defend rolls** against that focus until your next turn.
+
+If you don't make any defend rolls before your next turn, you gain a **boost** as compensation—you've positioned yourself advantageously.
+
+> **Example**: Surrounded by Emerald Claw soldiers, Tira forgoes her attack and declares Full Defense against melee attacks. She gains +2 to all Fight defenses until her next turn. If somehow no one attacks her in melee, she gains a boost like *Perfect Guard Stance*.
+
 ### Stress and Consequences
 
 When you take harm, absorb it with **stress** and **consequences**:
