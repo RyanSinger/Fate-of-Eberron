@@ -11,6 +11,26 @@ This document works alongside the **Eberron Setting Guide** (for world lore) and
 
 ---
 
+## What Is Fate?
+
+Fate is a tabletop roleplaying game that focuses on collaborative storytelling. If you've played other RPGs like D&D or Pathfinder, you'll find Fate familiar but different in some key ways:
+
+**Characters are defined by who they are, not what they have.** Your character's aspects—short phrases describing who they are—matter more than equipment lists or spell slots. A *Cynical War Veteran* plays differently than a *Wide-Eyed Morgrave Scholar*, regardless of their skill ratings.
+
+**The dice suggest outcomes; they don't dictate them.** When you roll, the result tells you whether you succeed, fail, or something in between—but you and the GM work together to decide what that looks like in the story.
+
+**Players have narrative authority.** You can spend fate points to add details to the world, not just bonuses to rolls. If your aspect says you're *Connected to the Boromar Clan*, you can declare that you know a guy in this district.
+
+**Failure is interesting, not punishing.** Bad rolls don't mean "nothing happens." They mean complications, twists, and costs. The story keeps moving.
+
+To play, you'll need:
+- **Fate dice** (four six-sided dice with +, −, and blank faces) or regular dice (1-2 = −, 3-4 = blank, 5-6 = +)
+- **Fate points** (tokens, coins, or poker chips)
+- **Index cards** for aspects
+- **Character sheets**
+
+---
+
 ## What You Need to Know
 
 Eberron is a world of pulp adventure, noir intrigue, and magical technology. The Last War ended two years ago, leaving the continent of Khorvaire scarred and uneasy. Your character lives in this world of airships and ancient ruins, dragonmarked houses and political conspiracies.
@@ -103,7 +123,7 @@ These modes reflect where you come from or what you fundamentally are.
 
 You hail from the nation of knowledge and magic.
 
-**Skills**: Academics, Contacts, Deceive, Lore, Rapport
+**Skills**: Contacts, Deceive, Investigate, Lore, Rapport
 
 *Suggested Aspects*: *Arcanix Graduate*, *Aundairian Patriot*, *The Right Wine for Every Occasion*
 
@@ -151,7 +171,7 @@ You come from the militaristic nation that used undead soldiers in the war.
 
 You were raised in the theocracy devoted to the Silver Flame.
 
-**Skills**: Academics, Empathy, Lore, Provoke, Will
+**Skills**: Empathy, Lore, Notice, Provoke, Will
 
 *Suggested Aspects*: *Servant of the Silver Flame*, *Zealous but Righteous*, *The Flame Guides My Path*
 
@@ -251,13 +271,13 @@ You operated outside the law.
 
 You pursued knowledge at a university or library.
 
-**Skills**: Academics, Investigate, Lore, Notice, Will
+**Skills**: Contacts, Investigate, Lore, Notice, Will
 
 *Suggested Aspects*: *Morgrave University Researcher*, *Knowledge Is Worth Any Price*, *I Read About This Once*
 
 *Suggested Stunts*:
-- **I Read About This**: Because I've studied widely, I get +2 to Academics when recalling relevant historical or cultural information.
-- **Research Expert**: Because I know how to find information, I can use Academics instead of Investigate when searching through documents or archives.
+- **I Read About This**: Because I've studied widely, I get +2 to Lore when recalling relevant historical or cultural information.
+- **Research Expert**: Because I know how to dig through archives, I get +2 to Investigate when searching documents, libraries, or records.
 
 ### Noble
 
@@ -343,7 +363,7 @@ You solve mysteries and find the truth.
 
 You create and repair magical devices.
 
-**Skills**: Academics, Crafts, Investigate, Lore, Resources
+**Skills**: Crafts, Investigate, Lore, Notice, Resources
 
 *Special*: You can use the Invention rules to create magical items (see Magic and Artifice).
 
@@ -357,7 +377,7 @@ You create and repair magical devices.
 
 You study and wield arcane power.
 
-**Skills**: Academics, Investigate, Lore, Notice, Will
+**Skills**: Investigate, Lore, Notice, Will, Empathy
 
 *Special*: You should take an aspect reflecting your magical training (see Magic and Artifice).
 
@@ -371,7 +391,7 @@ You study and wield arcane power.
 
 You serve a faith and channel divine power.
 
-**Skills**: Academics, Empathy, Lore, Rapport, Will
+**Skills**: Empathy, Lore, Notice, Rapport, Will
 
 *Special*: Your faith grants narrative permission to invoke divine aid.
 
@@ -427,7 +447,7 @@ You venture into dangerous places seeking treasure and knowledge.
 
 *Suggested Stunts*:
 - **Trap Sense**: Because I've survived countless ruins, I get +2 to Notice when detecting traps or hazards.
-- **Ancient Languages**: Because I've studied dead civilizations, I can use Lore instead of Academics when deciphering ancient writings or symbols.
+- **Ancient Languages**: Because I've studied dead civilizations, I get +2 to Lore when deciphering ancient writings, symbols, or languages.
 
 ### Pilot
 
@@ -465,7 +485,7 @@ Write 2-3 suggested aspects and 2 suggested stunts that fit the mode. This helps
 >
 > You study ancient history and lost civilizations at Morgrave University.
 >
-> **Skills**: Academics, Contacts, Investigate, Lore, Resources
+> **Skills**: Contacts, Investigate, Lore, Notice, Resources
 >
 > *Suggested Aspects*: *Morgrave University Professor*, *I've Read About This*, *Academic Rivals Are the Worst*
 >
@@ -680,7 +700,7 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 
 1. **The GM describes the problem** and sets the difficulty (the number of aspects needed to solve it, typically 2-4).
 
-2. **Players take turns** suggesting approaches and rolling relevant skills (usually Lore, Academics, or Investigate). Success creates a **solution aspect** that addresses part of the problem.
+2. **Players take turns** suggesting approaches and rolling relevant skills (usually Lore or Investigate). Success creates a **solution aspect** that addresses part of the problem.
 
 3. **Each aspect** represents a piece of the puzzle. Once enough aspects are created, the problem is solved.
 
@@ -985,7 +1005,7 @@ The attacker gets one free invoke on any consequence they inflict.
 
 #### Treatment and Recovery
 
-Consequences require treatment before they can begin healing. Roll an appropriate skill (Academics for physical injuries, Empathy for mental ones) against:
+Consequences require treatment before they can begin healing. Roll an appropriate skill (Lore for physical injuries, Empathy for mental ones) against:
 - Mild: Fair (+2)
 - Moderate: Great (+4)
 - Severe: Fantastic (+6)
@@ -1136,7 +1156,6 @@ From the modes, here's the complete skill list:
 
 | Skill | Use |
 |-------|-----|
-| **Academics** | Education, history, sciences, medicine |
 | **Athletics** | Running, jumping, dodging |
 | **Burglary** | Picking locks, bypassing security, theft |
 | **Contacts** | Knowing people, gathering information socially |
@@ -1145,8 +1164,8 @@ From the modes, here's the complete skill list:
 | **Drive** | Operating vehicles—airships, lightning rails, carts |
 | **Empathy** | Reading people, detecting lies |
 | **Fight** | Hand-to-hand combat |
-| **Investigate** | Examining evidence, solving puzzles |
-| **Lore** | Arcane knowledge, supernatural topics |
+| **Investigate** | Examining evidence, solving puzzles, research |
+| **Lore** | Knowledge—history, magic, religion, medicine, sciences |
 | **Notice** | Perception, spotting details |
 | **Physique** | Strength, endurance, physical stress |
 | **Provoke** | Intimidation, goading, scaring |
@@ -1214,25 +1233,25 @@ FREE ASPECT: __________________________________________
 
 MODES                           SKILLS
 ________________________        ________________________
-Mode 1: __________ (+___)       Academics      [   ]
-  Specialized: ____________     Athletics      [   ]
-  Focused: ________________     Burglary       [   ]
+Mode 1: __________ (+___)       Athletics      [   ]
+  Specialized: ____________     Burglary       [   ]
   Focused: ________________     Contacts       [   ]
-                                Crafts         [   ]
-Mode 2: __________ (+___)       Deceive        [   ]
-  Focused: ________________     Drive          [   ]
+  Focused: ________________     Crafts         [   ]
+                                Deceive        [   ]
+Mode 2: __________ (+___)       Drive          [   ]
   Focused: ________________     Empathy        [   ]
-                                Fight          [   ]
-Mode 3: __________ (+___)       Investigate    [   ]
-  Focused: ________________     Lore           [   ]
-                                Notice         [   ]
+  Focused: ________________     Fight          [   ]
+                                Investigate    [   ]
+Mode 3: __________ (+___)       Lore           [   ]
+  Focused: ________________     Notice         [   ]
                                 Physique       [   ]
-STUNTS                          Provoke        [   ]
-1. ________________________     Rapport        [   ]
-   ________________________     Resources      [   ]
-                                Shoot          [   ]
-2. ________________________     Stealth        [   ]
-   ________________________     Will           [   ]
+                                Provoke        [   ]
+STUNTS                          Rapport        [   ]
+1. ________________________     Resources      [   ]
+   ________________________     Shoot          [   ]
+                                Stealth        [   ]
+2. ________________________     Will           [   ]
+   ________________________
 
 3. ________________________
    ________________________
