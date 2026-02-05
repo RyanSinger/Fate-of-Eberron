@@ -57,6 +57,22 @@ Use zones aggressively. Create environmental hazards. Let players destroy the sc
 
 ---
 
+## Your Fate Points
+
+As GM, you have your own pool of fate points to use for NPCs.
+
+**Starting Each Scene**: You begin each scene with fate points equal to the number of PCs. If a major NPC or boss previously conceded a conflict, or if the PCs invoked aspects against them in earlier scenes, add those fate points to your pool. Unspent fate points from compels in the previous scene also carry over.
+
+**Spending Fate Points**: You spend fate points to invoke aspects for NPCs, refuse compels on NPCs, or activate NPC stunts that require spending. This works just like it does for players.
+
+**Compels Are Free**: You don't need to spend fate points to compel PC aspects—you have an unlimited supply for that purpose. Compels generate story and give players fate points. Use them liberally.
+
+**Earning Fate Points**: When PCs invoke aspects against your NPCs, when NPCs concede conflicts, or when certain stunts trigger, fate points flow to your reserve.
+
+> *In practice, don't stress too much about tracking this precisely. The goal is to ensure NPCs can invoke aspects when dramatically appropriate, while keeping compels flowing freely. If you're unsure, err on the side of letting the NPCs be competent—but not at the cost of fun.*
+
+---
+
 ## Building Adversaries
 
 The Fate Adversary Toolkit provides a framework for building opposition based on narrative role rather than power level. Choose adversary types based on the story function you need.
