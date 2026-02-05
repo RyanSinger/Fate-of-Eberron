@@ -782,6 +782,10 @@ Fate uses a ladder of adjectives and numbers to rate skills, difficulty, and res
 
 Player characters typically have skills ranging from Mediocre (+0) to Superb (+5).
 
+### Fiction First
+
+Before you pick up dice, describe what your character is doing. Your aspects and the situation determine what's possible—then you choose the appropriate skill and action. The fiction comes first; the mechanics follow.
+
 ### Rolling Dice
 
 When the outcome is uncertain, roll **4 Fate dice** (4dF). Each die shows +, −, or blank. Add the results to your skill rating.
@@ -857,6 +861,14 @@ Every roll produces one of four outcomes:
 
 </div>
 
+#### Which Skills Attack and Defend?
+
+| Type | Attack With | Defend With |
+|------|-------------|-------------|
+| Physical (melee) | Fight | Fight or Athletics |
+| Physical (ranged) | Shoot | Athletics |
+| Mental | Provoke | Will |
+
 ### Aspects and Fate Points
 
 **Aspects** are phrases that describe something important about a character, location, or situation. They are always true—if you have the aspect *Cybernetic Arm*, you have a cybernetic arm.
@@ -865,9 +877,11 @@ You start each session with fate points equal to your **refresh** (usually 3).
 
 **Spend fate points to:**
 
-- **Invoke an aspect** for +2 to your roll or a reroll. The aspect must be relevant. You can invoke multiple aspects on a single roll.
+- **Invoke an aspect** for +2 to your roll or a reroll. The aspect must be relevant. You can invoke multiple different aspects on a single roll, but you can't invoke the same aspect twice (unless using free invokes).
 - **Declare a story detail** based on an aspect. If you have *Sharn Street Smart*, you might declare you know a fence in this district.
 - **Refuse a compel** (costs 1 fate point).
+
+**The Bogus Rule**: Anyone at the table can challenge an invoke that seems like a stretch. If the group agrees it's bogus, pick a different aspect or don't invoke.
 
 **Earn fate points when:**
 
