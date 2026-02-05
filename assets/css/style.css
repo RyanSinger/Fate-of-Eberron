@@ -485,6 +485,70 @@ blockquote code,
   }
 }
 
+/* Action icons grid */
+.action-grid {
+  display: grid;
+  gap: var(--spacing-lg);
+  margin: var(--spacing-xl) 0;
+}
+
+@media (min-width: 600px) {
+  .action-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.action {
+  background: var(--bg-medium);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: var(--spacing-lg);
+  text-align: center;
+}
+
+.action-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto var(--spacing-md);
+  display: block;
+  filter: invert(1) opacity(0.8);
+}
+
+.action p {
+  margin: 0;
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+.action strong {
+  color: var(--accent-gold);
+}
+
+/* Fate dice display */
+.fate-dice {
+  background: var(--bg-medium);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: var(--spacing-lg);
+  margin: var(--spacing-xl) 0;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-lg);
+}
+
+.fate-die-icon {
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+  filter: invert(1) opacity(0.8);
+  margin: 0;
+  box-shadow: none;
+}
+
+.fate-dice p {
+  margin: 0;
+}
+
 /* Print styles */
 @media print {
   .site-nav,

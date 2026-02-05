@@ -767,10 +767,39 @@ Earn fate points when:
 
 ### The Four Actions
 
-- **Overcome**: Get past an obstacle
-- **Create an Advantage**: Create or discover an aspect
-- **Attack**: Harm someone
-- **Defend**: Avoid attacks or advantages
+<div class="action-grid">
+
+<div class="action">
+<img src="{{ '/images/icons/overcome.svg' | relative_url }}" alt="Overcome" class="action-icon">
+
+**Overcome**: Get past an obstacle, unlock a door, decipher a code, convince a guard. Roll vs. passive opposition or an active defender. Success means you achieve your goal.
+</div>
+
+<div class="action">
+<img src="{{ '/images/icons/create-advantage.svg' | relative_url }}" alt="Create an Advantage" class="action-icon">
+
+**Create an Advantage**: Discover or create an aspect. Research a target, take aim, find cover, cast a buff spell. Success creates an aspect with a free invoke.
+</div>
+
+<div class="action">
+<img src="{{ '/images/icons/attack.svg' | relative_url }}" alt="Attack" class="action-icon">
+
+**Attack**: Hurt someone physically or mentally. Roll vs. their defense. Success deals stress equal to the margin (shifts).
+</div>
+
+<div class="action">
+<img src="{{ '/images/icons/defend.svg' | relative_url }}" alt="Defend" class="action-icon">
+
+**Defend**: Block an attack or resist an advantage being created against you. A reaction, not a turn action.
+</div>
+
+</div>
+
+<div class="fate-dice">
+<img src="{{ '/images/icons/fate-die.svg' | relative_url }}" alt="Fate Die" class="fate-die-icon">
+
+**Fate Dice**: Roll 4dF (dice with +, −, and blank faces). Add the results to your skill. Average roll is +0; range is −4 to +4.
+</div>
 
 ### Zone Attacks
 
