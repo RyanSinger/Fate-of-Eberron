@@ -234,19 +234,13 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - *Electrical Sparks from the Wand*
 - *Ready for Them* [two free invokes]
 
-**GM**: Let's determine turn order. Roll Notice.
+**GM**: Alright, it's a conflict. You've got the free invokes from *Ready for Them*, so you can decide who acts first on your side. The assassins burst in expecting to surprise you—instead, you're waiting. Who wants to go first?
 
-*Everyone rolls:*
-- Vex: +4 (Great) + rolls +2 = **+6**
-- Kira: +3 (Good, Notice from Spy mode) + rolls +1 = **+4**
-- Half-elf (enemy leader): +3 + rolls +0 = **+3**
-- Kaela: +3 (Good, Notice from Soldier mode) + rolls -1 = **+2**
-- Brother Theron: +2 (Fair) + rolls +0 = **+2**
-- Thugs: +1 + rolls +0 = **+1**
-- Jak: +1 (Average) + rolls -1 = **+0**
-- Changeling: +2 + rolls -2 = **+0**
+> *In Fate Condensed, turn order is determined by the situation rather than dice rolls. The side with the advantage (here, the PCs with their ambush) typically acts first. Within a side, players decide among themselves who goes.*
 
-**GM**: Order is: Vex, Kira, half-elf, Kaela, Theron, thugs, Jak, changeling. Vex, you're up.
+**Vex's Player**: The changeling came through the same balcony where Molric was killed. I want them.
+
+**GM**: Vex goes first, then the rest of you can decide as we go. Vex, you're up.
 
 ---
 
