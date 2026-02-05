@@ -62,6 +62,8 @@ You get **improvement points** to spend within each mode:
 - **Fair mode**: 2 points
 - **Average mode**: 1 point
 
+That's **6 points total** across your three modes.
+
 Spend your points as follows:
 - **Focused** costs 1 point (+1 to skill)
 - **Specialized** costs 2 points (+2 to skill)
@@ -751,19 +753,50 @@ The invention can be invoked when relevant. Permanent items may cost refresh (GM
 
 ## Playing the Game
 
-### Aspects and Fate Points
+### The Ladder
 
-You start each session with fate points equal to your refresh (usually 3). Spend fate points to:
+Fate uses a ladder of adjectives and numbers to rate skills, difficulty, and results:
 
-- **Invoke an aspect** for +2 or a reroll
-- **Declare a story detail** based on an aspect
-- **Refuse a compel** (costs 1 fate point)
+| Rating | Adjective |
+|--------|-----------|
+| +8 | Legendary |
+| +7 | Epic |
+| +6 | Fantastic |
+| +5 | Superb |
+| +4 | Great |
+| +3 | Good |
+| +2 | Fair |
+| +1 | Average |
+| +0 | Mediocre |
+| -1 | Poor |
+| -2 | Terrible |
 
-Earn fate points when:
+Player characters typically have skills ranging from Mediocre (+0) to Superb (+5).
 
-- The GM **compels your aspect** to create complications
-- Another player **invokes your aspect against you**
-- You **concede a conflict**
+### Rolling Dice
+
+When the outcome is uncertain, roll **4 Fate dice** (4dF). Each die shows +, −, or blank. Add the results to your skill rating.
+
+<div class="fate-dice">
+<img src="{{ '/images/icons/fate-die.svg' | relative_url }}" alt="Fate Die" class="fate-die-icon">
+
+**Fate Dice**: The average roll is +0; the range is −4 to +4. Most rolls cluster around −1 to +1.
+</div>
+
+Compare your total to either:
+- **Passive opposition**: A difficulty number set by the GM based on the situation
+- **Active opposition**: An opponent's defensive roll
+
+The difference between your roll and the opposition is measured in **shifts**.
+
+### Four Outcomes
+
+Every roll produces one of four outcomes:
+
+- **Fail** (you rolled lower): You don't achieve your goal. The GM may offer success at a major cost, or introduce a complication.
+- **Tie** (you rolled equal): Partial success, or success at a minor cost. You get what you want, but there's a catch.
+- **Success** (you rolled 1-2 higher): You achieve your goal without complications.
+- **Success with Style** (you rolled 3+ higher): You achieve your goal and get an additional benefit—often a boost or extra effect.
 
 ### The Four Actions
 
@@ -772,58 +805,196 @@ Earn fate points when:
 <div class="action">
 <img src="{{ '/images/icons/overcome.svg' | relative_url }}" alt="Overcome" class="action-icon">
 
-**Overcome**: Get past an obstacle, unlock a door, decipher a code, convince a guard. Roll vs. passive opposition or an active defender. Success means you achieve your goal.
+**Overcome**: Get past an obstacle—unlock a door, decipher a code, convince a guard, climb a wall.
+
+- **Fail**: You don't succeed, or you succeed at a serious cost.
+- **Tie**: You succeed at a minor cost or achieve a lesser goal.
+- **Success**: You achieve your goal.
+- **Success with Style**: You achieve your goal and gain a boost.
 </div>
 
 <div class="action">
 <img src="{{ '/images/icons/create-advantage.svg' | relative_url }}" alt="Create an Advantage" class="action-icon">
 
-**Create an Advantage**: Discover or create an aspect. Research a target, take aim, find cover, cast a buff spell. Success creates an aspect with a free invoke.
+**Create an Advantage**: Make the situation work for you by creating or discovering an aspect.
+
+- **Fail**: You don't create the aspect, or you create it but an enemy gets the free invoke.
+- **Tie**: You get a boost (temporary aspect, one free invoke, disappears after use).
+- **Success**: You create a situation aspect with one free invoke.
+- **Success with Style**: You create a situation aspect with two free invokes.
 </div>
 
 <div class="action">
 <img src="{{ '/images/icons/attack.svg' | relative_url }}" alt="Attack" class="action-icon">
 
-**Attack**: Hurt someone physically or mentally. Roll vs. their defense. Success deals stress equal to the margin (shifts).
+**Attack**: Harm an opponent physically or mentally.
+
+- **Fail**: You don't hit, or your attack is ineffective.
+- **Tie**: You don't hit, but you gain a boost.
+- **Success**: You hit and deal shifts of stress equal to the difference.
+- **Success with Style**: You hit and deal stress; you may reduce damage by 1 to also gain a boost.
 </div>
 
 <div class="action">
 <img src="{{ '/images/icons/defend.svg' | relative_url }}" alt="Defend" class="action-icon">
 
-**Defend**: Block an attack or resist an advantage being created against you. A reaction, not a turn action.
+**Defend**: Block an attack, resist an advantage being created against you, or oppose someone's overcome attempt. Defense is a reaction, not a turn action.
+
+- **Fail**: You suffer the consequences of your opponent's success.
+- **Tie**: Varies based on what your opponent was doing.
+- **Success**: You avoid the attack or effect.
+- **Success with Style**: You avoid it and gain a boost against your attacker.
 </div>
 
 </div>
 
-<div class="fate-dice">
-<img src="{{ '/images/icons/fate-die.svg' | relative_url }}" alt="Fate Die" class="fate-die-icon">
+### Aspects and Fate Points
 
-**Fate Dice**: Roll 4dF (dice with +, −, and blank faces). Add the results to your skill. Average roll is +0; range is −4 to +4.
-</div>
+**Aspects** are phrases that describe something important about a character, location, or situation. They are always true—if you have the aspect *Cybernetic Arm*, you have a cybernetic arm.
 
-### Zone Attacks
+You start each session with fate points equal to your **refresh** (usually 3).
 
-When you want to attack everyone in a zone—whether through a fireball, explosive, or sweeping area effect—you can spend an invoke (a free invoke or a fate point) to target the entire zone instead of taking the usual +2 bonus.
+**Spend fate points to:**
 
-Roll your attack once. Every valid target in the zone defends individually against your roll. You deal stress to each target based on how much you beat their defense.
+- **Invoke an aspect** for +2 to your roll or a reroll. The aspect must be relevant. You can invoke multiple aspects on a single roll.
+- **Declare a story detail** based on an aspect. If you have *Sharn Street Smart*, you might declare you know a fence in this district.
+- **Refuse a compel** (costs 1 fate point).
 
-> **Example**: Jak throws an alchemical bomb into a room with three Daask thugs. He has a free invoke on *Volatile Mixture* from creating the bomb last turn. Instead of using that invoke for +2, he spends it to make the attack hit everyone in the zone.
->
-> He rolls Shoot and gets +4. The thugs defend with Athletics: +2, +1, and +3. Jak deals 2 stress to the first, 3 stress to the second, and 1 stress to the third.
+**Earn fate points when:**
+
+- The GM **compels your aspect** to create complications for you. You can refuse by paying a fate point.
+- Another player **invokes your aspect against you**.
+- You **concede a conflict**.
+
+### Challenges
+
+When the group faces a complicated situation that isn't a direct confrontation—like researching ancient texts, infiltrating a gala, or performing a complex ritual—use a **challenge**.
+
+The GM identifies the obstacles and assigns a skill and difficulty to each. Different characters can tackle different obstacles. Successes and failures accumulate to determine the overall outcome.
+
+> **Example**: The party needs to stop a Cult of the Dragon Below ritual. Theron attempts to disrupt the ritual chanting (Will vs. Great), Kira works to free the sacrificial victim (Burglary vs. Fair), and Vex holds off cultist reinforcements (Fight vs. Good). Their combined successes and failures shape how the scene resolves.
+
+### Contests
+
+When two or more sides race toward mutually exclusive goals without directly harming each other—a chase, a debate, a race to find a clue—use a **contest**.
+
+Each exchange, both sides roll an appropriate skill as an overcome action. The higher result scores a victory; success with style scores two victories. First to three victories wins. Ties create unexpected complications.
+
+> **Example**: Kira chases a Tyrant assassin across Sharn's towers. Each exchange, both roll Athletics. Kira scores a victory, then the assassin scores one. Kira gets success with style (two victories)—she's at three, she catches them.
+
+### Conflicts
+
+When characters can and want to harm each other—a fight, a heated argument, a psychic duel—use a **conflict**.
+
+#### Zones
+
+Space is divided into **zones**—discrete areas like "the tavern common room," "the balcony," or "the street outside." You can interact with anything in your zone. Moving to an adjacent zone is free unless something impedes you; impeded movement requires an overcome roll.
+
+#### Setting Up
+
+The GM establishes:
+- The zones and what's in them
+- Situation aspects (environmental features like *Dim Lighting*, *Crowded Dance Floor*, *Fifty-Foot Drop*)
+- Who's present and where
+
+#### Turn Order
+
+Fate uses **popcorn initiative**: the side with the advantage picks who goes first. After you act, you pick who goes next—from either side. Once everyone on your side has acted, you must pick someone from the other side. The last person in an exchange picks who starts the next exchange.
+
+#### Each Turn
+
+On your turn, you can:
+- Take one action (overcome, create advantage, or attack)
+- Move one zone (free if unimpeded)
+
+Defending is a reaction—you can defend as many times as you're attacked.
+
+#### Zone Attacks
+
+To attack everyone in a zone, spend an invoke (a free invoke or fate point) instead of taking the +2 bonus. Roll once; every target defends individually.
+
+> **Example**: Jak throws an alchemical bomb at three Daask thugs. He spends his free invoke on *Volatile Mixture* to hit the whole zone. He rolls Shoot and gets +4. The thugs defend with Athletics: +2, +1, +3. Jak deals 2, 3, and 1 stress respectively.
+
+#### Teamwork
+
+- **Combine skills**: The best character rolls; others with Average (+1) or better in the skill add +1 each (max bonus = lead character's skill rating).
+- **Create advantages**: Set up aspects with free invokes your allies can use.
+- **Invoke for allies**: Spend fate points to add +2 to someone else's roll.
 
 ### Stress and Consequences
 
-When you take harm, check stress boxes or take consequences:
+When you take harm, absorb it with **stress** and **consequences**:
 
-- **Stress**: 3 boxes (1 point each). Clears after scene.
-- **Mild Consequence** (2 shifts): Clears after one scene of rest
-- **Moderate Consequence** (4 shifts): Clears after one session
-- **Severe Consequence** (6 shifts): Clears after one scenario
-- **Extreme Consequence** (8 shifts): Permanent aspect change
+**Stress** represents near-misses and minor hits. You have 3 stress boxes (1 point each). Check boxes to absorb shifts—check as many as needed, each absorbs 1 shift. Stress clears at the end of the scene.
 
-If you can't absorb the harm, you're **taken out**—the attacker decides what happens.
+**Consequences** are lasting injuries represented as aspects:
 
-You can always **concede** before being taken out. You lose, but on your terms, and earn a fate point.
+| Type | Shifts Absorbed | Recovery |
+|------|-----------------|----------|
+| Mild | 2 | One scene after treatment |
+| Moderate | 4 | One session after treatment |
+| Severe | 6 | One scenario after treatment |
+| Extreme | 8 | Permanently replaces an aspect |
+
+The attacker gets one free invoke on any consequence they inflict.
+
+#### Treatment and Recovery
+
+Consequences require treatment before they can begin healing. Roll an appropriate skill (Academics for physical injuries, Empathy for mental ones) against:
+- Mild: Fair (+2)
+- Moderate: Great (+4)
+- Severe: Fantastic (+6)
+
+Self-treatment adds +2 to the difficulty. After successful treatment, the consequence begins recovery and can be renamed to reflect healing (e.g., *Broken Arm* becomes *Arm in a Sling*).
+
+#### Taken Out
+
+If you can't absorb all the shifts from an attack, you're **taken out**. The attacker decides what happens to you—death, capture, forced retreat, humiliating defeat. The outcome should fit the conflict's stakes.
+
+#### Conceding
+
+Before your opponent rolls, you can **concede**. You lose the conflict but on your own terms—you decide how you exit. You earn one fate point, plus one for each consequence you took during the conflict.
+
+### Equipment
+
+Most equipment is handled narratively—if you have a sword, you can fight with it. If you're a Cannith artificer, you have tools.
+
+For **signature gear** that's central to your character, take this stunt:
+
+**Personal Hardware**: You have an iconic possession. Choose two benefits:
+- +1 to a specific skill application (e.g., +1 to Fight when parrying)
+- Weapon:2 (add 2 shifts to successful attacks)
+- Armor:1 (reduce incoming physical stress by 1)
+- Once per session, use the item to take a skill action you normally couldn't
+
+Beyond these mechanical benefits, the item can do whatever makes sense narratively. A sending stone lets you communicate at distance. A glider cloak lets you fly short distances. No roll required unless it puts you at risk.
+
+> **Example**: Jak's **Cannith Multi-Tool** gives him +1 to Crafts when repairing and lets him once per session use Crafts to pick a lock (normally Burglary).
+
+You can take this stunt multiple times for different items.
+
+### Advancement
+
+#### Milestones (End of Session)
+
+At the end of each session, you may choose one:
+
+- Switch the ratings of two skills, or replace one Average (+1) skill with a different one
+- Rewrite one stunt
+- Purchase a new stunt by spending 1 refresh (minimum 1 refresh)
+- Rewrite any aspect except your high concept
+
+#### Breakthroughs (End of Arc)
+
+When a major story arc concludes, you may do one thing from the milestone list, plus:
+
+- Rewrite your high concept if you want
+- Rename any consequences in recovery; clear any that were already renamed
+- Increase one skill by +1 (you may need to promote other skills to maintain balance)
+
+The GM may also grant:
+- +1 refresh
+- A second skill increase
 
 ---
 
