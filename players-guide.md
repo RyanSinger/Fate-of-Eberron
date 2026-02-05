@@ -1020,6 +1020,8 @@ You can take this stunt multiple times for different items.
 
 ### Advancement
 
+A **session** is typically 3–4 hours of play. An **arc** spans roughly 3–5 sessions and resolves a major storyline.
+
 #### Milestones (End of Session)
 
 At the end of each session, you may choose one:
@@ -1028,14 +1030,17 @@ At the end of each session, you may choose one:
 - Rewrite one stunt
 - Purchase a new stunt by spending 1 refresh (minimum 1 refresh)
 - Rewrite any aspect except your high concept
+- Rename a mild consequence to begin recovery
 
 #### Breakthroughs (End of Arc)
 
 When a major story arc concludes, you may do one thing from the milestone list, plus:
 
 - Rewrite your high concept if you want
-- Rename any consequences in recovery; clear any that were already renamed
-- Increase one skill by +1 (you may need to promote other skills to maintain balance)
+- Start recovery on any consequence not yet recovering (rename it); clear any that were already renamed
+- Increase one skill by +1
+
+**Skill balance**: When you increase a skill, you may need to promote other skills first. You can't have more skills at a given rating than you have at the rating below it. You can bank skill increases to spend together later.
 
 The GM may also grant:
 - +1 refresh
