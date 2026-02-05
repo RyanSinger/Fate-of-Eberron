@@ -702,52 +702,61 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 
 ### Invention: Creating Magical Items
 
-Characters with the Artificer mode (or similar background) can create magical devices using the invention rules.
+Characters with the Artificer mode (or similar background) can create magical devices. The key principle: **you can't fail to make it**. You're a skilled artificer—of course you can build it. The question is what complications arise along the way.
 
 **Step 1: Define the Invention**
 
-Describe what you want to make. The GM assigns a difficulty based on ambition:
+Describe what you want to make and what it does. This becomes your invention's **function aspect** (e.g., *Sending Stone Linked to Korran*, *Docent with Dhakaani Military History*).
 
-| Difficulty | Example |
-|-----------|---------|
-| Average (+1) | Simple tool with one function |
-| Fair (+2) | Useful device, common magic |
-| Good (+3) | Sophisticated device, uncommon effect |
-| Great (+4) | Complex creation, rare magic |
-| Superb (+5) | Masterwork, powerful effect |
+**Step 2: Determine Catches**
 
-**Step 2: Gather Resources**
+Every invention requires **catches**—complications that must be resolved before it's complete. The more powerful the invention, the more catches it has:
 
-You'll need:
-- **Time**: Hours to days depending on complexity
-- **Materials**: May require a Resources roll or acquisition scene
-- **Workspace**: Forge, laboratory, or appropriate setting
+| Complexity | Catches | Examples |
+|------------|---------|----------|
+| Simple | 1 | Everbright lantern, simple tool |
+| Useful | 2 | Sending stone, minor wand |
+| Sophisticated | 3 | Docent, elemental weapon |
+| Complex | 4 | Airship component, bound elemental |
+| Masterwork | 5 | Creation forge item, major artifact |
 
-**Step 3: Build It**
+Choose catches from this list:
 
-Roll Crafts (or Lore for purely magical constructs) against the difficulty.
+- **Time**: It takes longer than expected—days become weeks, the situation worsens while you work
+- **Materials**: You need something rare, expensive, or hard to acquire—getting it may be an adventure
+- **Help**: You can't do it alone—you need an expert, a faction's resources, or specialized knowledge
+- **Facility**: You need access to a specific workshop, laboratory, or creation forge
+- **Attention**: The work attracts unwanted notice—rivals, authorities, or something worse
+- **Flaw**: The invention has a weakness or cost (becomes a flaw aspect the GM can invoke)
 
-- **Success**: You create the item. It works as intended.
-- **Success with Style**: As success, plus the item has an additional minor benefit (extra invoke, longer duration, etc.)
-- **Tie**: You create the item, but choose one: it has a **flaw** (a negative aspect the GM can invoke), it's **temporary** (lasts only one session), or it requires a **cost** (materials, favors, time).
-- **Failure**: The item doesn't work. You understand why and can try again with different approach, or accept a flaw and keep it anyway.
+**Step 3: Make the Roll**
 
-**Invention Aspects**
+Roll Crafts (or Lore for purely magical constructs) against Good (+3). The outcome determines who chooses the catches:
 
-Inventions are treated as situation aspects or extras with aspects. A successful invention typically has:
+| Outcome | Who Chooses Catches |
+|---------|---------------------|
+| Fail | GM chooses all |
+| Tie | GM and player alternate, GM first |
+| Success | GM chooses one, player chooses the rest |
+| Success with Style | Player chooses all |
 
-- A **function aspect** describing what it does (*Sending Stone Linked to Korran*, *Everbright Lantern*)
-- Optionally, a **flaw aspect** if created with compromise (*Drains Quickly*, *Only Works in Sharn*)
+**Step 4: Resolve the Catches**
 
-The invention can be invoked when relevant. Permanent items may cost refresh (GM's discretion for powerful effects).
+Play out the catches as scenes or obstacles. Need rare materials? That's an acquisition scene or a trip to the Mournland. Need help from House Cannith? Time to negotiate. Attracted attention from the Aurum? They're going to complicate your life.
 
-> **Example**: Keth wants to build a *Docent*—a magical adviser that can be installed in a warforged.
+Once the catches are resolved, the invention is complete.
+
+**Flaws**
+
+If "Flaw" was chosen as a catch, the GM creates a **flaw aspect** for the invention—something like *Drains Quickly*, *Unstable When Wet*, or *Distinctive Magical Signature*. The GM can invoke this aspect against you.
+
+> **Example**: Keth wants to build a *Docent*—a magical adviser that can be installed in a warforged. That's sophisticated (3 catches).
 >
-> The GM sets difficulty at Great (+4) since it's complex magic.
+> Keth rolls Crafts at Good (+3) and gets +1, for a total of +4. Success! The GM chooses one catch, Keth chooses the other two.
 >
-> Keth has Crafts at Good (+3). He rolls and gets +2, for a total of +5. Success!
+> The GM chooses **Attention**—House Cannith notices someone working on docent technology outside their control. Keth chooses **Materials** (he needs a Khyber dragonshard) and **Time** (it'll take a week, not a day).
 >
-> The Docent has the aspect *Repository of Dhakaani Military History*. Keth can invoke this when the knowledge would help.
+> After acquiring the dragonshard and dealing with a Cannith inquisitor who comes asking questions, Keth completes the Docent with the aspect *Repository of Dhakaani Military History*.
 
 ---
 
