@@ -688,4 +688,64 @@ From the modes, here's the complete skill list:
 
 ---
 
+## Blank Character Sheet
+
+```
+CHARACTER NAME: _______________________________________
+
+HIGH CONCEPT: _________________________________________
+
+TROUBLE: ______________________________________________
+
+RELATIONSHIP: _________________________________________
+
+FREE ASPECT: __________________________________________
+
+FREE ASPECT: __________________________________________
+
+
+MODES                           SKILLS
+________________________        ________________________
+Mode 1: __________ (+___)       Academics      [   ]
+  Specialized: ____________     Athletics      [   ]
+  Focused: ________________     Burglary       [   ]
+  Focused: ________________     Contacts       [   ]
+                                Crafts         [   ]
+Mode 2: __________ (+___)       Deceive        [   ]
+  Focused: ________________     Drive          [   ]
+  Focused: ________________     Empathy        [   ]
+                                Fight          [   ]
+Mode 3: __________ (+___)       Investigate    [   ]
+  Focused: ________________     Lore           [   ]
+                                Notice         [   ]
+                                Physique       [   ]
+STUNTS                          Provoke        [   ]
+1. ________________________     Rapport        [   ]
+   ________________________     Resources      [   ]
+                                Shoot          [   ]
+2. ________________________     Stealth        [   ]
+   ________________________     Will           [   ]
+
+3. ________________________
+   ________________________
+
+
+STRESS          [ ] [ ] [ ]
+
+CONSEQUENCES
+  Mild (2):     ________________________  [ ]
+  Moderate (4): ________________________  [ ]
+  Severe (6):   ________________________  [ ]
+
+REFRESH: [   ]    FATE POINTS: [   ]
+
+
+NOTES:
+___________________________________________________________
+___________________________________________________________
+___________________________________________________________
+```
+
+---
+
 *For setting information, see the Eberron Setting Guide. For running the game, see the GM's Guide.*
