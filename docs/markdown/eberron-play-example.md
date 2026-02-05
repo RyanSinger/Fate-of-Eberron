@@ -65,7 +65,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 **Key Skills**: Will Great (+4), Lore Great (+4), Empathy Good (+3), Rapport Good (+3), Fight Fair (+2)
 
 **Stunts**:
-- **Shield of Faith**: Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks once per scene.
+- **Shield of Faith**: Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks.
 - **Sense Evil**: Because the Flame guides me, I get +2 to Notice when detecting undead, fiends, or supernatural corruption.
 
 **Refresh**: 3 | **Stress**: [ ] [ ] [ ]
