@@ -958,11 +958,19 @@ Self-treatment adds +2 to the difficulty. After successful treatment, the conseq
 
 #### Taken Out
 
-If you can't absorb all the shifts from an attack, you're **taken out**. The attacker decides what happens to you—death, capture, forced retreat, humiliating defeat. The outcome should fit the conflict's stakes.
+If you can't absorb all the shifts from an attack, you're **taken out**—removed from the scene. The attacker decides what happens to you: death, capture, forced retreat, humiliating defeat, or something worse.
+
+The outcome must fit the conflict's stakes. Losing an argument doesn't mean death. Losing a back-alley brawl might mean waking up in a Sharn jail—or in a Daask hideout. Consider creative alternatives: knocked unconscious and dragged somewhere, forced to accept unfavorable terms, left for dead but rescued by a passerby.
+
+Talk with your group about boundaries. Some groups don't allow character death without player consent. That's fine—establish these expectations before play.
 
 #### Conceding
 
-Before your opponent rolls, you can **concede**. You lose the conflict but on your own terms—you decide how you exit. You earn one fate point, plus one for each consequence you took during the conflict.
+You can **concede** at any time *before* your opponent rolls—not after you see a bad result. You immediately exit the conflict on your terms. You lose, but you control how.
+
+**Why concede?** You gain one fate point, plus one for each consequence you took. More importantly, you escape with something: knowledge of the enemy's plans, a chance to warn allies, or simply your life. A concession isn't just losing—it's a tactical retreat.
+
+**How it works:** Declare you're conceding and describe your exit. "I throw a smoke bomb and flee into the lower city." The opposition can negotiate—"You escape, but they get the artifact"—but you still get something out of it.
 
 ### Equipment
 
