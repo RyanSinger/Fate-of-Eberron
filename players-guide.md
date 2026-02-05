@@ -1026,6 +1026,80 @@ Beyond these mechanical benefits, the item can do whatever makes sense narrative
 
 You can take this stunt multiple times for different items.
 
+### Spellcasting
+
+Magic in Eberron is common—magewrights light lamps, Orien heirs teleport cargo, and wandslingers duel in Sharn's streets. For player characters, magic works through the same Fate mechanics as everything else.
+
+#### Narrative Permission
+
+Your aspects and modes determine what magic you can attempt. If you have the **Mage** or **Priest** mode, you have broad permission to attempt magic appropriate to your tradition. An *Aundairian War Mage* can hurl fire; a *Gatekeeper Druid* communes with nature spirits; a *Priest of the Silver Flame* channels divine power against darkness.
+
+Characters without a magical mode can still use magic if they have an appropriate aspect—a *Cyran Refugee with a Stolen Wand* might manage a few tricks, but they're not a trained spellcaster.
+
+#### Magic as Actions
+
+Most spells are just the four actions with magical flavor:
+
+**Create Advantage** is the workhorse of battlefield magic. Cast *Shield of Faith* to create an aspect you can invoke for defense. Conjure *Deeper Darkness* to hinder enemies. Summon a *Spectral Hound* as an aspect that can be invoked for tracking or intimidation. Roll Lore (arcane) or Will (divine) against a difficulty set by the GM.
+
+**Overcome** handles magical problem-solving. Dispel a ward, break a curse, identify an enchantment, calm a hostile spirit. The skill depends on the approach—Lore for analytical magic, Will for force of personality or faith.
+
+**Attack** with magic works like any attack—roll your skill, deal stress. Whether you're swinging a sword or hurling lightning, the mechanics are identical. Mages typically attack with Lore or Shoot (for ranged blasts); priests might use Will for divine wrath.
+
+**Defend** can be magical when appropriate. A wizard might use Lore to defend against magical attacks. A priest might use Will to resist mental intrusion or possession.
+
+#### Magical Costs
+
+When magic fails or ties, the GM can introduce costs that reflect the unpredictable nature of magic:
+
+**Minor costs** (ties):
+- The spell draws unwanted attention (magical or mundane)
+- It takes longer than expected—you act last next exchange
+- A minor side effect occurs (lights flicker, temperature drops)
+- You take 1-2 stress from the strain
+
+**Major costs** (failures offered as success-at-cost):
+- The spell works but affects more than intended—allies caught in the blast, innocents frightened
+- Something notices your magic from across the planes
+- The magic leaves a lingering aspect the GM can invoke against you (*Magical Signature Traced*)
+- You take a consequence representing magical backlash (*Drained*, *Arcane Burnout*)
+
+> **Example**: Theron attempts to magically unlock a Cannith vault (Overcome with Lore vs. Great +4). He rolls +2—a failure. The GM offers success at a cost: "You crack the ward, but House Cannith's security systems logged the intrusion. You have maybe ten minutes before response teams arrive."
+
+#### Signature Spells
+
+For magic your character uses reliably—their go-to spells—build them as stunts. These follow the standard stunt patterns: +2 in narrow circumstances, permission to do something new, or break a rule once per session.
+
+**Burning Hands**: Because I specialize in evocation, I can attack everyone in my zone with Lore. I must spend a fate point or free invoke to target the whole zone instead of one target.
+
+**Charm Person**: Because I weave enchantments, I get +2 to Deceive when using magic to make someone view me favorably. This doesn't work on targets who are actively hostile.
+
+**Detect Magic**: Because I sense magical auras, I can use Lore instead of Notice to detect magical effects, items, and creatures—even if they're hidden or disguised.
+
+**Healing Word**: Because I channel restorative power, once per scene I can roll Will vs. Fair (+2) to clear one ally's physical stress box. On success with style, also clear a mental stress box.
+
+**Invisibility**: Because I've mastered illusion, I can use Lore to create *Invisible* on myself. While invisible, I get +2 to Stealth. The aspect ends when I attack or the scene ends.
+
+**Fly**: Because I command the winds, once per scene I can grant myself or a willing target the ability to fly for the rest of the scene. While flying, ignore ground-based zone boundaries and obstacles.
+
+**Arcane Shield**: Because I weave protective wards, once per scene I can reduce incoming physical stress by 2 after seeing the result of an attack against me.
+
+**Thunderwave**: Because I command elemental air, once per session I can push everyone in my zone (except myself) to adjacent zones of my choice. Spend a fate point to use this again in the same session.
+
+**Turn Undead**: Because the Silver Flame burns through me, I get +2 to Will when creating advantages against undead or fiends. On success with style, they must also move one zone away from me.
+
+#### Ritual Magic
+
+For complex magical workings—opening a portal to Thelanis, binding a demon, raising the dead—use a **challenge** or the **invention** rules. Big magic shouldn't be a single roll; it should be a scene (or several scenes) with multiple obstacles and potential complications.
+
+> **Example**: The party needs to close a manifest zone that's bleeding aberrations into Sharn. The GM frames it as a challenge:
+> - Contain the immediate threat (Fight vs. Good)
+> - Identify the zone's resonance frequency (Lore vs. Great)
+> - Channel enough power to seal it (Will vs. Great)
+> - Complete the ritual before more creatures emerge (time pressure)
+>
+> Failures don't stop the ritual—they introduce complications. Maybe the seal is imperfect, or closing it draws attention from something in Xoriat.
+
 ### Advancement
 
 A **session** is typically 3–4 hours of play. An **arc** spans roughly 3–5 sessions and resolves a major storyline.
