@@ -94,6 +94,43 @@ When players roll against passive opposition, you set the difficulty. Here's a s
 
 ---
 
+## Session Zero
+
+Before your first adventure, run a **session zero**—a conversation about expectations, character creation, and campaign setup. This session is as important as any adventure.
+
+### What to Cover
+
+**Campaign Pitch**: Share your vision for the campaign. Are you running a noir mystery in Sharn? A wilderness expedition to Xen'drik? A war story along the Karrnathi border? Give players enough to create fitting characters.
+
+**Tone and Content**: Eberron supports many tones—pulpy action, political intrigue, horror, war stories. Discuss which elements will feature prominently in your game. This is also when you establish safety tools (see below).
+
+**Party Connection**: Characters need a reason to work together. Consider:
+- A shared patron (dragonmarked house, university, government agency)
+- A common enemy (Emerald Claw, crime syndicate, rival corporation)
+- A shared past (same unit in the war, same school, same street)
+- A business venture (inquisitive agency, salvage company, courier service)
+
+**Character Creation**: Build characters together. When players see each other's aspects, they can build connections. "Oh, you're a Cyran refugee? My character blames Cyre for the war—that's interesting tension."
+
+### Questions to Ask Players
+
+- What does your character want? (Drives adventures)
+- What does your character fear? (Drives drama)
+- Who does your character trust? (Potential allies or complications)
+- What's your character's relationship to the Last War?
+- How did you meet another PC?
+
+### The First Session
+
+End session zero with a brief opening scene—not combat, just roleplay. Let characters introduce themselves in action:
+- Meeting at a tavern to discuss a job
+- Arriving at a crime scene together
+- Receiving orders from their patron
+
+This grounds the campaign before the "real" adventure begins.
+
+---
+
 ## Safety Tools
 
 Eberron's themes include war, moral ambiguity, and dark conspiracies. Before play, establish boundaries with your group.
@@ -746,7 +783,7 @@ Everything can be a character. This is especially useful for Eberron's unique el
 - *Knowledge Above All (Ethics Secondary)*
 - *Funding Problems*
 - *The Best Collection of Stolen Artifacts in Khorvaire*
-- Skills: Lore Great (+4), Resources Fair (+2), Academics Good (+3)
+- Skills: Lore Great (+4), Resources Fair (+2), Contacts Good (+3)
 - Use these ratings when the organization acts or when characters invoke institutional resources.
 
 ---
@@ -1051,6 +1088,100 @@ Sharn is organized into plateaus (Menthis, Central, etc.) and towers rising from
 - Bridges (connect towers)
 - Flight (if you can manage it)
 - Falling (always an option)
+
+---
+
+## Appendix: Quick Reference
+
+A one-page cheat sheet for play.
+
+### The Ladder
+
+| Bonus | Rating |
+|-------|--------|
+| +8 | Legendary |
+| +6 | Fantastic |
+| +5 | Superb |
+| +4 | Great |
+| +3 | Good |
+| +2 | Fair |
+| +1 | Average |
+| +0 | Mediocre |
+| -1 | Poor |
+| -2 | Terrible |
+
+### Rolling Dice
+
+Roll 4 Fate dice (4dF). Each die shows +1, 0, or -1. Add your skill rating.
+
+**Result = 4dF + Skill vs. Difficulty (or opposed roll)**
+
+### The Four Outcomes
+
+| Result | Outcome |
+|--------|---------|
+| Fail by 3+ | Fail, and things get worse |
+| Fail by 1-2 | Fail, or succeed at serious cost |
+| Tie (0) | Succeed at minor cost |
+| Succeed by 1-2 | Succeed |
+| Succeed by 3+ | Succeed with style |
+
+### The Four Actions
+
+| Action | Use For | On Success |
+|--------|---------|------------|
+| **Overcome** | Get past obstacles, achieve goals | You do it (with style: get a boost) |
+| **Create Advantage** | Make aspects, find existing ones | Free invoke on aspect (with style: 2 free invokes) |
+| **Attack** | Hurt someone | Deal shifts as stress (with style: +1 shift) |
+| **Defend** | Stop attacks/advantages | You stop it (with style: get a boost) |
+
+### Fate Points
+
+**Spend to:**
+- **Invoke** an aspect for +2 or reroll
+- **Declare** a story detail
+- **Refuse** a compel (costs 1)
+
+**Earn by:**
+- **Accepting compels** (+1 fate point)
+- **Conceding** a conflict (+1, plus +1 per consequence)
+- **Refresh** at session start
+
+### Stress and Consequences
+
+**Stress**: Absorb shifts equal to box value. Clears after scene.
+
+| Physical | [ ]1 [ ]2 [ ]3 |
+|----------|----------------|
+| Mental | [ ]1 [ ]2 [ ]3 |
+
+**Consequences**: Absorb shifts; create aspect that can be invoked against you.
+
+| Type | Shifts | Recovery |
+|------|--------|----------|
+| Mild | 2 | One scene |
+| Moderate | 4 | One session |
+| Severe | 6 | One scenario |
+
+**Taken Out**: Out of stress and consequences? You're taken out. Opponent decides your fate.
+
+**Concede**: Give up before taken out. You choose how you exit, plus earn fate points.
+
+### Quick Opposition Guidelines
+
+| Difficulty | When to Use |
+|------------|-------------|
+| +0 to +2 | Routine tasks, mook opposition |
+| +3 to +4 | Challenging, competent opposition |
+| +5 to +6 | Hard, expert opposition |
+| +7+ | Nearly impossible, legendary opposition |
+
+### Magic in Brief
+
+- **Narrative permission** comes from aspects and modes
+- **Use the four actions** with magical flavor
+- **Costs on ties/failures**: backfire, unwanted attention, collateral damage
+- **Signature Spells** are stunts that follow normal stunt rules
 
 ---
 
