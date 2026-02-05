@@ -878,6 +878,7 @@ You start each session with fate points equal to your **refresh** (usually 3).
 **Spend fate points to:**
 
 - **Invoke an aspect** for +2 to your roll or a reroll. The aspect must be relevant. You can invoke multiple different aspects on a single roll, but you can't invoke the same aspect twice (unless using free invokes).
+- **Hostile invoke**: You can invoke an opponent's aspects against them. Pay the fate point *to them*—they get to use it later.
 - **Declare a story detail** based on an aspect. If you have *Sharn Street Smart*, you might declare you know a fence in this district.
 - **Refuse a compel** (costs 1 fate point).
 
@@ -888,6 +889,17 @@ You start each session with fate points equal to your **refresh** (usually 3).
 - The GM **compels your aspect** to create complications for you. You can refuse by paying a fate point.
 - Another player **invokes your aspect against you**.
 - You **concede a conflict**.
+- You **self-compel**—retroactively decide one of your aspects caused a problem. "Remember when I got drunk at that party? That's because I'm *Can't Resist a Challenge*."
+
+**How Compels Work**
+
+Compels create complications, not denials. A compel shouldn't stop you from acting—it should make acting more interesting or costly.
+
+There are two types:
+- **Event compels**: The world conspires against you. "Because you're *Wanted by House Tarkanan*, assassins show up right now."
+- **Decision compels**: Your nature pushes you toward trouble. "Because you're *Loyal to a Fault*, you stay to help your cornered ally instead of escaping with the artifact."
+
+The GM offers a fate point and describes the complication. You can accept (take the fate point, deal with the problem) or refuse (pay a fate point from your pool).
 
 ### Challenges
 
