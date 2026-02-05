@@ -30,7 +30,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 ### Base System
 - **Fate Condensed** as foundation
-- **Default power level**: Great (+4) peak skill, 3 refresh, 3 free stunts
+- **Default power level**: Great (+5) peak skill, 3 refresh, 3 free stunts
 - **Standard stress/consequences** (not conditions system)
 
 ### Character Creation: Mode-Based
@@ -38,8 +38,9 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - Modes rate at Good (+3), Fair (+2), Average (+1)
 - Skills within modes: Trained (+0), Focused (+1), Specialized (+2) above mode rating
 - Reinforced skills (in multiple modes) get +1 bonus
-- Skill cap: Great (+4) at character creation
+- Skill cap: Great (+5) at character creation
 - Modes organized loosely as Origins, Backgrounds, Callings—but players can pick any 3
+- **Custom modes**: Pick 5 thematically coherent skills, add suggested aspects
 
 ### Magic System: Hybrid
 - **Narrative magic**: Having a magic aspect lets you describe any skill roll as spellcasting
@@ -153,12 +154,16 @@ If Ryan wants to expand:
 - Updated README
 - Rewrote CLAUDE_NOTES.md
 
-### Session 3 (Current)
+### Session 3
 - Added Play Example document with 5 iconic PCs and full scene
 - Fixed various inconsistencies (Kaela example math, airship skills, timeline)
 - Added Pilot calling and Drive skill
 - Documented stunt balance philosophy
 - Clarified that skill substitution stunts don't need usage limits
+- Added zone attack rules (invoke for area targeting instead of +2)
+- Added custom mode creation rules
+- Added suggested stunts to all modes
+- Changed skill cap from Great (+4) to Superb (+5)
 
 ---
 

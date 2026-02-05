@@ -18,7 +18,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - Inquisitive (Fair +2): Investigate (Focused), Empathy (Focused)
 - Soldier (Average +1): Fight (Focused)
 
-**Key Skills**: Notice Great (+4), Investigate Good (+3), Physique Great (+4), Empathy Good (+3), Fight Fair (+2)
+**Key Skills**: Notice Superb (+5), Physique Great (+4), Investigate Good (+3), Empathy Good (+3), Fight Fair (+2)
 
 **Stunts**:
 - **Photographic Memory**: Because I never forget what I see, I get +2 to Investigate when recalling details from a previous scene.
@@ -40,7 +40,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - Spy (Fair +2): Deceive (Focused), Stealth (Focused)
 - Noble (Average +1): Contacts (Focused)
 
-**Key Skills**: Will Great (+4), Deceive Good (+3), Stealth Good (+3), Empathy Great (+4), Contacts Fair (+2)
+**Key Skills**: Will Superb (+5), Empathy Great (+4), Deceive Good (+3), Stealth Good (+3), Contacts Fair (+2)
 
 **Stunts**:
 - **Dead Drop Network**: Because I maintained my spy network, once per session I can declare I have a contact in this city who owes me a favor.
@@ -62,7 +62,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - Priest (Fair +2): Empathy (Focused), Rapport (Focused)
 - Soldier (Average +1): Fight (Focused)
 
-**Key Skills**: Will Great (+4), Lore Great (+4), Empathy Good (+3), Rapport Good (+3), Fight Fair (+2)
+**Key Skills**: Will Superb (+5), Lore Great (+4), Empathy Good (+3), Rapport Good (+3), Fight Fair (+2)
 
 **Stunts**:
 - **Shield of Faith**: Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks.
@@ -84,7 +84,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - Noble (Fair +2): Rapport (Focused), Contacts (Focused)
 - Cyran (Average +1): Will (Focused)
 
-**Key Skills**: Fight Great (+4), Athletics Great (+4), Rapport Good (+3), Contacts Good (+3), Will Fair (+2)
+**Key Skills**: Fight Superb (+5), Athletics Great (+4), Rapport Good (+3), Contacts Good (+3), Will Fair (+2)
 
 **Stunts**:
 - **Cyran Blade Dance**: Because I trained with Cyran duelists, I get +2 to Fight when I'm outnumbered.
@@ -106,7 +106,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - Brelish (Fair +2): Investigate (Focused), Resources (Focused)
 - Criminal (Average +1): Burglary (Focused)
 
-**Key Skills**: Crafts Great (+4), Lore Great (+4), Investigate Good (+3), Resources Good (+3), Burglary Fair (+2)
+**Key Skills**: Crafts Superb (+5), Lore Great (+4), Investigate Good (+3), Resources Good (+3), Burglary Fair (+2)
 
 **Stunts**:
 - **Jury-Rig**: Because of my Mark of Making, I can use Crafts to create a temporary device that lasts one scene, even without proper tools.
@@ -135,7 +135,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: That's a Notice or Empathy roll. Which fits better?
 
-**Kira's Player**: Empathy—I want to read their intentions, not just spot details. I have Empathy at Great (+4). *Rolls: +2.* That's a +6, Fantastic.
+**Kira's Player**: Empathy—I want to read their intentions, not just spot details. I have Empathy at Great (+4). *Rolls: +2.* That's +6, Fantastic.
 
 **GM**: The half-elf is definitely watching your group, not the room. Their posture is tense—ready to move. And you notice a bulge under their cloak that's probably a wand or weapon. They're not a casual observer. They're either following someone at this table or waiting for something to happen.
 
@@ -209,7 +209,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: Roll it.
 
-**Vex's Player**: Notice at Great (+4), plus my Tireless Sentinel stunt gives +2 to detect ambushes. *Rolls: +1.* That's +7, Legendary!
+**Vex's Player**: Notice at Superb (+5), plus my Tireless Sentinel stunt gives +2 to detect ambushes. *Rolls: +1.* That's +8, Legendary!
 
 **GM**: Incredible. You don't just position your allies—you notice the shadow under the door shift, and you realize there's someone on the balcony too. They're coming from both directions. You create *Ready for Them* with two free invokes, and you can warn everyone about the balcony attacker.
 
@@ -273,13 +273,13 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: The lightning crackles over your metal frame, but you grounded yourself. Sparks fly but you're unharmed.
 
-**Kaela's Player**: My turn. I'm attacking the half-elf with Fight, and I'm invoking both *Off-Balance* and the remaining *Ready for Them*. Fight is Great (+4), plus +4 from invokes. *Rolls: +1.* That's Legendary (+9).
+**Kaela's Player**: My turn. I'm attacking the half-elf with Fight, and I'm invoking both *Off-Balance* and the remaining *Ready for Them*. Fight is Superb (+5), plus +4 from invokes. *Rolls: +1.* That's +10!
 
-**GM**: They defend with Athletics at Fair (+2)... *rolls: +0.* That's only +2. You hit them for 7 shifts.
+**GM**: They defend with Athletics at Fair (+2)... *rolls: +0.* That's only +2. You hit them for 8 shifts.
 
-**Kaela's Player**: Seven shifts!
+**Kaela's Player**: Eight shifts!
 
-**GM**: The half-elf can absorb some of that. They have 2 stress boxes and a mild consequence. They check both stress boxes (2 shifts) and take a mild consequence (2 more shifts)—let's call it *Slashed Across the Ribs*. That's 4 absorbed, leaving 3 shifts that they can't absorb. They're Taken Out.
+**GM**: The half-elf can absorb some of that. They have 2 stress boxes and a mild consequence. They check both stress boxes (2 shifts) and take a mild consequence (2 more shifts)—let's call it *Slashed Across the Ribs*. That's 4 absorbed, leaving 4 shifts that they can't absorb. They're Taken Out.
 
 **GM**: Kaela, you describe it.
 
@@ -291,7 +291,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: Roll Will.
 
-**Brother Theron's Player**: Will at Great (+4). *Rolls: +2.* Fantastic (+6). I create *Shield of Faith* with a free invoke. If anyone attacks Tolas, I can invoke this to help defend him.
+**Brother Theron's Player**: Will at Superb (+5). *Rolls: +2.* That's +7! I create *Shield of Faith* with two free invokes. If anyone attacks Tolas, I can invoke this to help defend him.
 
 **GM**: Divine light shimmers around the terrified gnome. The thugs hesitate.
 
@@ -299,7 +299,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: Thug 1 vs Kaela: *rolls: +1.* Good (+3).
 
-**Kaela's Player**: I defend with Athletics at Great (+4). *Rolls: +0.* +4 beats +3. No damage.
+**Kaela's Player**: I defend with Athletics at Great (+4). *Rolls: +0.* That's +4 against their +3. No damage.
 
 **GM**: Thug 2 vs Kira: *rolls: +0.* Fair (+2).
 
@@ -307,7 +307,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: Stealth won't work mid-combat. You could use Will to resist through sheer determination, or take the hit.
 
-**Kira's Player**: Will at Great (+4). *Rolls: -1.* Good (+3). That beats their Fair (+2).
+**Kira's Player**: Will at Superb (+5). *Rolls: -1.* That's +4. Beats their Fair (+2) easily.
 
 **GM**: You sidestep just in time. Jak, you're up.
 
@@ -319,7 +319,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: That's a stretch, but it's flavorful. I'll allow a Crafts roll at -2 since you're using it unconventionally.
 
-**Jak's Player**: Crafts at Great (+4), minus 2 is Fair (+2). *Rolls: +3.* Superb (+5)!
+**Jak's Player**: Crafts at Superb (+5), minus 2 is Good (+3). *Rolls: +3.* That's +6, Fantastic!
 
 **GM**: Your mark flares. The wand skitters across the floor and leaps into your hand like it was magnetized. The changeling's eyes widen.
 
@@ -391,15 +391,15 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: I like it. Roll Notice to find a shortcut.
 
-**Vex's Player**: Notice at Great (+4). *Rolls: +1.* Superb (+5).
+**Vex's Player**: Notice at Superb (+5). *Rolls: +1.* That's +6, Fantastic.
 
 **GM**: You spot a cargo lift—a platform on chains used to move goods between levels. If you time it right, you can ride it to the Market Bridge and cut the changeling off. You're now in Zone 2, same as them.
 
 **GM**: The changeling sees you appear ahead of them. They're going to try to lose you in the crowd. They Create an Advantage with Stealth—*Lost in the Crowd*. *Rolls: +2.* Good (+3) Stealth, total Great (+4).
 
-**Vex's Player**: I oppose with Notice. Great (+4). *Rolls: +0.* +4 ties them.
+**Vex's Player**: I oppose with Notice. Superb (+5). *Rolls: +0.* That's +5 against their +4. I beat them!
 
-**GM**: You tie—they don't get the aspect, but they don't fail either. The chase continues. They push through the crowd toward the Lift Shaft Junction. They're now in Zone 3.
+**GM**: You succeed—they fail to lose you in the crowd. But they push through toward the Lift Shaft Junction anyway. They're now in Zone 3.
 
 **Vex's Player**: I pursue. Free movement to Zone 3. Then I want to tackle them before they reach the crowds. That's Fight to grab them?
 
@@ -407,7 +407,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Vex's Player**: Fight at Fair (+2). *Rolls: +3.* Superb (+5).
 
-**GM**: They defend with Athletics at Good (+3). *Rolls: +1.* Great (+4). You beat them by 1—you grab them. They're not hurt, but they're caught.
+**GM**: They defend with Athletics at Good (+3). *Rolls: +1.* That's +4. You beat them by 1—you grab them. They're not hurt, but they're caught.
 
 **Vex's Player**: I pin them against the wall, metal hand around their throat. "You came in through that balcony. Just like whoever killed Molric. Talk."
 
