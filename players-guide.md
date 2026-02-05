@@ -522,7 +522,21 @@ You have three more aspects to define:
 - **Relationship**: A connection to another PC. Good relationships have built-in tension or imbalance.
 - **Two Free Aspects**: Anything important about your character—beliefs, important items, connections, or history.
 
-Consider aspects that tie you to Eberron's setting:
+### What Makes a Good Aspect?
+
+Think about what you'd want to see in a story about your character. Good aspects do one or more of these things:
+
+**Grant Permission**: Let you do things most people can't. *Member of the King's Dark Lanterns* lets you access intelligence networks. *Trained at Rekkenmark Academy* means you know military secrets.
+
+**Make You Awesome**: Ensure success when it matters. *Never Miss a Shot* helps in that crucial moment. *The Best Swordsman in Sharn* means something in a duel.
+
+**Create Complications**: Invite trouble that makes the story interesting. *Wanted by House Tarkanan* means assassins show up. *Can't Resist a Challenge* means you take bad bets.
+
+**Build Setting**: Connect you to Eberron's world. *Cyran Refugee* places you in the setting's tensions. *The Chamber Is Watching Me* suggests draconic plots.
+
+**Avoid aspects that duplicate skills.** You don't need *Good at Fighting*—that's what the Fight skill is for. Instead, *Karrnathi Swordsmanship* suggests specific training, cultural ties, and potential complications (Karrnath's enemies, undead associations).
+
+### Eberron-Specific Ideas
 
 - Your relationship to the Last War
 - Connections to organizations (dragonmarked houses, criminal syndicates, governments, religions)
