@@ -903,6 +903,23 @@ Every roll produces one of four outcomes:
 | Physical (ranged) | Shoot | Athletics |
 | Mental | Provoke | Will |
 
+#### Non-Violent Attacks
+
+Attacks don't have to mean violence. An attack is any action that weakens an opponent's ability or desire to fight. You can "attack" in positive, non-violent ways:
+
+- Flattering an enemy into becoming your friend (Rapport)
+- Correcting a logical fallacy in a courtroom (Lore)
+- Buying off a mercenary mid-fight (Resources, with a stunt)
+- Convincing soldiers you're not worth dying for (Rapport)
+
+When you're trying to end a conflict by changing someone's mind rather than hurting them, that's still an attack—you're dealing mental stress with Rapport instead of Provoke.
+
+**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight. A talkative character isn't useless once combat starts—they can attack with words while others attack with weapons.
+
+**Using Deceive as Rapport**: You can lie to make someone feel good—false flattery, pretending to surrender, feigning respect. The target defends with Will (resisting influence) or Empathy (seeing through the lie). If they succeed with Empathy, you can't use Deceive against them for the rest of the scene—you've been exposed.
+
+**Taking Out with Words**: When you take someone out with Rapport or other "positive" attacks, treat it more like a concession than an unconditional surrender. The loser gets some say in what happens. You've convinced the guards to let you pass, but you can't force them to humiliate themselves or betray everything they believe. Robbing someone of all agency with smooth talk is just as villainous as robbing them at swordpoint.
+
 ### Aspects and Fate Points
 
 **Aspects** are phrases that describe something important about a character, location, or situation. They are always true—if you have the aspect *Warforged Veteran*, you're a warforged who fought in the Last War.
