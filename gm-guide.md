@@ -55,6 +55,20 @@ Push for dynamic locations and dramatic situations:
 
 Use zones aggressively. Create environmental hazards. Let players destroy the scenery. Embrace the chaos.
 
+**Put a Scene On It**
+
+Never resolve actions abstractly. Before any roll, establish the scene: When is this happening? Where? Who else is present? What could go wrong?
+
+A player wants to modify their airship. Don't just say "roll Crafts." Ask: "When are you doing this—at night when no one can see, or openly at the dock? What do the House Lyrandar dockworkers think of you messing with their vessel?" Suddenly there's potential for complications, witnesses, or allies.
+
+Apply the **TV Test**: If your game were a TV show, would this scene make the cut? If a player says "I want to research the Dhakaani Empire," that's not a scene—that's a montage at best. Instead: "You're in Morgrave's restricted archives at midnight. The librarian who let you in is nervous—she could lose her job. What are you looking for, and what happens if someone catches you?" Now it's a scene.
+
+**Ask "What Does Success Look Like?"**
+
+Before dice hit the table, ask the player what they're hoping to achieve. "I attack him" tells you nothing. "I want to disarm him and back him against the railing so he'll talk" tells you everything. Now you know what success means—and what interesting failure might look like.
+
+This also helps players think cinematically. They stop optimizing dice rolls and start directing their character's story.
+
 ---
 
 ## Your Fate Points

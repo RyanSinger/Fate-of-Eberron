@@ -522,7 +522,21 @@ You have three more aspects to define:
 - **Relationship**: A connection to another PC. Good relationships have built-in tension or imbalance.
 - **Two Free Aspects**: Anything important about your character—beliefs, important items, connections, or history.
 
-Consider aspects that tie you to Eberron's setting:
+### What Makes a Good Aspect?
+
+Think about what you'd want to see in a story about your character. Good aspects do one or more of these things:
+
+**Grant Permission**: Let you do things most people can't. *Member of the King's Dark Lanterns* lets you access intelligence networks. *Trained at Rekkenmark Academy* means you know military secrets.
+
+**Make You Awesome**: Ensure success when it matters. *Never Miss a Shot* helps in that crucial moment. *The Best Swordsman in Sharn* means something in a duel.
+
+**Create Complications**: Invite trouble that makes the story interesting. *Wanted by House Tarkanan* means assassins show up. *Can't Resist a Challenge* means you take bad bets.
+
+**Build Setting**: Connect you to Eberron's world. *Cyran Refugee* places you in the setting's tensions. *The Chamber Is Watching Me* suggests draconic plots.
+
+**Avoid aspects that duplicate skills.** You don't need *Good at Fighting*—that's what the Fight skill is for. Instead, *Karrnathi Swordsmanship* suggests specific training, cultural ties, and potential complications (Karrnath's enemies, undead associations).
+
+### Eberron-Specific Ideas
 
 - Your relationship to the Last War
 - Connections to organizations (dragonmarked houses, criminal syndicates, governments, religions)
@@ -888,6 +902,23 @@ Every roll produces one of four outcomes:
 | Physical (melee) | Fight | Fight or Athletics |
 | Physical (ranged) | Shoot | Athletics |
 | Mental | Provoke | Will |
+
+#### Non-Violent Attacks
+
+Attacks don't have to mean violence. An attack is any action that weakens an opponent's ability or desire to fight. You can "attack" in positive, non-violent ways:
+
+- Flattering an enemy into becoming your friend (Rapport)
+- Correcting a logical fallacy in a courtroom (Lore)
+- Buying off a mercenary mid-fight (Resources, with a stunt)
+- Convincing soldiers you're not worth dying for (Rapport)
+
+When you're trying to end a conflict by changing someone's mind rather than hurting them, that's still an attack—you're dealing mental stress with Rapport instead of Provoke.
+
+**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight. A talkative character isn't useless once combat starts—they can attack with words while others attack with weapons.
+
+**Using Deceive as Rapport**: You can lie to make someone feel good—false flattery, pretending to surrender, feigning respect. The target defends with Will (resisting influence) or Empathy (seeing through the lie). If they succeed with Empathy, you can't use Deceive against them for the rest of the scene—you've been exposed.
+
+**Taking Out with Words**: When you take someone out with Rapport or other "positive" attacks, treat it more like a concession than an unconditional surrender. The loser gets some say in what happens. You've convinced the guards to let you pass, but you can't force them to humiliate themselves or betray everything they believe. Robbing someone of all agency with smooth talk is just as villainous as robbing them at swordpoint.
 
 ### Aspects and Fate Points
 
