@@ -1,4 +1,27 @@
+# macOS
+.DS_Store
 .DS_store
-node_modules
+
+# IDEs
 .idea
+.vscode
+
+# Node (legacy)
+node_modules
+
+# Jekyll build output (GitHub Pages builds this itself)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+Gemfile.lock
+.bundle/
+vendor/
+
+# Reference materials (not for distribution)
+*.pdf
+Screenshot*.png
+
+# Old import folder
 for-import
