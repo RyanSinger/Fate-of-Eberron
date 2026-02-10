@@ -9,10 +9,10 @@ Working notes on this project. No sugarcoating.
 **What this repo is:** Fate of Eberron—a custom Fate adaptation for running campaigns in the Eberron setting.
 
 **What's in the repo:**
-- `docs/markdown/eberron-setting-guide.md` — Lore-only setting primer (no mechanics)
-- `docs/markdown/eberron-players-guide.md` — Character creation, modes, stunts, dragonmarks, magic
-- `docs/markdown/eberron-gm-guide.md` — Running the game, adversaries, factions, campaigns
-- `docs/markdown/eberron-play-example.md` — Full scene with 5 iconic PCs demonstrating gameplay
+- `setting-guide.md` — Lore-only setting primer (no mechanics)
+- `players-guide.md` — Character creation, modes, stunts, dragonmarks, magic
+- `gm-guide.md` — Running the game, adversaries, factions, campaigns
+- `play-example.md` — Full scene with 5 iconic PCs demonstrating gameplay
 - `README.md` — Project overview
 - `CLAUDE_NOTES.md` — This file
 
@@ -30,8 +30,9 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 ### Base System
 - **Fate Condensed** as foundation
-- **Default power level**: Great (+5) peak skill, 3 refresh, 3 free stunts
-- **Standard stress/consequences** (not conditions system)
+- **Default power level**: Superb (+5) peak skill, 3 refresh, 3 free stunts
+- **Dual stress tracks**: Physical (3 boxes) and Mental (3 boxes)
+- **Standard consequences** (Mild/Moderate/Severe, not conditions system)
 
 ### Character Creation: Mode-Based
 - Characters pick **3 modes** from a unified list
@@ -42,10 +43,13 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - Modes organized loosely as Origins, Backgrounds, Callings—but players can pick any 3
 - **Custom modes**: Pick 5 thematically coherent skills, add suggested aspects
 
-### Magic System: Hybrid
-- **Narrative magic**: Having a magic aspect lets you describe any skill roll as spellcasting
-- **Brainstorms**: For major magical research/problem-solving (from Atomic Robo)
-- **Invention rules**: For creating magical items (from Atomic Robo)
+### Magic System: Actions with Flavor
+- **Narrative permission**: Modes/aspects grant permission to describe actions as magic
+- **Magic as the four actions**: Overcome, Create Advantage, Attack, Defend with magical flavor
+- **Magical costs**: Minor costs on ties, major costs on failures (backfire, collateral damage, unwanted attention)
+- **Signature Spells**: Stunts that follow normal stunt patterns (+2 narrow, permission, once per session)
+- **Ritual Magic**: Use challenges or invention rules for major workings
+- **Wide magic setting**: Academics merged into Lore (distinction doesn't matter)
 
 ### Dragonmarks
 - **Aspect + stunts model**
@@ -71,6 +75,21 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - No action points or special hero mechanics
 - No conditions system (using standard consequences)
 - No scaled invocation rules
+- No separate Academics skill (merged into Lore)
+
+### Design Philosophy (Book of Hanz)
+- **Fiction first**: Dice constrain narration, don't dictate it
+- **Put a scene on it**: Never resolve actions abstractly; establish when/where/who before rolling
+- **TV Test**: If it wouldn't make the cut as a TV scene, skip or redesign it
+- **Ask "What does success look like?"**: Get player intent before dice roll
+- **Aspects are story hooks**: Grant permission, create complications, build setting—NOT mechanical bonuses duplicating skills
+
+### Non-Violent Attacks (Atomic Robo)
+- Attacks = any action weakening opponent's ability/desire to fight
+- Rapport attacks are valid (flattery, persuasion, buying off mercenaries)
+- Don't separate physical and social conflicts—mix them
+- Deceive as Rapport: target defends with Will or Empathy; if Empathy succeeds, attacker exposed
+- Taking out with words: treat as concession, not mind control
 
 ---
 
@@ -95,15 +114,20 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 **GM's Guide**: Running the game. Covers:
 - Core principles for Eberron tone
+- Session Zero guidance (campaign pitch, party connections, questions to ask)
+- Safety tools (X-Card, Script Change, Lines and Veils)
+- Scale system (GM tool for mythic entities—dragons, overlords, daelkyr)
 - Adversary building using Fate Adversary Toolkit categories (Threats, Fillers, Hitters, Bosses, Obstacles, Countdowns)
 - All major factions as characters with aspects and agendas
 - Compel examples for Eberron themes
 - Five campaign frameworks (Inquisitive Agency, Xen'drik Expedition, Shadow War, Mournland Salvage, Dragonmarked Intrigue)
 - Scene types (investigation, chase, social, combat)
+- Scene framing guidance ("Put a Scene On It", TV Test, asking for player intent)
 - Bronze Rule applications (airships, locations, organizations)
 - The Mourning guidance
 - Quick antagonist templates
 - Sharn quick reference
+- Quick Reference appendix (one-page cheat sheet)
 
 ---
 
@@ -174,6 +198,25 @@ If Ryan wants to expand:
 - Added boss stat blocks (Lord of Blades, Emerald Claw Commander, Daelkyr Cultist Champion, Chamber Dragon)
 - Added Quick Build Reference table
 
+### Session 5
+- Added Spellcasting section to Player's Guide (magic as actions, signature spell stunts)
+- Fixed dual stress track inconsistencies (character sheet, sample character, play example all showed single track)
+- Changed "Cybernetic Arm" example to "Warforged Veteran"
+- Merged Academics skill into Lore (wide magic setting)
+- Added "What Is Fate?" intro for newcomers
+- Added Session Zero guidance to GM's Guide
+- Added Quick Reference appendix (one-page cheat sheet)
+- Added Scale system for mythic entities
+- Added Full Defense optional rule
+- Added scene framing guidance from Book of Hanz ("Put a Scene On It", TV Test, asking player intent)
+- Added aspect-writing guidance (five functions: permission, awesome, complications, setting)
+- Added non-violent attacks section from Atomic Robo
+
+**Key Sources Added This Session:**
+- Book of Hanz (fiction-first philosophy, scene framing, aspect guidance)
+- Atomic Robo RPG (non-violent attacks, modes inspiration)
+- Venture City (stunt-based powers for spell design)
+
 ---
 
-*Last updated: Session 4*
+*Last updated: Session 5*
