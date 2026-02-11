@@ -314,6 +314,7 @@ You grew up far from civilization.
 *Suggested Stunts*:
 - **Wilderness Survival**: Because I grew up in the wild, I get +2 to Crafts when foraging, building shelter, or surviving in nature.
 - **One with Nature**: Because I understand the natural world, I can use Notice instead of Empathy when reading the behavior of animals.
+- **Berserker Rage**: Because I fight with primal fury, once per scene I can take 1 mental stress to get +2 on a Fight attack.
 
 ### Street Urchin
 
@@ -381,11 +382,12 @@ You study and wield arcane power.
 
 *Special*: You should take an aspect reflecting your magical training (see Magic and Artifice).
 
-*Suggested Aspects*: *Aundairian War Mage*, *Morgrave Arcanist*, *Magic Flows Through Me*
+*Suggested Aspects*: *Aundairian War Mage*, *Morgrave Arcanist*, *Magic Flows Through Me*, *Pact with a Quori Spirit*, *The Traveler Whispers to Me*, *I Bargained with Something in Khyber*
 
 *Suggested Stunts*:
 - **Arcane Shield**: Because I can conjure protective wards, I can use Will instead of Athletics to defend against magical attacks.
 - **Identify Magic**: Because I'm trained in the arcane arts, I get +2 to Lore when analyzing spells, enchantments, or magical phenomena.
+- **Dark Bargain**: Because my power comes from a dangerous patron, once per scene when I invoke a patron-related aspect for a magical action, I get +4 instead of +2.
 
 ### Priest
 
