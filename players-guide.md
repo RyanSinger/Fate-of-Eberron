@@ -387,7 +387,7 @@ You study and wield arcane power.
 *Suggested Stunts*:
 - **Arcane Shield**: Because I can conjure protective wards, I can use Will instead of Athletics to defend against magical attacks.
 - **Identify Magic**: Because I'm trained in the arcane arts, I get +2 to Lore when analyzing spells, enchantments, or magical phenomena.
-- **Dark Bargain**: Because my power comes from a dangerous patron, once per scene when I invoke a patron-related aspect for a magical action, I get +4 instead of +2.
+- **Dark Bargain**: When you invoke your patron-related trouble for a magical action, you also gain a patron-specific benefit for the rest of the scene. Work with your GM to define what your patron offers—examples: *Quori*: use Will instead of Empathy to read or influence emotions. *Overlord/Fiend*: +2 to Provoke attacks. *Traveler*: use Deceive instead of Stealth. *Daelkyr*: ignore one point of mental stress per attack. The benefit should be roughly equivalent to one stunt.
 
 ### Priest
 
