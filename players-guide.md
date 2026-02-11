@@ -314,6 +314,7 @@ You grew up far from civilization.
 *Suggested Stunts*:
 - **Wilderness Survival**: Because I grew up in the wild, I get +2 to Crafts when foraging, building shelter, or surviving in nature.
 - **One with Nature**: Because I understand the natural world, I can use Notice instead of Empathy when reading the behavior of animals.
+- **Berserker Rage**: Because I fight with primal fury, I can take 1 mental stress to get +2 on a Fight attack.
 
 ### Street Urchin
 
@@ -381,11 +382,12 @@ You study and wield arcane power.
 
 *Special*: You should take an aspect reflecting your magical training (see Magic and Artifice).
 
-*Suggested Aspects*: *Aundairian War Mage*, *Morgrave Arcanist*, *Magic Flows Through Me*
+*Suggested Aspects*: *Aundairian War Mage*, *Morgrave Arcanist*, *Magic Flows Through Me*, *Pact with a Quori Spirit*, *The Traveler Whispers to Me*, *I Bargained with Something in Khyber*
 
 *Suggested Stunts*:
 - **Arcane Shield**: Because I can conjure protective wards, I can use Will instead of Athletics to defend against magical attacks.
 - **Identify Magic**: Because I'm trained in the arcane arts, I get +2 to Lore when analyzing spells, enchantments, or magical phenomena.
+- **Dark Bargain**: When you invoke your patron-related trouble for a magical action, you also gain a patron-specific benefit for the rest of the scene. Work with your GM to define what your patron offers—examples: *Quori*: use Will instead of Empathy to read or influence emotions. *Overlord/Fiend*: +2 to Provoke attacks. *Traveler*: use Deceive instead of Stealth. *Daelkyr*: ignore one point of mental stress per attack. The benefit should be roughly equivalent to one stunt.
 
 ### Priest
 
