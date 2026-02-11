@@ -314,7 +314,7 @@ You grew up far from civilization.
 *Suggested Stunts*:
 - **Wilderness Survival**: Because I grew up in the wild, I get +2 to Crafts when foraging, building shelter, or surviving in nature.
 - **One with Nature**: Because I understand the natural world, I can use Notice instead of Empathy when reading the behavior of animals.
-- **Berserker Rage**: Because I fight with primal fury, once per scene I can take 1 mental stress to get +2 on a Fight attack.
+- **Berserker Rage**: Because I fight with primal fury, I can take 1 mental stress to get +2 on a Fight attack.
 
 ### Street Urchin
 
