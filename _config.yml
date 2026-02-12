@@ -1,7 +1,7 @@
 # Fate of Eberron - Jekyll Configuration
 title: Fate of Eberron
 description: A Fate Core adaptation for running campaigns in the world of Eberron
-baseurl: "/fate-srd-content" # the subpath of your site, e.g. /blog
+baseurl: "/Fate-of-Eberron" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
@@ -27,7 +27,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - CLAUDE_NOTES.md
+  - CLAUDE.md
   - LICENSE
   - vendor
   - docs
