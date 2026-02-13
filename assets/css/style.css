@@ -454,6 +454,11 @@ blockquote code,
   th, td {
     padding: var(--spacing-xs) var(--spacing-sm);
   }
+
+  img {
+    max-height: 50vh;
+    object-fit: contain;
+  }
 }
 
 /* Home page hero */

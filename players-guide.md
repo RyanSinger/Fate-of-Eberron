@@ -4,7 +4,6 @@ title: "Fate of Eberron: Player's Guide"
 description: A guide to creating characters and playing in the world of Eberron using the Fate system.
 ---
 
-
 This document works alongside the **Eberron Setting Guide** (for world lore) and the **GM's Guide** (for running the game). If you're new to Eberron, read the Setting Guide first.
 
 ---
