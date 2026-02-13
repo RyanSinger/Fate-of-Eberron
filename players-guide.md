@@ -715,7 +715,7 @@ The key rule: **magic doesn't change which skill you roll.** It changes the fict
 
 **Attack** and **Defend** use combat skills, flavored as magic. A mage attacks with Shoot (arcane bolts) or Fight (a blade wreathed in flame). A priest defends with Will (divine resilience) or Athletics (an instinctive magical dodge). The magic is real—the skill reflects *how* you're fighting, not *that* you know things about magic.
 
-> **Want Lore to attack?** Take a stunt. *Burning Hands*, *Eldritch Blast*, and similar signature spells exist precisely for this—they grant permission that the base skill doesn't have. That's what stunts are for.
+> **Don't have Shoot in your modes?** Stunts can help. *Burning Hands* lets you use Shoot as a zone attack—even at Mediocre (+0) that's worth it when you can invoke aspects for the bonus. Or take a second mode that includes combat skills.
 
 #### Magical Costs
 
@@ -739,7 +739,7 @@ When magic fails or ties, the GM can introduce costs reflecting magic's unpredic
 
 For magic your character uses reliably—their go-to spells—build them as stunts. These follow the standard stunt patterns: +2 in narrow circumstances, permission to do something new, or break a rule once per session.
 
-**Burning Hands**: Because I specialize in evocation, I can use Will to attack everyone in my zone. I must spend a fate point or free invoke to target the whole zone instead of one target.
+**Burning Hands**: Because I specialize in evocation, I can use Shoot to attack everyone in my zone. I must spend a fate point or free invoke to target the whole zone instead of one target.
 
 **Charm Person**: Because I weave enchantments, I get +2 to Deceive when using magic to make someone view me favorably. This doesn't work on targets who are actively hostile.
 
