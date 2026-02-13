@@ -41,6 +41,27 @@
 
 html {
   scroll-behavior: smooth;
+  background-color: var(--bg-dark);
+  scrollbar-color: var(--bg-light) var(--bg-dark);
+}
+
+/* Webkit scrollbar styling */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bg-light);
+  border-radius: 6px;
+  border: 2px solid var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--border-color);
 }
 
 body {
