@@ -5,8 +5,6 @@ description: A complete scene demonstrating how to play Fate of Eberron, featuri
 ---
 
 
-A complete scene demonstrating how to play Fate of Eberron, featuring five iconic player characters.
-
 ---
 
 ## The Party
@@ -450,25 +448,19 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 ---
 
-## Mechanics Summary
+## Under the Hood
 
-This scene demonstrated:
+That scene covered most of what you'll use in play: creating advantages, attacks and defense, overcoming obstacles, concessions, and a zone-based chase through Sharn.
 
-- **Create an Advantage**: Kira's feint (*Off-Balance*), Vex's tactical positioning (*Ready for Them*), Theron's divine protection (*Shield of Faith*)
-- **Attack and Defend**: Kaela's devastating attack on the half-elf, the lightning bolt against Vex
-- **Overcome**: Vex surviving the fall, Jak grabbing the wand with Crafts
-- **Invoking Aspects**: Using free invokes to boost Kaela's attack
-- **Stress and Consequences**: The half-elf taking a mild consequence (*Slashed Across the Ribs*) before being Taken Out
-- **Concession**: The thugs surrendering rather than being Taken Out
-- **Chase Scene**: Zone-based pursuit through Sharn's vertical layout
-- **Skill Substitution**: Using Will for defense, Crafts for item retrieval, Notice for shortcuts
-- **Compels**: (Implicit) The changeling's suicide rather than betray their masters
+A few things worth noticing:
 
-The scene also showed how Eberron's themes emerge naturally:
-- Moral ambiguity (Merrix d'Cannith—ally or villain?)
-- The Last War's legacy (banned creation forges, warforged identity)
-- Conspiracy and intrigue (layers of mystery)
-- Cinematic action (balcony fights, rooftop chases)
+Kaela's massive hit didn't come from raw skill. It came from the free invokes her allies set up—Kira's feint, Vex's tactical read. Creating advantages for each other is the single most effective thing you can do in a Fate conflict.
+
+The half-elf absorbed damage in layers: stress boxes first, then a mild consequence (*Slashed Across the Ribs*), and when the remaining shifts overwhelmed what was left, they were taken out. The thugs took a different exit—they conceded, lost on their own terms, and earned fate points for it. Concession is a tactical option, not a consolation prize.
+
+Characters used skills creatively throughout—Will for physical defense, Crafts to magnetically grab a wand, Notice to find a shortcut through the city. If you can justify it, your GM will probably let you try.
+
+And the Eberron side writes itself. A warforged investigating a warforged conspiracy. House Cannith's shadow over a simple murder. Layers of intrigue underneath everything. The setting does that work on its own.
 
 ---
 

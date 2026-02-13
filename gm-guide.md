@@ -5,15 +5,11 @@ description: A guide to running Eberron campaigns using the Fate system.
 ---
 
 
-A guide to running Eberron campaigns using the Fate system.
-
 This document works alongside the **Eberron Setting Guide** (for world lore) and the **Player's Guide** (for character creation).
 
 ---
 
 ## Running Eberron
-
-Eberron has a distinctive tone that sets it apart from traditional fantasy. Your job as GM is to embody that tone in play.
 
 ### The Core Principles
 
@@ -21,7 +17,7 @@ Eberron has a distinctive tone that sets it apart from traditional fantasy. Your
 
 There are no pure heroes or irredeemable villains in Eberron. The Silver Flame church genuinely fights evil—and also conducted a purge that nearly wiped out lycanthropes and shifters. House Cannith created the warforged, giving rise to a new form of life—and did so to profit from a century of war. The Lord of Blades may be a terrorist, or may be the only one fighting for warforged liberation.
 
-When you create NPCs, give them understandable motivations. When you present factions, show their virtues alongside their flaws. When players make choices, let those choices have real consequences—but not simple ones.
+Give your NPCs motivations that make sense—even the villains. Show factions' virtues alongside their flaws. And when the party makes a choice, let the consequences be real but never simple.
 
 > *Don't tell the players that the Church of the Silver Flame is good or evil. Show them a Thrane priest who heals the sick for free—and then show them another who treats shifters with barely concealed disgust. Let players form their own opinions.*
 
@@ -110,7 +106,7 @@ When players roll against passive opposition, you set the difficulty. Here's a s
 
 ## Session Zero
 
-Before your first adventure, run a **session zero**—a conversation about expectations, character creation, and campaign setup. This session is as important as any adventure.
+Before your first adventure, run a **session zero**. Character creation, expectations, campaign setup—get it all on the table before play starts.
 
 ### What to Cover
 
@@ -220,7 +216,7 @@ There are two approaches to creating NPCs:
 
 **Detailed NPCs**: For recurring characters, major villains, or anyone who needs to last multiple scenes, use the adversary framework below.
 
-The Fate Adversary Toolkit provides a framework for building opposition based on narrative role rather than power level. Choose adversary types based on the story function you need.
+The Fate Adversary Toolkit organizes opposition by narrative role rather than power level.
 
 ### Adversary Types
 
@@ -339,7 +335,7 @@ Things that block progress or threaten harm. They don't take actions—they just
 - Unstable floor (attacks Athletics at Fair +2 when you move through the zone)
 - Fire spreading through the building (attacks Physique at +2, increasing by +1 each exchange)
 
-**Distrations** demand attention or create consequences:
+**Distractions** demand attention or create consequences:
 - Civilians in danger (ignore them and gain *Innocent Blood on Your Hands*)
 - Evidence about to be destroyed (overcome Resources Good +3 to preserve it)
 - Reinforcements arriving (deal with them or face fillers next exchange)
@@ -563,8 +559,6 @@ Each House functions as an economic power that transcends national borders.
 
 ## Compels in Eberron
 
-Compels drive story and earn players fate points. Eberron's themes provide rich compel opportunities.
-
 ### War Compels
 
 *Cyran Refugee* → "You recognize that merchant—he commanded the Brelish unit that sacked your hometown."
@@ -595,7 +589,7 @@ Compels drive story and earn players fate points. Eberron's themes provide rich 
 
 ## Campaign Frameworks
 
-Here are structures for different campaign types in Eberron.
+Pick a framework, adapt it, or mix elements from several.
 
 ### The Inquisitive Agency
 

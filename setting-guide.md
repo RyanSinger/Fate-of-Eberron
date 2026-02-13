@@ -6,27 +6,27 @@ description: A guide to the world of Eberron for Game Masters and Players—focu
 
 ## What is Eberron?
 
-Eberron is a fantasy setting that blends traditional medieval fantasy with pulp adventure, noir intrigue, and magical technology. Created by Keith Baker, the setting draws inspiration from films like *Raiders of the Lost Ark*, *Casablanca*, *The Maltese Falcon*, and *Pirates of the Caribbean*.
+Keith Baker built Eberron to feel nothing like standard fantasy. It draws more from *Raiders of the Lost Ark*, *Casablanca*, and *The Maltese Falcon* than from Tolkien—pulp adventure, noir intrigue, and magical technology in a world that feels like the 1920s filtered through a fantasy lens. Airships instead of horses. Speaking stones instead of letters. Post-war tension instead of Dark Lords.
 
-The world feels like a fantasy version of the 1920s-1930s—a post-war society with airships, trains, and widespread low-level magic integrated into everyday life. Some fans describe it as "dungeonpunk."
+Some fans call it "dungeonpunk."
 
 ## Core Themes and Tone
 
 ### Moral Ambiguity
 
-Unlike settings with clear-cut good versus evil, Eberron thrives in shades of grey. Heroes aren't always noble, and villains may have sympathetic motivations. A silver dragon might be corrupt while a vampire could be an ally. This makes Eberron ideal for mysteries, political intrigue, and morally complex stories.
+Heroes aren't always noble. Villains have sympathetic motivations. A silver dragon might be corrupt while a vampire could be your best ally—and figuring out which is which is half the fun.
 
 ### The Aftermath of War
 
-The setting takes place two years after the Last War—a century-long conflict that devastated the continent. The tone mirrors post-World War I Europe: veterans uncertain of their place, nations in uneasy peace, espionage and political tension simmering beneath the surface. Old grudges remain fresh, and another war feels inevitable.
+Two years ago, a century of war finally ended. The tone is post-World War I Europe: veterans without purpose, nations in uneasy peace, espionage simmering beneath every handshake. Old grudges remain fresh, and another war feels inevitable.
 
 ### Wide Magic
 
-Magic in Eberron is widespread but not high-powered. Ordinary people use minor magic daily—magical streetlights illuminate cities, speaking stones allow long-distance communication, and elemental-powered trains connect nations. However, powerful magic remains rare. A village might have someone who can mend a broken tool, but finding someone who can raise the dead is exceptionally difficult.
+Minor magic is everywhere. Streetlights glow with enchantment, speaking stones handle long-distance communication, and elemental-powered trains connect the nations. But powerful magic is rare. A village healer can mend a broken bone—finding someone who can raise the dead is another matter entirely.
 
 ### Cinematic Action
 
-Eberron encourages swashbuckling, dramatic action. Chases through vertical cities, battles atop speeding lightning rails, and desperate escapes from ancient ruins are the norm. Think pulp adventure serials and noir detective stories.
+Chases through a mile-high city. Battles atop a speeding lightning rail. Desperate escapes from collapsing ruins. This is pulp serials and noir detective fiction—the action should always be cinematic.
 
 ## The World
 
@@ -214,7 +214,7 @@ Eberron works best when you lean into its themes. Make things morally complex—
 
 ### Everything Has a Place
 
-The guiding principle of Eberron is: "If it exists in D&D, it has a place in Eberron." Monsters aren't random encounters—they're members of organizations, citizens of nations, or pieces of larger schemes. Those goblins aren't just goblins; they're Darguun soldiers or Daask enforcers. That dragon isn't guarding a random hoard; it might be a member of the Chamber, manipulating events for its own mysterious purposes.
+Keith Baker's design principle: "If it exists in D&D, it has a place in Eberron." Monsters aren't random encounters—they're members of organizations, citizens of nations, or pieces of larger schemes. Those goblins aren't just goblins; they're Darguun soldiers or Daask enforcers. That dragon isn't guarding a random hoard; it might be a member of the Chamber, manipulating events for its own mysterious purposes.
 
 ### The Last War Matters
 
@@ -240,7 +240,7 @@ Trust carefully. Patrons have hidden agendas. Organizations pursue their own goa
 
 ### Magic is Everyday
 
-Your character lives in a world where minor magic is commonplace. You've ridden lightning rails, seen skycoaches, and used speaking stones. Magic isn't mysterious to your character—it's just how the world works. What's remarkable in Eberron is the *powerful* magic, not the everyday kind.
+Minor magic is commonplace to your character. You've ridden lightning rails, hailed skycoaches, and used speaking stones your whole life. Magic isn't mysterious—it's just how things work. What's remarkable in Eberron is the *powerful* magic, not the everyday kind.
 
 ---
 
@@ -254,4 +254,4 @@ Your character lives in a world where minor magic is commonplace. You've ridden 
 
 ---
 
-*This guide provides setting information for Eberron. For character creation and game mechanics, see the Player's Guide. For running the game, see the GM's Guide.*
+*For character creation and game mechanics, see the Player's Guide. For running the game, see the GM's Guide.*
