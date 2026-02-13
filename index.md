@@ -50,7 +50,7 @@ Run Eberron campaigns with guidance on adversary building, factions, compels, an
 
 ### [Play Example]({{ '/play-example' | relative_url }})
 
-See Fate of Eberron in action with a complete scene featuring five iconic characters—a warforged detective, Cyran spy, artificer, noble, and kalashtar monk.
+See Fate of Eberron in action with a complete scene featuring five iconic characters—a warforged detective, Cyran spy, Thrane priest, exiled noble, and rogue artificer.
 
 </div>
 

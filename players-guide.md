@@ -5,23 +5,21 @@ description: A guide to creating characters and playing in the world of Eberron 
 ---
 
 
-A guide to creating characters and playing in the world of Eberron using the Fate system.
-
 This document works alongside the **Eberron Setting Guide** (for world lore) and the **GM's Guide** (for running the game). If you're new to Eberron, read the Setting Guide first.
 
 ---
 
 ## What Is Fate?
 
-Fate is a tabletop roleplaying game that focuses on collaborative storytelling. If you've played other RPGs like D&D or Pathfinder, you'll find Fate familiar but different in some key ways:
+If you've played D&D or Pathfinder, Fate will feel familiar—but the priorities are different.
 
-**Characters are defined by who they are, not what they have.** Your character's aspects—short phrases describing who they are—matter more than equipment lists or spell slots. A *Cynical War Veteran* plays differently than a *Wide-Eyed Morgrave Scholar*, regardless of their skill ratings.
+**Characters are defined by who they are, not what they have.** Aspects—short phrases like *Cynical War Veteran* or *Wide-Eyed Morgrave Scholar*—shape play more than any equipment list or spell slot.
 
-**The dice suggest outcomes; they don't dictate them.** When you roll, the result tells you whether you succeed, fail, or something in between—but you and the GM work together to decide what that looks like in the story.
+**The dice don't dictate the story.** A roll tells you whether you succeed, fail, or land somewhere in between. You and the GM decide together what that actually looks like.
 
-**Players have narrative authority.** You can spend fate points to add details to the world, not just bonuses to rolls. If your aspect says you're *Connected to the Boromar Clan*, you can declare that you know a guy in this district.
+**Players shape the world, not just their characters.** Spend a fate point, and your aspect *Connected to the Boromar Clan* means you know a guy in this district. That's not a bonus to a roll—that's a fact you just established.
 
-**Failure is interesting, not punishing.** Bad rolls don't mean "nothing happens." They mean complications, twists, and costs. The story keeps moving.
+**Failure keeps things moving.** Bad rolls don't mean "nothing happens." They mean complications, twists, and costs.
 
 To play, you'll need:
 - **Fate dice** (four six-sided dice with +, −, and blank faces) or regular dice (1-2 = −, 3-4 = blank, 5-6 = +)
@@ -33,7 +31,7 @@ To play, you'll need:
 
 ## What You Need to Know
 
-Eberron is a world of pulp adventure, noir intrigue, and magical technology. The Last War ended two years ago, leaving the continent of Khorvaire scarred and uneasy. Your character lives in this world of airships and ancient ruins, dragonmarked houses and political conspiracies.
+Eberron is pulp adventure, noir intrigue, and magical technology. The Last War ended two years ago, leaving Khorvaire scarred and uneasy. Your character lives among airships and ancient ruins, dragonmarked houses and political conspiracies.
 
 The key things that make Eberron different:
 
@@ -117,7 +115,7 @@ Modes are organized into three loose categories—**Origins**, **Backgrounds**, 
 
 ## Origins
 
-These modes reflect where you come from or what you fundamentally are.
+Your homeland or your nature—the things that shaped you before you had any say in the matter.
 
 ### Aundairian
 
@@ -241,7 +239,7 @@ You are bonded with a spirit from the plane of dreams.
 
 ## Backgrounds
 
-These modes reflect what you did before your current life.
+What you did before the campaign started—your training, your trade, your old life.
 
 ### Soldier
 
@@ -346,7 +344,7 @@ You carry a dragonmark and were raised in a House.
 
 ## Callings
 
-These modes reflect what you do now—your current role or profession.
+What you do now. Your role in the story.
 
 ### Inquisitive
 
@@ -696,7 +694,7 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 ## Magic and Artifice
 
-Magic in Eberron is everywhere but powerful magic is rare. There are two ways to use magic in play:
+Most magic in play works one of two ways:
 
 ### Narrative Magic
 
