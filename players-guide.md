@@ -412,6 +412,20 @@ You excel at combat.
 - **Signature Weapon**: Because I've mastered my weapon of choice, I get +2 to Fight when using [specific weapon type].
 - **Combat Assessment**: Because I know how to read a fight, I can use Fight instead of Empathy to gauge an opponent's skill and intentions.
 
+### Psychic Warrior
+
+You fight with the power of your mind.
+
+**Skills**: Athletics, Empathy, Physique, Provoke, Will
+
+*Special*: Your combat style is psychic, not physical. You need an aspect reflecting psionic ability (Kalashtar bond, aberrant mark, psionic training) to describe your attacks as manifesting psychic force.
+
+*Suggested Aspects*: *Mind Over Matter*, *My Thoughts Are Weapons*, *Psychic Power Is a Double-Edged Blade*
+
+*Suggested Stunts*:
+- **Psionic Blades**: Because I manifest blades of psychic force, I can use Provoke to deal physical stress. The target defends with Fight or Athletics.
+- **Flowing Dodge**: Because I read my opponents' intent before they strike, I get +2 to Athletics when defending against melee attacks.
+
 ### Face
 
 You're the one who does the talking.
@@ -1232,6 +1246,47 @@ From the modes, here's the complete skill list:
 **Physical Stress**: [ ] [ ] [ ]
 **Mental Stress**: [ ] [ ] [ ]
 **Consequences**: Mild (2) [ ] | Moderate (4) [ ] | Severe (6) [ ]
+
+---
+
+## Sample Character: Tharai
+
+**High Concept**: *Kalashtar Monk of the Shattered Path*
+
+**Trouble**: *My Quori's Rage Threatens My Discipline*
+
+**Relationship**: *(determined in Session Zero)*
+
+**Free Aspects**: *Trained in the Monasteries of Adar*, *I See Your Intent Before You Move*
+
+**Modes**:
+- Psychic Warrior (Good +3): Provoke (Specialized), Will (Focused)
+- Kalashtar (Fair +2): Will (Focused), Empathy (Focused)
+- Outlander (Average +1): Athletics (Focused)
+
+**Skills**:
+- Provoke: Superb (+5) — Psychic Warrior +3, Specialized +2
+- Will: Superb (+5) — Psychic Warrior +4 (highest), reinforced by Kalashtar
+- Athletics: Great (+4) — Psychic Warrior +3, reinforced by Outlander
+- Empathy: Great (+4) — Kalashtar +3 (highest), reinforced by Psychic Warrior
+- Physique: Great (+4) — Psychic Warrior +3, reinforced by Outlander
+- Notice: Good (+3) — Kalashtar +2, reinforced by Outlander
+- Lore: Fair (+2) — Kalashtar +2, trained
+- Rapport: Fair (+2) — Kalashtar +2, trained
+- Crafts: Average (+1) — Outlander +1, trained
+- Stealth: Average (+1) — Outlander +1, trained
+
+**Stunts**:
+- **Psionic Blades**: Because I manifest blades of psychic force, I can use Provoke to deal physical stress. The target defends with Fight or Athletics. I choose whether to target body or mind before I roll.
+- **Flowing Dodge**: Because I read my opponents' intent before they strike, I get +2 to Athletics when defending against melee attacks.
+- **Telepathic Feint**: Because I project false intentions into my opponents' minds, I get +2 to Provoke when creating advantages against opponents in my zone.
+
+**Refresh**: 3
+**Physical Stress**: [ ] [ ] [ ]
+**Mental Stress**: [ ] [ ] [ ]
+**Consequences**: Mild (2) [ ] | Moderate (4) [ ] | Severe (6) [ ]
+
+> **How Tharai Plays**: Tharai controls the battlefield through psychic pressure. His opening move is typically a Telepathic Feint—creating advantages like *Seeing Double* or *Paralyzed with Dread* with Provoke at an effective +7. Then he attacks with Psionic Blades, choosing physical stress against tough fighters or mental stress against those with weaker wills. On defense, Flowing Dodge makes him slippery in melee (+6 effective Athletics), and his Superb Will shuts down mental attacks cold. His weakness is range—he has no ranged attack—and he's out of his depth in social intrigue (Rapport +2, no Contacts or Deceive). The trouble aspect means the GM can compel him when his quori spirit's anger would break his monk discipline at the worst possible moment.
 
 ---
 
