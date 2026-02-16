@@ -418,9 +418,9 @@ You fight with the power of your mind.
 
 **Skills**: Athletics, Empathy, Physique, Provoke, Will
 
-*Special*: Your combat style is psychic, not physical. You need an aspect reflecting psionic ability (Kalashtar bond, aberrant mark, psionic training) to describe your attacks as manifesting psychic force.
+*Special*: Take an aspect reflecting your psionic source (Kalashtar bond, aberrant mark, psionic training).
 
-*Suggested Aspects*: *Mind Over Matter*, *My Thoughts Are Weapons*, *Psychic Power Is a Double-Edged Blade*
+*Suggested Aspects*: *Mind Over Matter*, *My Thoughts Are Weapons*, *The Rage Behind My Eyes Is Not Mine*
 
 *Suggested Stunts*:
 - **Psionic Blades**: Because I manifest blades of psychic force, I can use Provoke to deal physical stress. The target defends with Fight or Athletics.
@@ -1252,12 +1252,9 @@ From the modes, here's the complete skill list:
 ## Sample Character: Tharai
 
 **High Concept**: *Kalashtar Monk of the Shattered Path*
-
-**Trouble**: *My Quori's Rage Threatens My Discipline*
-
+**Trouble**: *The Spirit's Fury Is Always Listening*
 **Relationship**: *(determined in Session Zero)*
-
-**Free Aspects**: *Trained in the Monasteries of Adar*, *I See Your Intent Before You Move*
+**Free Aspects**: *The Path Is Stillness; the Blade Is Not*, *I See Your Intent Before You Move*
 
 **Modes**:
 - Psychic Warrior (Good +3): Provoke (Specialized), Will (Focused)
@@ -1285,8 +1282,6 @@ From the modes, here's the complete skill list:
 **Physical Stress**: [ ] [ ] [ ]
 **Mental Stress**: [ ] [ ] [ ]
 **Consequences**: Mild (2) [ ] | Moderate (4) [ ] | Severe (6) [ ]
-
-> **How Tharai Plays**: Tharai controls the battlefield through psychic pressure. His opening move is typically a Telepathic Feint—creating advantages like *Seeing Double* or *Paralyzed with Dread* with Provoke at an effective +7. Then he attacks with Psionic Blades, choosing physical stress against tough fighters or mental stress against those with weaker wills. On defense, Flowing Dodge makes him slippery in melee (+6 effective Athletics), and his Superb Will shuts down mental attacks cold. His weakness is range—he has no ranged attack—and he's out of his depth in social intrigue (Rapport +2, no Contacts or Deceive). The trouble aspect means the GM can compel him when his quori spirit's anger would break his monk discipline at the worst possible moment.
 
 ---
 
