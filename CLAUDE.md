@@ -2,6 +2,8 @@
 
 Working notes on this project. No sugarcoating.
 
+**Always push to remote after writing to disk.** Don't wait for the user to ask.
+
 ---
 
 ## Project Status
