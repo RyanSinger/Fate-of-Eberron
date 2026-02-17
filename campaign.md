@@ -48,6 +48,10 @@ One big decision we'll make as a group: **who do you work for, and why?**
 
 **War profiteers and smugglers.** You operate in the grey market, moving goods, people, and secrets across borders. An airship crew, a smuggling ring, a "logistics company" that doesn't ask questions. The war is your business opportunity and your biggest threat.
 
+### Characters
+
+You're encouraged to make new characters for this campaign. If you played in *The Singing Beacon*, you can bring your character back — they remember the old timeline, and nobody else does. That's a hell of an aspect.
+
 ### Character Ideas
 
 - A **warforged** fresh off the creation forge, built to fight a war they never asked for
