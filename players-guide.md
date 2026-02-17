@@ -91,7 +91,7 @@ Spend your points as follows:
 
 All skills in a mode start as Trained. You can only have **one Specialized skill per mode**.
 
-If a skill appears in multiple modes, it's **reinforced**—you take the highest rating and add +1 for each additional mode that contains it.
+If a skill appears in multiple modes, it's **reinforced**: you take the highest rating and add +1 for each additional mode that contains it.
 
 > **Example**: Kaela picks Soldier (Good), Criminal (Fair), and Cyran (Average).
 >
@@ -469,7 +469,7 @@ If no existing mode fits your concept, create your own.
 
 **Step 1: Name and Concept**
 
-Give your mode a name that captures its essence. A mode represents a coherent set of capabilities—what someone *is*, *was*, or *does*.
+Give your mode a name that captures its essence. A mode represents a coherent set of capabilities: what someone *is*, *was*, or *does*.
 
 **Step 2: Choose 5 Skills**
 
@@ -522,7 +522,7 @@ When building NPCs, you can create modes on the fly. A mode is just "5 skills th
 You have three more aspects to define:
 
 - **Relationship**: A connection to another PC. Good relationships have built-in tension or imbalance.
-- **Two Free Aspects**: Anything important about your character—beliefs, important items, connections, or history.
+- **Two Free Aspects**: Anything important about your character: beliefs, important items, connections, or history.
 
 ### What Makes a Good Aspect?
 
@@ -704,7 +704,7 @@ If you have an aspect that establishes magical ability—such as *Morgrave-Train
 
 When you use Lore to create an advantage, you might describe it as casting a divination spell. When you use Will to defend, you might describe a magical shield. When you Attack with Fight, you might describe a flaming sword.
 
-The mechanics don't change—you're still rolling the appropriate skill. Magic is the narrative "how," not a separate system.
+The mechanics don't change. You're still rolling the appropriate skill. Magic is the narrative "how," not a separate system.
 
 **What Magic Can't Do**: Your magical description can't exceed what the skill normally allows. Rolling Lore doesn't let you attack (unless you have a stunt that permits it). Magic provides flavor and permission, not new capabilities.
 
@@ -738,7 +738,7 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 
 ### Invention: Creating Magical Items
 
-Characters with the Artificer mode (or similar background) can create magical devices. The key principle: **you can't fail to make it**. You're a skilled artificer—of course you can build it. The question is what complications arise along the way.
+Characters with the Artificer mode (or similar background) can create magical devices. The key principle: **you can't fail to make it**. You're a skilled artificer. Of course you can build it. The question is what complications arise along the way.
 
 **Step 1: Define the Invention**
 
@@ -845,7 +845,7 @@ Every roll produces one of four outcomes:
 - **Fail** (you rolled lower): You don't achieve your goal. The GM may offer success at a major cost, or introduce a complication.
 - **Tie** (you rolled equal): Partial success, or success at a minor cost. You get what you want, but there's a catch.
 - **Success** (you rolled 1-2 higher): You achieve your goal without complications.
-- **Success with Style** (you rolled 3+ higher): You achieve your goal and get an additional benefit—often a boost or extra effect.
+- **Success with Style** (you rolled 3+ higher): You achieve your goal and get an additional benefit, often a boost or extra effect.
 
 ### The Four Actions
 
@@ -974,7 +974,7 @@ Each exchange, both sides roll an appropriate skill as an overcome action. The h
 
 ### Conflicts
 
-When characters can and want to harm each other—a fight, a heated argument, a psychic duel—use a **conflict**.
+When characters can and want to harm each other (a fight, a heated argument, a psychic duel), use a **conflict**.
 
 #### Zones
 
@@ -997,7 +997,7 @@ On your turn, you can:
 - Take one action (overcome, create advantage, or attack)
 - Move one zone (free if unimpeded)
 
-Defending is a reaction—you can defend as many times as you're attacked.
+Defending is a reaction. You can defend as many times as you're attacked.
 
 #### Zone Attacks
 
@@ -1047,7 +1047,7 @@ Self-treatment adds +2 to the difficulty. After successful treatment, the conseq
 
 #### Taken Out
 
-If you can't absorb all the shifts from an attack, you're **taken out**—removed from the scene. The attacker decides what happens to you: death, capture, forced retreat, humiliating defeat, or something worse.
+If you can't absorb all the shifts from an attack, you're **taken out**. You're removed from the scene. The attacker decides what happens to you: death, capture, forced retreat, humiliating defeat, or something worse.
 
 The outcome must fit the conflict's stakes. Losing an argument doesn't mean death. Losing a back-alley brawl might mean waking up in a Sharn jail—or in a Daask hideout. Consider creative alternatives: knocked unconscious and dragged somewhere, forced to accept unfavorable terms, left for dead but rescued by a passerby.
 
@@ -1081,7 +1081,7 @@ You can take this stunt multiple times for different items.
 
 ### Spellcasting
 
-Magic in Eberron is common—magewrights light lamps, Orien heirs teleport cargo, and wandslingers duel in Sharn's streets. For player characters, magic works through the same Fate mechanics as everything else.
+Magic in Eberron is common: magewrights light lamps, Orien heirs teleport cargo, and wandslingers duel in Sharn's streets. For player characters, magic works through the same Fate mechanics as everything else.
 
 #### Narrative Permission
 
@@ -1095,9 +1095,9 @@ Most spells are just the four actions with magical flavor:
 
 **Create Advantage** is the workhorse of battlefield magic. Cast *Shield of Faith* to create an aspect you can invoke for defense. Conjure *Deeper Darkness* to hinder enemies. Summon a *Spectral Hound* as an aspect that can be invoked for tracking or intimidation. Roll Lore (arcane) or Will (divine) against a difficulty set by the GM.
 
-**Overcome** handles magical problem-solving. Dispel a ward, break a curse, identify an enchantment, calm a hostile spirit. The skill depends on the approach—Lore for analytical magic, Will for force of personality or faith.
+**Overcome** handles magical problem-solving. Dispel a ward, break a curse, identify an enchantment, calm a hostile spirit. The skill depends on the approach: Lore for analytical magic, Will for force of personality or faith.
 
-**Attack** with magic works like any attack—roll your skill, deal stress. Whether you're swinging a sword or hurling lightning, the mechanics are identical. Mages typically attack with Lore or Shoot (for ranged blasts); priests might use Will for divine wrath.
+**Attack** with magic works like any attack. Roll your skill, deal stress. Whether you're swinging a sword or hurling lightning, the mechanics are identical. Mages typically attack with Lore or Shoot (for ranged blasts); priests might use Will for divine wrath.
 
 **Defend** can be magical when appropriate. A wizard might use Lore to defend against magical attacks. A priest might use Will to resist mental intrusion or possession.
 
@@ -1143,7 +1143,7 @@ For magic your character uses reliably—their go-to spells—build them as stun
 
 #### Ritual Magic
 
-For complex magical workings—opening a portal to Thelanis, binding a demon, raising the dead—use a **challenge** or the **invention** rules. Big magic shouldn't be a single roll; it should be a scene (or several scenes) with multiple obstacles and potential complications.
+For complex magical workings (opening a portal to Thelanis, binding a demon, raising the dead), use a **challenge** or the **invention** rules. Big magic shouldn't be a single roll; it should be a scene (or several scenes) with multiple obstacles and potential complications.
 
 > **Example**: The party needs to close a manifest zone that's bleeding aberrations into Sharn. The GM frames it as a challenge:
 > - Contain the immediate threat (Fight vs. Good)

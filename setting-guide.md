@@ -22,7 +22,7 @@ The setting takes place two years after the Last War—a century-long conflict t
 
 ### Wide Magic
 
-Magic in Eberron is widespread but not high-powered. Ordinary people use minor magic daily—magical streetlights illuminate cities, speaking stones allow long-distance communication, and elemental-powered trains connect nations. However, powerful magic remains rare. A village might have someone who can mend a broken tool, but finding someone who can raise the dead is exceptionally difficult.
+Magic in Eberron is widespread but not high-powered. Ordinary people use minor magic daily: magical streetlights illuminate cities, speaking stones allow long-distance communication, and elemental-powered trains connect nations. However, powerful magic remains rare. A village might have someone who can mend a broken tool, but finding someone who can raise the dead is exceptionally difficult.
 
 ### Cinematic Action
 
@@ -68,7 +68,7 @@ Once considered the jewel of Galifar, Cyre no longer exists. On the Day of Mourn
 
 ![The Mournland, with a living spell drifting through the devastation]({{ '/images/mournland-living-spell.png' | relative_url }})
 
-What remains is the Mournland—a blasted, twisted wasteland where the dead don't decay, living spells roam wild, and reality itself seems broken. The Mournland serves as both a mystery at the heart of the setting and a constant reminder of how devastating magical warfare can be.
+What remains is the Mournland—a blasted, twisted wasteland where the dead don't decay, living spells roam wild, and reality itself seems broken. The Mournland is both a mystery and a constant reminder of how devastating magical warfare can be.
 
 ## Other Notable Regions
 
@@ -84,7 +84,7 @@ What remains is the Mournland—a blasted, twisted wasteland where the dead don'
 
 ![Sharn, the City of Towers]({{ '/images/sharn-city-of-towers.png' | relative_url }})
 
-Sharn is the largest city in Khorvaire and often serves as a campaign's home base. Built on a manifest zone that enhances flight magic, the city rises nearly a mile into the sky—towers stacked upon towers, connected by bridges and served by flying transports.
+Sharn is the largest city in Khorvaire and a natural home base for campaigns. Built on a manifest zone that enhances flight magic, the city rises nearly a mile into the sky. Towers stacked upon towers, connected by bridges, served by flying transports.
 
 Sharn is a city of extremes. In the highest spires, dragonmarked barons make deals in crystal towers. In the depths below, criminals rule lightless slums. It's a perfect setting for noir intrigue, with corruption at every level of society.
 
@@ -96,17 +96,17 @@ Khorvaire is connected by a network of magical transportation that makes the con
 
 ![The lightning rail races across Khorvaire]({{ '/images/lightning-rail.png' | relative_url }})
 
-House Orien's lightning rail is the backbone of Khorvairian travel. These elegant trains don't run on tracks—they glide above a path of conductor stones, crackling with bound elemental energy. The rail connects all the major cities of the Five Nations (except the Mournland, where the lines were severed by the Day of Mourning).
+House Orien's lightning rail is the backbone of Khorvairian travel. These elegant trains don't run on tracks. They glide above a path of conductor stones, crackling with bound elemental energy. The rail connects all the major cities of the Five Nations (except the Mournland, where the lines were severed by the Day of Mourning).
 
 Travel by lightning rail is fast, comfortable, and relatively safe. First-class passengers enjoy private cabins, dining cars, and observation lounges. Steerage is cramped but affordable. The journey from Sharn to Wroat takes about a day; crossing the continent takes several.
 
-The lightning rail is also a classic adventure location—murder mysteries, heists, and dramatic confrontations all work beautifully on a train racing through the countryside.
+The lightning rail is also a classic adventure location: murder mysteries, heists, and dramatic confrontations all work beautifully on a train racing through the countryside.
 
 ### Airships
 
-House Lyrandar's airships are the most dramatic symbol of Eberron's magical technology. These vessels are wooden ships held aloft by bound elementals—rings of fire or air that encircle the hull and carry it through the sky. A Lyrandar heir with the Mark of Storm pilots the ship by communing with the elemental.
+House Lyrandar's airships are the most dramatic symbol of Eberron's magical technology. These vessels are wooden ships held aloft by bound elementals, rings of fire or air that encircle the hull and carry it through the sky. A Lyrandar heir with the Mark of Storm pilots the ship by communing with the elemental.
 
-Airship travel is faster than the lightning rail but far more expensive—only the wealthy, the desperate, or those on House business typically fly. Airships also serve military and cargo purposes, and some independent captains operate outside House control (often as smugglers or privateers).
+Airship travel is faster than the lightning rail but far more expensive. Only the wealthy, the desperate, or those on House business typically fly. Airships also serve military and cargo purposes, and some independent captains operate outside House control (often as smugglers or privateers).
 
 ### Other Transportation
 

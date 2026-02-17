@@ -145,6 +145,39 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 ---
 
+## Writing Style: Anti-Patterns to Avoid
+
+Based on Wikipedia's "Signs of AI Writing." These are the patterns that make text sound machine-generated. Never use them.
+
+### Banned Words/Phrases
+Don't use these in prose (occasional use in code comments or technical context is fine):
+- **Inflated significance**: "testament," "pivotal," "crucial," "vital role," "significant role," "underscores," "highlights" (as verb), "showcasing," "enduring legacy," "lasting legacy," "setting the stage," "evolving landscape," "deeply rooted," "focal point," "indelible mark"
+- **Promotional filler**: "vibrant," "rich" (figurative, e.g. "rich history"), "tapestry" (figurative), "nestled," "in the heart of," "groundbreaking" (figurative), "renowned," "profound," "boasts"
+- **Superficial analysis**: "fostering," "cultivating" (figurative), "garner," "delve," "intricate/intricacies," "interplay," "exemplifies," "valuable insights," "aligns with," "resonates with"
+- **Filler transitions**: Don't start sentences with "Additionally," "Moreover," or "Furthermore." Use "Also" sparingly. "However" is fine occasionally.
+- **Editorializing**: "it's important to note," "worth noting," "it bears mentioning"
+- **Section summaries**: "In summary," "In conclusion," "Overall"
+
+### Structural Patterns to Avoid
+- **Em dash overuse**: Use colons, periods, semicolons, commas, or parentheses where they're more natural. Em dashes are fine for parenthetical asides and definition lists, but shouldn't be the default connector for everything.
+- **"Serves as" / "stands as"**: Just use "is."
+- **Negative parallelisms**: "Not only X, but Y" and "It's not just X, it's Y" patterns.
+- **Rule of three**: Don't reflexively list things in threes ("adjective, adjective, and adjective").
+- **Elegant variation**: Don't use synonyms just to avoid repeating a word. Repeating is fine.
+- **"Despite its... faces challenges"**: The formulaic challenges-and-future-outlook structure.
+- **False ranges**: "From X to Y" where X and Y aren't on any meaningful scale.
+- **Superficial -ing clauses**: Don't tack "highlighting the..." or "reflecting the..." onto the end of sentences.
+- **Bold-colon lists**: Fine for reference material (stat blocks, skill lists), but write prose as prose.
+
+### What Good Writing Looks Like
+- Use "is" and "are" instead of fancy substitutes
+- Vary punctuation (colons, semicolons, periods, commas, parentheses) instead of defaulting to em dashes
+- Make specific, concrete statements instead of inflated generalities
+- If a sentence would work without a clause, cut the clause
+- Let facts speak for themselves without editorializing their significance
+
+---
+
 ## Potential Future Work
 
 If Ryan wants to expand:

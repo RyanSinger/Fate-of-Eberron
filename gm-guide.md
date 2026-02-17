@@ -110,13 +110,13 @@ When players roll against passive opposition, you set the difficulty. Here's a s
 
 ## Session Zero
 
-Before your first adventure, run a **session zero**—a conversation about expectations, character creation, and campaign setup. This session is as important as any adventure.
+Before your first adventure, run a **session zero**, a conversation about expectations, character creation, and campaign setup. This session is as important as any adventure.
 
 ### What to Cover
 
 **Campaign Pitch**: Share your vision for the campaign. Are you running a noir mystery in Sharn? A wilderness expedition to Xen'drik? A war story along the Karrnathi border? Give players enough to create fitting characters.
 
-**Tone and Content**: Eberron supports many tones—pulpy action, political intrigue, horror, war stories. Discuss which elements will feature prominently in your game. This is also when you establish safety tools (see below).
+**Tone and Content**: Eberron supports many tones: pulpy action, political intrigue, horror, war stories. Discuss which elements will feature prominently in your game. This is also when you establish safety tools (see below).
 
 **Party Connection**: Characters need a reason to work together. Consider:
 - A shared patron (dragonmarked house, university, government agency)
@@ -169,7 +169,7 @@ Common topics to discuss: torture, violence against children, mind control and p
 
 ## Scale
 
-Eberron features dramatic power differentials—ancient dragons, daelkyr, and overlords operate on a completely different level than mortal adventurers. **Scale** is a tool for modeling this in your NPC designs.
+Eberron features dramatic power differentials. Ancient dragons, daelkyr, and overlords operate on a completely different level than mortal adventurers. **Scale** is a tool for modeling this in your NPC designs.
 
 Scale isn't something PCs have or earn. It's purely a GM tool for creating adversaries whose power transcends normal skill ratings.
 
@@ -197,7 +197,7 @@ Choose the same benefit multiple times or mix them. A Legendary dragon (3 steps 
 
 **Scale makes certain fights unwinnable through direct confrontation.** That's intentional. If the PCs pick a straight fight with an overlord, they should lose. Scale models the narrative truth that some enemies require preparation, artifacts, clever plans, or dramatic sacrifice to defeat.
 
-**Use scale sparingly.** Most adversaries—even powerful ones—don't need it. A crime lord, a corrupt noble, or even a mid-level dragon can be modeled with high skills and good stunts. Reserve scale for truly mythic entities.
+**Use scale sparingly.** Most adversaries, even powerful ones, don't need it. A crime lord, a corrupt noble, or even a mid-level dragon can be modeled with high skills and good stunts. Reserve scale for truly mythic entities.
 
 **Scale can be situational.** A dragon is Legendary in physical combat but might be merely Supernatural in a battle of wits. An overlord is Godlike when manifested but perhaps only Otherworldly when working through agents.
 
@@ -252,7 +252,7 @@ Fillers are grouped enemies that share a stress track. They're tougher than thre
 - Attack as one unit with teamwork bonus
 - Removing stress removes individuals from the fight
 
-**When to use:** Guards, cultists, mercenary squads—opposition that should feel substantial but not individually memorable.
+**When to use:** Guards, cultists, mercenary squads. Opposition that should feel substantial but not individually memorable.
 
 > **Example: Emerald Claw Squad (4 soldiers)**
 > *Vol's Faithful Servants*
@@ -284,7 +284,7 @@ Hitters deal damage and can take a few hits before going down. They're the dange
 
 #### Bosses
 
-Bosses are major antagonists who can threaten the whole party. They should feel like they could be player characters—or more.
+Bosses are major antagonists who can threaten the whole party. They should feel like they could be player characters, or more.
 
 **Building Bosses:**
 - Full five aspects
@@ -327,7 +327,7 @@ Not all opposition fights back. Obstacles and constraints create problems that m
 
 #### Obstacles
 
-Things that block progress or threaten harm. They don't take actions—they just *are*.
+Things that block progress or threaten harm. They don't take actions. They just *are*.
 
 **Blocks** must be overcome to proceed:
 - Locked Cannith vault door (Burglary Great +4 to pick, Physique Legendary +8 to force)
@@ -563,7 +563,7 @@ Each House functions as an economic power that transcends national borders.
 
 ## Compels in Eberron
 
-Compels drive story and earn players fate points. Eberron's themes provide rich compel opportunities.
+Compels drive story and earn players fate points. Eberron's themes provide plenty of compel opportunities.
 
 ### War Compels
 
@@ -804,7 +804,7 @@ Everything can be a character. This is especially useful for Eberron's unique el
 
 ## The Mourning
 
-The Day of Mourning destroyed Cyre four years ago. No one knows why. This is the central mystery of Eberron—and you should have an answer (or several possible answers) in mind for your campaign.
+The Day of Mourning destroyed Cyre four years ago. No one knows why. This is the central mystery of Eberron, and you should have an answer (or several possible answers) in mind for your campaign.
 
 **Possible Causes**:
 - House Cannith experiment gone catastrophically wrong

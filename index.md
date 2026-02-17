@@ -12,7 +12,7 @@ title: Home
 
 ## What is This?
 
-Fate of Eberron combines the narrative flexibility of **Fate Core** with the rich setting of **Eberron**—a world of noir intrigue, magical technology, and moral complexity.
+Fate of Eberron combines the narrative flexibility of **Fate Core** with the setting of **Eberron**—a world of noir intrigue, magical technology, and moral complexity.
 
 This adaptation uses mode-based character creation inspired by *Atomic Robo RPG*, letting you quickly build characters that feel authentically Eberron while embracing Fate's fiction-first approach.
 
