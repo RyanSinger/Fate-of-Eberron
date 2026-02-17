@@ -26,7 +26,7 @@ One big decision we'll make as a group: **who do you work for, and why?**
 
 **National intelligence unit.** You all serve the same nation. Missions behind enemy lines, sabotage, extraction, assassination. Think Band of Brothers meets Tinker Tailor Soldier Spy. Everyone has the same flag but maybe not the same reasons for fighting.
 
-**Dragonmarked house operatives.** The houses are officially neutral—they sell to all sides. You work for a house protecting its interests across borders. One week you're in Breland, the next in Karrnath. You answer to the house, not to any crown. Good for a mixed-nationality party.
+**Dragonmarked house operatives.** The houses are officially neutral—they sell to all sides. You work for a house protecting its interests across borders. One week you're in Breland, the next in Karrnath. You answer to the house, not to any crown. Good for a mixed-nationality party. A variant: you work for **the Twelve**, the inter-house council that coordinates between all the dragonmarked houses. Your team is drawn from different houses, sent to handle problems that threaten dragonmarked interests as a whole. Nobody's house comes first on these jobs.
 
 **Independent mercenary company.** You fight for whoever's paying. Loyalty is to each other, not to any nation. This opens up moral dilemmas: what jobs do you take? What lines won't you cross? What happens when two employers want opposite things?
 
