@@ -4,6 +4,11 @@ Working notes on this project. No sugarcoating.
 
 **Always push to remote after writing to disk.** Don't wait for the user to ask.
 
+**Flavor text TTS**: Use OpenAI TTS API (`tts-1-hd` model, `nova` voice). Key is in `$OPENAI_API_KEY`. Command pattern:
+```
+curl -s https://api.openai.com/v1/audio/speech -H "Authorization: Bearer $OPENAI_API_KEY" -H "Content-Type: application/json" -d '{"model":"tts-1-hd","voice":"nova","input":"TEXT HERE"}' --output /tmp/tts.mp3 && afplay /tmp/tts.mp3
+```
+
 ---
 
 ## Project Status
