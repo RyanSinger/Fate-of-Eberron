@@ -6,19 +6,33 @@ description: The Last War Never Ended — a wartime Eberron campaign
 
 ## The Pitch
 
-The Last War has raged for a hundred years. It's not stopping.
+The Last War has raged for over a hundred years. It's not stopping.
 
-Five nations that were once a single kingdom have been tearing each other apart for a century. Nobody alive remembers peace. Aundair, Breland, Karrnath, Thrane, Cyre—each one believes the throne of Galifar belongs to them, and none of them are willing to stop killing to settle the question.
+Five nations that were once a single kingdom have been tearing each other apart for over a century. Nobody alive remembers peace. Aundair, Breland, Karrnath, Thrane, Cyre—each one believes the throne of Galifar belongs to them, and none of them are willing to stop killing to settle the question.
 
 The front lines shift with the seasons. In the cities behind those lines, spies and war profiteers work the angles. The dragonmarked houses sell weapons and healing to every side and get richer by the year. Warforged roll off the creation forges of House Cannith and march straight into the meat grinder.
 
 There are no good guys. There's your side, and there's everyone else.
 
+### The Timeline
+
+In default Eberron, the Day of Mourning destroyed Cyre in 994 YK. The horror of it forced the Five Nations to sign the Treaty of Thronehold and end the war. That didn't happen here.
+
+Our campaign follows from the events of *The Singing Beacon*, the previous campaign. That story ended with the party making a deal with the Daelkyr to unmake House Orien's teleportation network—the breach points that would have caused the Mourning. The cost: no cataclysm means no treaty. The war grinds on.
+
+**What's different from default Eberron:**
+
+- **No Day of Mourning.** Cyre was never destroyed. No Mournland. No dead-gray mist.
+- **No Treaty of Thronehold.** The war continues past 998 YK. There is no peace.
+- **Cyre still stands.** Battered, squeezed between hostile nations, but 2.3 million people are alive who wouldn't be otherwise. Metrol is a living city, not a ruin.
+- **No Orien teleportation network.** House Orien's teleportation circles were never built. Long-distance travel relies on House Orien's caravan routes, House Lyrandar's airships and ships, and the lightning rail. This makes the continent feel bigger and borders harder to cross.
+- **The war is exhausted, not over.** A century of fighting with no decisive victory and no shock terrible enough to force peace. Nations are bleeding out slowly. Morale is cracking. Desertion is up. But no one can stop, because stopping means admitting the last hundred years were for nothing.
+
+The other guides on this site describe the default post-war timeline. Everything about factions, dragonmarked houses, peoples, and the setting still applies—the war just hasn't ended yet.
+
 ### System
 
 Fate of Eberron: Fate Core rules adapted for the Eberron setting. Fate is a narrative RPG where your character's story matters more than their stat block. Eberron is a world that mixes fantasy with noir intrigue, magical technology, and moral ambiguity. Think Indiana Jones meets Casablanca with magic and warforged.
-
-**The twist:** We're playing during the Last War, not after it. The war is still on. Your characters are living through it. (The other guides on this site describe the default timeline where the war has ended. In our campaign, it hasn't.)
 
 ### Campaign Structures
 
