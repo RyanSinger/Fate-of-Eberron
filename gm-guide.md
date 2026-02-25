@@ -471,7 +471,7 @@ Each House functions as an economic power that transcends national borders.
 **House Sivis** (Scribing)
 - *Words Are Our Currency*
 - *Neutral in All Conflicts*
-- Agenda: Control communication, serve as neutral intermediaries
+- Agenda: Control communication, be the neutral intermediaries
 
 **House Tharashk** (Finding)
 - *We Find What You've Lost*
@@ -629,7 +629,7 @@ The party explores the mysterious southern continent.
 - *The Giants Left Secrets Behind*
 - *Xen'drik Changes You*
 
-**Episode Structure**: Expeditions to specific sites. Each site has its own dangers, puzzles, and treasures. The journey is as dangerous as the destination.
+**Episode Structure**: Expeditions to specific sites. Each site has its own dangers and treasures. The journey is as dangerous as the destination.
 
 **Faction Involvement**: Competing expeditions, drow factions, elemental threats, giant remnants.
 

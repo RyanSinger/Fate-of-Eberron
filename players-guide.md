@@ -530,7 +530,7 @@ Think about what you'd want to see in a story about your character. Good aspects
 
 **Grant Permission**: Let you do things most people can't. *Member of the King's Dark Lanterns* lets you access intelligence networks. *Trained at Rekkenmark Academy* means you know military secrets.
 
-**Make You Awesome**: Ensure success when it matters. *Never Miss a Shot* helps in that crucial moment. *The Best Swordsman in Sharn* means something in a duel.
+**Make You Awesome**: Ensure success when it matters. *Never Miss a Shot* helps when everything's on the line. *The Best Swordsman in Sharn* means something in a duel.
 
 **Create Complications**: Invite trouble that makes the story interesting. *Wanted by House Tarkanan* means assassins show up. *Can't Resist a Challenge* means you take bad bets.
 
@@ -958,7 +958,7 @@ The GM offers a fate point and describes the complication. You can accept (take 
 
 When the group faces a complicated situation that isn't a direct confrontation—like researching ancient texts, infiltrating a gala, or performing a complex ritual—use a **challenge**.
 
-The GM identifies the obstacles and assigns a skill and difficulty to each. Different characters can tackle different obstacles. Successes and failures accumulate to determine the overall outcome.
+The GM identifies the obstacles and assigns a skill and difficulty to each. Different characters can tackle different obstacles. Successes and failures accumulate to determine the outcome.
 
 > **Example**: The party needs to stop a Cult of the Dragon Below ritual. Theron attempts to disrupt the ritual chanting (Will vs. Great), Kira works to free the sacrificial victim (Burglary vs. Fair), and Vex holds off cultist reinforcements (Fight vs. Good). Their combined successes and failures shape how the scene resolves.
 
@@ -1057,7 +1057,7 @@ Talk with your group about boundaries. Some groups don't allow character death w
 
 You can **concede** at any time *before* your opponent rolls—not after you see a bad result. You immediately exit the conflict on your terms. You lose, but you control how.
 
-**Why concede?** You gain one fate point, plus one for each consequence you took. More importantly, you escape with something: knowledge of the enemy's plans, a chance to warn allies, or simply your life. A concession isn't just losing—it's a tactical retreat.
+**Why concede?** You gain one fate point, plus one for each consequence you took. More importantly, you escape with something: knowledge of the enemy's plans, a chance to warn allies, or simply your life. A concession is a tactical retreat, not a defeat.
 
 **How it works:** Declare you're conceding and describe your exit. "I throw a smoke bomb and flee into the lower city." The opposition can negotiate—"You escape, but they get the artifact"—but you still get something out of it.
 

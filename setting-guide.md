@@ -6,9 +6,9 @@ description: A guide to the world of Eberron for Game Masters and Players—focu
 
 ## What is Eberron?
 
-Eberron is a fantasy setting that blends traditional medieval fantasy with pulp adventure, noir intrigue, and magical technology. Created by Keith Baker, the setting draws inspiration from films like *Raiders of the Lost Ark*, *Casablanca*, *The Maltese Falcon*, and *Pirates of the Caribbean*.
+Eberron is a fantasy setting that blends traditional medieval fantasy with pulp adventure and noir intrigue in a world powered by magical technology. Created by Keith Baker, the setting draws inspiration from films like *Raiders of the Lost Ark*, *Casablanca*, *The Maltese Falcon*, and *Pirates of the Caribbean*.
 
-The world feels like a fantasy version of the 1920s-1930s—a post-war society with airships, trains, and widespread low-level magic integrated into everyday life. Some fans describe it as "dungeonpunk."
+The world feels like a fantasy version of the 1920s-1930s: a post-war society with airships, trains, and widespread low-level magic integrated into everyday life. Some fans describe it as "dungeonpunk."
 
 ## Core Themes and Tone
 
@@ -18,7 +18,7 @@ Unlike settings with clear-cut good versus evil, Eberron thrives in shades of gr
 
 ### The Aftermath of War
 
-The setting takes place two years after the Last War—a century-long conflict that devastated the continent. The tone mirrors post-World War I Europe: veterans uncertain of their place, nations in uneasy peace, espionage and political tension simmering beneath the surface. Old grudges remain fresh, and another war feels inevitable.
+The setting takes place two years after the Last War, a century-long conflict that devastated the continent. The tone mirrors post-World War I Europe: veterans uncertain of their place, nations in uneasy peace, espionage and political tension simmering beneath the surface. Old grudges remain fresh, and another war feels inevitable.
 
 ### Wide Magic
 
@@ -26,7 +26,7 @@ Magic in Eberron is widespread but not high-powered. Ordinary people use minor m
 
 ### Cinematic Action
 
-Eberron encourages swashbuckling, dramatic action. Chases through vertical cities, battles atop speeding lightning rails, and desperate escapes from ancient ruins are the norm. Think pulp adventure serials and noir detective stories.
+Eberron encourages swashbuckling, dramatic action. Chases through vertical cities and battles atop speeding lightning rails are the norm. Think pulp adventure serials and noir detective stories.
 
 ## The World
 
@@ -48,19 +48,19 @@ The heart of Khorvaire consists of five nations, each with a distinct character:
 
 ### Aundair
 
-A nation of knowledge and magic. Aundair values education, arcane study, and sophistication. Its people are often seen as intellectual but sometimes extravagant or arrogant. The floating towers of Arcanix house one of the finest magical academies in the world.
+A nation of knowledge and magic. Aundair values education and arcane study. Its people are often seen as intellectual but sometimes extravagant or arrogant. The floating towers of Arcanix house one of the finest magical academies in the world.
 
 ### Breland
 
-The most progressive and diverse nation, home to the massive city of Sharn. Breland values innovation, commerce, and individual freedom. Its people have a reputation for being clever and pragmatic—sometimes to the point of seeming shady or opportunistic.
+The most progressive and diverse nation, home to the massive city of Sharn. Breland values commerce and individual freedom. Its people have a reputation for being clever and pragmatic—sometimes to the point of seeming shady or opportunistic.
 
 ### Karrnath
 
-A militaristic nation that values discipline, strength, and martial tradition. Karrnath suffered greatly during the Last War and controversially employed undead soldiers. Its people are seen as tough and stoic, but the nation carries a dark reputation.
+A militaristic nation that values discipline and martial tradition. Karrnath suffered greatly during the Last War and controversially employed undead soldiers. Its people are seen as tough and stoic, but the nation carries a dark reputation.
 
 ### Thrane
 
-A theocracy devoted to the Church of the Silver Flame. Thrane values faith, righteousness, and the battle against supernatural evil. Its people can be seen as devout and steadfast—or as zealous and judgmental.
+A theocracy devoted to the Church of the Silver Flame. Thrane values faith and the battle against supernatural evil. Its people can be seen as devout and steadfast—or as zealous and judgmental.
 
 ### Cyre (The Mournland)
 
@@ -68,7 +68,7 @@ Once considered the jewel of Galifar, Cyre no longer exists. On the Day of Mourn
 
 ![The Mournland, with a living spell drifting through the devastation]({{ '/images/mournland-living-spell.png' | relative_url }})
 
-What remains is the Mournland—a blasted, twisted wasteland where the dead don't decay, living spells roam wild, and reality itself seems broken. The Mournland is both a mystery and a constant reminder of how devastating magical warfare can be.
+What remains is the Mournland: a blasted, twisted wasteland where the dead don't decay, living spells roam wild, and reality itself seems broken. The Mournland is both a mystery and a constant reminder of how devastating magical warfare can be.
 
 ## Other Notable Regions
 
@@ -98,9 +98,9 @@ Khorvaire is connected by a network of magical transportation that makes the con
 
 House Orien's lightning rail is the backbone of Khorvairian travel. These elegant trains don't run on tracks. They glide above a path of conductor stones, crackling with bound elemental energy. The rail connects all the major cities of the Five Nations (except the Mournland, where the lines were severed by the Day of Mourning).
 
-Travel by lightning rail is fast, comfortable, and relatively safe. First-class passengers enjoy private cabins, dining cars, and observation lounges. Steerage is cramped but affordable. The journey from Sharn to Wroat takes about a day; crossing the continent takes several.
+Travel by lightning rail is fast and relatively safe. First-class passengers enjoy private cabins and dining cars. Steerage is cramped but affordable. The journey from Sharn to Wroat takes about a day; crossing the continent takes several.
 
-The lightning rail is also a classic adventure location: murder mysteries, heists, and dramatic confrontations all work beautifully on a train racing through the countryside.
+The lightning rail is also a classic adventure location: murder mysteries and heists work beautifully on a train racing through the countryside.
 
 ### Airships
 
@@ -111,7 +111,7 @@ Airship travel is faster than the lightning rail but far more expensive. Only th
 ### Other Transportation
 
 - **Skycoaches**: In Sharn, smaller flying vehicles serve as taxis, carrying passengers between towers
-- **Magebred horses**: House Vadalis breeds superior mounts—faster, stronger, and more intelligent than normal horses
+- **Magebred horses**: House Vadalis breeds superior mounts, faster and more intelligent than normal horses
 - **Elemental galleons**: House Lyrandar also operates ships with bound water elementals for sea travel
 - **Orien couriers**: For messages and small packages, House Orien's couriers use teleportation magic
 - **House Sivis message stations**: Speaking stones allow long-distance communication, like magical telegraph offices
@@ -124,7 +124,7 @@ Transportation itself often becomes the adventure. Chases across Sharn's vertica
 
 ## The Dragonmarked Houses
 
-Thirteen bloodlines carry dragonmarks—magical sigils that grant supernatural abilities. These families have leveraged their marks into economic empires that transcend national boundaries. The Houses remained neutral during the Last War, selling services to all sides.
+Thirteen bloodlines carry dragonmarks, magical sigils that grant supernatural abilities. These families have leveraged their marks into economic empires that transcend national boundaries. The Houses remained neutral during the Last War, selling services to all sides.
 
 ### The Major Houses
 
@@ -150,11 +150,11 @@ The Korth Edicts (laws from the old kingdom) prevent Houses from owning land or 
 
 ### Warforged
 
-Living constructs created by House Cannith as soldiers during the Last War. Made of wood, metal, and stone animated by magic, warforged are sentient beings who must now find purpose in a world at peace. Many struggle with questions of identity: Were they built for war alone? Do they have souls? What does freedom mean for a created being?
+Living constructs created by House Cannith as soldiers during the Last War. Made of wood and metal animated by magic, warforged are sentient beings who must now find purpose in a world at peace. Many struggle with questions of identity: Were they built for war alone? Do they have souls? What does freedom mean for a created being?
 
 ### Changelings
 
-Descendants of doppelgangers, changelings can shift their appearance at will. Many create multiple personas with distinct identities, names, and lives. They face prejudice from those who distrust shapeshifters, leading many to hide their true nature.
+Descendants of doppelgangers, changelings can shift their appearance at will. Many create multiple personas, each with its own name and life. They face prejudice from those who distrust shapeshifters, and many hide their true nature.
 
 ### Shifters
 
@@ -162,11 +162,11 @@ Called "weretouched," shifters descended from humans and lycanthropes. They can 
 
 ### Kalashtar
 
-Humans bonded with spirits from the plane of dreams. Kalashtar possess innate psychic abilities and wage a secret war against the Dreaming Dark—sinister entities that manipulate mortals through nightmares. They appear human but carry ancient spirits within them.
+Humans bonded with spirits from the plane of dreams. Kalashtar possess innate psychic abilities and wage a secret war against the Dreaming Dark, sinister entities that manipulate mortals through nightmares. They appear human but carry ancient spirits within them.
 
 ## Religion in Eberron
 
-Religion in Eberron is a matter of faith, not certainty. The gods have never walked the world, and no one can prove they exist—yet divine magic works, and the faithful find meaning in their beliefs.
+Religion in Eberron is a matter of faith, not certainty. The gods have never walked the world, and no one can prove they exist. Yet divine magic works, and the faithful find meaning in their beliefs.
 
 ### The Sovereign Host
 
@@ -182,7 +182,7 @@ A younger faith centered on a divine force that protects the world from supernat
 
 ### The Blood of Vol
 
-A faith focused on the divinity within—the belief that the true divine spark lies in the blood and that mortals should seek their own path to immortality rather than worship distant gods. Outsiders often view the faith with suspicion due to its association with undead, but most followers are simply people seeking meaning and self-determination. (Unknown to most worshipers, the faith is secretly manipulated by an ancient lich.)
+A faith focused on the divinity within: the belief that the true divine spark lies in the blood and that mortals should seek their own path to immortality rather than worship distant gods. Outsiders often view the faith with suspicion due to its association with undead, but most followers are simply people seeking meaning and self-determination. (Unknown to most worshipers, the faith is secretly manipulated by an ancient lich.)
 
 ### Other Faiths
 
@@ -210,15 +210,15 @@ Eberron has its own cosmology of thirteen planes that orbit the material world. 
 
 ### Embrace the Tone
 
-Eberron works best when you lean into its themes. Make things morally complex—the patron who hires the party might have questionable motives. Add intrigue—there's always someone watching, always a deeper conspiracy. Use cinematic setpieces—fights on moving trains, chases through the vertical city, confrontations in ancient ruins.
+Eberron works best when you lean into its themes. Make things morally complex: the patron who hires the party might have questionable motives. Add intrigue. There's always someone watching, always a deeper conspiracy. Use cinematic setpieces: fights on moving trains, chases through Sharn's vertical cityscape.
 
 ### Everything Has a Place
 
-The guiding principle of Eberron is: "If it exists in D&D, it has a place in Eberron." Monsters aren't random encounters—they're members of organizations, citizens of nations, or pieces of larger schemes. Those goblins aren't just goblins; they're Darguun soldiers or Daask enforcers. That dragon isn't guarding a random hoard; it might be a member of the Chamber, manipulating events for its own mysterious purposes.
+The guiding principle of Eberron is: "If it exists in D&D, it has a place in Eberron." Monsters aren't random encounters; they belong to organizations and serve larger schemes. Those goblins are Darguun soldiers or Daask enforcers. That dragon isn't guarding a random hoard; it might be a member of the Chamber, manipulating events for its own mysterious purposes.
 
 ### The Last War Matters
 
-The war shapes everything. NPCs are veterans carrying trauma. Nations eye each other with suspicion. Refugees have lost everything. War profiteers got rich while others suffered. Use the war as backdrop—it provides endless story hooks and emotional stakes.
+The war shapes everything. NPCs are veterans carrying trauma. Nations eye each other with suspicion. Refugees have lost everything. War profiteers got rich while others suffered. Use the war as backdrop. It provides story hooks and emotional stakes that never run dry.
 
 ### Mystery is Central
 
