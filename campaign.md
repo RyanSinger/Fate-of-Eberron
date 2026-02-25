@@ -16,9 +16,9 @@ That's you.
 
 ### The Setting
 
-This is stock Eberron, 998 YK. The Day of Mourning destroyed Cyre four years ago. Nobody knows what caused it. The Mournland sits in the center of the continent, a dead-gray wound that doesn't heal. The Treaty of Thronehold holds, but barely. Every nation is rebuilding, rearming, and watching the others.
+This is stock Eberron, 998 YK. The Day of Mourning destroyed Cyre four years ago. Nobody knows what caused it. The Mournland sits in the center of the continent, a dead-gray wound that doesn't heal. The Treaty of Thronehold holds, but barely. Every nation is rearming and watching the others.
 
-Sharn is where all of it collides. Every faction, every nation, every house has people here. It's the largest city in Khorvaire, a trade hub, a cultural center, and a pit of corruption a mile deep. The perfect place to be a detective.
+Sharn is where all of it collides. Every faction and every nation has people here. It's the largest city in Khorvaire, a trade hub, and a pit of corruption a mile deep. If you're a detective, there's no shortage of work.
 
 ### System
 
@@ -26,7 +26,7 @@ Fate of Eberron: Fate Core rules adapted for the Eberron setting. Fate is a narr
 
 ### Tone
 
-Noir, not grimdark. The city is corrupt, the cases get messy, and the clients lie. But you're still the people who try. Maybe you do it for the money, maybe you do it because nobody else will, maybe you do it because you can't stop yourself. The point is you're in a city full of people who look the other way, and you don't.
+Noir, not grimdark. The city is corrupt, the cases get messy, and the clients lie. But you're still the people who try. Maybe you do it for the money. Maybe you just can't stop yourself. The point is you're in a city full of people who look the other way, and you don't.
 
 Some touchstones:
 
