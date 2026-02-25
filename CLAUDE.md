@@ -45,7 +45,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - Characters pick **3 modes** from a unified list
 - Modes rate at Good (+3), Fair (+2), Average (+1)
 - Skills within modes: Trained (+0), Focused (+1), Specialized (+2) above mode rating
-- Reinforced skills (in multiple modes) get +1 bonus
+- Overlapping skills (in multiple modes) take the highest rating, no extra bonus
 - Skill cap: Great (+5) at character creation
 - Modes organized loosely as Origins, Backgrounds, Callings—but players can pick any 3
 - **Custom modes**: Pick 5 thematically coherent skills, add suggested aspects

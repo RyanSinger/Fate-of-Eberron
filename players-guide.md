@@ -91,7 +91,7 @@ Spend your points as follows:
 
 All skills in a mode start as Trained. You can only have **one Specialized skill per mode**.
 
-If a skill appears in multiple modes, it's **reinforced**: you take the highest rating and add +1 for each additional mode that contains it.
+If a skill appears in multiple modes, you take the highest rating. The overlap doesn't give a bonus; it just means the skill isn't wasted in the lower mode.
 
 > **Example**: Kaela picks Soldier (Good), Criminal (Fair), and Cyran (Average).
 >
@@ -103,9 +103,7 @@ If a skill appears in multiple modes, it's **reinforced**: you take the highest 
 >
 > Fight appears only in Soldier at Good +3, plus Specialized +2 = Superb (+5), exactly at the cap.
 >
-> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = +4. Criminal gives Fair +2 plus Trained +0 = +2. She takes the higher (+4) and adds +1 for reinforcement = Superb (+5), exactly at the cap.
->
-> Her final Fight and Athletics are both Superb (+5).
+> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = Great (+4). Criminal gives Fair +2 plus Trained +0 = Fair (+2). She takes the higher: Great (+4).
 
 **Skill Cap**: No skill can exceed Superb (+5) at character creation.
 
