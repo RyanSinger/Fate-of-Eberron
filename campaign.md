@@ -107,10 +107,10 @@ One +5, one +4, five +3s, three +2s, two +1s. A strong investigator with solid p
 Three free stunts, one from each mode:
 
 - **Crime Scene Expert** (Inquisitive): Because I've investigated hundreds of cases, I get +2 to Investigate when examining a location where a crime occurred.
-- **Invisible in Plain Sight** (Street Urchin): Because nobody notices the poor, I can use Stealth instead of Deceive when blending into crowds or being overlooked.
+- **Friends in Low Places** (Street Urchin): Because I grew up in the lower wards, I get +2 to Contacts when looking for information or help in Sharn's lower and middle wards.
 - **Sharn Native** (Brelish): Because I know Sharn's vertical geography, I can use Investigate instead of Athletics when navigating the city's towers and lifts.
 
-Crime Scene Expert is her bread and butter. Invisible in Plain Sight is how she tails suspects: she doesn't put on a disguise, she just becomes another face in the crowd. Sharn Native means she finds routes and shortcuts by reading the city, not by climbing walls.
+Crime Scene Expert is her bread and butter. Friends in Low Places means she can always find someone who saw something, heard something, or owes her a favor—as long as she's not working the upper wards. Sharn Native means she finds routes and shortcuts by reading the city, not by climbing walls.
 
 #### Character Sheet
 
@@ -143,7 +143,7 @@ Crime Scene Expert is her bread and butter. Invisible in Plain Sight is how she 
 
 **Stunts**:
 - **Crime Scene Expert**: Because I've investigated hundreds of cases, I get +2 to Investigate when examining a location where a crime occurred.
-- **Invisible in Plain Sight**: Because nobody notices the poor, I can use Stealth instead of Deceive when blending into crowds or being overlooked.
+- **Friends in Low Places**: Because I grew up in the lower wards, I get +2 to Contacts when looking for information or help in Sharn's lower and middle wards.
 - **Sharn Native**: Because I know Sharn's vertical geography, I can use Investigate instead of Athletics when navigating the city's towers and lifts.
 
 **Refresh**: 3
