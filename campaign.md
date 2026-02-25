@@ -1,68 +1,58 @@
 ---
 layout: guide
 title: Campaign
-description: The Last War Never Ended — a wartime Eberron campaign
+description: Sharn Inquisitives — a noir detective campaign in the City of Towers
 ---
 
 ## The Pitch
 
-The Last War has raged for over a hundred years. It's not stopping.
+The war is over. The problems aren't.
 
-Five nations that were once a single kingdom have been tearing each other apart for over a century. Nobody alive remembers peace. Aundair, Breland, Karrnath, Thrane, Cyre—each one believes the throne of Galifar belongs to them, and none of them are willing to stop killing to settle the question.
+Two years ago, the Treaty of Thronehold ended a century of war. The Five Nations agreed to stop killing each other. On paper, it worked. In practice, Sharn is full of people the peace left behind: refugees from the Mournland with nowhere to go, veterans who can't stop fighting, spies who never got the order to stand down, and war criminals who bought new names.
 
-The front lines shift with the seasons. In the cities behind those lines, spies and war profiteers work the angles. The dragonmarked houses sell weapons and healing to every side and get richer by the year. Warforged roll off the creation forges of House Cannith and march straight into the meat grinder.
+The City of Towers is the biggest city on the continent. A vertical sprawl stacked miles high, where the upper wards float in sunlight and the lower wards never see the sky. Money and power flow upward. Everything else flows down. The Sharn Watch is corrupt, undermanned, and mostly concerned with keeping the upper wards comfortable. In the middle and lower wards, if you want justice—or anything close to it—you hire an inquisitive.
 
-There are no good guys. There's your side, and there's everyone else.
+That's you.
 
-### The Timeline
+### The Setting
 
-In default Eberron, the Day of Mourning destroyed Cyre in 994 YK. The horror of it forced the Five Nations to sign the Treaty of Thronehold and end the war. That didn't happen here.
+This is stock Eberron, 998 YK. The Day of Mourning destroyed Cyre four years ago. Nobody knows what caused it. The Mournland sits in the center of the continent, a dead-gray wound that doesn't heal. The Treaty of Thronehold holds, but barely. Every nation is rebuilding, rearming, and watching the others.
 
-Our campaign follows from the events of *The Singing Beacon*, the previous campaign. That story ended with the party making a deal with the Daelkyr to unmake House Orien's teleportation network—the breach points that would have caused the Mourning. The cost: no cataclysm means no treaty. The war grinds on.
-
-**What's different from default Eberron:**
-
-- **No Day of Mourning.** Cyre was never destroyed. No Mournland. No dead-gray mist.
-- **No Treaty of Thronehold.** The war continues past 998 YK. There is no peace.
-- **Cyre still stands.** Battered, squeezed between hostile nations, but 2.3 million people are alive who wouldn't be otherwise. Metrol is a living city, not a ruin.
-- **No Orien teleportation network.** House Orien's teleportation circles were never built. Long-distance travel relies on House Orien's caravan routes, House Lyrandar's airships and ships, and the lightning rail. This makes the continent feel bigger and borders harder to cross.
-- **The war is exhausted, not over.** A century of fighting with no decisive victory and no shock terrible enough to force peace. Nations are bleeding out slowly. Morale is cracking. Desertion is up. But no one can stop, because stopping means admitting the last hundred years were for nothing.
-
-The other guides on this site describe the default post-war timeline. Everything about factions, dragonmarked houses, peoples, and the setting still applies—the war just hasn't ended yet.
+Sharn is where all of it collides. Every faction, every nation, every house has people here. It's the largest city in Khorvaire, a trade hub, a cultural center, and a pit of corruption a mile deep. The perfect place to be a detective.
 
 ### System
 
-Fate of Eberron: Fate Core rules adapted for the Eberron setting. Fate is a narrative RPG where your character's story matters more than their stat block. Eberron is a world that mixes fantasy with noir intrigue, magical technology, and moral ambiguity. Think Indiana Jones meets Casablanca with magic and warforged.
+Fate of Eberron: Fate Core rules adapted for the Eberron setting. Fate is a narrative RPG where your character's story matters more than their stat block. Noir detective stories are about hard choices, compromised clients, and pulling on threads until something ugly comes loose. Fate handles that well.
 
-### Campaign Structures
+### Tone
 
-One big decision we'll make as a group: **who do you work for, and why?**
+Noir, not grimdark. The city is corrupt, the cases get messy, and the clients lie. But you're still the people who try. Maybe you do it for the money, maybe you do it because nobody else will, maybe you do it because you can't stop yourself. The point is you're in a city full of people who look the other way, and you don't.
 
-**National intelligence unit.** You all serve the same nation. Missions behind enemy lines, sabotage, extraction, assassination. Think Band of Brothers meets Tinker Tailor Soldier Spy. Everyone has the same flag but maybe not the same reasons for fighting.
+Some touchstones:
 
-**Dragonmarked house operatives.** The houses are officially neutral—they sell to all sides. You work for a house protecting its interests across borders. One week you're in Breland, the next in Karrnath. You answer to the house, not to any crown. Good for a mixed-nationality party. A variant: you work for **the Twelve**, the inter-house council that coordinates between all the dragonmarked houses. Your team is drawn from different houses, sent to handle problems that threaten dragonmarked interests as a whole. Nobody's house comes first on these jobs.
+- **Chinatown** — You can do the right investigation and still lose.
+- **The Maltese Falcon** — Everyone wants the thing. Everyone is lying about why.
+- **Brick** — Noir structure in an unexpected setting.
+- **L.A. Confidential** — Cops, corruption, and three different ways to pursue justice.
+- **Batman: The Animated Series** — Art deco city, morally gray stories, pulp energy.
 
-**Independent mercenary company.** You fight for whoever's paying. Loyalty is to each other, not to any nation. This opens up moral dilemmas: what jobs do you take? What lines won't you cross? What happens when two employers want opposite things?
+### The Agency
 
-**Neutral investigators.** Working under the auspices of House Medani, House Tharashk, or an independent agency. Someone has to solve crimes, find missing people, and chase down dangerous artifacts even while the world is at war. The war is the backdrop, not the mission—but it keeps getting in the way.
+You're inquisitives. Maybe you run your own shop in some mid-ward office with a leaky roof and a view of a bridge. Maybe you work under a more established name. Maybe you're freelancers who keep ending up on the same cases.
 
-**War profiteers and smugglers.** You operate in the grey market, moving goods, people, and secrets across borders. An airship crew, a smuggling ring, a "logistics company" that doesn't ask questions. The war is your business opportunity and your biggest threat.
-
-### Characters
-
-You're encouraged to make new characters for this campaign. If you played in *The Singing Beacon*, you can bring your character back — they remember the old timeline, and nobody else does. That's a hell of an aspect.
+We'll figure out the specifics in Session 0, but the core is: someone comes to you with a problem, and you go solve it. The cases start small. They won't stay that way.
 
 ### Character Ideas
 
-- A **warforged** fresh off the creation forge, built to fight a war they never asked for
-- A **Cyran operative** watching their homeland get squeezed from every direction, desperate to turn the tide
-- A **Dark Lantern** (Breland's secret service) running missions behind enemy lines
-- A **Karrnathi officer** who commands undead soldiers and tells themselves it's necessary
-- An **artificer** building weapons on deadline because the front needs them yesterday
-- A **dragonmarked heir** trying to keep the house neutral while their homeland bleeds
-- A **deserter** who walked away from the front and now lives in the cracks between nations
-- A **field medic** from House Jorasco who's patched up soldiers from every nation and is tired of all of them
-- A **war correspondent** from the Korranberg Chronicle, chasing stories that powerful people want buried
+- A **veteran inquisitive** who's been working Sharn's cases for years and has the scars and enemies to prove it
+- A **former Dark Lantern** (Breland's secret service) who left the spy game but can't leave the skills behind
+- A **Cyran refugee** who lost everything in the Mourning and investigates because someone has to care about the displaced
+- A **warforged** built for the war, now trying to find purpose in a city that sees them as surplus equipment
+- A **House Medani heir** with the Mark of Detection, working cases that the house won't officially touch
+- A **Morgrave University scholar** who got too curious about something in the archives and can't let it go
+- A **changeling** who uses their gift to get into places and conversations that are closed to everyone else
+- A **former Sharn Watch officer** who quit (or was pushed out) because they wouldn't play along
+- A **Talenta halfling** bounty hunter who came to the big city and found more work than they expected
 
 ## Campaign Brief
 
