@@ -32,3 +32,4 @@ exclude:
   - vendor
   - docs
   - "*.jsonl"
+  - campaign
