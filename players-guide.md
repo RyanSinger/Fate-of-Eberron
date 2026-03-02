@@ -628,7 +628,7 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 *Basic Permission*: You can create comfort—food, shelter, and safety—in any circumstance.
 
-**Safe Haven**: Because of my Mark of Hospitality, once per session I can declare that we find a safe place to rest, even in dangerous territory.
+**Safe Haven**: Because of my Mark of Hospitality, once per session I can declare that we find a safe place to rest, even in dangerous territory. (Story declarations are limited to once per session rather than once per scene.)
 
 **Perfect Host**: Because of my Mark of Hospitality, I get +2 to Rapport when welcoming someone as a guest.
 
