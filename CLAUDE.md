@@ -11,23 +11,38 @@ curl -s https://api.openai.com/v1/audio/speech -H "Authorization: Bearer $OPENAI
 
 ---
 
-## Project Status
+## Commands
 
-**What this repo is:** Fate of Eberron—a custom Fate adaptation for running campaigns in the Eberron setting.
+| Command | Description |
+|---------|-------------|
+| `bundle install` | Install Ruby/Jekyll dependencies |
+| `bundle exec jekyll serve` | Local dev server at `localhost:4000/Fate-of-Eberron` |
+| `bundle exec jekyll build` | Build static site to `_site/` |
 
-**What's in the repo:**
-- `setting-guide.md` — Lore-only setting primer (no mechanics)
-- `players-guide.md` — Character creation, modes, stunts, dragonmarks, magic
-- `gm-guide.md` — Running the game, adversaries, factions, campaigns
-- `play-example.md` — Full scene with 5 iconic PCs demonstrating gameplay
-- `README.md` — Project overview
-- `CLAUDE.md` — This file
+---
 
-**What was removed:**
-- All original Fate SRD markdown files
-- All HTML source files
-- All build tooling
-- Everything except the three Eberron documents
+## Project Structure
+
+**What this repo is:** Fate of Eberron—a custom Fate adaptation for running campaigns in the Eberron setting. Published as a Jekyll site.
+
+```
+├── setting-guide.md      # Lore-only setting primer (no mechanics)
+├── players-guide.md      # Character creation, modes, stunts, dragonmarks, magic
+├── gm-guide.md           # Running the game, adversaries, factions, campaigns
+├── play-example.md       # Full scene with 5 iconic PCs demonstrating gameplay
+├── campaign.md           # Campaign-specific content
+├── index.md              # Site landing page
+├── README.md             # Project overview
+├── CLAUDE.md             # This file
+├── _config.yml           # Jekyll config (baseurl: /Fate-of-Eberron)
+├── _layouts/             # default.html, guide.html
+├── _includes/            # toc.html
+├── assets/css/           # Stylesheets
+├── assets/js/            # Scripts
+├── images/               # Art and icons
+├── Gemfile               # Ruby dependencies (Jekyll 4.3)
+└── _site/                # Generated output (gitignored)
+```
 
 ---
 
@@ -46,7 +61,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - Modes rate at Good (+3), Fair (+2), Average (+1)
 - Skills within modes: Trained (+0), Focused (+1), Specialized (+2) above mode rating
 - Overlapping skills (in multiple modes) take the highest rating, no extra bonus
-- Skill cap: Great (+5) at character creation
+- Skill cap: Superb (+5) at character creation
 - Modes organized loosely as Origins, Backgrounds, Callings—but players can pick any 3
 - **Custom modes**: Pick 5 thematically coherent skills, add suggested aspects
 
@@ -185,78 +200,10 @@ Don't use these in prose (occasional use in code comments or technical context i
 
 ---
 
-## Potential Future Work
+## Session History (Condensed)
 
-If Ryan wants to expand:
-
-1. **Additional modes**: Could add more national origins (Darguun, Droaam, Lhazaar), more specialized callings
-
-2. **Aberrant dragonmarks**: Currently not detailed. Could add aspects/stunts for aberrant marks with appropriate drawbacks.
-
-3. **Specific campaign starters**: Detailed first sessions for each campaign framework
-
-4. **Faction relationship mechanics**: More structured rules for tracking standing with organizations (currently just suggested aspects)
-
-5. **Airship/vehicle rules**: More detailed chase/travel mechanics
-
----
-
-## Session History
-
-### Session 1
-- Explored repo structure
-- Deleted HTML and build tooling
-- Created Eberron Setting Guide
-- Switched remote to Keybase
-- Created original CLAUDE_NOTES.md
-
-### Session 2
-- Designed full mode-based character creation system
-- Created Player's Guide with all modes, dragonmarks, magic rules
-- Created GM's Guide with adversaries, factions, campaigns
-- Removed all Fate SRD files (repo now Eberron-only)
-- Updated README
-- Rewrote CLAUDE_NOTES.md
-
-### Session 3
-- Added Play Example document with 5 iconic PCs and full scene
-- Fixed various inconsistencies (Kaela example math, airship skills, timeline)
-- Added Pilot calling and Drive skill
-- Documented stunt balance philosophy
-- Clarified that skill substitution stunts don't need usage limits
-- Added zone attack rules (invoke for area targeting instead of +2)
-- Added custom mode creation rules
-- Added suggested stunts to all modes
-- Changed skill cap from Great (+4) to Superb (+5)
-
-### Session 4
-- Rewrote GM's Guide adversary section using Fate Adversary Toolkit categories
-- Added Threats (one-hit opposition), Fillers (grouped with shared stress), Hitters (dangerous individuals), Bosses (major antagonists with boss features)
-- Added Obstacles (blocks, hazards, distractions) and Constraints sections
-- Added Countdowns with examples (ritual completion, collapsing ruin, airship going down)
-- Reorganized Quick Antagonist Templates by adversary type
-- Added boss stat blocks (Lord of Blades, Emerald Claw Commander, Daelkyr Cultist Champion, Chamber Dragon)
-- Added Quick Build Reference table
-
-### Session 5
-- Added Spellcasting section to Player's Guide (magic as actions, signature spell stunts)
-- Fixed dual stress track inconsistencies (character sheet, sample character, play example all showed single track)
-- Changed "Cybernetic Arm" example to "Warforged Veteran"
-- Merged Academics skill into Lore (wide magic setting)
-- Added "What Is Fate?" intro for newcomers
-- Added Session Zero guidance to GM's Guide
-- Added Quick Reference appendix (one-page cheat sheet)
-- Added Scale system for mythic entities
-- Added Full Defense optional rule
-- Added scene framing guidance from Book of Hanz ("Put a Scene On It", TV Test, asking player intent)
-- Added aspect-writing guidance (five functions: permission, awesome, complications, setting)
-- Added non-violent attacks section from Atomic Robo
-
-**Key Sources Added This Session:**
-- Book of Hanz (fiction-first philosophy, scene framing, aspect guidance)
-- Atomic Robo RPG (non-violent attacks, modes inspiration)
-- Venture City (stunt-based powers for spell design)
-
----
-
-*Last updated: Session 5*
+Sessions 1–2: Created repo, wrote Setting Guide, Player's Guide, GM's Guide. Removed Fate SRD files.
+Session 3: Added Play Example, Pilot calling, zone attacks, custom modes, stunts for all modes. Skill cap to Superb (+5).
+Session 4: Rewrote adversary section (Fate Adversary Toolkit categories), boss stat blocks, countdowns.
+Session 5: Added spellcasting section, scale system, scene framing guidance (Book of Hanz), non-violent attacks (Atomic Robo), Quick Reference appendix. Fixed dual stress track inconsistencies, merged Academics into Lore.
+Sessions 6+: Jekyll site build, art deco noir frontend, campaign page.
