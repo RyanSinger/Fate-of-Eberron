@@ -26,6 +26,13 @@
         <li><a href="{{ '/play-example' | relative_url }}" {% if page.url contains 'play-example' %}class="active"{% endif %}>Play Example</a></li>
         <li><a href="{{ '/campaign' | relative_url }}" {% if page.url contains 'campaign' %}class="active"{% endif %}>Campaign</a></li>
       </ul>
+      <div class="search-container">
+        <button class="search-toggle" aria-label="Search">&#9906;</button>
+        <div class="search-overlay">
+          <input type="text" class="search-input" placeholder="Search..." aria-label="Search guides">
+          <div class="search-results"></div>
+        </div>
+      </div>
     </div>
   </nav>
 
@@ -43,6 +50,7 @@
   <button class="back-to-top" aria-label="Back to top" title="Back to top">&#9650;</button>
 
   <noscript><style>.fade-in { opacity: 1; transform: none; }</style></noscript>
+  <script src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
