@@ -95,6 +95,29 @@ Mira grew up in Sharn's lower wards, fell in with a rough crowd, and eventually 
 - A **former Sharn Watch officer** who quit (or was pushed out) because they wouldn't play along
 - A **Talenta halfling** bounty hunter who came to the big city and found more work than they expected
 
+## Session 0 Checklist
+
+These sections get filled in during and after Session 0. Bring this to the table:
+
+**Before the Session:**
+- [ ] Everyone reads the campaign pitch above
+- [ ] Everyone skims the [Player's Guide](players-guide) character creation section
+- [ ] Think about 2-3 character concepts (the character ideas above are a starting point)
+
+**During the Session:**
+- [ ] Discuss tone and safety tools (X-Card, Lines and Veils — see [GM's Guide](gm-guide))
+- [ ] Build characters together — modes, aspects, stunts
+- [ ] Create relationship aspects connecting the PCs
+- [ ] Name the agency and decide where the office is
+- [ ] Establish each character's relationship to Sharn (who do they know, where do they go)
+- [ ] The GM presents the first case hook
+
+**After the Session:**
+- [ ] Finalize character sheets
+- [ ] GM writes up the campaign brief below
+
+---
+
 ## Campaign Brief
 
 *To be written after Session 0.*
