@@ -33,3 +33,4 @@ exclude:
   - docs
   - "*.jsonl"
   - campaign
+  - tests

@@ -103,17 +103,35 @@ assert_file_contains() {
   grep -q "$pattern" "$file" 2>/dev/null
 }
 
-# Run a claude -p command with timeout
+# Run a claude -p command with timeout (portable, no GNU timeout needed)
+# Unsets CLAUDECODE to allow nested invocation from within a Claude Code session
 run_claude() {
   local prompt="$1"
-  local timeout="${2:-120}"
-  local output
-  output=$(timeout "$timeout" claude -p "$prompt" 2>&1)
+  local max_time="${2:-120}"
+  local tmpfile
+  tmpfile=$(mktemp)
+
+  (unset CLAUDECODE; claude -p "$prompt" > "$tmpfile" 2>&1) &
+  local pid=$!
+
+  local elapsed=0
+  while kill -0 "$pid" 2>/dev/null; do
+    if [ "$elapsed" -ge "$max_time" ]; then
+      kill "$pid" 2>/dev/null
+      wait "$pid" 2>/dev/null
+      rm -f "$tmpfile"
+      echo "TIMEOUT: claude -p did not respond within ${max_time}s"
+      return 1
+    fi
+    sleep 1
+    elapsed=$((elapsed + 1))
+  done
+
+  wait "$pid"
   local exit_code=$?
-  if [ $exit_code -eq 124 ]; then
-    echo "TIMEOUT: claude -p did not respond within ${timeout}s"
-    return 1
-  fi
+  local output
+  output=$(cat "$tmpfile")
+  rm -f "$tmpfile"
   echo "$output"
   return $exit_code
 }
