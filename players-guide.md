@@ -54,7 +54,7 @@ Your character is defined by:
 - **Stress and Consequences**: How you absorb harm
 - **Refresh**: Your baseline fate points (starts at 3)
 
-### Step 1: High Concept and Trouble
+## Step 1: High Concept and Trouble
 
 Start with your **high concept**—a phrase that captures who your character fundamentally is.
 
@@ -64,7 +64,7 @@ Then define your **trouble**—something that makes your life complicated.
 
 > Examples: *The War Isn't Over for Me*, *I Trust Too Easily*, *Debts to House Cannith*, *Hunted by the Aurum*
 
-### Step 2: Choose Three Modes
+## Step 2: Choose Three Modes
 
 Modes are bundles of skills that reflect your background, training, and expertise. You pick any three modes and rate them:
 
@@ -107,7 +107,7 @@ If a skill appears in multiple modes, you take the highest rating. The overlap d
 
 **Skill Cap**: No skill can exceed Superb (+5) at character creation.
 
-### The Modes
+**The Modes**
 
 Modes are organized into three loose categories—**Origins**, **Backgrounds**, and **Callings**—but you can pick any three. A character could take three Origins, three Callings, or any mix.
 
