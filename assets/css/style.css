@@ -266,6 +266,11 @@ body::after {
 .guide {
   display: grid;
   gap: var(--spacing-xl);
+  min-width: 0;
+}
+
+.guide > * {
+  min-width: 0;
 }
 
 .guide-header {
@@ -273,6 +278,8 @@ body::after {
   padding-bottom: var(--spacing-xl);
   border-bottom: none;
   position: relative;
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 
 /* Centered gradient divider below guide title */
@@ -889,14 +896,19 @@ blockquote code,
     font-size: 2.2rem;
   }
 
+  .guide-header {
+    padding-left: var(--spacing-sm);
+    padding-right: var(--spacing-sm);
+  }
+
   .guide-header h1 {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     overflow-wrap: break-word;
     word-break: break-word;
   }
 
   .guide-header .guide-description {
-    font-size: 0.95rem;
+    font-size: 0.9rem;
   }
 
   h2 { font-size: 1.4rem; }
