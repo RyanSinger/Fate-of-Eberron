@@ -1199,4 +1199,4 @@ Roll 4 Fate dice (4dF). Each die shows +1, 0, or -1. Add your skill rating.
 
 ---
 
-*For setting information, see the Eberron Setting Guide. For character creation, see the Player's Guide.*
+*For setting information, see the [Eberron Setting Guide](setting-guide). For character creation, see the [Player's Guide](players-guide).*

@@ -472,4 +472,4 @@ The scene also showed how Eberron's themes emerge naturally:
 
 ---
 
-*For character creation, see the Player's Guide. For running the game, see the GM's Guide. For setting information, see the Eberron Setting Guide.*
+*For character creation, see the [Player's Guide](players-guide). For running the game, see the [GM's Guide](gm-guide). For setting information, see the [Eberron Setting Guide](setting-guide).*

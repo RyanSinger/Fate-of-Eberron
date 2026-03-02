@@ -254,4 +254,4 @@ Your character lives in a world where minor magic is commonplace. You've ridden 
 
 ---
 
-*This guide provides setting information for Eberron. For character creation and game mechanics, see the Player's Guide. For running the game, see the GM's Guide.*
+*This guide provides setting information for Eberron. For character creation and game mechanics, see the [Player's Guide](players-guide). For running the game, see the [GM's Guide](gm-guide).*

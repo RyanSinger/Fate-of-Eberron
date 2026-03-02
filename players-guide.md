@@ -332,7 +332,7 @@ You carry a dragonmark and were raised in a House.
 
 **Skills**: Contacts, Deceive, Lore, Rapport, Resources
 
-*Special*: You should also take a dragonmark aspect and may take dragonmark stunts (see the Dragonmarks section).
+*Special*: You should also take a dragonmark aspect and may take dragonmark stunts (see the [Dragonmarks](#dragonmarks) section).
 
 *Suggested Aspects*: *Heir to House [Name]*, *The Mark Chose Me*, *House Politics Are Cutthroat*
 
@@ -1307,4 +1307,4 @@ ___________________________________________________________
 
 ---
 
-*For setting information, see the Eberron Setting Guide. For running the game, see the GM's Guide.*
+*For setting information, see the [Eberron Setting Guide](setting-guide). For running the game, see the [GM's Guide](gm-guide).*
