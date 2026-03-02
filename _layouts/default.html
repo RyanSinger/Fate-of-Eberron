@@ -7,18 +7,23 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cinzel+Decorative:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <nav class="site-nav">
     <div class="nav-container">
       <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
       <ul class="nav-links">
-        <li><a href="{{ '/setting-guide' | relative_url }}">Setting Guide</a></li>
-        <li><a href="{{ '/players-guide' | relative_url }}">Player's Guide</a></li>
-        <li><a href="{{ '/gm-guide' | relative_url }}">GM's Guide</a></li>
-        <li><a href="{{ '/play-example' | relative_url }}">Play Example</a></li>
-        <li><a href="{{ '/campaign' | relative_url }}">Campaign</a></li>
+        <li><a href="{{ '/setting-guide' | relative_url }}" {% if page.url contains 'setting-guide' %}class="active"{% endif %}>Setting Guide</a></li>
+        <li><a href="{{ '/players-guide' | relative_url }}" {% if page.url contains 'players-guide' %}class="active"{% endif %}>Player's Guide</a></li>
+        <li><a href="{{ '/gm-guide' | relative_url }}" {% if page.url contains 'gm-guide' %}class="active"{% endif %}>GM's Guide</a></li>
+        <li><a href="{{ '/play-example' | relative_url }}" {% if page.url contains 'play-example' %}class="active"{% endif %}>Play Example</a></li>
+        <li><a href="{{ '/campaign' | relative_url }}" {% if page.url contains 'campaign' %}class="active"{% endif %}>Campaign</a></li>
       </ul>
     </div>
   </nav>
@@ -33,5 +38,7 @@
       <p>Eberron is a trademark of Wizards of the Coast. Fate is a trademark of Evil Hat Productions.</p>
     </div>
   </footer>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>

@@ -1,5 +1,4 @@
-/* Fate of Eberron - Stylesheet
-   A noir-pulp aesthetic inspired by Eberron's themes */
+/* Fate of Eberron - Art Deco Noir Stylesheet */
 
 :root {
   /* Color palette - noir with golden accents (dragonshards) */
@@ -18,7 +17,8 @@
   --shadow-color: rgba(0, 0, 0, 0.4);
 
   /* Typography */
-  --font-heading: 'Crimson Pro', Georgia, serif;
+  --font-display: 'Cinzel Decorative', 'Cinzel', Georgia, serif;
+  --font-heading: 'Cinzel', Georgia, serif;
   --font-body: 'Open Sans', -apple-system, BlinkMacSystemFont, sans-serif;
 
   /* Spacing */
@@ -57,14 +57,32 @@ body {
   min-height: 100vh;
 }
 
-/* Navigation */
+/* Noise texture overlay */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+}
+
+/* ================================
+   NAVIGATION
+   ================================ */
 .site-nav {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: var(--bg-medium);
-  border-bottom: 1px solid var(--border-color);
-  box-shadow: 0 2px 10px var(--shadow-color);
+  background: rgba(37, 37, 48, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--accent-gold);
+  box-shadow: 0 2px 20px var(--shadow-color);
 }
 
 .nav-container {
@@ -74,21 +92,51 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
-  gap: var(--spacing-md);
 }
 
 .site-title {
-  font-family: var(--font-heading);
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 400;
   color: var(--accent-gold);
   text-decoration: none;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.05em;
 }
 
 .site-title:hover {
   color: var(--accent-gold-light);
+}
+
+/* Hamburger button */
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: var(--spacing-xs);
+  z-index: 110;
+}
+
+.nav-toggle span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: var(--text-secondary);
+  margin: 5px 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* Hamburger to X animation */
+.nav-toggle.active span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.nav-toggle.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.nav-toggle.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
 }
 
 .nav-links {
@@ -97,34 +145,124 @@ body {
   padding: 0;
   display: flex;
   gap: var(--spacing-lg);
-  flex-wrap: wrap;
 }
 
 .nav-links a {
   color: var(--text-secondary);
   text-decoration: none;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
   padding: var(--spacing-xs) 0;
-  border-bottom: 2px solid transparent;
-  transition: all 0.2s ease;
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+/* Animated underline */
+.nav-links a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--accent-gold);
+  transition: width 0.3s ease;
 }
 
 .nav-links a:hover {
   color: var(--text-primary);
-  border-bottom-color: var(--accent-gold);
 }
 
-/* Main content */
+.nav-links a:hover::after {
+  width: 100%;
+}
+
+/* Active page indicator */
+.nav-links a.active {
+  color: var(--accent-gold);
+}
+
+.nav-links a.active::after {
+  width: 100%;
+}
+
+/* ================================
+   MAIN CONTENT
+   ================================ */
 .content {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: var(--spacing-xl) var(--spacing-lg);
 }
 
-/* Guide layout */
+/* ================================
+   HOMEPAGE HERO
+   ================================ */
+.hero {
+  text-align: center;
+  padding: 6rem var(--spacing-lg) 4rem;
+  margin: calc(-1 * var(--spacing-xl)) calc(-1 * var(--spacing-lg)) var(--spacing-xl);
+  background-image:
+    linear-gradient(to bottom,
+      rgba(26, 26, 31, 0.6) 0%,
+      rgba(26, 26, 31, 0.75) 50%,
+      rgba(26, 26, 31, 0.95) 85%,
+      var(--bg-dark) 100%),
+    url('../../images/sharn-hero.jpg');
+  background-size: cover;
+  background-position: center 30%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.hero h1 {
+  font-family: var(--font-display);
+  font-size: 3.2rem;
+  margin-bottom: var(--spacing-sm);
+  color: var(--accent-gold);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6), 0 0 40px rgba(201, 162, 39, 0.15);
+  letter-spacing: 0.06em;
+  animation: fadeInDown 0.8s ease-out both;
+}
+
+.hero em {
+  font-size: 1.15rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.hero p {
+  animation: fadeInUp 0.8s ease-out 0.2s both;
+}
+
+/* Hero keyframes */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ================================
+   GUIDE LAYOUT
+   ================================ */
 .guide {
   display: grid;
   gap: var(--spacing-xl);
@@ -133,7 +271,19 @@ body {
 .guide-header {
   text-align: center;
   padding-bottom: var(--spacing-xl);
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: none;
+  position: relative;
+}
+
+/* Centered gradient divider below guide title */
+.guide-header::after {
+  content: '';
+  display: block;
+  width: 60%;
+  max-width: 300px;
+  height: 1px;
+  margin: var(--spacing-lg) auto 0;
+  background: linear-gradient(to right, transparent, var(--accent-gold), transparent);
 }
 
 .guide-header h1 {
@@ -142,6 +292,7 @@ body {
   color: var(--accent-gold);
   margin: 0 0 var(--spacing-md) 0;
   text-shadow: 0 2px 4px var(--shadow-color);
+  letter-spacing: 0.04em;
 }
 
 .guide-description {
@@ -151,12 +302,39 @@ body {
   font-style: italic;
 }
 
-/* Table of Contents */
+/* ================================
+   TABLE OF CONTENTS
+   ================================ */
 .toc {
   background: var(--bg-medium);
   border: 1px solid var(--border-color);
-  border-radius: 8px;
+  border-radius: 4px;
   padding: var(--spacing-lg);
+  position: relative;
+}
+
+/* Art deco corner accents on TOC */
+.toc::before,
+.toc::after {
+  content: '';
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  border-color: var(--accent-gold);
+  border-style: solid;
+  opacity: 0.4;
+}
+
+.toc::before {
+  top: 8px;
+  left: 8px;
+  border-width: 2px 0 0 2px;
+}
+
+.toc::after {
+  bottom: 8px;
+  right: 8px;
+  border-width: 0 2px 2px 0;
 }
 
 .toc h2 {
@@ -166,6 +344,8 @@ body {
   margin: 0 0 var(--spacing-md) 0;
   padding-bottom: var(--spacing-sm);
   border-bottom: 1px solid var(--border-color);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
 }
 
 .toc-list {
@@ -203,35 +383,58 @@ body {
   color: var(--text-muted);
 }
 
-/* Typography */
+/* ================================
+   TYPOGRAPHY
+   ================================ */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
   font-weight: 600;
   line-height: 1.3;
   margin-top: var(--spacing-xxl);
   margin-bottom: var(--spacing-md);
+  letter-spacing: 0.02em;
 }
 
 h1 { font-size: 2rem; color: var(--accent-gold); }
+
 h2 {
   font-size: 1.6rem;
   color: var(--accent-gold);
   padding-bottom: var(--spacing-sm);
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: none;
+  position: relative;
+}
+
+/* Gradient divider under h2 */
+h2::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 1px;
+  margin-top: var(--spacing-sm);
+  background: linear-gradient(to right, var(--accent-gold), transparent 80%);
 }
 
 /* Stronger visual breaks between major sections in guide pages */
 .guide-content h2 {
   margin-top: 4rem;
   padding-top: 2rem;
-  border-top: 1px solid var(--border-color);
+  border-top: none;
+  text-align: center;
+}
+
+.guide-content h2::after {
+  background: linear-gradient(to right, transparent, var(--accent-gold), transparent);
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .guide-content h2:first-child {
   margin-top: 0;
   padding-top: 0;
-  border-top: none;
 }
+
 h3 { font-size: 1.3rem; color: var(--accent-blue-light); }
 h4 { font-size: 1.1rem; color: var(--text-primary); }
 h5 { font-size: 1rem; color: var(--text-secondary); }
@@ -243,6 +446,7 @@ p {
 a {
   color: var(--accent-blue-light);
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
@@ -275,14 +479,30 @@ li > ul, li > ol {
   margin-bottom: 0;
 }
 
-/* Blockquotes - used for examples and stat blocks */
+/* ================================
+   BLOCKQUOTES
+   ================================ */
 blockquote {
   margin: var(--spacing-lg) 0;
   padding: var(--spacing-lg);
   background: var(--bg-medium);
   border-left: 4px solid var(--accent-gold);
-  border-radius: 0 8px 8px 0;
+  border-radius: 0 4px 4px 0;
   box-shadow: 0 2px 8px var(--shadow-color);
+  position: relative;
+}
+
+/* Gold corner accent on blockquotes */
+blockquote::before {
+  content: '';
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 16px;
+  height: 16px;
+  border-top: 2px solid var(--accent-gold);
+  border-right: 2px solid var(--accent-gold);
+  opacity: 0.25;
 }
 
 blockquote p:last-child {
@@ -293,7 +513,9 @@ blockquote strong {
   color: var(--accent-gold);
 }
 
-/* Code and preformatted text */
+/* ================================
+   CODE
+   ================================ */
 code {
   font-family: 'Fira Code', 'Consolas', monospace;
   font-size: 0.9em;
@@ -306,7 +528,7 @@ code {
 pre {
   background: var(--bg-medium);
   border: 1px solid var(--border-color);
-  border-radius: 8px;
+  border-radius: 4px;
   padding: var(--spacing-lg);
   overflow-x: auto;
   margin: var(--spacing-lg) 0;
@@ -318,13 +540,15 @@ pre code {
   color: var(--text-primary);
 }
 
-/* Tables */
+/* ================================
+   TABLES
+   ================================ */
 table {
   width: 100%;
   border-collapse: collapse;
   margin: var(--spacing-lg) 0;
   background: var(--bg-medium);
-  border-radius: 8px;
+  border-radius: 4px;
   overflow-x: auto;
   display: block;
 }
@@ -340,6 +564,7 @@ th, td {
 }
 
 th {
+  font-family: var(--font-heading);
   font-weight: 600;
   color: var(--accent-gold);
   text-transform: uppercase;
@@ -355,124 +580,71 @@ tr:hover {
   background: var(--bg-light);
 }
 
-/* Images */
+/* ================================
+   HORIZONTAL RULES - Diamond Motif
+   ================================ */
+hr {
+  border: none;
+  height: 1px;
+  background: var(--border-color);
+  margin: var(--spacing-xxl) 0;
+  position: relative;
+}
+
+hr::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 8px;
+  height: 8px;
+  background: var(--accent-gold);
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+hr::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 20px;
+  height: 1px;
+  transform: translate(-50%, -50%);
+  background: var(--bg-dark);
+  z-index: -1;
+}
+
+/* Need a wrapping approach for the diamond - use box-shadow to clear the line */
+hr::before {
+  box-shadow: -12px 0 0 5px var(--bg-dark), 12px 0 0 5px var(--bg-dark);
+  z-index: 1;
+}
+
+hr::after {
+  display: none;
+}
+
+/* ================================
+   IMAGES
+   ================================ */
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 4px;
   margin: var(--spacing-lg) 0;
   box-shadow: 0 4px 20px var(--shadow-color);
-}
-
-/* Horizontal rules */
-hr {
-  border: none;
-  border-top: 1px solid var(--border-color);
-  margin: var(--spacing-xxl) 0;
-}
-
-/* Footer */
-.site-footer {
-  margin-top: var(--spacing-xxl);
-  padding: var(--spacing-xl) var(--spacing-lg);
-  background: var(--bg-medium);
-  border-top: 1px solid var(--border-color);
-  text-align: center;
-}
-
-.footer-container {
-  max-width: var(--max-width);
-  margin: 0 auto;
-}
-
-.site-footer p {
-  font-size: 0.85rem;
-  color: var(--text-muted);
-  margin-bottom: var(--spacing-sm);
-}
-
-.site-footer a {
-  color: var(--text-secondary);
-}
-
-/* Special styling for character stat blocks */
-blockquote h4,
-blockquote strong:first-child {
-  color: var(--accent-gold);
-}
-
-/* Stress boxes styling */
-blockquote code,
-.guide-content code {
-  background: var(--bg-dark);
   border: 1px solid var(--border-color);
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
 }
 
-/* Responsive design */
-@media (max-width: 768px) {
-  :root {
-    --nav-height: auto;
-  }
-
-  .nav-container {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .nav-links {
-    justify-content: center;
-  }
-
-  .guide-header h1 {
-    font-size: 2rem;
-  }
-
-  h2 { font-size: 1.4rem; }
-  h3 { font-size: 1.2rem; }
-
-  .toc {
-    padding: var(--spacing-md);
-  }
-
-  blockquote {
-    padding: var(--spacing-md);
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  table {
-    font-size: 0.9rem;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  th, td {
-    padding: var(--spacing-xs) var(--spacing-sm);
-    min-width: 6rem;
-  }
-
-  .guide-content h2 {
-    margin-top: 3rem;
-    padding-top: 1.5rem;
-  }
+img:hover {
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5), 0 0 15px rgba(201, 162, 39, 0.1);
+  border-color: var(--accent-gold);
 }
 
-/* Home page hero */
-.hero {
-  text-align: center;
-  padding: var(--spacing-xxl) 0;
-}
-
-.hero h1 {
-  font-size: 3rem;
-  margin-bottom: var(--spacing-sm);
-}
-
-.hero em {
-  font-size: 1.2rem;
-  color: var(--text-secondary);
-}
-
-/* Guide cards on home page */
+/* ================================
+   GUIDE CARDS - Homepage
+   ================================ */
 .guide-cards {
   display: grid;
   gap: var(--spacing-lg);
@@ -482,13 +654,33 @@ blockquote code,
 .guide-card {
   background: var(--bg-medium);
   border: 1px solid var(--border-color);
-  border-radius: 8px;
+  border-radius: 4px;
   padding: var(--spacing-lg);
-  transition: border-color 0.2s ease;
+  position: relative;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+/* Gold top-edge glow */
+.guide-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, var(--accent-gold), transparent);
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
 .guide-card:hover {
   border-color: var(--accent-gold);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4), 0 0 20px rgba(201, 162, 39, 0.08);
+}
+
+.guide-card:hover::before {
+  opacity: 1;
 }
 
 .guide-cards h3,
@@ -501,13 +693,12 @@ blockquote code,
 .guide-card h3 a {
   color: var(--accent-gold);
   text-decoration: none;
-  border-bottom: 2px solid transparent;
-  transition: border-color 0.2s ease;
+  transition: color 0.2s ease;
 }
 
 .guide-cards h3 a:hover,
 .guide-card h3 a:hover {
-  border-bottom-color: var(--accent-gold);
+  color: var(--accent-gold-light);
   text-decoration: none;
 }
 
@@ -523,7 +714,9 @@ blockquote code,
   }
 }
 
-/* Action icons grid */
+/* ================================
+   ACTION GRID
+   ================================ */
 .action-grid {
   display: grid;
   gap: var(--spacing-lg);
@@ -539,7 +732,7 @@ blockquote code,
 .action {
   background: var(--bg-medium);
   border: 1px solid var(--border-color);
-  border-radius: 8px;
+  border-radius: 4px;
   padding: var(--spacing-lg);
   text-align: center;
 }
@@ -566,7 +759,7 @@ blockquote code,
 .fate-dice {
   background: var(--bg-medium);
   border: 1px solid var(--border-color);
-  border-radius: 8px;
+  border-radius: 4px;
   padding: var(--spacing-lg);
   margin: var(--spacing-xl) 0;
   display: flex;
@@ -587,7 +780,185 @@ blockquote code,
   margin: 0;
 }
 
-/* Print styles */
+/* ================================
+   SPECIAL STYLING
+   ================================ */
+
+/* Character stat blocks */
+blockquote h4,
+blockquote strong:first-child {
+  color: var(--accent-gold);
+}
+
+/* Stress boxes styling */
+blockquote code,
+.guide-content code {
+  background: var(--bg-dark);
+  border: 1px solid var(--border-color);
+}
+
+/* ================================
+   SCROLL ANIMATIONS
+   ================================ */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Staggered delays */
+.fade-in-delay-1 { transition-delay: 0.1s; }
+.fade-in-delay-2 { transition-delay: 0.2s; }
+.fade-in-delay-3 { transition-delay: 0.3s; }
+
+/* ================================
+   FOOTER
+   ================================ */
+.site-footer {
+  margin-top: var(--spacing-xxl);
+  padding: var(--spacing-xl) var(--spacing-lg);
+  background: var(--bg-medium);
+  border-top: 1px solid var(--border-color);
+  text-align: center;
+}
+
+.footer-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.site-footer p {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: var(--spacing-sm);
+}
+
+.site-footer a {
+  color: var(--text-secondary);
+}
+
+/* ================================
+   RESPONSIVE
+   ================================ */
+@media (max-width: 768px) {
+  .nav-toggle {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    gap: 0;
+    padding-top: var(--spacing-md);
+    border-top: 1px solid var(--border-color);
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+
+  .nav-container {
+    flex-wrap: wrap;
+  }
+
+  .nav-links li {
+    width: 100%;
+  }
+
+  .nav-links a {
+    display: block;
+    padding: var(--spacing-sm) 0;
+    font-size: 0.9rem;
+  }
+
+  .nav-links a::after {
+    display: none;
+  }
+
+  .hero {
+    padding: 4rem var(--spacing-md) 3rem;
+  }
+
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .guide-header h1 {
+    font-size: 2rem;
+  }
+
+  h2 { font-size: 1.4rem; }
+  h3 { font-size: 1.2rem; }
+
+  .guide-content h2 {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    text-align: left;
+  }
+
+  .guide-content h2::after {
+    margin-left: 0;
+    background: linear-gradient(to right, var(--accent-gold), transparent 80%);
+    width: 100%;
+  }
+
+  .toc {
+    padding: var(--spacing-md);
+  }
+
+  /* Hide corner accents on small screens */
+  .toc::before,
+  .toc::after,
+  blockquote::before {
+    display: none;
+  }
+
+  blockquote {
+    padding: var(--spacing-md);
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  table {
+    font-size: 0.9rem;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  th, td {
+    padding: var(--spacing-xs) var(--spacing-sm);
+    min-width: 6rem;
+  }
+}
+
+/* ================================
+   REDUCED MOTION
+   ================================ */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .fade-in {
+    opacity: 1;
+    transform: none;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* ================================
+   PRINT
+   ================================ */
 @media print {
   .site-nav,
   .toc,
@@ -600,9 +971,18 @@ blockquote code,
     color: black;
   }
 
+  body::after {
+    display: none;
+  }
+
   .content {
     max-width: none;
     padding: 0;
+  }
+
+  .hero {
+    background-image: none;
+    padding: var(--spacing-lg) 0;
   }
 
   a {
@@ -613,5 +993,14 @@ blockquote code,
   blockquote {
     border-left-color: #333;
     background: #f5f5f5;
+  }
+
+  blockquote::before {
+    display: none;
+  }
+
+  .fade-in {
+    opacity: 1;
+    transform: none;
   }
 }
