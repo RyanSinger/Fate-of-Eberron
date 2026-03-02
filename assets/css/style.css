@@ -890,7 +890,13 @@ blockquote code,
   }
 
   .guide-header h1 {
-    font-size: 2rem;
+    font-size: 1.6rem;
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  .guide-header .guide-description {
+    font-size: 0.95rem;
   }
 
   h2 { font-size: 1.4rem; }
