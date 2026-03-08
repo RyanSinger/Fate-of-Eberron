@@ -32,5 +32,5 @@ exclude:
   - vendor
   - docs
   - "*.jsonl"
-  - campaign
+  - campaign/
   - tests

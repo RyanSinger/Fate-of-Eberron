@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "command": "bash -c 'changed=\"$TOOL_INPUT_FILE_PATH\"; if [[ \"$changed\" == *.md || \"$changed\" == *.html || \"$changed\" == *.css || \"$changed\" == *.js ]]; then cd /Users/ryan/Fate-of-Eberron-2 && bundle exec jekyll build 2>&1 | tail -5; fi'"
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "command": "bash -c 'if [[ \"$TOOL_INPUT_FILE_PATH\" == *.env* ]]; then echo \"BLOCKED: Do not edit .env files\"; exit 1; fi'"
+      }
+    ]
+  }
+}
