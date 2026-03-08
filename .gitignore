@@ -23,5 +23,10 @@ vendor/
 *.pdf
 Screenshot*.png
 
+# Test artifacts
+*.png
+tests/results.txt
+.playwright-mcp/
+
 # Old import folder
 for-import
