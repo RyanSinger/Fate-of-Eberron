@@ -6,7 +6,7 @@
 
 ## Active Cases
 
-*None yet — campaign hasn't started.*
+*None yet. Campaign hasn't started.*
 
 ## Party
 
@@ -16,4 +16,4 @@
 
 | Faction | Heat | Notes |
 |---------|------|-------|
-| — | — | *Factions become active once play begins.* |
+| n/a | n/a | *Factions become active once play begins.* |

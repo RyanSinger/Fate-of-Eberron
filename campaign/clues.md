@@ -18,4 +18,4 @@
 
 ## Connections
 
-*Links between clues — threads the PCs might pull on.*
+*Links between clues. Threads the PCs might pull on.*

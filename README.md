@@ -6,13 +6,13 @@ A Fate adaptation for the Eberron campaign setting.
 
 This repository contains four documents for playing Fate in Eberron:
 
-- **Eberron Setting Guide** (`setting-guide.md`) — World lore, nations, factions, and setting information for GMs and players.
+- **Eberron Setting Guide** (`setting-guide.md`): world lore, nations, factions, and setting information for GMs and players.
 
-- **Player's Guide** (`players-guide.md`) — Character creation using the mode system, skills, stunts, dragonmarks, and magic rules.
+- **Player's Guide** (`players-guide.md`): character creation using the mode system, skills, stunts, dragonmarks, and magic rules.
 
-- **GM's Guide** (`gm-guide.md`) — Running the game, adversaries, factions as characters, campaign frameworks, and Eberron-specific guidance.
+- **GM's Guide** (`gm-guide.md`): running the game, adversaries, factions as characters, campaign frameworks, and Eberron specific guidance.
 
-- **Play Example** (`play-example.md`) — A full scene with 5 iconic PCs demonstrating gameplay mechanics in action.
+- **Play Example** (`play-example.md`): a full scene with 5 iconic PCs demonstrating gameplay mechanics in action.
 
 ## Design Foundations
 

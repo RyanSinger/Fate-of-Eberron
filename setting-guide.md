@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Eberron Setting Guide
-description: A guide to the world of Eberron for Game Masters and Players—focusing on setting, tone, and lore rather than game mechanics.
+description: A guide to the world of Eberron for Game Masters and Players, focusing on setting, tone, and lore rather than game mechanics.
 ---
 
 ## What is Eberron?
@@ -34,9 +34,9 @@ Eberron encourages swashbuckling, dramatic action. Chases through vertical citie
 
 According to myth, three dragon gods created the world:
 
-- **Siberys** (the Dragon Above) — became the ring of golden dragonshards orbiting the world and is associated with the heavens
-- **Eberron** (the Dragon Between) — became the world itself, the land and sea
-- **Khyber** (the Dragon Below) — became the underworld, imprisoned within Eberron's depths
+- **Siberys** (the Dragon Above): became the ring of golden dragonshards orbiting the world and is associated with the heavens
+- **Eberron** (the Dragon Between): became the world itself, the land and sea
+- **Khyber** (the Dragon Below): became the underworld, imprisoned within Eberron's depths
 
 ### The Continent of Khorvaire
 
@@ -52,7 +52,7 @@ A nation of knowledge and magic. Aundair values education and arcane study. Its 
 
 ### Breland
 
-The most progressive and diverse nation, home to the massive city of Sharn. Breland values commerce and individual freedom. Its people have a reputation for being clever and pragmatic—sometimes to the point of seeming shady or opportunistic.
+The most progressive and diverse nation, home to the massive city of Sharn. Breland values commerce and individual freedom. Its people have a reputation for being clever and pragmatic, sometimes to the point of seeming shady or opportunistic.
 
 ### Karrnath
 
@@ -60,11 +60,11 @@ A militaristic nation that values discipline and martial tradition. Karrnath suf
 
 ### Thrane
 
-A theocracy devoted to the Church of the Silver Flame. Thrane values faith and the battle against supernatural evil. Its people can be seen as devout and steadfast—or as zealous and judgmental.
+A theocracy devoted to the Church of the Silver Flame. Thrane values faith and the battle against supernatural evil. Its people can be seen as devout and steadfast, or as zealous and judgmental.
 
 ### Cyre (The Mournland)
 
-Once considered the jewel of Galifar, Cyre no longer exists. On the Day of Mourning—four years ago—a catastrophic magical event destroyed the entire nation in moments. No one knows what caused it. The Treaty of Thronehold ended the Last War two years later, leaving Cyre's destruction as the conflict's most terrible mystery.
+Once considered the jewel of Galifar, Cyre no longer exists. On the Day of Mourning, four years ago, a catastrophic magical event destroyed the entire nation in moments. No one knows what caused it. The Treaty of Thronehold ended the Last War two years later, leaving Cyre's destruction as the conflict's most terrible mystery.
 
 ![The Mournland, with a living spell drifting through the devastation]({{ '/images/mournland-living-spell.png' | relative_url }})
 
@@ -72,13 +72,13 @@ What remains is the Mournland: a blasted, twisted wasteland where the dead don't
 
 ## Other Notable Regions
 
-- **Droaam** — A nation of monsters (medusas, harpies, ogres) who have organized under the rule of three hag sisters
-- **The Eldeen Reaches** — Wilderness protected by druidic sects
-- **Darguun** — A goblin nation carved out during the chaos of the Last War
-- **The Talenta Plains** — Home to halflings who ride dinosaurs and maintain a nomadic culture
-- **Q'barra** — A frontier land with a "wild west" feel, where settlers clash with lizardfolk and ancient secrets
-- **The Lhazaar Principalities** — Island nations of pirates, privateers, and merchant princes
-- **Xen'drik** — A mysterious southern continent, home to ruins of an ancient giant civilization and dangerous secrets
+- **Droaam**: a nation of monsters (medusas, harpies, ogres) who have organized under the rule of three hag sisters
+- **The Eldeen Reaches**: wilderness protected by druidic sects
+- **Darguun**: a goblin nation carved out during the chaos of the Last War
+- **The Talenta Plains**: home to halflings who ride dinosaurs and maintain a nomadic culture
+- **Q'barra**: a frontier land with a "wild west" feel, where settlers clash with lizardfolk and ancient secrets
+- **The Lhazaar Principalities**: island nations of pirates, privateers, and merchant princes
+- **Xen'drik**: a mysterious southern continent, home to ruins of an ancient giant civilization and dangerous secrets
 
 ## Sharn: The City of Towers
 
@@ -118,9 +118,9 @@ Airship travel is faster than the lightning rail but far more expensive. Only th
 
 ### Transportation and Adventure
 
-The contrast between magical convenience and frontier danger defines Eberron travel. Within the Five Nations, you can cross the continent in days. But step off the lightning rail into the Eldeen Reaches, venture into Droaam, or try to cross the Mournland—and suddenly civilization feels very far away.
+The contrast between magical convenience and frontier danger defines Eberron travel. Within the Five Nations, you can cross the continent in days. But step off the lightning rail into the Eldeen Reaches, venture into Droaam, or try to cross the Mournland, and suddenly civilization feels very far away.
 
-Transportation itself often becomes the adventure. Chases across Sharn's vertical cityscape, intrigue aboard a lightning rail, desperate repairs on a failing airship—these are classic Eberron scenarios.
+Transportation itself often becomes the adventure. Chases across Sharn's vertical cityscape, intrigue aboard a lightning rail, desperate repairs on a failing airship: these are classic Eberron scenarios.
 
 ## The Dragonmarked Houses
 
@@ -128,19 +128,19 @@ Thirteen bloodlines carry dragonmarks, magical sigils that grant supernatural ab
 
 ### The Major Houses
 
-- **House Cannith** (Mark of Making) — Artificers and manufacturers who created the warforged and helped build the lightning rail
-- **House Deneith** (Mark of Sentinel) — Mercenaries and bodyguards; the only House permitted to maintain an army
-- **House Jorasco** (Mark of Healing) — Healers who run hospitals and sell medical services
-- **House Ghallanda** (Mark of Hospitality) — Innkeepers and hosts who guarantee safe lodging
-- **House Phiarlan** (Mark of Shadow) — Entertainers publicly, spies and information brokers privately
-- **House Thuranni** (Mark of Shadow) — Split from Phiarlan; focused on espionage and assassination
-- **House Lyrandar** (Mark of Storm) — Control weather magic and operate airships
-- **House Orien** (Mark of Passage) — Run the lightning rail and courier services
-- **House Sivis** (Mark of Scribing) — Handle communication, translation, and legal documentation
-- **House Kundarak** (Mark of Warding) — Bankers and security specialists; run the safest vaults in the world
-- **House Medani** (Mark of Detection) — Investigators and bodyguards who specialize in threat detection
-- **House Tharashk** (Mark of Finding) — Bounty hunters, trackers, and dragonshard prospectors
-- **House Vadalis** (Mark of Handling) — Animal breeders who produce magebred creatures
+- **House Cannith** (Mark of Making): artificers and manufacturers who created the warforged and helped build the lightning rail
+- **House Deneith** (Mark of Sentinel): mercenaries and bodyguards; the only House permitted to maintain an army
+- **House Jorasco** (Mark of Healing): healers who run hospitals and sell medical services
+- **House Ghallanda** (Mark of Hospitality): innkeepers and hosts who guarantee safe lodging
+- **House Phiarlan** (Mark of Shadow): entertainers publicly, spies and information brokers privately
+- **House Thuranni** (Mark of Shadow): split from Phiarlan; focused on espionage and assassination
+- **House Lyrandar** (Mark of Storm): control weather magic and operate airships
+- **House Orien** (Mark of Passage): run the lightning rail and courier services
+- **House Sivis** (Mark of Scribing): handle communication, translation, and legal documentation
+- **House Kundarak** (Mark of Warding): bankers and security specialists; run the safest vaults in the world
+- **House Medani** (Mark of Detection): investigators and bodyguards who specialize in threat detection
+- **House Tharashk** (Mark of Finding): bounty hunters, trackers, and dragonshard prospectors
+- **House Vadalis** (Mark of Handling): animal breeders who produce magebred creatures
 
 ### House Politics
 
@@ -186,9 +186,9 @@ A faith focused on the divinity within: the belief that the true divine spark li
 
 ### Other Faiths
 
-- **The Path of Light** — The kalashtar philosophy focused on positive spiritual transformation
-- **The Cults of the Dragon Below** — Dangerous cults worshiping dark powers in Khyber
-- **The Undying Court** — Elven ancestor worship centered on preserved undead elders
+- **The Path of Light**: the kalashtar philosophy focused on positive spiritual transformation
+- **The Cults of the Dragon Below**: dangerous cults worshiping dark powers in Khyber
+- **The Undying Court**: elven ancestor worship centered on preserved undead elders
 
 ## The Planes and Manifest Zones
 
@@ -198,13 +198,13 @@ Eberron has its own cosmology of thirteen planes that orbit the material world. 
 
 ### Notable Planes
 
-- **Dal Quor** (Region of Dreams) — Where mortals go when they dream; home to the sinister quori
-- **Dolurrh** (Realm of the Dead) — A grey realm where spirits fade
-- **Fernia** (Sea of Fire) — An elemental plane of flame
-- **Thelanis** (Faerie Court) — Realm of fey and stories
-- **Xoriat** (Realm of Madness) — Home to aberrations and alien horrors
-- **Mabar** (Endless Night) — Plane of darkness and entropy
-- **Irian** (Eternal Day) — Plane of light and positive energy
+- **Dal Quor** (Region of Dreams): where mortals go when they dream; home to the sinister quori
+- **Dolurrh** (Realm of the Dead): a grey realm where spirits fade
+- **Fernia** (Sea of Fire): an elemental plane of flame
+- **Thelanis** (Faerie Court): realm of fey and stories
+- **Xoriat** (Realm of Madness): home to aberrations and alien horrors
+- **Mabar** (Endless Night): plane of darkness and entropy
+- **Irian** (Eternal Day): plane of light and positive energy
 
 ## For Game Masters
 
@@ -236,11 +236,11 @@ In Eberron, national and cultural identity often matters more than species. A dw
 
 ### Everyone Has an Angle
 
-Trust carefully. Patrons have hidden agendas. Organizations pursue their own goals. Even allies may be working toward ends that don't align with yours. This isn't meant to make you paranoid—it's an invitation to engage with the intrigue.
+Trust carefully. Patrons have hidden agendas. Organizations pursue their own goals. Even allies may be working toward ends that don't align with yours. This isn't meant to make you paranoid. It's an invitation to engage with the intrigue.
 
 ### Magic is Everyday
 
-Your character lives in a world where minor magic is commonplace. You've ridden lightning rails, seen skycoaches, and used speaking stones. Magic isn't mysterious to your character—it's just how the world works. What's remarkable in Eberron is the *powerful* magic, not the everyday kind.
+Your character lives in a world where minor magic is commonplace. You've ridden lightning rails, seen skycoaches, and used speaking stones. Magic isn't mysterious to your character. It's just how the world works. What's remarkable in Eberron is the *powerful* magic, not the everyday kind.
 
 ---
 
@@ -248,8 +248,8 @@ Your character lives in a world where minor magic is commonplace. You've ridden 
 
 - [Eberron Wiki](https://eberron.fandom.com/)
 - [Keith Baker's Blog](https://keith-baker.com/)
-- [D&D Beyond - Welcome to Eberron](https://www.dndbeyond.com/posts/279-welcome-to-eberron-an-introduction-to-a-realm-of)
-- [Sly Flourish - Running Eberron](https://slyflourish.com/running_eberron.html)
+- [D&D Beyond, Welcome to Eberron](https://www.dndbeyond.com/posts/279-welcome-to-eberron-an-introduction-to-a-realm-of)
+- [Sly Flourish, Running Eberron](https://slyflourish.com/running_eberron.html)
 - [Roll20 Guide to Eberron](https://pages.roll20.net/dnd/eberron-guide)
 
 ---

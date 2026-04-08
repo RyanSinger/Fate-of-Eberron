@@ -12,7 +12,7 @@ title: Home
 
 ## What is This?
 
-Fate of Eberron combines the narrative flexibility of **Fate Core** with the setting of **Eberron**—a world of noir intrigue, magical technology, and moral complexity.
+Fate of Eberron combines the narrative flexibility of **Fate Core** with the setting of **Eberron**, a world of noir intrigue, magical technology, and moral complexity.
 
 This adaptation uses mode-based character creation inspired by *Atomic Robo RPG*, letting you quickly build characters that feel authentically Eberron while embracing Fate's fiction-first approach.
 
@@ -26,7 +26,7 @@ This adaptation uses mode-based character creation inspired by *Atomic Robo RPG*
 
 ### [Setting Guide]({{ '/setting-guide' | relative_url }})
 
-Learn about the world of Eberron—the Five Nations, dragonmarked houses, unique peoples, and the aftermath of the Last War. Start here if you're new to Eberron.
+Learn about the world of Eberron: the Five Nations, dragonmarked houses, unique peoples, and the aftermath of the Last War. Start here if you're new to Eberron.
 
 </div>
 
@@ -50,7 +50,7 @@ Run Eberron campaigns with guidance on adversary building, factions, compels, an
 
 ### [Play Example]({{ '/play-example' | relative_url }})
 
-See Fate of Eberron in action with a complete scene featuring five iconic characters—a warforged detective, Cyran spy, artificer, noble, and kalashtar monk.
+See Fate of Eberron in action with a complete scene featuring five iconic characters: a warforged detective, Cyran spy, artificer, noble, and kalashtar monk.
 
 </div>
 

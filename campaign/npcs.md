@@ -7,6 +7,6 @@
 - **Aspects**: *Aspect One*, *Aspect Two*
 - **Affiliation**: Group (public), Group (secret)
 - **Status**: Active / Dead / Missing / Allied / Hostile
-- **Stats**: (if statted) Threat / Filler / Hitter / Boss — key skill ratings
+- **Stats**: (if statted) Threat / Filler / Hitter / Boss, key skill ratings
 - **Notes**: Brief context
 -->

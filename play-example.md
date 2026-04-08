@@ -16,7 +16,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 ### Vex, Warforged Inquisitive
 
 **High Concept**: *Warforged Detective Who Sees Too Much*
-**Trouble**: *The War Made Me—What Does Peace Make Me?*
+**Trouble**: *The War Made Me. What Does Peace Make Me?*
 **Relationship**: *Kira Saved Me from the Cogs*
 **Free Aspects**: *Cold Logic, Warm Justice*, *I Never Forget a Face*
 
@@ -38,7 +38,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 ### Kira Thorn, Cyran Spy
 
 **High Concept**: *Cyran Intelligence Agent Without a Country*
-**Trouble**: *The Mourning Took My Family—I'll Find Out Why*
+**Trouble**: *The Mourning Took My Family. I'll Find Out Why*
 **Relationship**: *Vex Is the Only One I Trust Completely*
 **Free Aspects**: *Trained by the King's Shadows*, *I Have Contacts Everywhere*
 
@@ -60,7 +60,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 ### Brother Theron, Thrane Priest
 
 **High Concept**: *Silver Flame Priest Seeking Redemption*
-**Trouble**: *I Participated in the Purge—Never Again*
+**Trouble**: *I Participated in the Purge. Never Again*
 **Relationship**: *Kaela Saved My Life; I Owe Her My Faith*
 **Free Aspects**: *The Flame Burns Within*, *Protector of the Innocent*
 
@@ -104,9 +104,9 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 ### Jak d'Cannith, Excoriate Artificer
 
 **High Concept**: *Excoriated Cannith Artificer on the Run*
-**Trouble**: *House Cannith Wants Me Back—Or Dead*
+**Trouble**: *House Cannith Wants Me Back, Or Dead*
 **Relationship**: *Kira Got Me Out of Sharn When the House Came for Me*
-**Free Aspects**: *Mark of Making (Aberrant Variant)*, *I Can Fix Anything—Given Time*
+**Free Aspects**: *Mark of Making (Aberrant Variant)*, *I Can Fix Anything, Given Time*
 
 **Modes**:
 - Artificer (Good +3): Crafts (Specialized), Lore (Focused)
@@ -125,7 +125,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 ## The Scene: Murder at the Broken Anvil
 
-**Setting**: The Broken Anvil tavern in Middle Dura, Sharn. Late evening. The party has been hired by a nervous gnome named Tolas to investigate the death of his business partner, a dwarf artificer named Molric Torradan. The Watch ruled it an accident—a fall from his workshop balcony—but Tolas doesn't believe it.
+**Setting**: The Broken Anvil tavern in Middle Dura, Sharn. Late evening. The party has been hired by a nervous gnome named Tolas to investigate the death of his business partner, a dwarf artificer named Molric Torradan. The Watch ruled it an accident (a fall from his workshop balcony), but Tolas doesn't believe it.
 
 **Scene Aspects**:
 - *Crowded Tavern, Watchful Eyes*
@@ -136,25 +136,25 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 ### Opening: Gathering Information
 
-**GM**: You're in the Broken Anvil's common room. Tolas is wringing his hands at your table, having just finished explaining his suspicions. The tavern is busy—dockworkers, a few off-duty soldiers, and in the corner, a half-elf nursing a drink who's been watching your table since you arrived. What do you do?
+**GM**: You're in the Broken Anvil's common room. Tolas is wringing his hands at your table, having just finished explaining his suspicions. The tavern is busy: dockworkers, a few off-duty soldiers, and in the corner, a half-elf nursing a drink who's been watching your table since you arrived. What do you do?
 
-**Kira's Player**: I want to read the room—specifically that half-elf. What's their deal?
+**Kira's Player**: I want to read the room, specifically that half-elf. What's their deal?
 
 **GM**: That's a Notice or Empathy roll. Which fits better?
 
-**Kira's Player**: Empathy—I want to read their intentions, not just spot details. I have Empathy at Great (+4). *Rolls: +2.* That's +6, Fantastic.
+**Kira's Player**: Empathy. I want to read their intentions, not just spot details. I have Empathy at Great (+4). *Rolls: +2.* That's +6, Fantastic.
 
-**GM**: The half-elf is definitely watching your group, not the room. Their posture is tense—ready to move. And you notice a bulge under their cloak that's probably a wand or weapon. They're not a casual observer. They're either following someone at this table or waiting for something to happen.
+**GM**: The half-elf is definitely watching your group, not the room. Their posture is tense, ready to move. And you notice a bulge under their cloak that's probably a wand or weapon. They're not a casual observer. They're either following someone at this table or waiting for something to happen.
 
 **Kira's Player**: I lean over to Vex and mutter, "Corner booth. Half-elf. We're being watched."
 
-**Vex's Player**: I don't turn to look—that would be obvious. But I file it away. Instead, I ask Tolas: "Who knew you were hiring investigators?"
+**Vex's Player**: I don't turn to look. That would be obvious. But I file it away. Instead, I ask Tolas: "Who knew you were hiring investigators?"
 
-**GM**: Tolas blinks. "I—I only told my wife. And I sent a message through House Sivis to arrange this meeting."
+**GM**: Tolas blinks. "I, I only told my wife. And I sent a message through House Sivis to arrange this meeting."
 
 **Jak's Player**: "House Sivis. So anyone who wanted to intercept that message could have." I tap the table. "Molric was an artificer. What was he working on before he died?"
 
-**GM**: Tolas hesitates. "A schema. Part of a larger design. He never told me the whole picture—said it was safer that way. But it was House Cannith work. Pre-War contracts."
+**GM**: Tolas hesitates. "A schema. Part of a larger design. He never told me the whole picture. He said it was safer that way. But it was House Cannith work. Pre-War contracts."
 
 **Jak's Player**: My ears perk up. House Cannith. My former House. "What kind of schema?"
 
@@ -166,17 +166,18 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 ### Investigating the Workshop
 
-**GM**: You head upstairs to Molric's workshop. Tolas unlocks the door. The room is cluttered—half-finished devices, diagrams pinned to walls, tools everywhere. A balcony overlooks a fifty-foot drop to a rain-slicked alley. This is where Molric supposedly fell.
+**GM**: You head upstairs to Molric's workshop. Tolas unlocks the door. The room is cluttered with half-finished devices, diagrams pinned to walls, tools everywhere. A balcony overlooks a fifty foot drop to a rain-slicked alley. This is where Molric supposedly fell.
 
 **Vex's Player**: I want to examine the balcony railing. Was this really an accident?
 
 **GM**: Roll Investigate.
 
-**Vex's Player**: I have Investigate at Good (+3), plus my Photographic Memory stunt doesn't apply here since it's a new scene. *Rolls: +1.* That's +4, Great.
+**Vex's Player**: I have Investigate at Good (+3). My Photographic Memory stunt doesn't apply here since it's a new scene. *Rolls: +1.* That's +4, Great.
 
-**GM**: You find several things. First, the railing is sturdy—no rot, no damage. A dwarf wouldn't just fall through it. Second, there are scuff marks on the floor near the balcony, like someone was dragged. Third—and this is subtle—you notice faint burn marks on the railing. Like something very hot touched it briefly.
+**GM**: You find several things. First, the railing is sturdy. No rot, no damage. A dwarf wouldn't just fall through it. Second, there are scuff marks on the floor near the balcony, like someone was dragged. Third, and this is subtle, you notice faint burn marks on the railing. Like something very hot touched it briefly.
 
 **Vex's Player**: "This wasn't an accident. Someone dragged him to the balcony. And these burns..." I look at Jak. "Magical?"
+
 
 **Jak's Player**: I examine the burns. Can I use my Maker's Intuition stunt? These are marks on a constructed object.
 
@@ -184,19 +185,19 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Jak's Player**: Investigate is Good (+3), plus +2 from the stunt, that's +5. *Rolls: +0.* Still +5, Superb.
 
-**GM**: These aren't fire burns—they're lightning. Specifically, the pattern matches a *shocking grasp* effect or similar combat magic. Someone used lightning magic on Molric right here at the railing.
+**GM**: These aren't fire burns. They're lightning. Specifically, the pattern matches a *shocking grasp* effect or similar combat magic. Someone used lightning magic on Molric right here at the railing.
 
 **Brother Theron's Player**: "Lightning magic. That's not common street crime. This was planned." I want to search the workshop for the schema Tolas mentioned. If it's about warforged, it might be important.
 
-**GM**: Roll Investigate—or you could roll Lore if you're looking for something specifically magical.
+**GM**: Roll Investigate, or you could roll Lore if you're looking for something specifically magical.
 
 **Brother Theron's Player**: Lore, then. I have Lore at Great (+4). *Rolls: -1.* That's +3, Good.
 
-**GM**: You search thoroughly but don't find any schema. Either Molric hid it very well, or—
+**GM**: You search thoroughly but don't find any schema. Either Molric hid it very well, or...
 
-**Kaela's Player**: —or whoever killed him took it.
+**Kaela's Player**: ...or whoever killed him took it.
 
-**GM**: That seems likely. But you do find something: a crumpled note in the waste bin. It reads: *"M— They know about the project. Destroy everything and meet me at Fallen. —S"*
+**GM**: That seems likely. But you do find something: a crumpled note in the waste bin. It reads: *"M. They know about the project. Destroy everything and meet me at Fallen. S."*
 
 ---
 
@@ -212,13 +213,13 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Brother Theron's Player**: I position myself to protect Tolas.
 
-**Vex's Player**: I want to Create an Advantage—*Ready for Them*. Using Notice to position everyone optimally before they enter.
+**Vex's Player**: I want to Create an Advantage, *Ready for Them*. Using Notice to position everyone optimally before they enter.
 
 **GM**: Roll it.
 
 **Vex's Player**: Notice at Superb (+5), plus my Tireless Sentinel stunt gives +2 to detect ambushes. *Rolls: +1.* That's +8, Legendary!
 
-**GM**: Incredible. You don't just position your allies—you notice the shadow under the door shift, and you realize there's someone on the balcony too. They're coming from both directions. You create *Ready for Them* with two free invokes, and you can warn everyone about the balcony attacker.
+**GM**: Incredible. You don't just position your allies. You notice the shadow under the door shift, and you realize there's someone on the balcony too. They're coming from both directions. You create *Ready for Them* with two free invokes, and you can warn everyone about the balcony attacker.
 
 **Vex's Player**: "Balcony. Now."
 
@@ -226,7 +227,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 ### Conflict: Fight in the Workshop
 
-**GM**: The door bursts open. Three figures in dark clothes rush in—two humans with short swords, and the half-elf from downstairs, who's now holding a wand crackling with electricity. At the same moment, a fourth figure swings in through the balcony—a changeling in leather armor with two daggers.
+**GM**: The door bursts open. Three figures in dark clothes rush in: two humans with short swords, and the half-elf from downstairs, who's now holding a wand crackling with electricity. At the same moment, a fourth figure swings in through the balcony, a changeling in leather armor with two daggers.
 
 **Scene Aspects** (updated):
 - *Cluttered Workshop* (cover, obstacles)
@@ -234,9 +235,9 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 - *Electrical Sparks from the Wand*
 - *Ready for Them* [two free invokes]
 
-**GM**: Alright, it's a conflict. You've got the free invokes from *Ready for Them*, so you had the drop on them—you pick who goes first.
+**GM**: Alright, it's a conflict. You've got the free invokes from *Ready for Them*, so you had the drop on them. You pick who goes first.
 
-> *Fate Condensed uses "popcorn" initiative: the side with the advantage picks who acts first. After you act, you pick who goes next—from either side. Once everyone on a side has acted, you must pick someone from the other side. The last person in an exchange picks who starts the next exchange.*
+> *Fate Condensed uses "popcorn" initiative: the side with the advantage picks who acts first. After you act, you pick who goes next, from either side. Once everyone on a side has acted, you must pick someone from the other side. The last person in an exchange picks who starts the next exchange.*
 
 **Vex's Player**: The changeling came through the same balcony where Molric was killed. I want them. I'll go first.
 
@@ -248,17 +249,17 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: The changeling defends with Athletics... *rolls: +2.* That's Good (+3). They twist aside, your metal fist grazing their shoulder but not landing solidly. No damage. Vex, who goes next?
 
-**Vex's Player**: Kira—set up Kaela to finish their leader.
+**Vex's Player**: Kira, set up Kaela to finish their leader.
 
-**Kira's Player**: I want to Create an Advantage on the half-elf. I'm going to use Deceive to feint—make them think I'm going for their wand when I'm actually setting up Kaela for a strike. Something like *Off-Balance*.
+**Kira's Player**: I want to Create an Advantage on the half-elf. I'm going to use Deceive to feint. I make them think I'm going for their wand when I'm actually setting up Kaela for a strike. Something like *Off-Balance*.
 
 **GM**: Roll Deceive against their Will.
 
 **Kira's Player**: Deceive at Good (+3). *Rolls: +2.* That's Superb (+5).
 
-**GM**: Their Will is Fair (+2)... *rolls: -1.* That's only +1. You succeed with style—you get *Off-Balance* with two free invokes.
+**GM**: Their Will is Fair (+2)... *rolls: -1.* That's only +1. You succeed with style. You get *Off-Balance* with two free invokes.
 
-**Kira's Player**: I'll give one of those invokes to Kaela. And I pick Kaela to go next—strike now while they're off-balance!
+**Kira's Player**: I'll give one of those invokes to Kaela. And I pick Kaela to go next. Strike now while they're off balance!
 
 **Kaela's Player**: Perfect. I'm attacking the half-elf with Fight, invoking both *Off-Balance* and one of the *Ready for Them* invokes. Fight is Superb (+5), plus +4 from invokes. *Rolls: +1.* That's +10!
 
@@ -266,15 +267,15 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Kaela's Player**: Eight shifts!
 
-**GM**: The half-elf can absorb some of that. They have 2 stress boxes and a mild consequence. They check both stress boxes (2 shifts) and take a mild consequence (2 more shifts)—let's call it *Slashed Across the Ribs*. That's 4 absorbed, leaving 4 shifts. They're Taken Out.
+**GM**: The half-elf can absorb some of that. They have 2 stress boxes and a mild consequence. They check both stress boxes (2 shifts) and take a mild consequence (2 more shifts). Let's call it *Slashed Across the Ribs*. That's 4 absorbed, leaving 4 shifts. They're Taken Out.
 
-**Kaela's Player**: As Kira feints, I come in low and fast. My blade catches them across the ribs, and when they double over, I pommel-strike the back of their head. They crumple.
+**Kaela's Player**: As Kira feints, I come in low and fast. My blade catches them across the ribs, and when they double over, I strike the back of their head with my pommel. They crumple.
 
 **GM**: The half-elf drops. The wand clatters across the floor toward the balcony. Kaela, who goes next?
 
-**Kaela's Player**: Theron—protect the client.
+**Kaela's Player**: Theron, protect the client.
 
-**Brother Theron's Player**: I'll Create an Advantage—*Shield of Faith*—using Will to create a protective aura around Tolas.
+**Brother Theron's Player**: I'll Create an Advantage (*Shield of Faith*) using Will to create a protective aura around Tolas.
 
 **GM**: Roll Will.
 
@@ -282,15 +283,16 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: Divine light shimmers around the terrified gnome. The thugs hesitate. Who goes next, Theron?
 
-**Brother Theron's Player**: Jak—grab that wand before the enemy can.
+**Brother Theron's Player**: Jak, grab that wand before the enemy can.
 
 **Jak's Player**: The wand rolled toward the balcony. I want to grab it before the changeling can. That's... what? Athletics to dive for it?
 
+
 **GM**: Let's call it an Overcome with Athletics. But you don't have Athletics.
 
-**Jak's Player**: Can I use Crafts? I understand how magical devices work—I might be able to call it to me with my Mark?
+**Jak's Player**: Can I use Crafts? I understand how magical devices work. I might be able to call it to me with my Mark?
 
-**GM**: That's a stretch, but it's flavorful. I'll allow a Crafts roll at -2 since you're using it unconventionally.
+**GM**: That's a stretch, but it's flavorful. I'll allow a Crafts roll at minus 2 since you're using it unconventionally.
 
 **Jak's Player**: Crafts at Superb (+5), minus 2 is Good (+3). *Rolls: +3.* That's +6, Fantastic!
 
@@ -300,9 +302,9 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: All the PCs have acted, so you have to pick an enemy. Who goes next?
 
-**Jak's Player**: The thugs, I guess—keep the changeling for last.
+**Jak's Player**: The thugs, I guess. Keep the changeling for last.
 
-**GM**: The two thugs attack. One goes for Kaela—she just dropped their leader—one goes for Kira. They both attack with Fight at Fair (+2).
+**GM**: The two thugs attack. One goes for Kaela (she just dropped their leader), one goes for Kira. They both attack with Fight at Fair (+2).
 
 **GM**: Thug 1 vs Kaela: *rolls: +1.* Good (+3).
 
@@ -310,13 +312,13 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: Thug 2 vs Kira: *rolls: +0.* Fair (+2).
 
-**Kira's Player**: I defend with Athletics—wait, I don't have Athletics. What do I have for physical defense?
+**Kira's Player**: I defend with Athletics. Wait, I don't have Athletics. What do I have for physical defense?
 
 **GM**: Stealth won't work mid-combat. You could use Will to resist through sheer determination, or take the hit.
 
 **Kira's Player**: Will at Superb (+5). *Rolls: -1.* That's +4. Beats their Fair (+2) easily.
 
-**GM**: You sidestep just in time. That leaves the changeling. They see their leader down and their weapon stolen. They throw a dagger at Jak—Attack with Shoot at Fair (+2). *Rolls: +1.* Good (+3).
+**GM**: You sidestep just in time. That leaves the changeling. They see their leader down and their weapon stolen. They throw a dagger at Jak. Attack with Shoot at Fair (+2). *Rolls: +1.* Good (+3).
 
 **Jak's Player**: I don't have a good defense. Physique? That's only Average (+1). *Rolls: +0.* +1. I'm hit for 2 shifts.
 
@@ -324,7 +326,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Jak's Player**: I check my second stress box.
 
-**GM**: Then the changeling turns and leaps off the balcony. As the last to act this exchange, they pick who goes first next exchange—and they pick themselves. They're running!
+**GM**: Then the changeling turns and leaps off the balcony. As the last to act this exchange, they pick who goes first next exchange, and they pick themselves. They're running!
 
 **Kaela's Player**: They're getting away!
 
@@ -332,11 +334,11 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 #### Exchange 2
 
-**GM**: The changeling went last and chose to go first this exchange. They're already running—that's their action. They'll try to escape through the alley below. Changeling picks... the thugs, keeping the PCs locked out as long as possible.
+**GM**: The changeling went last and chose to go first this exchange. They're already running. That's their action. They'll try to escape through the alley below. Changeling picks... the thugs, keeping the PCs locked out as long as possible.
 
-> *This is the tactical depth of popcorn initiative—the changeling went last specifically so they could control the start of the next exchange and keep the PCs from acting while they flee.*
+> *This is the tactical depth of popcorn initiative. The changeling went last specifically so they could control the start of the next exchange and keep the PCs from acting while they flee.*
 
-**GM**: The thugs look at each other. Their boss is down, the mage's wand is gone. They're going to try to disengage—Overcome with Athletics to get to the door.
+**GM**: The thugs look at each other. Their boss is down, the mage's wand is gone. They're going to try to disengage. Overcome with Athletics to get to the door.
 
 **Kaela's Player**: I want to stop them. Can I oppose?
 
@@ -348,39 +350,39 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **GM**: You step into his path, blade ready. He freezes. Thug 2 tries to slip past toward the door. Athletics +1. *Rolls: +0.* Average (+1). Kira, you're closest to the door.
 
-**Kira's Player**: I'll use Deceive to fake him out—make him think I'm going to attack so he hesitates. *Rolls: +2.* Good (+3) plus the roll is Superb (+5).
+**Kira's Player**: I'll use Deceive to fake him out. I make him think I'm going to attack so he hesitates. *Rolls: +2.* Good (+3) plus the roll is Superb (+5).
 
-**GM**: He stumbles back. Both thugs are stuck. All enemies have acted—the thugs have to pick a PC. They pick Vex, hoping the warforged will chase the changeling and leave them an opening.
+**GM**: He stumbles back. Both thugs are stuck. All enemies have acted. The thugs have to pick a PC. They pick Vex, hoping the warforged will chase the changeling and leave them an opening.
 
-**Vex's Player**: They're right. The changeling knows something—they came in the same way Molric's killer did. I pursue. I run to the balcony and jump after them.
+**Vex's Player**: They're right. The changeling knows something. They came in the same way Molric's killer did. I pursue. I run to the balcony and jump after them.
 
-**GM**: That's risky. Fifty-foot drop. Roll Athletics to catch a handhold or land safely.
+**GM**: That's risky. Fifty foot drop. Roll Athletics to catch a handhold or land safely.
 
-**Vex's Player**: I don't have Athletics. But I have Physique at Great (+4)—can I use that to just survive the fall through sheer durability?
+**Vex's Player**: I don't have Athletics. But I have Physique at Great (+4). Can I use that to just survive the fall through sheer durability?
 
 **GM**: Warforged are tough. I'll allow it. Roll Physique to Overcome, difficulty Great (+4) for the fall.
 
 **Vex's Player**: Physique Great (+4). *Rolls: +1.* Superb (+5). I make it.
 
-**GM**: You drop off the balcony, metal limbs clanging against fire escapes and window ledges on the way down. You land heavily in the rain-slicked alley—dented but functional. The changeling is fifteen feet ahead, running. Who goes next?
+**GM**: You drop off the balcony, metal limbs clanging against fire escapes and window ledges on the way down. You land heavily in the rain-slicked alley, dented but functional. The changeling is fifteen feet ahead, running. Who goes next?
 
-**Vex's Player**: Kira—finish these thugs so you can back me up.
+**Vex's Player**: Kira, finish these thugs so you can back me up.
 
 **Kira's Player**: "Your boss is down. Your mage is down. Drop your weapons or join them." I'm using Deceive to make them think the situation is more hopeless than it is. *Rolls: +2.* Good (+3) Deceive, total Superb (+5).
 
-**GM**: Their Will is only Average (+1). *Rolls: +0.* They look at their unconscious leader, at the priest glowing with divine light, at the Cyran noblewoman with the bloody sword, and they drop their weapons. "We're out. We were just hired for security—we don't know anything!"
+**GM**: Their Will is only Average (+1). *Rolls: +0.* They look at their unconscious leader, at the priest glowing with divine light, at the Cyran noblewoman with the bloody sword, and they drop their weapons. "We're out. We were just hired for security. We don't know anything!"
 
 **Kaela's Player**: "Hired by whom?"
 
 **GM**: One of them points at the unconscious half-elf. "Ask them. Some house agent, paid in gold, asked no questions."
 
-> *The thugs concede—they're out of the conflict. They earn a fate point and get to leave on their terms (alive and unharmed). The conflict in the workshop is over; what remains is the chase.*
+> *The thugs concede. They're out of the conflict. They earn a fate point and get to leave on their terms (alive and unharmed). The conflict in the workshop is over; what remains is the chase.*
 
 ---
 
 ### Chase: The Alley
 
-**GM**: Vex, you're in pursuit of the changeling through the rainy alleys of Middle Dura. This is a Chase scene. The changeling has a head start—let's say they're two zones ahead. You need to catch up and stop them before they disappear into the crowds of Lower Dura.
+**GM**: Vex, you're in pursuit of the changeling through the rainy alleys of Middle Dura. This is a Chase scene. The changeling has a head start. Let's say they're two zones ahead. You need to catch up and stop them before they disappear into the crowds of Lower Dura.
 
 **Chase Zones**:
 1. Workshop Alley (Vex starts here)
@@ -396,13 +398,13 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Vex's Player**: Notice at Superb (+5). *Rolls: +1.* That's +6, Fantastic.
 
-**GM**: You spot a cargo lift—a platform on chains used to move goods between levels. If you time it right, you can ride it to the Market Bridge and cut the changeling off. You're now in Zone 2, same as them.
+**GM**: You spot a cargo lift, a platform on chains used to move goods between levels. If you time it right, you can ride it to the Market Bridge and cut the changeling off. You're now in Zone 2, same as them.
 
-**GM**: The changeling sees you appear ahead of them. They're going to try to lose you in the crowd. They Create an Advantage with Stealth—*Lost in the Crowd*. *Rolls: +2.* Good (+3) Stealth, total Great (+4).
+**GM**: The changeling sees you appear ahead of them. They're going to try to lose you in the crowd. They Create an Advantage with Stealth (*Lost in the Crowd*). *Rolls: +2.* Good (+3) Stealth, total Great (+4).
 
 **Vex's Player**: I oppose with Notice. Superb (+5). *Rolls: +0.* That's +5 against their +4. I beat them!
 
-**GM**: You succeed—they fail to lose you in the crowd. But they push through toward the Lift Shaft Junction anyway. They're now in Zone 3.
+**GM**: You succeed. They fail to lose you in the crowd. But they push through toward the Lift Shaft Junction anyway. They're now in Zone 3.
 
 **Vex's Player**: I pursue. Free movement to Zone 3. Then I want to tackle them before they reach the crowds. That's Fight to grab them?
 
@@ -410,15 +412,15 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Vex's Player**: Fight at Fair (+2). *Rolls: +3.* Superb (+5).
 
-**GM**: They defend with Athletics at Good (+3). *Rolls: +1.* That's +4. You beat them by 1—you grab them. They're not hurt, but they're caught.
+**GM**: They defend with Athletics at Good (+3). *Rolls: +1.* That's +4. You beat them by 1. You grab them. They're not hurt, but they're caught.
 
 **Vex's Player**: I pin them against the wall, metal hand around their throat. "You came in through that balcony. Just like whoever killed Molric. Talk."
 
-**GM**: The changeling's features ripple—they shift to look like Molric, the dead dwarf. "You want to know who killed the maker? Look to your own House, Cannith dog." They spit. "The schema's already gone. Merrix has it. And when they complete the project—" They stop. Fear flickers across their borrowed face.
+**GM**: The changeling's features ripple. They shift to look like Molric, the dead dwarf. "You want to know who killed the maker? Look to your own House, Cannith dog." They spit. "The schema's already gone. Merrix has it. And when they complete the project..." They stop. Fear flickers across their borrowed face.
 
 **Vex's Player**: "When they complete what project?"
 
-**GM**: The changeling laughs. "You're a warforged asking about a warforged project. Isn't that ironic?" Before you can respond, they twist—their body goes limp, foam at their mouth. Poison tooth.
+**GM**: The changeling laughs. "You're a warforged asking about a warforged project. Isn't that ironic?" Before you can respond, they twist. Their body goes limp, foam at their mouth. Poison tooth.
 
 **Vex's Player**: Damn. "I need a healer down here! Now!"
 
@@ -426,7 +428,7 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 ### Aftermath
 
-**GM**: Brother Theron arrives moments later, but it's too late. The changeling is dead—suicide rather than talk. Upstairs, the half-elf is unconscious and the thugs have been tied up. You have a prisoner, a name—Merrix—and more questions than answers.
+**GM**: Brother Theron arrives moments later, but it's too late. The changeling is dead, suicide rather than talk. Upstairs, the half-elf is unconscious and the thugs have been tied up. You have a prisoner, a name (Merrix), and more questions than answers.
 
 **Brother Theron's Player**: "Merrix d'Cannith? The head of Cannith South?"
 
@@ -438,9 +440,9 @@ A complete scene demonstrating how to play Fate of Eberron, featuring five iconi
 
 **Kira's Player**: I have Investigate at Average (+1). *Rolls: +2.* Good (+3).
 
-**GM**: No house insignia—they were careful about that. But you find a token in their pocket: a small iron coin with a forge symbol. Jak, you recognize it.
+**GM**: No house insignia. They were careful about that. But you find a token in their pocket: a small iron coin with a forge symbol. Jak, you recognize it.
 
-**Jak's Player**: "Ashbound? No, wait—that's a Cannith foundry mark. From the old days. Before the Treaty." I swallow. "This is a creation forge token. They were making warforged."
+**Jak's Player**: "Ashbound? No, wait. That's a Cannith foundry mark. From the old days. Before the Treaty." I swallow. "This is a creation forge token. They were making warforged."
 
 **Kaela's Player**: "The Treaty of Thronehold banned creation forges. If Cannith is still making warforged..."
 
@@ -465,7 +467,7 @@ This scene demonstrated:
 - **Compels**: (Implicit) The changeling's suicide rather than betray their masters
 
 The scene also showed how Eberron's themes emerge naturally:
-- Moral ambiguity (Merrix d'Cannith—ally or villain?)
+- Moral ambiguity (Merrix d'Cannith, ally or villain?)
 - The Last War's legacy (banned creation forges, warforged identity)
 - Conspiracy and intrigue (layers of mystery)
 - Cinematic action (balcony fights, rooftop chases)

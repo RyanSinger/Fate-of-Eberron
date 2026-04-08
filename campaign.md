@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Campaign
-description: Sharn Inquisitives — a noir detective campaign in the City of Towers
+description: "Sharn Inquisitives: a noir detective campaign in the City of Towers"
 ---
 
 ## The Pitch
@@ -10,7 +10,7 @@ The war is over. The problems aren't.
 
 Two years ago, the Treaty of Thronehold ended a century of war. The Five Nations agreed to stop killing each other. On paper, it worked. In practice, Sharn is full of people the peace left behind: refugees from the Mournland with nowhere to go, veterans who can't stop fighting, spies who never got the order to stand down, and war criminals who bought new names.
 
-The City of Towers is the biggest city on the continent. A vertical sprawl stacked miles high, where the upper wards float in sunlight and the lower wards never see the sky. Money and power flow upward. Everything else flows down. The Sharn Watch is corrupt, undermanned, and mostly concerned with keeping the upper wards comfortable. In the middle and lower wards, if you want justice—or anything close to it—you hire an inquisitive.
+The City of Towers is the biggest city on the continent. A vertical sprawl stacked miles high, where the upper wards float in sunlight and the lower wards never see the sky. Money and power flow upward. Everything else flows down. The Sharn Watch is corrupt, undermanned, and mostly concerned with keeping the upper wards comfortable. In the middle and lower wards, if you want justice, or anything close to it, you hire an inquisitive.
 
 That's you.
 
@@ -30,11 +30,11 @@ Noir, not grimdark. The city is corrupt, the cases get messy, and the clients li
 
 Some touchstones:
 
-- **Chinatown** — You can do the right investigation and still lose.
-- **The Maltese Falcon** — Everyone wants the thing. Everyone is lying about why.
-- **Brick** — Noir structure in an unexpected setting.
-- **L.A. Confidential** — Cops, corruption, and three different ways to pursue justice.
-- **Batman: The Animated Series** — Art deco city, morally gray stories, pulp energy.
+- **Chinatown**: You can do the right investigation and still lose.
+- **The Maltese Falcon**: Everyone wants the thing. Everyone is lying about why.
+- **Brick**: Noir structure in an unexpected setting.
+- **L.A. Confidential**: Cops, corruption, and three different ways to pursue justice.
+- **Batman: The Animated Series**: Art deco city, morally gray stories, pulp energy.
 
 ### The Agency
 
@@ -60,18 +60,18 @@ Mira grew up in Sharn's lower wards, fell in with a rough crowd, and eventually 
 - Brelish (Average +1): Deceive (Focused)
 
 **Skills**:
-- Investigate: Superb (+5) — Inquisitive +3, Specialized +2
-- Empathy: Great (+4) — Inquisitive +3, Focused +1
-- Contacts: Good (+3) — Inquisitive +3
-- Notice: Good (+3) — Inquisitive +3
-- Rapport: Good (+3) — Inquisitive +3
-- Athletics: Good (+3) — Street Urchin +2, Focused +1
-- Stealth: Good (+3) — Street Urchin +2, Focused +1
-- Burglary: Fair (+2) — Street Urchin +2
-- Deceive: Fair (+2) — Brelish +1, Focused +1
-- Will: Fair (+2) — Street Urchin +2
-- Crafts: Average (+1) — Brelish +1
-- Resources: Average (+1) — Brelish +1
+- Investigate: Superb (+5) from Inquisitive +3, Specialized +2
+- Empathy: Great (+4) from Inquisitive +3, Focused +1
+- Contacts: Good (+3) from Inquisitive +3
+- Notice: Good (+3) from Inquisitive +3
+- Rapport: Good (+3) from Inquisitive +3
+- Athletics: Good (+3) from Street Urchin +2, Focused +1
+- Stealth: Good (+3) from Street Urchin +2, Focused +1
+- Burglary: Fair (+2) from Street Urchin +2
+- Deceive: Fair (+2) from Brelish +1, Focused +1
+- Will: Fair (+2) from Street Urchin +2
+- Crafts: Average (+1) from Brelish +1
+- Resources: Average (+1) from Brelish +1
 
 **Stunts**:
 - **Crime Scene Expert**: Because I've investigated hundreds of cases, I get +2 to Investigate when examining a location where a crime occurred.
@@ -105,8 +105,8 @@ These sections get filled in during and after Session 0. Bring this to the table
 - [ ] Think about 2-3 character concepts (the character ideas above are a starting point)
 
 **During the Session:**
-- [ ] Discuss tone and safety tools (X-Card, Lines and Veils — see [GM's Guide](gm-guide))
-- [ ] Build characters together — modes, aspects, stunts
+- [ ] Discuss tone and safety tools (X-Card, Lines and Veils: see [GM's Guide](gm-guide))
+- [ ] Build characters together: modes, aspects, stunts
 - [ ] Create relationship aspects connecting the PCs
 - [ ] Name the agency and decide where the office is
 - [ ] Establish each character's relationship to Sharn (who do they know, where do they go)
