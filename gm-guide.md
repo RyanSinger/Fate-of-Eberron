@@ -19,11 +19,11 @@ Eberron has a distinctive tone that sets it apart from traditional fantasy. Your
 
 **Everything Is Morally Complicated**
 
-There are no pure heroes or irredeemable villains in Eberron. The Silver Flame church genuinely fights evil—and also conducted a purge that nearly wiped out lycanthropes and shifters. House Cannith created the warforged, giving rise to a new form of life—and did so to profit from a century of war. The Lord of Blades may be a terrorist, or may be the only one fighting for warforged liberation.
+There are no pure heroes or irredeemable villains in Eberron. The Silver Flame church genuinely fights evil. It also conducted a purge that nearly wiped out lycanthropes and shifters. House Cannith created the warforged. They gave rise to a new form of life, and did so to profit from a century of war. The Lord of Blades may be a terrorist, or may be the only one fighting for warforged liberation.
 
-When you create NPCs, give them understandable motivations. When you present factions, show their virtues alongside their flaws. When players make choices, let those choices have real consequences—but not simple ones.
+When you create NPCs, give them understandable motivations. When you present factions, show their virtues alongside their flaws. When players make choices, let those choices have real consequences, but not simple ones.
 
-> *Don't tell the players that the Church of the Silver Flame is good or evil. Show them a Thrane priest who heals the sick for free—and then show them another who treats shifters with barely concealed disgust. Let players form their own opinions.*
+> *Don't tell the players that the Church of the Silver Flame is good or evil. Show them a Thrane priest who heals the sick for free. Then show them another who treats shifters with barely concealed disgust. Let players form their own opinions.*
 
 **The War Isn't Over**
 
@@ -42,7 +42,7 @@ Nothing in Eberron is what it seems on the surface. Every organization has secre
 
 The Aurum manipulates commerce and politics. The Dreaming Dark infiltrates through dreams. The Lords of Dust have plans spanning millennia. The Chamber's dragons pursue the Draconic Prophecy through proxies. The dragonmarked houses pursue their own interests across national borders.
 
-Build layers into your mysteries. When players solve one conspiracy, they should glimpse another beneath it. Not everything needs an answer—some mysteries should remain mysteries.
+Build layers into your mysteries. When players solve one conspiracy, they should glimpse another beneath it. Not everything needs an answer. Some mysteries should remain mysteries.
 
 **Cinematic Action**
 
@@ -51,7 +51,7 @@ Eberron is pulp adventure, not gritty realism. Fights happen on lightning rails 
 Push for dynamic locations and dramatic situations:
 - "You're fighting on a rain-slick bridge between two towers, five hundred feet above Lower Dura."
 - "The train lurches as something massive strikes it from beneath the track."
-- "The ritual circle flares with light. You have until the moons align—maybe five minutes."
+- "The ritual circle flares with light. You have until the moons converge. Maybe five minutes."
 
 Use zones aggressively. Create environmental hazards. Let players destroy the scenery. Embrace the chaos.
 
@@ -59,13 +59,13 @@ Use zones aggressively. Create environmental hazards. Let players destroy the sc
 
 Never resolve actions abstractly. Before any roll, establish the scene: When is this happening? Where? Who else is present? What could go wrong?
 
-A player wants to modify their airship. Don't just say "roll Crafts." Ask: "When are you doing this—at night when no one can see, or openly at the dock? What do the House Lyrandar dockworkers think of you messing with their vessel?" Suddenly there's potential for complications, witnesses, or allies.
+A player wants to modify their airship. Don't just say "roll Crafts." Ask: "When are you doing this? At night when no one can see, or openly at the dock? What do the House Lyrandar dockworkers think of you messing with their vessel?" Suddenly there's potential for complications, witnesses, or allies.
 
-Apply the **TV Test**: If your game were a TV show, would this scene make the cut? If a player says "I want to research the Dhakaani Empire," that's not a scene—that's a montage at best. Instead: "You're in Morgrave's restricted archives at midnight. The librarian who let you in is nervous—she could lose her job. What are you looking for, and what happens if someone catches you?" Now it's a scene.
+Apply the **TV Test**: If your game were a TV show, would this scene make the cut? If a player says "I want to research the Dhakaani Empire," that's not a scene. That's a montage at best. Instead: "You're in Morgrave's restricted archives at midnight. The librarian who let you in is nervous. She could lose her job. What are you looking for, and what happens if someone catches you?" Now it's a scene.
 
 **Ask "What Does Success Look Like?"**
 
-Before dice hit the table, ask the player what they're hoping to achieve. "I attack him" tells you nothing. "I want to disarm him and back him against the railing so he'll talk" tells you everything. Now you know what success means—and what interesting failure might look like.
+Before dice hit the table, ask the player what they're hoping to achieve. "I attack him" tells you nothing. "I want to disarm him and back him against the railing so he'll talk" tells you everything. Now you know what success means, and what interesting failure might look like.
 
 This also helps players think cinematically. They stop optimizing dice rolls and start directing their character's story.
 
@@ -79,11 +79,11 @@ As GM, you have your own pool of fate points to use for NPCs.
 
 **Spending Fate Points**: You spend fate points to invoke aspects for NPCs, refuse compels on NPCs, or activate NPC stunts that require spending. This works just like it does for players.
 
-**Compels Are Free**: You don't need to spend fate points to compel PC aspects—you have an unlimited supply for that purpose. Compels generate story and give players fate points. Use them liberally.
+**Compels Are Free**: You don't need to spend fate points to compel PC aspects. You have an unlimited supply for that purpose. Compels generate story and give players fate points. Use them liberally.
 
 **Earning Fate Points**: When PCs invoke aspects against your NPCs, when NPCs concede conflicts, or when certain stunts trigger, fate points flow to your reserve.
 
-> *In practice, don't stress too much about tracking this precisely. The goal is to ensure NPCs can invoke aspects when dramatically appropriate, while keeping compels flowing freely. If you're unsure, err on the side of letting the NPCs be competent—but not at the cost of fun.*
+> *In practice, don't stress too much about tracking this precisely. The goal is to ensure NPCs can invoke aspects when dramatically appropriate, while keeping compels flowing freely. If you're unsure, err on the side of letting the NPCs be competent, but not at the cost of fun.*
 
 ---
 
@@ -124,7 +124,7 @@ Before your first adventure, run a **session zero**, a conversation about expect
 - A shared past (same unit in the war, same school, same street)
 - A business venture (inquisitive agency, salvage company, courier service)
 
-**Character Creation**: Build characters together. When players see each other's aspects, they can build connections. "Oh, you're a Cyran refugee? My character blames Cyre for the war—that's interesting tension."
+**Character Creation**: Build characters together. When players see each other's aspects, they can build connections. "Oh, you're a Cyran refugee? My character blames Cyre for the war. That's interesting tension."
 
 ### Questions to Ask Players
 
@@ -136,7 +136,7 @@ Before your first adventure, run a **session zero**, a conversation about expect
 
 ### The First Session
 
-End session zero with a brief opening scene—not combat, just roleplay. Let characters introduce themselves in action:
+End session zero with a brief opening scene. Not combat, just roleplay. Let characters introduce themselves in action:
 - Meeting at a tavern to discuss a job
 - Arriving at a crime scene together
 - Receiving orders from their patron
@@ -149,7 +149,7 @@ This grounds the campaign before the "real" adventure begins.
 
 Eberron's themes include war, moral ambiguity, and dark conspiracies. Before play, establish boundaries with your group.
 
-**The X-Card**: Place an index card with an "X" on the table. Any player can tap it to indicate that content has crossed a line—no explanation required. When someone uses it, edit, rewind, or skip the content.
+**The X-Card**: Place an index card with an "X" on the table. Any player can tap it to indicate that content has crossed a line. No explanation required. When someone uses it, edit, rewind, or skip the content.
 
 **Script Change**: Borrow from theater. Players can call:
 - **Pause**: Stop and discuss what's happening
@@ -187,9 +187,9 @@ Scale isn't something PCs have or earn. It's purely a GM tool for creating adver
 
 When an NPC has scale above Mundane, they gain **one benefit per level of difference** when acting against Mundane opponents:
 
-- **+1 before rolling** (representing raw superiority)
-- **+2 after rolling** if already successful (representing overwhelming force)
-- **One additional free invoke** when creating advantages (representing tactical dominance)
+- **+1 before rolling** (raw superiority)
+- **+2 after rolling** if already successful (overwhelming force)
+- **One additional free invoke** when creating advantages (tactical dominance)
 
 Choose the same benefit multiple times or mix them. A Legendary dragon (3 steps above Mundane) might take +3 before rolling, or +1 before and +2 after, or any combination.
 
@@ -203,7 +203,7 @@ Choose the same benefit multiple times or mix them. A Legendary dragon (3 steps 
 
 **Scale can be neutralized.** The *Silver Flame* might grant temporary scale against fiends. An artifact forged in the Prophecy might let mortals fight a dragon as equals. Discovering how to neutralize an enemy's scale advantage can be an entire adventure arc.
 
-> **Example**: The party confronts Mordakhesh the Shadowsword, a rakshasa prakhutu (Otherworldly—2 steps above Mundane). In combat, he takes +2 before every roll. The PCs' best fighter has Great (+4) Fight, but Mordakhesh's Good (+3) effectively becomes Superb (+5).
+> **Example**: The party confronts Mordakhesh the Shadowsword, a rakshasa prakhutu (Otherworldly, two steps above Mundane). In combat, he takes +2 before every roll. The PCs' best fighter has Great (+4) Fight, but Mordakhesh's Good (+3) effectively becomes Superb (+5).
 >
 > Direct combat is suicidal. The party needs another approach: finding his true name, securing a Khyber dragonshard that binds him, or calling in a favor from the Chamber.
 
@@ -216,7 +216,7 @@ There are two approaches to creating NPCs:
 **Quick NPCs**: For characters who appear once or aren't meant to be major obstacles, keep it simple:
 - Give them one aspect (their concept)
 - One or two skills at +1 to +3
-- No stress track—one hit takes them out, or they concede
+- No stress track. One hit takes them out, or they concede
 
 **Detailed NPCs**: For recurring characters, major villains, or anyone who needs to last multiple scenes, use the adversary framework below.
 
@@ -231,10 +231,10 @@ Threats exist to be hit once and go down. They're dangerous in numbers but not i
 **Building Threats:**
 - One aspect (their concept: *Daask Street Thug*, *Emerald Claw Initiate*)
 - One or two skills at Average (+1) or Fair (+2)
-- No stress track—any successful hit takes them out
+- No stress track. Any successful hit takes them out
 - Attack in groups using teamwork (+1 per additional threat, max +3)
 
-**When to use:** Swarms of enemies, dangerous-but-fragile minions, time pressure through numbers.
+**When to use:** Swarms of enemies, dangerous but fragile minions, time pressure through numbers.
 
 > **Example: Boromar Thugs**
 > *Halfling Street Muscle*
@@ -267,8 +267,8 @@ Hitters deal damage and can take a few hits before going down. They're the dange
 **Building Hitters:**
 - High concept and one other aspect
 - Peak skill at Good (+3) or Great (+4)
-- 2-3 supporting skills
-- Stress track (2-3 boxes)
+- Two or three supporting skills
+- Stress track (two or three boxes)
 - One consequence (mild or moderate)
 - Optional: One stunt that makes them distinctive
 
@@ -278,7 +278,7 @@ Hitters deal damage and can take a few hits before going down. They're the dange
 > *Professional Mercenary*
 > *Honor in Service*
 > Skills: Fight Great (+4), Athletics Good (+3), Notice Fair (+2), Physique Fair (+2)
-> Stunt: **Shield Wall**—+2 to defense when fighting alongside allies
+> Stunt: **Shield Wall**. +2 to defense when fighting alongside allies
 > Stress: [ ] [ ] [ ]
 > Consequence: Moderate [ ]
 
@@ -292,7 +292,7 @@ Bosses are major antagonists who can threaten the whole party. They should feel 
 - Multiple stunts
 - Full stress track
 - Full consequence slots
-- **Boss Features** (pick 1-3):
+- **Boss Features** (pick one to three):
   - *Extra Actions*: Acts twice per exchange, or once per PC
   - *Damage Absorption*: Requires multiple stress boxes to fill one box
   - *Zone Control*: Free invokes on aspects in their territory
@@ -353,11 +353,11 @@ Things that block progress or threaten harm. They don't take actions. They just 
 
 Constraints are situational aspects that limit options without being overcome directly. They shape the scene.
 
-- *Crowded Marketplace*—collateral damage, witnesses everywhere
-- *Diplomatic Immunity*—can't just arrest them
-- *Eyes of the Twelve*—House agents are watching
-- *No Magic Zone*—manifest zone suppresses arcane effects
-- *Time is Running Out*—represented by a countdown
+- *Crowded Marketplace*: collateral damage, witnesses everywhere
+- *Diplomatic Immunity*: can't just arrest them
+- *Eyes of the Twelve*: House agents are watching
+- *No Magic Zone*: manifest zone suppresses arcane effects
+- *Time is Running Out*: shown by a countdown
 
 Constraints should be invokable by both sides and create interesting choices.
 
@@ -367,7 +367,7 @@ Countdowns create urgency. Something bad happens when they complete.
 
 **Building Countdowns:**
 - Define what happens at zero
-- Set the number of boxes (3-6 typically)
+- Set the number of boxes (three to six typically)
 - Decide what advances the countdown:
   - *Time*: Advances each exchange or scene
   - *Action*: Advances when enemies act or succeed
@@ -415,7 +415,7 @@ Different Eberron threats fill different adversary roles:
 |------|---------|------------|--------|--------------|---------|
 | Threat | 1 | +1 to +2 | None | None | Taken out by any hit |
 | Filler | 1 (group) | +2 to +3 | 1/member | None | Shared track |
-| Hitter | 2 | +3 to +4 | 2-3 | Mild or Moderate | One stunt optional |
+| Hitter | 2 | +3 to +4 | 2 or 3 | Mild or Moderate | One stunt optional |
 | Boss | 5 | +5 or higher | 4+ | Full set | Boss features |
 
 ---
@@ -426,7 +426,7 @@ Eberron's factions are active forces in the world. Treat major factions as chara
 
 ### The Dragonmarked Houses
 
-Each House functions as an economic power that transcends national borders.
+Each House is an economic power that transcends national borders.
 
 **House Cannith** (Making)
 - *Makers of Everything Worth Making*
@@ -509,7 +509,7 @@ Each House functions as an economic power that transcends national borders.
 
 **Breland**
 - *Democracy and Progress*
-- *King Boranel Holds It Together—Barely*
+- *King Boranel Holds It Together, Barely*
 - Agenda: Maintain peace, expand democratic institutions, stay ahead economically
 
 **Aundair**
@@ -567,7 +567,7 @@ Compels drive story and earn players fate points. Eberron's themes provide plent
 
 ### War Compels
 
-*Cyran Refugee* → "You recognize that merchant—he commanded the Brelish unit that sacked your hometown."
+*Cyran Refugee* → "You recognize that merchant. He commanded the Brelish unit that sacked your hometown."
 
 *Karrnathi Veteran* → "The Aundairian envoy sneers at your accent. Your hand moves to your sword."
 
@@ -575,15 +575,15 @@ Compels drive story and earn players fate points. Eberron's themes provide plent
 
 ### House Compels
 
-*Heir to House Cannith* → "Your house contacts have found you—and they're not here to help. They're here to bring you back."
+*Heir to House Cannith* → "Your house contacts have found you, and they're not here to help. They're here to bring you back."
 
-*Mark of Finding* → "The Tharashk prospectors recognize your mark. They insist you help them—family obligation."
+*Mark of Finding* → "The Tharashk prospectors recognize your mark. They insist you help them. Family obligation."
 
 ### Intrigue Compels
 
-*Trust No One* → "Your paranoia is right for once—but you've been so suspicious that no one believes your warning."
+*Trust No One* → "Your paranoia is right for once, but you've been so suspicious that no one believes your warning."
 
-*I Know Everyone Who Matters* → "You recognize the assassin—she's the daughter of an old ally. Can you really turn her in?"
+*I Know Everyone Who Matters* → "You recognize the assassin. She's the daughter of an old ally. Can you really turn her in?"
 
 ### Setting Compels
 
@@ -714,13 +714,13 @@ Eberron investigations often involve magical elements.
 - Speak with Dead (expensive, limited, may be compromised)
 - Divination magic (blocked by wards, gives cryptic results)
 - Dragonmark powers (House Medani detection, House Tharashk tracking)
-- Mundane investigation enhanced by magic (detecting magical residue, identifying alchemical compounds)
+- Mundane investigation backed by magic (detecting magical residue, identifying alchemical compounds)
 
 **Complications**:
 - Evidence has been magically altered
 - Witnesses' memories have been modified
 - The crime scene is warded against divination
-- Someone else is investigating—and getting in the way
+- Someone else is investigating, and getting in the way
 
 ### Chase Scenes
 
@@ -744,7 +744,7 @@ Sharn's vertical layout makes chases dynamic.
 
 Eberron social scenes involve navigating complex relationships.
 
-**High Society**: Galas, house gatherings, noble courts. Aspects matter—being underdressed, inappropriate nationality, wrong house.
+**High Society**: Galas, house gatherings, noble courts. Aspects matter: being underdressed, inappropriate nationality, wrong house.
 
 **Underworld**: Taverns, gambling dens, Daask territory. Different rules apply. Showing weakness is dangerous.
 
@@ -757,7 +757,7 @@ Eberron social scenes involve navigating complex relationships.
 Make fights dynamic and meaningful.
 
 **Environmental Elements**:
-- Magical lighting (everbright, continual flame—can be disrupted)
+- Magical lighting (everbright, continual flame, can be disrupted)
 - Vertical space (multiple levels, falling hazards)
 - Magical devices (control panels, arcane machinery)
 - Unstable structures (war damage, ancient ruins)
@@ -818,9 +818,9 @@ The Day of Mourning destroyed Cyre four years ago. No one knows why. This is the
 
 **Using the Mourning**:
 - The Mournland itself is an adventure location
-- Cyran refugees are everywhere, providing hooks
+- Cyran refugees are everywhere, and every one is a hook
 - Fear of another Mourning motivates political action
-- Artifacts from pre-Mourning Cyre are valuable
+- Artifacts from pre-Mourning Cyre fetch high prices
 - The truth is a campaign-level prize
 
 ---
@@ -839,7 +839,7 @@ One hit takes them out. Attack in groups with teamwork.
 #### Cultist Rabble
 *Touched by Khyber's Madness*
 Skills: Lore Average (+1), Fight Average (+1)
-Fanatic—won't flee. May have minor aberrant abilities.
+Fanatic. Won't flee. May have minor aberrant abilities.
 
 ---
 
@@ -885,7 +885,7 @@ Monstrous heritage grants unusual capabilities (ogre strength, troll regeneratio
 *Breland's Hidden Hand*
 *Loyalty to Crown and Country*
 Skills: Deceive Great (+4), Investigate Good (+3), Stealth Good (+3), Fight Fair (+2), Notice Fair (+2)
-Stunt: **Backup Plan**—Once per scene, reveal a prepared advantage
+Stunt: **Backup Plan**. Once per scene, reveal a prepared advantage
 Stress: [ ] [ ] [ ]
 Consequence: Moderate [ ]
 Has backup. Always.
@@ -894,7 +894,7 @@ Has backup. Always.
 *Built for War, Now Free*
 *Flesh Is Weak*
 Skills: Fight Great (+4), Physique Good (+3), Athletics Good (+3), Notice Fair (+2)
-Stunt: **Relentless**—+2 to overcome when pursuing a target
+Stunt: **Relentless**. +2 to overcome when pursuing a target
 Stress: [ ] [ ] [ ]
 Consequence: Moderate [ ]
 Immune to poison and disease. Doesn't need food, water, or sleep. Won't surrender.
@@ -903,7 +903,7 @@ Immune to poison and disease. Doesn't need food, water, or sleep. Won't surrende
 *[House]'s Quiet Solution*
 *Nothing Personal, Just Business*
 Skills: Stealth Great (+4), Fight Good (+3), Notice Good (+3), Athletics Fair (+2), Deceive Fair (+2)
-Stunt: **Death from Shadows**—+2 to attack when target is unaware
+Stunt: **Death from Shadows**. +2 to attack when target is unaware
 Stress: [ ] [ ] [ ]
 Consequence: Moderate [ ]
 Patient. Professional. Has an exit strategy.
@@ -912,10 +912,10 @@ Patient. Professional. Has an exit strategy.
 *The Dreaming Dark's Puppet*
 *Not Quite Right*
 Skills: Deceive Great (+4), Empathy Good (+3), Will Good (+3), Notice Fair (+2), Fight Fair (+2)
-Stunt: **Mind Touch**—Can use Deceive to attack mental stress (if you use such rules) or create psychic advantages
+Stunt: **Mind Touch**. Can use Deceive to attack mental stress (if you use such rules) or create psychic advantages
 Stress: [ ] [ ] [ ]
 Consequence: Moderate [ ]
-Telepathic link to other Inspired. When defeated, the quori flees—the host remembers nothing.
+Telepathic link to other Inspired. When defeated, the quori flees. The host remembers nothing.
 
 #### Droaam Monster
 *[Monster Type] Mercenary*
@@ -939,7 +939,7 @@ Aspects define the danger: *Living Cloudkill* poisons zones, *Living Fireball* e
 
 #### Emerald Claw Commander
 *Vol's Chosen General*
-*Death Is Not the End—It's a Beginning*
+*Death Is Not the End, It's a Beginning*
 *The Queen of Death Will Rise*
 *I've Died Twice Already*
 *Karrnath Betrayed Us First*
@@ -956,7 +956,7 @@ Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
 *Desperate to Restore the House*
 *Knows More Than She's Telling*
 *The Schema Must Be Found*
-*I'll Pay Any Price—Except My Own*
+*I'll Pay Any Price, Except My Own*
 Skills: Deceive Superb (+5), Rapport Great (+4), Resources Great (+4), Will Good (+3), Lore Good (+3), Contacts Fair (+2), Empathy Fair (+2)
 Stunts:
 - **House Connections**: +2 to Resources when calling on Cannith assets
@@ -964,12 +964,12 @@ Stunts:
 Boss Feature: Recovery (escapes to return with new schemes)
 Stress: [ ] [ ] [ ]
 Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
-Not a combat boss—threatens through manipulation, resources, and information.
+Not a combat boss. Threatens through manipulation, resources, and information.
 
 #### Daelkyr Cultist Champion
 *Flesh Reshaped by Xoriat*
 *Sanity Is a Limitation*
-*The Gatekeepers Failed Once—They'll Fail Again*
+*The Gatekeepers Failed Once, They'll Fail Again*
 *My Master Whispers From Beyond*
 *Pain Is Just Information*
 Skills: Fight Superb (+5), Will Superb (+5), Physique Great (+4), Lore Good (+3), Provoke Good (+3)
@@ -990,9 +990,9 @@ Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
 Skills: Lore Fantastic (+6), Deceive Superb (+5), Will Superb (+5), Rapport Great (+4), Investigate Great (+4), Notice Good (+3), Resources Good (+3)
 Stunts:
 - **Prophetic Insight**: Once per scene, declare a minor detail of the prophecy is relevant (free invoke on *The Prophecy Unfolds*)
-- **True Form**: Can reveal dragon form—gains Fight Fantastic (+6), Physique Legendary (+8), flight, breath weapon
+- **True Form**: Can reveal dragon form, gaining Fight Fantastic (+6), Physique Legendary (+8), flight, breath weapon
 - **Timeless Patience**: +2 to Will against provocation or deception
-Boss Features: Recovery (vanishes to machinate elsewhere), Special Weakness (dragons bound by prophecy—using it against them deals +2 stress)
+Boss Features: Recovery (vanishes to machinate elsewhere), Special Weakness (dragons bound by prophecy: using it against them deals +2 stress)
 Stress: [ ] [ ] [ ] [ ] [ ]
 Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
 
@@ -1135,9 +1135,9 @@ Roll 4 Fate dice (4dF). Each die shows +1, 0, or -1. Add your skill rating.
 | Result | Outcome |
 |--------|---------|
 | Fail by 3+ | Fail, and things get worse |
-| Fail by 1-2 | Fail, or succeed at serious cost |
+| Fail by 1 or 2 | Fail, or succeed at serious cost |
 | Tie (0) | Succeed at minor cost |
-| Succeed by 1-2 | Succeed |
+| Succeed by 1 or 2 | Succeed |
 | Succeed by 3+ | Succeed with style |
 
 ### The Four Actions
