@@ -13,18 +13,18 @@ This document works alongside the **Eberron Setting Guide** (for world lore) and
 
 ## What Is Fate?
 
-Fate is a tabletop roleplaying game that focuses on collaborative storytelling. If you've played other RPGs like D&D or Pathfinder, you'll find Fate familiar but different in some key ways:
+Fate is a tabletop roleplaying game that focuses on collaborative storytelling. If you've played other RPGs like D&D or Pathfinder, you'll find Fate familiar but different in some important ways:
 
-**Characters are defined by who they are, not what they have.** Your character's aspects—short phrases describing who they are—matter more than equipment lists or spell slots. A *Cynical War Veteran* plays differently than a *Wide-Eyed Morgrave Scholar*, regardless of their skill ratings.
+**Characters are defined by who they are, not what they have.** Your character's aspects (short phrases describing who they are) matter more than equipment lists or spell slots. A *Cynical War Veteran* plays differently than a *Wide-Eyed Morgrave Scholar*, regardless of their skill ratings.
 
-**The dice suggest outcomes; they don't dictate them.** When you roll, the result tells you whether you succeed, fail, or something in between—but you and the GM work together to decide what that looks like in the story.
+**The dice suggest outcomes; they don't dictate them.** When you roll, the result tells you whether you succeed, fail, or something in between. You and the GM work together to decide what that looks like in the story.
 
 **Players have narrative authority.** You can spend fate points to add details to the world, not just bonuses to rolls. If your aspect says you're *Connected to the Boromar Clan*, you can declare that you know a guy in this district.
 
 **Failure is interesting, not punishing.** Bad rolls don't mean "nothing happens." They mean complications, twists, and costs. The story keeps moving.
 
 To play, you'll need:
-- **Fate dice** (four six-sided dice with +, −, and blank faces) or regular dice (1-2 = −, 3-4 = blank, 5-6 = +)
+- **Fate dice** (four six-sided dice with plus, minus, and blank faces) or regular dice (1 or 2 = minus, 3 or 4 = blank, 5 or 6 = plus)
 - **Fate points** (tokens, coins, or poker chips)
 - **Index cards** for aspects
 - **Character sheets**
@@ -35,10 +35,10 @@ To play, you'll need:
 
 Eberron is a world of pulp adventure, noir intrigue, and magical technology. The Last War ended two years ago, leaving the continent of Khorvaire scarred and uneasy. Your character lives in this world of airships and ancient ruins, dragonmarked houses and political conspiracies.
 
-The key things that make Eberron different:
+The things that make Eberron different:
 
 - **Moral ambiguity**: There are no clear heroes and villains. Even the "good" organizations have dark secrets.
-- **Wide magic**: Minor magic is everywhere—street lamps, message services, healing houses—but powerful magic is rare.
+- **Wide magic**: Minor magic is everywhere (street lamps, message services, healing houses), but powerful magic is rare.
 - **The Last War**: A century of conflict ended recently. Everyone has a relationship to it.
 - **Action and intrigue**: Think Indiana Jones meets Casablanca, not Tolkien.
 
@@ -56,11 +56,11 @@ Your character is defined by:
 
 ## Step 1: High Concept and Trouble
 
-Start with your **high concept**—a phrase that captures who your character fundamentally is.
+Start with your **high concept**, a phrase that captures who your character fundamentally is.
 
 > Examples: *Cynical Brelish War Veteran*, *Warforged Seeking Purpose*, *Morgrave Scholar with Xen'drik Fever*, *House Medani Inquisitive*
 
-Then define your **trouble**—something that makes your life complicated.
+Then define your **trouble**, something that makes your life complicated.
 
 > Examples: *The War Isn't Over for Me*, *I Trust Too Easily*, *Debts to House Cannith*, *Hunted by the Aurum*
 
@@ -109,7 +109,7 @@ If a skill appears in multiple modes, you take the highest rating. The overlap d
 
 **The Modes**
 
-Modes are organized into three loose categories—**Origins**, **Backgrounds**, and **Callings**—but you can pick any three. A character could take three Origins, three Callings, or any mix.
+Modes are organized into three loose categories (**Origins**, **Backgrounds**, and **Callings**), but you can pick any three. A character could take three Origins, three Callings, or any mix.
 
 ---
 
@@ -199,7 +199,7 @@ You can shift your appearance at will.
 
 **Skills**: Deceive, Empathy, Notice, Rapport, Stealth
 
-*Special*: You can change your appearance to any humanoid form you've studied. This is a narrative truth—you don't need to roll to change shape, but you might roll Deceive to maintain a persona under scrutiny.
+*Special*: You can change your appearance to any humanoid form you've studied. This is a narrative truth. You don't need to roll to change shape, but you might roll Deceive to maintain a persona under scrutiny.
 
 *Suggested Aspects*: *Many Faces, One Truth*, *Persona: [Name]*, *They Fear What They Don't Understand*
 
@@ -227,7 +227,7 @@ You are bonded with a spirit from the plane of dreams.
 
 **Skills**: Empathy, Lore, Notice, Rapport, Will
 
-*Special*: You have innate psychic abilities. You can communicate telepathically with willing creatures you can see. You don't dream normally—you share a connection to Dal Quor that the Dreaming Dark would love to exploit.
+*Special*: You have innate psychic abilities. You can communicate telepathically with willing creatures you can see. You don't dream normally. You share a connection to Dal Quor that the Dreaming Dark would love to exploit.
 
 *Suggested Aspects*: *Two Souls, One Body*, *Hunted by the Dreaming Dark*, *Serenity Amid Chaos*
 
@@ -291,7 +291,7 @@ You were born into privilege.
 
 ### Entertainer
 
-You performed for crowds—or for marks.
+You performed for crowds, or for marks.
 
 **Skills**: Athletics, Deceive, Empathy, Rapport, Provoke
 
@@ -343,7 +343,7 @@ You carry a dragonmark and were raised in a House.
 
 ## Callings
 
-These modes reflect what you do now—your current role or profession.
+These modes reflect what you do now: your current role or profession.
 
 ### Inquisitive
 
@@ -473,11 +473,11 @@ Pick 5 skills that make sense for the mode. The skills should hang together them
 
 - Think about what someone with this mode would be good at
 - Include at least one "active" skill (Fight, Shoot, Athletics) and one "social" or "mental" skill for breadth
-- Avoid modes that are just "5 combat skills" or "5 social skills"—that's min-maxing, not a character concept
+- Avoid modes that are just "5 combat skills" or "5 social skills." That's min-maxing, not a character concept
 
 **Step 3: Add Flavor**
 
-Write 2-3 suggested aspects and 2 suggested stunts that fit the mode. This helps communicate what the mode is about and gives players a starting point.
+Write two or three suggested aspects and two suggested stunts that fit the mode. This helps communicate what the mode is about and gives players a starting point.
 
 > **Example Custom Mode: Morgrave Scholar**
 >
@@ -532,7 +532,7 @@ Think about what you'd want to see in a story about your character. Good aspects
 
 **Build Setting**: Connect you to Eberron's world. *Cyran Refugee* places you in the setting's tensions. *The Chamber Is Watching Me* suggests draconic plots.
 
-**Avoid aspects that duplicate skills.** You don't need *Good at Fighting*—that's what the Fight skill is for. Instead, *Karrnathi Swordsmanship* suggests specific training, cultural ties, and potential complications (Karrnath's enemies, undead associations).
+**Avoid aspects that duplicate skills.** You don't need *Good at Fighting*. That's what the Fight skill is for. Instead, *Karrnathi Swordsmanship* suggests specific training, cultural ties, and potential complications (Karrnath's enemies, undead associations).
 
 ### Eberron-Specific Ideas
 
@@ -555,7 +555,7 @@ Stunts follow two basic templates:
 
 **Because I [describe something special about you], I get +2 when I use [skill] to [action] when [specific circumstance].**
 
-> *Because I **served as a Brelish reconnaissance scout**, I get +2 when I use **Notice** to **create an advantage** when **observing enemy positions**.*
+> *Because I **was a Brelish reconnaissance scout**, I get +2 when I use **Notice** to **create an advantage** when **observing enemy positions**.*
 
 > *Because I **studied at Arcanix**, I get +2 when I use **Lore** to **overcome** when **identifying magical effects**.*
 
@@ -590,13 +590,13 @@ If your character carries a dragonmark, you'll need:
 1. **An aspect** naming the mark (e.g., *Heir to House Cannith's Mark of Making*)
 2. **(Optional) Dragonmark stunts** from the list below
 
-Having the dragonmark aspect grants narrative permission to use your mark's basic abilities—a Mark of Healing lets you stabilize the dying, a Mark of Passage lets you open magically sealed doors, etc. Stunts give you mechanical advantages.
+Having the dragonmark aspect grants narrative permission to use your mark's basic abilities. A Mark of Healing lets you stabilize the dying, a Mark of Passage lets you open magically sealed doors, and so on. Stunts give you mechanical advantages.
 
 ### Mark of Detection (House Medani)
 
 *Basic Permission*: You can sense danger and magical threats intuitively.
 
-**Sense Danger**: Because of my Mark of Detection, I can never be surprised—if enemies would have initiative advantage, I can act first before they do.
+**Sense Danger**: Because of my Mark of Detection, I can never be surprised. If enemies would have initiative advantage, I can act first before they do.
 
 **Pierce Illusion**: Because of my Mark of Detection, I can use Notice instead of Will to defend against illusions and mental deception.
 
@@ -626,7 +626,7 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 ### Mark of Hospitality (House Ghallanda)
 
-*Basic Permission*: You can create comfort—food, shelter, and safety—in any circumstance.
+*Basic Permission*: You can create comfort (food, shelter, and safety) in any circumstance.
 
 **Safe Haven**: Because of my Mark of Hospitality, once per session I can declare that we find a safe place to rest, even in dangerous territory. (Story declarations are limited to once per session rather than once per scene.)
 
@@ -696,7 +696,7 @@ Magic in Eberron is everywhere but powerful magic is rare. There are two ways to
 
 ### Narrative Magic
 
-If you have an aspect that establishes magical ability—such as *Morgrave-Trained Wizard*, *Kalashtar Mindlink*, *Servant of the Silver Flame*, or a dragonmark—you can describe any skill roll as being accomplished through magic.
+If you have an aspect that establishes magical ability (such as *Morgrave-Trained Wizard*, *Kalashtar Mindlink*, *Servant of the Silver Flame*, or a dragonmark), you can describe any skill roll as being accomplished through magic.
 
 When you use Lore to create an advantage, you might describe it as casting a divination spell. When you use Will to defend, you might describe a magical shield. When you Attack with Fight, you might describe a flaming sword.
 
@@ -706,17 +706,17 @@ The mechanics don't change. You're still rolling the appropriate skill. Magic is
 
 ### Brainstorms: Solving Magical Problems
 
-When characters face a major magical challenge—breaking an ancient ward, deciphering a prophecy, counteracting a curse—the group can engage in a **brainstorm**.
+When characters face a major magical challenge (breaking an ancient ward, deciphering a prophecy, counteracting a curse), the group can engage in a **brainstorm**.
 
 Brainstorms are collaborative problem-solving scenes. They work as follows:
 
-1. **The GM describes the problem** and sets the difficulty (the number of aspects needed to solve it, typically 2-4).
+1. **The GM describes the problem** and sets the difficulty (the number of aspects needed to solve it, typically two to four).
 
 2. **Players take turns** suggesting approaches and rolling relevant skills (usually Lore or Investigate). Success creates a **solution aspect** that addresses part of the problem.
 
 3. **Each aspect** represents a piece of the puzzle. Once enough aspects are created, the problem is solved.
 
-4. **Failures** don't stop progress but create complications—unwanted attention, cost, or side effects.
+4. **Failures** don't stop progress but create complications: unwanted attention, cost, or side effects.
 
 > **Example**: The party needs to dispel a Gatekeeper ward to enter an ancient Dhakaani ruin.
 >
@@ -726,7 +726,7 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 >
 > Keth (Artificer mode) rolls Crafts: Success with style! He creates *Constructed a Resonance Key* with a free invoke.
 >
-> Mira (Priest mode) rolls Will: Failure. The GM describes that her attempt draws the attention of something below—but doesn't prevent progress.
+> Mira (Priest mode) rolls Will: Failure. The GM describes that her attempt draws the attention of something below, but doesn't prevent progress.
 >
 > Thalia tries again with Investigate: Success! She creates *Found the Ward's Weakness*.
 >
@@ -734,7 +734,7 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 
 ### Invention: Creating Magical Items
 
-Characters with the Artificer mode (or similar background) can create magical devices. The key principle: **you can't fail to make it**. You're a skilled artificer. Of course you can build it. The question is what complications arise along the way.
+Characters with the Artificer mode (or similar background) can create magical devices. The core principle: **you can't fail to make it**. You're a skilled artificer. Of course you can build it. The question is what complications arise along the way.
 
 **Step 1: Define the Invention**
 
@@ -742,7 +742,7 @@ Describe what you want to make and what it does. This becomes your invention's *
 
 **Step 2: Determine Catches**
 
-Every invention requires **catches**—complications that must be resolved before it's complete. The more powerful the invention, the more catches it has:
+Every invention requires **catches**, complications that must be resolved before it's complete. The more powerful the invention, the more catches it has:
 
 | Complexity | Catches | Examples |
 |------------|---------|----------|
@@ -754,11 +754,11 @@ Every invention requires **catches**—complications that must be resolved befor
 
 Choose catches from this list:
 
-- **Time**: It takes longer than expected—days become weeks, the situation worsens while you work
-- **Materials**: You need something rare, expensive, or hard to acquire—getting it may be an adventure
-- **Help**: You can't do it alone—you need an expert, a faction's resources, or specialized knowledge
+- **Time**: It takes longer than expected. Days become weeks, the situation worsens while you work
+- **Materials**: You need something rare, expensive, or hard to acquire. Getting it may be an adventure
+- **Help**: You can't do it alone. You need an expert, a faction's resources, or specialized knowledge
 - **Facility**: You need access to a specific workshop, laboratory, or creation forge
-- **Attention**: The work attracts unwanted notice—rivals, authorities, or something worse
+- **Attention**: The work attracts unwanted notice from rivals, authorities, or something worse
 - **Flaw**: The invention has a weakness or cost (becomes a flaw aspect the GM can invoke)
 
 **Step 3: Make the Roll**
@@ -780,13 +780,13 @@ Once the catches are resolved, the invention is complete.
 
 **Flaws**
 
-If "Flaw" was chosen as a catch, the GM creates a **flaw aspect** for the invention—something like *Drains Quickly*, *Unstable When Wet*, or *Distinctive Magical Signature*. The GM can invoke this aspect against you.
+If "Flaw" was chosen as a catch, the GM creates a **flaw aspect** for the invention, something like *Drains Quickly*, *Unstable When Wet*, or *Distinctive Magical Signature*. The GM can invoke this aspect against you.
 
-> **Example**: Keth wants to build a *Docent*—a magical adviser that can be installed in a warforged. That's sophisticated (3 catches).
+> **Example**: Keth wants to build a *Docent*, a magical adviser that can be installed in a warforged. That's sophisticated (3 catches).
 >
 > Keth rolls Crafts at Good (+3) and gets +1, for a total of +4. Success! The GM chooses one catch, Keth chooses the other two.
 >
-> The GM chooses **Attention**—House Cannith notices someone working on docent technology outside their control. Keth chooses **Materials** (he needs a Khyber dragonshard) and **Time** (it'll take a week, not a day).
+> The GM chooses **Attention**. House Cannith notices someone working on docent technology outside their control. Keth chooses **Materials** (he needs a Khyber dragonshard) and **Time** (it'll take a week, not a day).
 >
 > After acquiring the dragonshard and dealing with a Cannith inquisitor who comes asking questions, Keth completes the Docent with the aspect *Repository of Dhakaani Military History*.
 
@@ -816,16 +816,16 @@ Player characters typically have skills ranging from Mediocre (+0) to Superb (+5
 
 ### Fiction First
 
-Before you pick up dice, describe what your character is doing. Your aspects and the situation determine what's possible—then you choose the appropriate skill and action. The fiction comes first; the mechanics follow.
+Before you pick up dice, describe what your character is doing. Your aspects and the situation determine what's possible. Then you choose the appropriate skill and action. The fiction comes first; the mechanics follow.
 
 ### Rolling Dice
 
-When the outcome is uncertain, roll **4 Fate dice** (4dF). Each die shows +, −, or blank. Add the results to your skill rating.
+When the outcome is uncertain, roll **4 Fate dice** (4dF). Each die shows plus, minus, or blank. Add the results to your skill rating.
 
 <div class="fate-dice">
 <img src="{{ '/images/icons/fate-die.svg' | relative_url }}" alt="Fate Die" class="fate-die-icon">
 
-**Fate Dice**: The average roll is +0; the range is −4 to +4. Most rolls cluster around −1 to +1.
+**Fate Dice**: The average roll is +0; the range runs from minus 4 to plus 4. Most rolls cluster between minus 1 and plus 1.
 </div>
 
 Compare your total to either:
@@ -840,7 +840,7 @@ Every roll produces one of four outcomes:
 
 - **Fail** (you rolled lower): You don't achieve your goal. The GM may offer success at a major cost, or introduce a complication.
 - **Tie** (you rolled equal): Partial success, or success at a minor cost. You get what you want, but there's a catch.
-- **Success** (you rolled 1-2 higher): You achieve your goal without complications.
+- **Success** (you rolled 1 or 2 higher): You achieve your goal without complications.
 - **Success with Style** (you rolled 3+ higher): You achieve your goal and get an additional benefit, often a boost or extra effect.
 
 ### The Four Actions
@@ -850,7 +850,7 @@ Every roll produces one of four outcomes:
 <div class="action">
 <img src="{{ '/images/icons/overcome.svg' | relative_url }}" alt="Overcome" class="action-icon">
 
-**Overcome**: Get past an obstacle—unlock a door, decipher a code, convince a guard, climb a wall.
+**Overcome**: Get past an obstacle. Unlock a door, decipher a code, convince a guard, climb a wall.
 
 - **Fail**: You don't succeed, or you succeed at a serious cost.
 - **Tie**: You succeed at a minor cost or achieve a lesser goal.
@@ -910,24 +910,24 @@ Attacks don't have to mean violence. An attack is any action that weakens an opp
 - Buying off a mercenary mid-fight (Resources, with a stunt)
 - Convincing soldiers you're not worth dying for (Rapport)
 
-When you're trying to end a conflict by changing someone's mind rather than hurting them, that's still an attack—you're dealing mental stress with Rapport instead of Provoke.
+When you're trying to end a conflict by changing someone's mind rather than hurting them, that's still an attack. You're dealing mental stress with Rapport instead of Provoke.
 
-**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight. A talkative character isn't useless once combat starts—they can attack with words while others attack with weapons.
+**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight. A talkative character isn't useless once combat starts. They can attack with words while others attack with weapons.
 
-**Using Deceive as Rapport**: You can lie to make someone feel good—false flattery, pretending to surrender, feigning respect. The target defends with Will (resisting influence) or Empathy (seeing through the lie). If they succeed with Empathy, you can't use Deceive against them for the rest of the scene—you've been exposed.
+**Using Deceive as Rapport**: You can lie to make someone feel good: false flattery, pretending to surrender, feigning respect. The target defends with Will (resisting influence) or Empathy (seeing through the lie). If they succeed with Empathy, you can't use Deceive against them for the rest of the scene. You've been exposed.
 
 **Taking Out with Words**: When you take someone out with Rapport or other "positive" attacks, treat it more like a concession than an unconditional surrender. The loser gets some say in what happens. You've convinced the guards to let you pass, but you can't force them to humiliate themselves or betray everything they believe. Robbing someone of all agency with smooth talk is just as villainous as robbing them at swordpoint.
 
 ### Aspects and Fate Points
 
-**Aspects** are phrases that describe something important about a character, location, or situation. They are always true—if you have the aspect *Warforged Veteran*, you're a warforged who fought in the Last War.
+**Aspects** are phrases that describe something important about a character, location, or situation. They are always true. If you have the aspect *Warforged Veteran*, you're a warforged who fought in the Last War.
 
 You start each session with fate points equal to your **refresh** (usually 3).
 
 **Spend fate points to:**
 
 - **Invoke an aspect** for +2 to your roll or a reroll. The aspect must be relevant. You can invoke multiple different aspects on a single roll, but you can't invoke the same aspect twice (unless using free invokes).
-- **Hostile invoke**: You can invoke an opponent's aspects against them. Pay the fate point *to them*—they get to use it later.
+- **Hostile invoke**: You can invoke an opponent's aspects against them. Pay the fate point *to them*. They get to use it later.
 - **Declare a story detail** based on an aspect. If you have *Sharn Street Smart*, you might declare you know a fence in this district.
 - **Refuse a compel** (costs 1 fate point).
 
@@ -938,11 +938,11 @@ You start each session with fate points equal to your **refresh** (usually 3).
 - The GM **compels your aspect** to create complications for you. You can refuse by paying a fate point.
 - Another player **invokes your aspect against you**.
 - You **concede a conflict**.
-- You **self-compel**—retroactively decide one of your aspects caused a problem. "Remember when I got drunk at that party? That's because I'm *Can't Resist a Challenge*."
+- You **self-compel** by retroactively deciding one of your aspects caused a problem. "Remember when I got drunk at that party? That's because I'm *Can't Resist a Challenge*."
 
 **How Compels Work**
 
-Compels create complications, not denials. A compel shouldn't stop you from acting—it should make acting more interesting or costly.
+Compels create complications, not denials. A compel shouldn't stop you from acting. It should make acting more interesting or costly.
 
 There are two types:
 - **Event compels**: The world conspires against you. "Because you're *Wanted by House Tarkanan*, assassins show up right now."
@@ -952,7 +952,7 @@ The GM offers a fate point and describes the complication. You can accept (take 
 
 ### Challenges
 
-When the group faces a complicated situation that isn't a direct confrontation—like researching ancient texts, infiltrating a gala, or performing a complex ritual—use a **challenge**.
+When the group faces a complicated situation that isn't a direct confrontation (researching ancient texts, infiltrating a gala, performing a complex ritual), use a **challenge**.
 
 The GM identifies the obstacles and assigns a skill and difficulty to each. Different characters can tackle different obstacles. Successes and failures accumulate to determine the outcome.
 
@@ -960,13 +960,13 @@ The GM identifies the obstacles and assigns a skill and difficulty to each. Diff
 
 ### Contests
 
-When two or more sides race toward mutually exclusive goals without directly harming each other—a chase, a debate, a race to find a clue—use a **contest**.
+When two or more sides race toward mutually exclusive goals without directly harming each other (a chase, a debate, a race to find a clue), use a **contest**.
 
-Each exchange, both sides roll an appropriate skill as an overcome action. The higher result scores a victory; success with style scores two victories. First to three victories wins. Ties create a new situation aspect representing an unexpected twist—neither side scores.
+Each exchange, both sides roll an appropriate skill as an overcome action. The higher result scores a victory; success with style scores two victories. First to three victories wins. Ties create a new situation aspect representing an unexpected twist, and neither side scores.
 
 **Creating Advantages in Contests**: Before your overcome roll, you can try to create an advantage. If you fail, choose: forfeit your overcome roll this exchange, or proceed but give your opponent a free invoke on the aspect you just created.
 
-> **Example**: Kira chases a Tyrant assassin across Sharn's towers. Each exchange, both roll Athletics. Kira scores a victory, then the assassin scores one. Kira gets success with style (two victories)—she's at three, she catches them.
+> **Example**: Kira chases a Tyrant assassin across Sharn's towers. Each exchange, both roll Athletics. Kira scores a victory, then the assassin scores one. Kira gets success with style (two victories). She's at three, she catches them.
 
 ### Conflicts
 
@@ -974,7 +974,7 @@ When characters can and want to harm each other (a fight, a heated argument, a p
 
 #### Zones
 
-Space is divided into **zones**—discrete areas like "the tavern common room," "the balcony," or "the street outside." Most scenes have 2–4 zones. You can interact with anything in your zone. Moving to an adjacent zone is free unless something impedes you; impeded movement requires an overcome roll.
+Space is divided into **zones**: discrete areas like "the tavern common room," "the balcony," or "the street outside." Most scenes have two to four zones. You can interact with anything in your zone. Moving to an adjacent zone is free unless something impedes you; impeded movement requires an overcome roll.
 
 #### Setting Up
 
@@ -985,7 +985,7 @@ The GM establishes:
 
 #### Turn Order
 
-Fate uses **popcorn initiative**: the side with the advantage picks who goes first. After you act, you pick who goes next—from either side. Once everyone on your side has acted, you must pick someone from the other side. The last person in an exchange picks who starts the next exchange.
+Fate uses **popcorn initiative**: the side with the advantage picks who goes first. After you act, you pick who goes next from either side. Once everyone on your side has acted, you must pick someone from the other side. The last person in an exchange picks who starts the next exchange.
 
 #### Each Turn
 
@@ -1011,7 +1011,7 @@ To attack everyone in a zone, spend an invoke (a free invoke or fate point) inst
 
 Instead of taking an action on your turn, you can focus entirely on defense. Declare what you're defending against (melee attacks, ranged attacks, a specific opponent, etc.) and gain **+2 to all defend rolls** against that focus until your next turn.
 
-If you don't make any defend rolls before your next turn, you gain a **boost** as compensation—you've positioned yourself advantageously.
+If you don't make any defend rolls before your next turn, you gain a **boost** as compensation. You've positioned yourself advantageously.
 
 > **Example**: Surrounded by Emerald Claw soldiers, Tira forgoes her attack and declares Full Defense against melee attacks. She gains +2 to all Fight defenses until her next turn. If somehow no one attacks her in melee, she gains a boost like *Perfect Guard Stance*.
 
@@ -1019,7 +1019,7 @@ If you don't make any defend rolls before your next turn, you gain a **boost** a
 
 When you take harm, absorb it with **stress** and **consequences**:
 
-**Stress** represents near-misses and minor hits. You have two stress tracks—**physical** (3 boxes) and **mental** (3 boxes). Each box absorbs 1 shift; check as many as needed. Physical attacks hit the physical track; mental attacks (Provoke) hit the mental track. Stress clears at the end of the scene.
+**Stress** represents near-misses and minor hits. You have two stress tracks: **physical** (3 boxes) and **mental** (3 boxes). Each box absorbs 1 shift; check as many as needed. Physical attacks hit the physical track; mental attacks (Provoke) hit the mental track. Stress clears at the end of the scene.
 
 **Consequences** are lasting injuries represented as aspects:
 
@@ -1045,21 +1045,21 @@ Self-treatment adds +2 to the difficulty. After successful treatment, the conseq
 
 If you can't absorb all the shifts from an attack, you're **taken out**. You're removed from the scene. The attacker decides what happens to you: death, capture, forced retreat, humiliating defeat, or something worse.
 
-The outcome must fit the conflict's stakes. Losing an argument doesn't mean death. Losing a back-alley brawl might mean waking up in a Sharn jail—or in a Daask hideout. Consider creative alternatives: knocked unconscious and dragged somewhere, forced to accept unfavorable terms, left for dead but rescued by a passerby.
+The outcome must fit the conflict's stakes. Losing an argument doesn't mean death. Losing a back-alley brawl might mean waking up in a Sharn jail, or in a Daask hideout. Consider creative alternatives: knocked unconscious and dragged somewhere, forced to accept unfavorable terms, left for dead but rescued by a passerby.
 
-Talk with your group about boundaries. Some groups don't allow character death without player consent. That's fine—establish these expectations before play.
+Talk with your group about boundaries. Some groups don't allow character death without player consent. That's fine. Establish these expectations before play.
 
 #### Conceding
 
-You can **concede** at any time *before* your opponent rolls—not after you see a bad result. You immediately exit the conflict on your terms. You lose, but you control how.
+You can **concede** at any time *before* your opponent rolls, not after you see a bad result. You immediately exit the conflict on your terms. You lose, but you control how.
 
 **Why concede?** You gain one fate point, plus one for each consequence you took. More importantly, you escape with something: knowledge of the enemy's plans, a chance to warn allies, or simply your life. A concession is a tactical retreat, not a defeat.
 
-**How it works:** Declare you're conceding and describe your exit. "I throw a smoke bomb and flee into the lower city." The opposition can negotiate—"You escape, but they get the artifact"—but you still get something out of it.
+**How it works:** Declare you're conceding and describe your exit. "I throw a smoke bomb and flee into the lower city." The opposition can negotiate ("You escape, but they get the artifact"), but you still get something out of it.
 
 ### Equipment
 
-Most equipment is handled narratively—if you have a sword, you can fight with it. If you're a Cannith artificer, you have tools.
+Most equipment is handled narratively. If you have a sword, you can fight with it. If you're a Cannith artificer, you have tools.
 
 For **signature gear** that's central to your character, take this stunt:
 
@@ -1083,7 +1083,7 @@ Magic in Eberron is common: magewrights light lamps, Orien heirs teleport cargo,
 
 Your aspects and modes determine what magic you can attempt. If you have the **Mage** or **Priest** mode, you have broad permission to attempt magic appropriate to your tradition. An *Aundairian War Mage* can hurl fire; a *Gatekeeper Druid* communes with nature spirits; a *Priest of the Silver Flame* channels divine power against darkness.
 
-Characters without a magical mode can still use magic if they have an appropriate aspect—a *Cyran Refugee with a Stolen Wand* might manage a few tricks, but they're not a trained spellcaster.
+Characters without a magical mode can still use magic if they have an appropriate aspect. A *Cyran Refugee with a Stolen Wand* might manage a few tricks, but they're not a trained spellcaster.
 
 #### Magic as Actions
 
@@ -1103,27 +1103,27 @@ When magic fails or ties, the GM can introduce costs that reflect the unpredicta
 
 **Minor costs** (ties):
 - The spell draws unwanted attention (magical or mundane)
-- It takes longer than expected—you act last next exchange
+- It takes longer than expected, so you act last next exchange
 - A minor side effect occurs (lights flicker, temperature drops)
-- You take 1-2 stress from the strain
+- You take one or two stress from the strain
 
 **Major costs** (failures offered as success-at-cost):
-- The spell works but affects more than intended—allies caught in the blast, innocents frightened
+- The spell works but affects more than intended (allies caught in the blast, innocents frightened)
 - Something notices your magic from across the planes
 - The magic leaves a lingering aspect the GM can invoke against you (*Magical Signature Traced*)
 - You take a consequence representing magical backlash (*Drained*, *Arcane Burnout*)
 
-> **Example**: Theron attempts to magically unlock a Cannith vault (Overcome with Lore vs. Great +4). He rolls +2—a failure. The GM offers success at a cost: "You crack the ward, but House Cannith's security systems logged the intrusion. You have maybe ten minutes before response teams arrive."
+> **Example**: Theron attempts to magically unlock a Cannith vault (Overcome with Lore vs. Great +4). He rolls +2, a failure. The GM offers success at a cost: "You crack the ward, but House Cannith's security systems logged the intrusion. You have maybe ten minutes before response teams arrive."
 
 #### Signature Spells
 
-For magic your character uses reliably—their go-to spells—build them as stunts. These follow the standard stunt patterns: +2 in narrow circumstances, permission to do something new, or break a rule once per session.
+For magic your character uses reliably (their go-to spells), build them as stunts. These follow the standard stunt patterns: +2 in narrow circumstances, permission to do something new, or break a rule once per session.
 
 **Burning Hands**: Because I specialize in evocation, I can attack everyone in my zone with Lore. I must spend a fate point or free invoke to target the whole zone instead of one target.
 
 **Charm Person**: Because I weave enchantments, I get +2 to Deceive when using magic to make someone view me favorably. This doesn't work on targets who are actively hostile.
 
-**Detect Magic**: Because I sense magical auras, I can use Lore instead of Notice to detect magical effects, items, and creatures—even if they're hidden or disguised.
+**Detect Magic**: Because I sense magical auras, I can use Lore instead of Notice to detect magical effects, items, and creatures, even if they're hidden or disguised.
 
 **Healing Word**: Because I channel restorative power, once per scene I can roll Will vs. Fair (+2) to clear one ally's physical stress box. On success with style, also clear a mental stress box.
 
@@ -1147,11 +1147,11 @@ For complex magical workings (opening a portal to Thelanis, binding a demon, rai
 > - Channel enough power to seal it (Will vs. Great)
 > - Complete the ritual before more creatures emerge (time pressure)
 >
-> Failures don't stop the ritual—they introduce complications. Maybe the seal is imperfect, or closing it draws attention from something in Xoriat.
+> Failures don't stop the ritual. They introduce complications. Maybe the seal is imperfect, or closing it draws attention from something in Xoriat.
 
 ### Advancement
 
-A **session** is typically 3–4 hours of play. An **arc** spans roughly 3–5 sessions and resolves a major storyline.
+A **session** is typically three or four hours of play. An **arc** spans roughly three to five sessions and resolves a major storyline.
 
 #### Milestones (End of Session)
 
@@ -1190,11 +1190,11 @@ From the modes, here's the complete skill list:
 | **Contacts** | Knowing people, gathering information socially |
 | **Crafts** | Making and repairing things |
 | **Deceive** | Lying, disguise, misdirection |
-| **Drive** | Operating vehicles—airships, lightning rails, carts |
+| **Drive** | Operating vehicles (airships, lightning rails, carts) |
 | **Empathy** | Reading people, detecting lies |
 | **Fight** | Hand-to-hand combat |
 | **Investigate** | Examining evidence, solving puzzles, research |
-| **Lore** | Knowledge—history, magic, religion, medicine, sciences |
+| **Lore** | Knowledge of history, magic, religion, medicine, sciences |
 | **Notice** | Perception, spotting details |
 | **Physique** | Strength, endurance, physical stress |
 | **Provoke** | Intimidation, goading, scaring |
@@ -1219,18 +1219,18 @@ From the modes, here's the complete skill list:
 - Cyran (Average +1): Will (Focused)
 
 **Skills**:
-- Fight: Superb (+5) — Soldier +3, Specialized +2
-- Athletics: Great (+4) — Soldier +3, Focused +1
-- Notice: Good (+3) — Soldier +3, trained
-- Physique: Good (+3) — Soldier +3, trained
-- Shoot: Good (+3) — Soldier +3, trained
-- Rapport: Good (+3) — Noble +2, Focused +1
-- Contacts: Good (+3) — Noble +2, Focused +1
-- Empathy: Fair (+2) — Noble +2, trained
-- Resources: Fair (+2) — Noble +2, trained
-- Deceive: Fair (+2) — Noble +2, trained
-- Will: Fair (+2) — Cyran +1, Focused +1
-- Lore: Average (+1) — Cyran +1, trained
+- Fight: Superb (+5), Soldier +3, Specialized +2
+- Athletics: Great (+4), Soldier +3, Focused +1
+- Notice: Good (+3), Soldier +3, trained
+- Physique: Good (+3), Soldier +3, trained
+- Shoot: Good (+3), Soldier +3, trained
+- Rapport: Good (+3), Noble +2, Focused +1
+- Contacts: Good (+3), Noble +2, Focused +1
+- Empathy: Fair (+2), Noble +2, trained
+- Resources: Fair (+2), Noble +2, trained
+- Deceive: Fair (+2), Noble +2, trained
+- Will: Fair (+2), Cyran +1, Focused +1
+- Lore: Average (+1), Cyran +1, trained
 
 **Stunts**:
 - **Cyran Blade Dance**: Because I trained with Cyran duelists, I get +2 to Fight when I'm outnumbered.
