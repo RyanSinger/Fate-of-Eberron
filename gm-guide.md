@@ -89,22 +89,38 @@ As GM, you have your own pool of fate points to use for NPCs.
 
 ## Setting Difficulty and Opposition
 
-When players roll against passive opposition, you set the difficulty. Here's a simple framework:
+### Should You Roll At All?
 
-**Difficulty Guidelines:**
-- **Low (Fair +2)**: Routine tasks for a competent person. Anyone with relevant training should succeed most of the time.
-- **Moderate (Good +3)**: Requires real effort or expertise. Failure is plausible even for skilled characters.
-- **High (Great +4)**: Challenging even for experts. Success requires both skill and luck.
-- **Extreme (Superb +5 or higher)**: Legendary difficulty. Most characters need to invoke aspects to succeed.
+Before setting a difficulty, ask:
 
-**Start at +2 and adjust.** Most difficulties should be Fair (+2). Raise it if:
-- The task is inherently difficult
-- Circumstances work against the character (but consider making this an aspect instead)
-- Success should feel like an accomplishment
+- What is this scene about?
+- What's at stake?
+- What could go wrong?
+- What interesting thing is about to happen?
 
-**Use aspects instead of difficulty bumps.** If the situation has a complication, make it an aspect rather than adding +2 to difficulty. *Slippery Floor* is more interesting than "the floor is slippery, so +2 to the difficulty." Aspects can be invoked, compelled, and addressed.
+If you don't have good answers, skip the roll. If the answers suggest drama, **put a scene on it.** Frame the time, place, and complications before anyone touches dice.
 
-**Active opposition is usually better.** When someone or something actively resists, have them roll instead of setting a static number. It's more dynamic and gives you something to invoke.
+A player wants to repair their skycoach. Don't just set a Crafts difficulty. Where's the hangar? Who else is there? Is the Boromar clan watching? Are the parts black market? Now you have a scene, and rolls within that scene mean something.
+
+If the game were a TV show, would they spend screen time on this? If not, skip it.
+
+### Difficulty Table
+
+| Difficulty | Rating | When to Use | Eberron Example |
+|------------|--------|-------------|-----------------|
+| Trivial | Mediocre (+0) | No real challenge, but something could still go interestingly wrong | Picking a simple lock in an empty room |
+| Routine | Fair (+2) | One clear reason it's tough | Fast talking past a bored Watch sergeant |
+| Challenging | Good (+3) | Tough even for a trained professional | Navigating the Cogs without a guide |
+| Hard | Great (+4) | Requires expertise and effort | Deciphering a Dhakaani cipher |
+| Extreme | Superb (+5) | Most characters need to invoke aspects | Breaking into a Kundarak vault |
+| Legendary | Fantastic (+6)+ | Nearly impossible without serious preparation | Dispelling a ward on a Cannith creation forge |
+
+### Rules of Thumb
+
+- Start at Fair (+2). Add +1 for each complicating factor.
+- Prefer creating a situation aspect over raising difficulty. *Slippery Skybridge* is more interesting than "+2 because it's wet."
+- Active opposition (an NPC rolling) is almost always better than passive difficulty.
+- If it seems impossible, let them stack create advantage actions first. That's the game working as intended.
 
 ---
 
@@ -1183,12 +1199,16 @@ Roll 4 Fate dice (4dF). Each die shows +1, 0, or -1. Add your skill rating.
 
 ### Quick Opposition Guidelines
 
-| Difficulty | When to Use |
-|------------|-------------|
-| +0 to +2 | Routine tasks, mook opposition |
-| +3 to +4 | Challenging, competent opposition |
-| +5 to +6 | Hard, expert opposition |
-| +7+ | Nearly impossible, legendary opposition |
+| Difficulty | Rating | When to Use |
+|------------|--------|-------------|
+| Trivial | Mediocre (+0) | No real challenge |
+| Routine | Fair (+2) | One reason it's tough |
+| Challenging | Good (+3) | Tough for professionals |
+| Hard | Great (+4) | Requires expertise |
+| Extreme | Superb (+5) | Needs aspect invokes |
+| Legendary | Fantastic (+6)+ | Needs serious preparation |
+
+Start at Fair (+2). Add +1 per complicating factor. Prefer aspects over difficulty bumps. Use active opposition when possible.
 
 ### Magic in Brief
 
