@@ -48,68 +48,37 @@ The things that make Eberron different:
 
 Your character is defined by:
 
-- **Aspects**: Phrases describing who you are (5 total)
-- **Modes**: Bundles of skills reflecting your background (3 modes)
-- **Stunts**: Special tricks or abilities (3 free, buy more with refresh)
-- **Stress and Consequences**: How you absorb harm
-- **Refresh**: Your baseline fate points (starts at 3)
+- **Archetype**: What you do now. Defines your important skills, a signature stunt, and how you change the world at milestones.
+- **Background**: Where you come from and what you did before. Gives you a stunt and character-building questions.
+- **Species** (optional): If you're not human, an aspect and optional stunt.
+- **Charter**: Your party's shared stunt, reflecting your group's identity.
+- **Aspects**: Phrases describing who you are (5 total).
+- **Skills**: Arranged in a pyramid from Great (+4) down to Average (+1).
+- **Stunts**: Special tricks or abilities (3 at creation: one archetype, one background, one charter).
+- **Stress and Consequences**: How you absorb harm.
+- **Refresh**: Your baseline fate points (starts at 3).
 
-## Step 1: High Concept and Trouble
+## Step 1: Pick an Archetype
 
-Start with your **high concept**, a phrase that captures who your character fundamentally is.
+Your archetype defines what your character does now. Each archetype provides:
 
-> Examples: *Cynical Brelish War Veteran*, *Warforged Seeking Purpose*, *Morgrave Scholar with Xen'drik Fever*, *House Medani Inquisitive*
+- **Important Skills**: Three skills central to the archetype. These should guide your skill pyramid choices but don't restrict them.
+- **Stunts**: Three associated stunts. Pick one at character creation.
+- **Impact**: A unique way your character changes the campaign map at each major milestone.
 
-Then define your **trouble**, something that makes your life complicated.
+Pick an archetype from the list below, or create your own. A custom archetype needs: a name, three important skills, three associated stunts, and an impact.
 
-> Examples: *The War Isn't Over for Me*, *I Trust Too Easily*, *Debts to House Cannith*, *Hunted by the Aurum*
-
-## Step 2: Choose Three Modes
-
-Modes are bundles of skills that reflect your background, training, and expertise. You pick any three modes and rate them:
-
-- One at **Good (+3)**
-- One at **Fair (+2)**
-- One at **Average (+1)**
-
-Each mode contains several skills. Your rating in a skill depends on:
-
-1. The mode's rating (Good, Fair, or Average)
-2. Whether you're **Trained** (+0), **Focused** (+1), or **Specialized** (+2) in that skill within the mode
-
-You get **improvement points** to spend within each mode:
-- **Good mode**: 3 points
-- **Fair mode**: 2 points
-- **Average mode**: 1 point
-
-That's **6 points total** across your three modes.
-
-Spend your points as follows:
-- **Focused** costs 1 point (+1 to skill)
-- **Specialized** costs 2 points (+2 to skill)
-- **Trained** is free (+0 to skill)
-
-All skills in a mode start as Trained. You can only have **one Specialized skill per mode**.
-
-If a skill appears in multiple modes, you take the highest rating. The overlap doesn't give a bonus; it just means the skill isn't wasted in the lower mode.
-
-> **Example**: Kaela picks Soldier (Good), Criminal (Fair), and Cyran (Average).
->
-> In Soldier mode (3 points), she makes Fight specialized (2 points) and Athletics focused (1 point).
->
-> In Criminal mode (2 points), she makes Stealth focused (1 point) and Burglary focused (1 point).
->
-> In Cyran mode (1 point), she makes Will focused (1 point).
->
-> Fight appears only in Soldier at Good +3, plus Specialized +2 = Superb (+5), exactly at the cap.
->
-> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = Great (+4). Criminal gives Fair +2 plus Trained +0 = Fair (+2). She takes the higher: Great (+4).
-
-**Skill Cap**: No skill can exceed Superb (+5) at character creation.
-
-**The Modes**
-
-Modes are organized into three loose categories (**Origins**, **Backgrounds**, and **Callings**), but you can pick any three. A character could take three Origins, three Callings, or any mix.
+| Archetype | Important Skills | Sample Stunts | Impact (at Major Milestones) |
+|-----------|-----------------|---------------|--------|
+| **Inquisitive** | Investigate, Notice, Contacts | Inquisitive's Eye, Scene Reconstruction, I Know a Guy | Add a contact or informant to the campaign map |
+| **Artificer** | Crafts, Lore, Investigate | Jury Rig, Maker's Eye, Improvised Device | Add a location tied to your work (workshop, dig site, client) |
+| **Mage** | Lore, Will, Shoot | Arcane Shield, Elemental Blast, Ward Specialist | Add a magical phenomenon or mystery to the campaign map |
+| **Priest** | Will, Empathy, Rapport | Divine Conviction, Healing Hands, Turn Undead | Add a community or congregation to the campaign map |
+| **Warrior** | Fight, Athletics, Physique | Combat Veteran, Shield Wall, Deadly Charge | Add a rival, enemy, or military contact to the campaign map |
+| **Face** | Rapport, Deceive, Contacts | Read the Room, Silver Tongue, Extensive Network | Add a faction relationship (ally, rival, or debt) to the campaign map |
+| **Spy** | Stealth, Deceive, Investigate | Dead Drop, Cover Identity, Shadow Network | Add a secret or hidden connection to the campaign map |
+| **Explorer** | Athletics, Notice, Will | Danger Sense, Trailblazer, Ruin Runner | Add a location (ruin, passage, landmark) to the campaign map |
+| **Pilot** | Drive, Crafts, Notice | Evasive Maneuvers, My Ship My Rules, Barnstormer | Add a route, port, or vehicle upgrade to the campaign map |
 
 ---
 
