@@ -91,403 +91,49 @@ Want to play a Mage who's also a Warrior? A Spy who's also a Face? You can combi
 
 ---
 
-## Origins
+## Step 2: Pick a Background
 
-These modes reflect where you come from or what you fundamentally are.
+Your background defines where your character comes from and what they did before their current life. Each background provides:
 
-### Aundairian
+- **Important Skills**: Three skills central to the background.
+- **Stunts**: Three associated stunts. Pick one at character creation.
+- **Questions**: Prompts to help you flesh out your character's history and aspects.
 
-You hail from the nation of knowledge and magic.
+Pick a background from the list below, or create your own. A custom background needs: a name, three important skills, three associated stunts, and a set of character-building questions.
 
-**Skills**: Contacts, Deceive, Investigate, Lore, Rapport
+| Background | Important Skills | Sample Stunts | Questions to Consider |
+|-----------|-----------------|---------------|----------------------|
+| **Soldier** | Fight, Athletics, Provoke | War Stories, Battlefield Awareness, Brothers in Arms | Which nation did you serve? What did you see that changed you? Do you miss it? |
+| **Criminal** | Burglary, Stealth, Contacts | Underworld Connections, Case the Joint, Honor Among Thieves | Who do you still owe? What line won't you cross? Are you still in the life? |
+| **Scholar** | Lore, Investigate, Will | Obsessive Researcher, Ancient Languages, Theoretical Breakthrough | What's your field? What question drives you? What did you discover that scared you? |
+| **Noble** | Rapport, Resources, Contacts | Noble Bearing, Old Money, Political Favor | Is your family's influence a gift or a cage? What's expected of you? Who resents your privilege? |
+| **Entertainer** | Rapport, Deceive, Empathy | Play to the Crowd, Stage Presence, Read the Audience | What's your art? Where have you performed? What audience do you never want to face again? |
+| **Outlander** | Athletics, Notice, Physique | Survivor, Read the Wild, Hard to Kill | Where did you come from? Why did you leave? What about civilization confuses or disgusts you? |
+| **Street Urchin** | Stealth, Burglary, Notice | Rat Runner, Invisible in a Crowd, Scrappy Fighter | Who raised you, if anyone? What ward or district is yours? Who do you protect now? |
+| **Dragonmarked Heir** | Contacts, Resources, Rapport | House Connections, Mark Focus, Family Name | Which house? Are you loyal or rebellious? What does the house want from you that you're not willing to give? |
+| **Veteran Spy** | Deceive, Stealth, Investigate | Old Covers Still Work, Trust Issues, Burned but Not Forgotten | Which agency? Citadel? Trust? Royal Eyes? What secret do you carry? Are you still active? |
+| **Refugee** | Empathy, Will, Notice | Nothing Left to Lose, Community of Survivors, Keen Eye for Danger | What did you lose? Where are you from? What do you hold onto from the old life? |
 
-*Suggested Aspects*: *Arcanix Graduate*, *Aundairian Patriot*, *The Right Wine for Every Occasion*
+---
 
-*Suggested Stunts*:
-- **Arcane Education**: Because I studied at Arcanix, I get +2 to Lore when identifying magical effects or artifacts.
-- **Courtly Graces**: Because I was raised in Aundairian society, I can use Rapport instead of Deceive when navigating high society.
+## Step 2b: Species (Optional)
 
-### Brelish
+Most characters on Eberron are human. If you want to play a non-human species, take an aspect describing it (this counts as one of your five aspects) and optionally purchase a species stunt (costs 1 refresh).
 
-You're from the diverse, progressive nation of Breland.
+The aspect alone grants narrative permission for anything that species can naturally do. A Warforged aspect means you don't eat, sleep, or breathe. A Changeling aspect means you can shift your features. No stunt needed for these basic abilities.
 
-**Skills**: Contacts, Crafts, Deceive, Investigate, Resources
-
-*Suggested Aspects*: *Sharn Street Smart*, *Brelish Pragmatist*, *I Know a Guy*
-
-*Suggested Stunts*:
-- **I Know a Guy**: Because I have connections everywhere, I get +2 to Contacts when looking for someone who can help with a specific problem.
-- **Sharn Native**: Because I know Sharn's vertical geography, I can use Investigate instead of Athletics when navigating the city's towers and lifts.
-
-### Cyran
-
-You survived the destruction of your homeland. Cyre is gone, but you remain.
-
-**Skills**: Empathy, Lore, Notice, Rapport, Will
-
-*Suggested Aspects*: *Survivor of the Mourning*, *Cyre Lives in Me*, *I've Lost Everything Once Already*
-
-*Suggested Stunts*:
-- **Nothing Left to Lose**: Because I survived the Mourning, I get +2 to Will when resisting fear or intimidation.
-- **Cyran Solidarity**: Because refugees look out for each other, I get +2 to Rapport when dealing with fellow Cyran survivors.
-
-### Karrnathi
-
-You come from the militaristic nation that used undead soldiers in the war.
-
-**Skills**: Athletics, Fight, Physique, Provoke, Will
-
-*Suggested Aspects*: *Karrnathi Discipline*, *The Dead Served Beside Me*, *Cold as Karrnath*
-
-*Suggested Stunts*:
-- **Karrnathi Discipline**: Because I was raised with military precision, I get +2 to Will when resisting mental influence or distraction.
-- **Unflinching**: Because I fought alongside the undead, I can use Provoke instead of Will to resist fear caused by undead or horror.
-
-### Thrane
-
-You were raised in the theocracy devoted to the Silver Flame.
-
-**Skills**: Empathy, Lore, Notice, Provoke, Will
-
-*Suggested Aspects*: *Servant of the Silver Flame*, *Zealous but Righteous*, *The Flame Guides My Path*
-
-*Suggested Stunts*:
-- **Flame's Judgment**: Because I speak with the authority of the Silver Flame, I get +2 to Provoke when confronting those who serve darkness.
-- **Sense Corruption**: Because the Flame guides me, I get +2 to Empathy when detecting lies or evil intent.
-
-### Warforged
+The species stunt represents a mechanical advantage beyond narrative permission.
 
 ![A warforged veteran on a battlefield at dusk]({{ '/images/warforged-soldier.png' | relative_url }})
 
-You were built for war. Now you must find your own purpose.
-
-**Skills**: Athletics, Crafts, Fight, Notice, Physique
-
-*Special*: As a warforged, you don't need to eat, sleep, or breathe. You can be repaired instead of healed. These are narrative truths, not mechanical bonuses.
-
-*Suggested Aspects*: *Built for War, Made for Peace*, *What Is My Purpose?*, *I Remember Every Battle*
-
-*Suggested Stunts*:
-- **Integrated Weapon**: Because I was built with a weapon, I get +2 to Fight when using my integrated blade or tool.
-- **Tireless Sentinel**: Because I don't sleep, I can use Notice instead of Will to stay alert during long watches or resist fatigue.
-
-### Changeling
-
-You can shift your appearance at will.
-
-**Skills**: Deceive, Empathy, Notice, Rapport, Stealth
-
-*Special*: You can change your appearance to any humanoid form you've studied. This is a narrative truth. You don't need to roll to change shape, but you might roll Deceive to maintain a persona under scrutiny.
-
-*Suggested Aspects*: *Many Faces, One Truth*, *Persona: [Name]*, *They Fear What They Don't Understand*
-
-*Suggested Stunts*:
-- **Perfect Mimic**: Because I can copy anyone, I get +2 to Deceive when impersonating a specific person I've studied.
-- **Read the Room**: Because I've learned to adapt to any social situation, I can use Empathy instead of Notice to detect social dangers or opportunities.
-
-### Shifter
-
-You carry lycanthropic heritage and can briefly shift to a more bestial form.
-
-**Skills**: Athletics, Empathy, Fight, Notice, Physique
-
-*Special*: Once per scene, you may shift to your bestial form. While shifted, you gain a boost related to your heritage (e.g., *Longtooth Strength*, *Swiftstride Speed*) that lasts until the scene ends.
-
-*Suggested Aspects*: *The Beast Within*, *Weretouched Heritage*, *Pack Loyalty*
-
-*Suggested Stunts*:
-- **Predator's Senses**: Because of my bestial nature, I get +2 to Notice when tracking by scent or hunting prey.
-- **Feral Instincts**: Because I trust my animal instincts, I can use Empathy instead of Notice to sense danger or ambushes.
-
-### Kalashtar
-
-You are bonded with a spirit from the plane of dreams.
-
-**Skills**: Empathy, Lore, Notice, Rapport, Will
-
-*Special*: You have innate psychic abilities. You can communicate telepathically with willing creatures you can see. You don't dream normally. You share a connection to Dal Quor that the Dreaming Dark would love to exploit.
-
-*Suggested Aspects*: *Two Souls, One Body*, *Hunted by the Dreaming Dark*, *Serenity Amid Chaos*
-
-*Suggested Stunts*:
-- **Psychic Shield**: Because my spirit protects my mind, I get +2 to Will when defending against mental attacks or intrusion.
-- **Dream Sight**: Because I perceive through two sets of senses, I can use Empathy instead of Notice to detect psychic or supernatural presences.
-
----
-
-## Backgrounds
-
-These modes reflect what you did before your current life.
-
-### Soldier
-
-You served in the Last War.
-
-**Skills**: Athletics, Fight, Notice, Physique, Shoot
-
-*Suggested Aspects*: *Hundred-Year War Veteran*, *I've Seen Things*, *Brothers and Sisters in Arms*
-
-*Suggested Stunts*:
-- **Combat Reflexes**: Because I've been in countless battles, when my side has initiative advantage at the start of a conflict, I can go first before the group decides.
-- **Battlefield Awareness**: Because I'm trained to read the flow of combat, I can use Fight instead of Notice to spot tactical opportunities or dangers.
-
-### Criminal
-
-You operated outside the law.
-
-**Skills**: Burglary, Contacts, Deceive, Stealth, Notice
-
-*Suggested Aspects*: *Boromar Clan Connections*, *I Know Every Back Alley in Sharn*, *Honor Among Thieves*
-
-*Suggested Stunts*:
-- **Case the Joint**: Because I know how to spot vulnerabilities, I get +2 to Notice when looking for security weaknesses or escape routes.
-- **Underworld Contacts**: Because I know the criminal element, I can use Contacts instead of Investigate when gathering information about illegal activities.
-
-### Scholar
-
-You pursued knowledge at a university or library.
-
-**Skills**: Contacts, Investigate, Lore, Notice, Will
-
-*Suggested Aspects*: *Morgrave University Researcher*, *Knowledge Is Worth Any Price*, *I Read About This Once*
-
-*Suggested Stunts*:
-- **I Read About This**: Because I've studied widely, I get +2 to Lore when recalling relevant historical or cultural information.
-- **Research Expert**: Because I know how to dig through archives, I get +2 to Investigate when searching documents, libraries, or records.
-
-### Noble
-
-You were born into privilege.
-
-**Skills**: Contacts, Deceive, Empathy, Rapport, Resources
-
-*Suggested Aspects*: *ir'[Name] Family Scion*, *Noblesse Oblige*, *I Know Everyone Who Matters*
-
-*Suggested Stunts*:
-- **Noble Bearing**: Because I carry myself like the noble I am, I get +2 to Rapport when first impressions matter.
-- **Call in a Favor**: Because I have powerful connections, I can use Contacts instead of Resources when acquiring something through social leverage.
-
-### Entertainer
-
-You performed for crowds, or for marks.
-
-**Skills**: Athletics, Deceive, Empathy, Rapport, Provoke
-
-*Suggested Aspects*: *House Phiarlan Performer*, *The Show Must Go On*, *Everyone Loves to Watch*
-
-*Suggested Stunts*:
-- **Captivate the Crowd**: Because I know how to hold an audience, I get +2 to Rapport when performing or giving a speech.
-- **Read the Audience**: Because I've learned to sense what people want, I can use Empathy instead of Deceive to figure out what lie someone wants to hear.
-
-### Outlander
-
-You grew up far from civilization.
-
-**Skills**: Athletics, Crafts, Notice, Physique, Stealth
-
-*Suggested Aspects*: *Eldeen Reaches Druid's Apprentice*, *The Wild Is My Home*, *Civilization Is the True Wilderness*
-
-*Suggested Stunts*:
-- **Wilderness Survival**: Because I grew up in the wild, I get +2 to Crafts when foraging, building shelter, or surviving in nature.
-- **One with Nature**: Because I understand the natural world, I can use Notice instead of Empathy when reading the behavior of animals.
-
-### Street Urchin
-
-You survived on the streets.
-
-**Skills**: Athletics, Burglary, Notice, Stealth, Will
-
-*Suggested Aspects*: *Lower Menthis Survivor*, *Nobody Sees the Beggars*, *I've Been Hungry Before*
-
-*Suggested Stunts*:
-- **Slip Away**: Because I've escaped trouble my whole life, I get +2 to Athletics when fleeing or escaping pursuit.
-- **Invisible in Plain Sight**: Because nobody notices the poor, I can use Stealth instead of Deceive when blending into crowds or being overlooked.
-
-### Dragonmarked Heir
-
-You carry a dragonmark and were raised in a House.
-
-**Skills**: Contacts, Deceive, Lore, Rapport, Resources
-
-*Special*: You should also take a dragonmark aspect and may take dragonmark stunts (see the [Dragonmarks](#dragonmarks) section).
-
-*Suggested Aspects*: *Heir to House [Name]*, *The Mark Chose Me*, *House Politics Are Cutthroat*
-
-*Suggested Stunts*:
-- **House Connections**: Because I was raised in a dragonmarked house, I get +2 to Contacts when dealing with house members or house business.
-- **Mark Lore**: Because I was taught about dragonmarks, I get +2 to Lore when recalling information about dragonmarks, their history, or their powers.
-
----
-
-## Callings
-
-These modes reflect what you do now: your current role or profession.
-
-### Inquisitive
-
-You solve mysteries and find the truth.
-
-**Skills**: Contacts, Empathy, Investigate, Notice, Rapport
-
-*Suggested Aspects*: *Private Eye for Hire*, *The Truth Is Always Complicated*, *I Notice Things*
-
-*Suggested Stunts*:
-- **Crime Scene Expert**: Because I've investigated hundreds of cases, I get +2 to Investigate when examining a location where a crime occurred.
-- **Read Between the Lines**: Because I know when people are hiding something, I can use Investigate instead of Empathy to detect lies during an interview.
-
-### Artificer
-
-You create and repair magical devices.
-
-**Skills**: Crafts, Investigate, Lore, Notice, Resources
-
-*Special*: You can use the Invention rules to create magical items (see Magic and Artifice).
-
-*Suggested Aspects*: *If I Can't Fix It, It Can't Be Fixed*, *Magic Is Just Engineering*, *My Workshop Is My Temple*
-
-*Suggested Stunts*:
-- **Jury-Rig**: Because I can make anything work, I get +2 to Crafts when making emergency repairs under time pressure.
-- **Analyze Device**: Because I understand how things work, I can use Crafts instead of Investigate when examining magical or mechanical devices.
-
-### Mage
-
-You study and wield arcane power.
-
-**Skills**: Investigate, Lore, Notice, Will, Empathy
-
-*Special*: You should take an aspect reflecting your magical training (see Magic and Artifice).
-
-*Suggested Aspects*: *Aundairian War Mage*, *Morgrave Arcanist*, *Magic Flows Through Me*, *Pact with a Quori Spirit*, *The Traveler Whispers to Me*, *I Bargained with Something in Khyber*
-
-*Suggested Stunts*:
-- **Arcane Shield**: Because I can conjure protective wards, I can use Will instead of Athletics to defend against magical attacks.
-- **Identify Magic**: Because I'm trained in the arcane arts, I get +2 to Lore when analyzing spells, enchantments, or magical phenomena.
-
-### Priest
-
-You serve a faith and channel divine power.
-
-**Skills**: Empathy, Lore, Notice, Rapport, Will
-
-*Special*: Your faith grants narrative permission to invoke divine aid.
-
-*Suggested Aspects*: *Vassal of the Sovereign Host*, *The Silver Flame Burns Within*, *Undying Court's Chosen*
-
-*Suggested Stunts*:
-- **Words of Comfort**: Because I speak with spiritual authority, I get +2 to Rapport when calming the frightened or grieving.
-- **Shield of Faith**: Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks.
-
-### Warrior
-
-You excel at combat.
-
-**Skills**: Athletics, Fight, Notice, Physique, Shoot
-
-*Suggested Aspects*: *Blade for Hire*, *The Best Defense Is a Good Offense*, *I Don't Start Fights, I Finish Them*
-
-*Suggested Stunts*:
-- **Signature Weapon**: Because I've mastered my weapon of choice, I get +2 to Fight when using [specific weapon type].
-- **Combat Assessment**: Because I know how to read a fight, I can use Fight instead of Empathy to gauge an opponent's skill and intentions.
-
-### Face
-
-You're the one who does the talking.
-
-**Skills**: Contacts, Deceive, Empathy, Provoke, Rapport
-
-*Suggested Aspects*: *I Can Talk My Way Out of Anything*, *Everyone's Got a Price*, *A Smile Is Just Another Weapon*
-
-*Suggested Stunts*:
-- **Silver Tongue**: Because I always know what to say, I get +2 to Rapport when negotiating or making deals.
-- **Cutting Remark**: Because I know how to hurt with words, I can use Provoke instead of Fight to make mental attacks in social conflicts.
-
-### Spy
-
-You gather information and work in shadows.
-
-**Skills**: Burglary, Deceive, Investigate, Notice, Stealth
-
-*Suggested Aspects*: *King's Dark Lantern*, *Trust No One*, *I Was Never Here*
-
-*Suggested Stunts*:
-- **Dead Drop**: Because I know tradecraft, I get +2 to Stealth when passing messages or items without being observed.
-- **Cover Identity**: Because I maintain false personas, I can use Deceive instead of Contacts when leveraging a cover identity's network.
-
-### Explorer
-
-You venture into dangerous places seeking treasure and knowledge.
-
-**Skills**: Athletics, Drive, Investigate, Lore, Notice
-
-*Suggested Aspects*: *Xen'drik Expedition Veteran*, *Fortune Favors the Bold*, *Every Ruin Has Secrets*
-
-*Suggested Stunts*:
-- **Trap Sense**: Because I've survived countless ruins, I get +2 to Notice when detecting traps or hazards.
-- **Ancient Languages**: Because I've studied dead civilizations, I get +2 to Lore when deciphering ancient writings, symbols, or languages.
-
-### Pilot
-
-You operate airships, lightning rails, or other vehicles.
-
-**Skills**: Athletics, Crafts, Drive, Notice, Will
-
-*Suggested Aspects*: *Lyrandar Airship Captain*, *I Can Fly Anything*, *The Sky Is My Home*
-
-*Suggested Stunts*:
-- **Evasive Maneuvers**: Because I'm an expert pilot, I get +2 to Drive when defending my vehicle against attacks or hazards.
-- **Feel the Machine**: Because I understand my vehicle intimately, I can use Drive instead of Crafts to diagnose mechanical problems while in operation.
-
-### Creating Custom Modes
-
-If no existing mode fits your concept, create your own.
-
-**Step 1: Name and Concept**
-
-Give your mode a name that captures its essence. A mode represents a coherent set of capabilities: what someone *is*, *was*, or *does*.
-
-**Step 2: Choose 5 Skills**
-
-Pick 5 skills that make sense for the mode. The skills should hang together thematically.
-
-- Think about what someone with this mode would be good at
-- Include at least one "active" skill (Fight, Shoot, Athletics) and one "social" or "mental" skill for breadth
-- Avoid modes that are just "5 combat skills" or "5 social skills." That's min-maxing, not a character concept
-
-**Step 3: Add Flavor**
-
-Write two or three suggested aspects and two suggested stunts that fit the mode. This helps communicate what the mode is about and gives players a starting point.
-
-> **Example Custom Mode: Morgrave Scholar**
->
-> You study ancient history and lost civilizations at Morgrave University.
->
-> **Skills**: Contacts, Investigate, Lore, Notice, Resources
->
-> *Suggested Aspects*: *Morgrave University Professor*, *I've Read About This*, *Academic Rivals Are the Worst*
->
-> *Suggested Stunts*:
-> - **Expedition Contacts**: Because I've funded digs across Xen'drik, I get +2 to Contacts when dealing with explorers or antiquarians.
-> - **Appraise Artifact**: Because I know relics, I can use Lore instead of Resources to determine an artifact's value.
-
-> **Example Custom Mode: Daask Enforcer**
->
-> You work for the monstrous crime syndicate.
->
-> **Skills**: Athletics, Fight, Provoke, Notice, Physique
->
-> *Suggested Aspects*: *Droaam's Reach in Sharn*, *Fear Is a Tool*, *Monster Among Humans*
->
-> *Suggested Stunts*:
-> - **Monstrous Reputation**: Because Daask is feared, I get +2 to Provoke when intimidating through threat of violence.
-> - **Droaam Tough**: Because I was raised among monsters, I can use Physique instead of Will to resist fear or intimidation.
-
-**For GMs: Quick NPC Modes**
-
-When building NPCs, you can create modes on the fly. A mode is just "5 skills that make sense together." Don't overthink it.
-
-- **Sharn Watch Guard**: Athletics, Fight, Notice, Physique, Shoot
-- **Boromar Smuggler**: Burglary, Contacts, Deceive, Notice, Stealth
-- **Emerald Claw Knight**: Athletics, Fight, Lore, Physique, Will
+| Species | Aspect Grants (Narrative Permission) | Optional Stunt (Costs 1 Refresh) |
+|---------|-------------------------------------|----------------|
+| **Warforged** | Don't eat, sleep, or breathe. Resistant to poison and disease. Can be repaired instead of healed. | *Built for War*: Armor:1 against physical attacks. |
+| **Changeling** | Can shift features at will to match any humanoid. | *Perfect Mimic*: +2 to Deceive when impersonating a specific person you've studied. |
+| **Shifter** | Can briefly manifest bestial features (claws, enhanced senses, thick hide). | *Shifting*: Pick two skills when you take this stunt. Once per scene, you may swap their ratings for the rest of the scene. |
+| **Kalashtar** | Telepathic communication with willing targets. Resistance to dream invasion. | *Psychic Shield*: +2 to Will when defending against mental attacks from extraplanar entities. |
+
+Other species exist on Eberron (gnomes, elves, halflings, orcs, goblinoids). For these, take a descriptive aspect and work with your GM on a species stunt if one makes sense. Not every species needs a mechanical distinction. An elf's long life and keen senses are narrative color, not a stunt.
 
 ---
 
