@@ -80,6 +80,15 @@ Pick an archetype from the list below, or create your own. A custom archetype ne
 | **Explorer** | Athletics, Notice, Will | Danger Sense, Trailblazer, Ruin Runner | Add a location (ruin, passage, landmark) to the campaign map |
 | **Pilot** | Drive, Crafts, Notice | Evasive Maneuvers, My Ship My Rules, Barnstormer | Add a route, port, or vehicle upgrade to the campaign map |
 
+### Multiple Archetypes
+
+Want to play a Mage who's also a Warrior? A Spy who's also a Face? You can combine two archetypes. Here's how:
+
+- **Important Skills**: Select a base archetype and copy over the important skills from the second archetype. Use the combined list when choosing your skill pyramid.
+- **Stunts**: Pick one stunt from each archetype at creation (instead of one from a single archetype).
+- **Impact**: At each major milestone, choose one of your two archetypes' impact actions.
+- **Refresh**: Reduce your starting refresh by one (from 3 to 2). Having two archetypes is powerful, and this is the cost.
+
 ---
 
 ## Origins
