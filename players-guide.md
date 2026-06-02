@@ -402,19 +402,159 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 ---
 
+## Your Charter
+
+A Charter is the party's shared identity: who they are together, where they operate, who they know, and who wants to stop them. Every group builds one during Session Zero.
+
+### Charter Components
+
+| Component | What It Is | What You Create |
+|-----------|-----------|-----------------|
+| **Framework** | The type of campaign | Pick one: Agency, Expedition, Cell, Salvage Crew, House Operatives |
+| **Territory** | Where the action happens | A region with one or two issue aspects |
+| **Headquarters** | Where the party is based | A location with a high concept and one aspect |
+| **Community** | The people you care about and protect | A group with a high concept and a values aspect |
+| **Patron or Contact** | The NPC who connects you to work | A name, high concept, one skill at Fair (+2)+ |
+| **Antagonist** | The recurring opposition you've already tangled with | A name, high concept, and motivation |
+| **Reputation** | What people say about you | A party name and reputation aspect |
+
+### Framework Examples
+
+**Agency** (Inquisitive shop):
+- Territory: A Sharn ward or district
+- HQ: Ramshackle office in Callestan, Lower Dura. *Aspect: Everyone Knows Where to Find Us*
+- Community: The working people of Lower Dura who can't afford the Watch's attention
+- Antagonist: A Boromar underboss who you've crossed before
+
+**Expedition** (Xen'drik explorers):
+- Territory: A stretch of Xen'drik coastline or interior
+- HQ: A chartered ship docked at Stormreach. *Aspect: Our Funding Depends on What We Bring Back*
+- Community: The crew and scholars aboard the ship
+- Antagonist: A rival Morgrave expedition with fewer scruples
+
+**Cell** (Shadow war / resistance):
+- Territory: A nation or occupied territory
+- HQ: A safehouse that changes every few sessions. *Aspect: If They Find This Place, We're Done*
+- Community: A network of sympathizers and informants
+- Antagonist: A Citadel handler who's hunting you, or a Trust agent
+
+**Salvage Crew** (Mournland operations):
+- Territory: The border towns and the Mournland interior
+- HQ: A fortified camp outside the dead gray mist. *Aspect: Last Stop Before the Nothing*
+- Community: Other salvagers, refugees, border town locals
+- Antagonist: A Lord of Blades lieutenant, or a living spell that seems to follow you
+
+**House Operatives** (Dragonmarked intrigue):
+- Territory: Multiple cities connected by House interests
+- HQ: A House enclave or satellite office. *Aspect: The House Provides, the House Expects*
+- Community: House heirs, workers, and allies caught in internal politics
+- Antagonist: A rival faction within your own House
+
+### Charter Stunts
+
+Each framework has associated charter stunts. When creating your character, pick one from your framework's list or create your own.
+
+**Agency Stunts:**
+- *We Know This Town*: When investigating in our territory, the party gains +2 to Contacts when looking for witnesses or informants.
+- *The Office Never Closes*: Once per session, a client or contact shows up at HQ with a lead, creating a situation aspect with a free invoke.
+- *Street Cred*: When our reputation is known, gain +2 to Rapport with locals who've heard of us.
+
+**Expedition Stunts:**
+- *Provisioned for Anything*: Once per session, a party member can declare they packed a useful non-magical item, creating a situation aspect with a free invoke.
+- *Seasoned Explorers*: When navigating unknown terrain together, the lead explorer gains +2 to Investigate or Notice.
+- *Shared Field Notes*: When one party member succeeds with style on a Lore or Investigate roll related to ruins or artifacts, another party member gains a boost.
+
+**Cell Stunts:**
+- *Safe House Protocol*: When the party retreats to their HQ, each member clears one additional stress box.
+- *Dead Drops*: Once per session, a party member can use Contacts to receive intelligence from the network without being seen.
+- *Ghosts in the Machine*: When operating covertly as a group, gain +2 to Stealth against organized opposition.
+
+**Salvage Crew Stunts:**
+- *Mournland Survival Instinct*: When in the Mournland, the party gains +2 to Notice against environmental hazards.
+- *Scavenger's Eye*: Once per session, a party member can declare that a piece of salvage they recovered is useful right now, creating a situation aspect with a free invoke.
+- *Nobody Left Behind*: When a party member is taken out, another party member in the same zone can spend a fate point to convert the taken out result to a severe consequence instead.
+
+**House Operative Stunts:**
+- *House Resources*: Once per session, a party member can use the House's resources to gain +2 to Resources for a single roll.
+- *Internal Contacts*: When dealing with members of your own House, gain +2 to Contacts.
+- *The House Remembers*: When an NPC who has previously interacted with the party encounters them again, the party starts with a boost representing the House's reputation.
+
+### Building the Charter (Session Zero)
+
+1. **Pick a framework.** Discuss what kind of campaign excites the group.
+2. **Define territory.** Pick or create a region. Write one or two issue aspects describing what's wrong there now. These are the problems the campaign is about.
+3. **Create headquarters.** Name it, give it a high concept and one aspect. Start humble. The HQ can improve at major milestones.
+4. **Define community.** Who are the people you care about? Give them a high concept and a values aspect. These values may align with or challenge the PCs' own beliefs.
+5. **Create a patron or contact.** The NPC who brings you work, passes along information, or gives orders. Name, high concept, one relevant skill at Fair (+2) or higher.
+6. **Create an antagonist.** Someone you've already clashed with. Not the campaign's final villain, but a persistent mid-level threat. Name, high concept, motivation.
+7. **Name yourselves and write a reputation aspect.** Assume you've been together for a while with at least one victory and one failure behind you. Mixed reputations work best for longer campaigns.
+
+### Charter Advancement
+
+At major milestones, the group can:
+- Improve a community aspect
+- Upgrade headquarters (add a new aspect or improve the high concept)
+- Change the reputation aspect
+- Change the framework if the campaign shifts direction
+
+---
+
 ## Magic and Artifice
 
-Magic in Eberron is everywhere but powerful magic is rare. There are two ways to use magic in play:
+Magic in Eberron is everywhere, but powerful magic is rare. Your character needs a magical aspect (high concept, free aspect, or species aspect) to use magic at all. Without one, you're a mundane person in a magical world.
 
-### Narrative Magic
+Magic uses the same four actions as everything else. The difference is in how lasting and powerful the effect is.
 
-If you have an aspect that establishes magical ability (such as *Morgrave-Trained Wizard*, *Kalashtar Mindlink*, *Servant of the Silver Flame*, or a dragonmark), you can describe any skill roll as being accomplished through magic.
+### Two Gears of Magic
 
-When you use Lore to create an advantage, you might describe it as casting a divination spell. When you use Will to defend, you might describe a magical shield. When you Attack with Fight, you might describe a flaming sword.
+| What You Want | How It Works | Duration |
+|---------------|-------------|----------|
+| Temporary tactical effect | Create Advantage (situation aspect) | Scene, or until overcome |
+| Lasting effect on a target | Attack (consequence) | Consequence recovery timeline |
+| Repeatable signature ability | Stunt (see Signature Spells below) | Permanent (per stunt limits) |
+| Collaborative ritual/research | Brainstorm (see below) | Until the problem is solved |
+| Crafted magical item | Invention (see below) | Permanent until broken/lost |
 
-The mechanics don't change. You're still rolling the appropriate skill. Magic is the narrative "how," not a separate system.
+**Create Advantage** is the default for most magical actions. A mage uses Lore to create the aspect *Blinding Light*. A priest uses Will to create *Shield of the Silver Flame*. An artificer uses Crafts to create *Smoke Bomb Deployed*. These are powerful and flexible, but temporary and removable with a standard overcome action. This is the minor power level of magic: useful, tactical, and easy to produce.
 
-**What Magic Can't Do**: Your magical description can't exceed what the skill normally allows. Rolling Lore doesn't let you attack (unless you have a stunt that permits it). Magic provides flavor and permission, not new capabilities.
+**Consequential magic** is for when magic attacks or creates lasting effects.
+
+### Consequential Magic: Four Channels of Attack
+
+| Channel | Skill | Defense | When to Use |
+|---------|-------|---------|-------------|
+| Precise | Shoot | Athletics | Target can physically dodge the effect (bolt of lightning, ray of frost, force missile) |
+| Coercive | Provoke | Will | Target resists mentally (fear, domination, psychic assault, compulsion) |
+| Subtle | Deceive | Empathy | Target doesn't realize they're being affected (illusions, charms, suggestion) |
+| Unresisted | Lore or Crafts | Passive difficulty | Target is an object, zone, willing subject, or unable to resist |
+
+Lore and Crafts both work for unresisted magic. Lore channels through knowledge and incantation; Crafts channels through artifice and inscription. An Artificer wards a door with Crafts. A Mage wards it with Lore. Same result, different fiction.
+
+### Consequences as Spell Effects
+
+When a magical attack forces a consequence, that consequence IS the spell effect. The consequence's recovery timeline is the spell's duration.
+
+| Consequence | Shifts to Inflict | Duration | Example |
+|-------------|-------------------|----------|---------|
+| Mild (2) | 2 beyond stress | Clears 1 scene after treatment | *Magical Sleep*, *Momentary Blindness* |
+| Moderate (4) | 4 beyond stress | Clears 1 session after treatment | *Phiarlan Glamour: Wrong Face*, *Dreambound* |
+| Severe (6) | 6 beyond stress | Clears 1 scenario after treatment | *Mournland Corruption*, *Soul Anchored* |
+
+### Consented / Beneficial Magic
+
+When a target welcomes the effect (buffing allies, shapeshifting yourself), they skip the attack roll and simply accept the consequence at the desired severity. The consequence slot is occupied, which is the real cost: a warded character is harder to hurt with further magic but also more fragile if physically attacked.
+
+Examples: *Shapechanged: Hawk Form*, *Warded Against Scrying*, *Blessing of the Silver Flame*.
+
+### Treatment / Dispelling
+
+Same as normal consequence recovery. Lore always works for treating magical consequences, in addition to the usual Empathy for mental and appropriate skills for physical. Difficulty follows the standard: Fair (+2) for mild, Great (+4) for moderate, Fantastic (+6) for severe. Self-treatment adds +2 to difficulty.
+
+When treatment succeeds, rename the consequence to reflect recovery. *Magical Sleep* becomes *Groggy and Sluggish*. *Dreambound* becomes *Lingering Dream Fragments*. The renamed aspect can still be invoked and compelled until it fully clears.
+
+### Wards and Persistent Effects (Bronze Rule)
+
+Objects and locations can take consequences via the Bronze Rule. A warded door, a cursed room, an enchanted bridge. The GM sets passive difficulty for the Lore or Crafts roll. The caster chooses the severity of consequence to impose, which determines total shifts needed (the object's stress boxes + consequence absorption). Creating powerful wards requires preparation through create advantage actions first.
 
 ### Brainstorms: Solving Magical Problems
 
@@ -501,6 +641,8 @@ If "Flaw" was chosen as a catch, the GM creates a **flaw aspect** for the invent
 > The GM chooses **Attention**. House Cannith notices someone working on docent technology outside their control. Keth chooses **Materials** (he needs a Khyber dragonshard) and **Time** (it'll take a week, not a day).
 >
 > After acquiring the dragonshard and dealing with a Cannith inquisitor who comes asking questions, Keth completes the Docent with the aspect *Repository of Dhakaani Military History*.
+
+**Venture City Drawbacks**: When "Flaw" is chosen as a catch, you can use drawback aspects from the Venture City model: aspects that exist specifically to be compelled. *Drains Quickly*, *Attracts Unwanted Attention*, *Only Works in Moonlight*.
 
 ---
 
@@ -777,69 +919,80 @@ For gear that matters mechanically, use the **Personal Hardware** stunt pattern 
 
 ### Spellcasting
 
-Magic in Eberron is common: magewrights light lamps, Orien heirs teleport cargo, and wandslingers duel in Sharn's streets. For player characters, magic works through the same Fate mechanics as everything else.
+See **Magic and Artifice** above for the full magic system. This section summarizes how magic works in play.
 
 #### Narrative Permission
 
-Your aspects and modes determine what magic you can attempt. If you have the **Mage** or **Priest** mode, you have broad permission to attempt magic appropriate to your tradition. An *Aundairian War Mage* can hurl fire; a *Gatekeeper Druid* communes with nature spirits; a *Priest of the Silver Flame* channels divine power against darkness.
-
-Characters without a magical mode can still use magic if they have an appropriate aspect. A *Cyran Refugee with a Stolen Wand* might manage a few tricks, but they're not a trained spellcaster.
+Your aspects determine what magic you can attempt. A *Morgrave War Mage* can hurl force bolts. A *Gatekeeper Druid* communes with nature spirits. A *Priest of the Silver Flame* channels divine power. Characters without a magical aspect can't cast spells.
 
 #### Magic as Actions
 
-Most spells are just the four actions with magical flavor:
-
-**Create Advantage** is the workhorse of battlefield magic. Cast *Shield of Faith* to create an aspect you can invoke for defense. Conjure *Deeper Darkness* to hinder enemies. Summon a *Spectral Hound* as an aspect that can be invoked for tracking or intimidation. Roll Lore (arcane) or Will (divine) against a difficulty set by the GM.
-
-**Overcome** handles magical problem-solving. Dispel a ward, break a curse, identify an enchantment, calm a hostile spirit. The skill depends on the approach: Lore for analytical magic, Will for force of personality or faith.
-
-**Attack** with magic works like any attack. Roll your skill, deal stress. Whether you're swinging a sword or hurling lightning, the mechanics are identical. Mages typically attack with Lore or Shoot (for ranged blasts); priests might use Will for divine wrath.
-
-**Defend** can be magical when appropriate. A wizard might use Lore to defend against magical attacks. A priest might use Will to resist mental intrusion or possession.
+| What You Want | How It Works | Duration |
+|---------------|-------------|----------|
+| Temporary tactical effect | Create Advantage (situation aspect) | Scene, or until overcome |
+| Lasting effect on a target | Attack (consequence) | Consequence recovery timeline |
+| Repeatable signature ability | Stunt (see Signature Spells) | Permanent (per stunt limits) |
+| Collaborative ritual/research | Brainstorm | Until the problem is solved |
+| Crafted magical item | Invention (catches) | Permanent until broken/lost |
 
 #### Magical Costs
 
-When magic fails or ties, the GM can introduce costs that reflect the unpredictable nature of magic:
+When magic fails or ties, the GM can introduce costs:
 
-**Minor costs** (ties):
-- The spell draws unwanted attention (magical or mundane)
-- It takes longer than expected, so you act last next exchange
-- A minor side effect occurs (lights flicker, temperature drops)
-- You take one or two stress from the strain
+**Minor costs** (ties): unwanted attention, takes longer than expected, minor side effect, 1-2 stress from strain.
 
-**Major costs** (failures offered as success-at-cost):
-- The spell works but affects more than intended (allies caught in the blast, innocents frightened)
-- Something notices your magic from across the planes
-- The magic leaves a lingering aspect the GM can invoke against you (*Magical Signature Traced*)
-- You take a consequence representing magical backlash (*Drained*, *Arcane Burnout*)
-
-> **Example**: Theron attempts to magically unlock a Cannith vault (Overcome with Lore vs. Great +4). He rolls +2, a failure. The GM offers success at a cost: "You crack the ward, but House Cannith's security systems logged the intrusion. You have maybe ten minutes before response teams arrive."
+**Major costs** (failures offered as success at cost): affects more than intended, something notices from across the planes, leaves a lingering aspect the GM can invoke, magical consequence (*Drained*, *Arcane Burnout*).
 
 #### Signature Spells
 
-For magic your character uses reliably (their go-to spells), build them as stunts. These follow the standard stunt patterns: +2 in narrow circumstances, permission to do something new, or break a rule once per session.
+For magic your character uses reliably, build it as a stunt. A signature spell follows the normal stunt patterns (see Step 5) with one important rule:
 
-**Burning Hands**: Because I specialize in evocation, I can attack everyone in my zone with Lore. I must spend a fate point or free invoke to target the whole zone instead of one target.
+**The Replication Rule**: A signature spell that replicates what another skill already does needs a limit. Either once per scene, costs a fate point, or is restricted to a specific situation. The limit is what makes it a spell instead of just having the skill.
 
-**Charm Person**: Because I weave enchantments, I get +2 to Deceive when using magic to make someone view me favorably. This doesn't work on targets who are actively hostile.
+Signature spells that do things no skill covers (healing consequences, summoning creatures, creating wards) can be more permissive because they're not stepping on another skill's territory.
 
-**Detect Magic**: Because I sense magical auras, I can use Lore instead of Notice to detect magical effects, items, and creatures, even if they're hidden or disguised.
+**Enhancement**: You can invest additional stunts into an existing signature spell to upgrade it. Each enhancement extends the spell's reach, power, or flexibility.
 
-**Healing Word**: Because I channel restorative power, once per scene I can roll Will vs. Fair (+2) to clear one ally's physical stress box. On success with style, also clear a mental stress box.
+| Enhancement | Effect |
+|-------------|--------|
+| **Master** | +2 to rolls with this spell |
+| **Widen** | Affect a full zone instead of one target |
+| **Extend** | Increase range by one zone |
+| **Fortify** | Use the spell's skill to defend as well as attack |
+| **Deepen** | Inflict a consequence instead of stress, or reduce consequence severity for healing |
+| **Quicken** | Use the spell as a free action once per scene |
 
-**Invisibility**: Because I've mastered illusion, I can use Lore to create *Invisible* on myself. While invisible, I get +2 to Stealth. The aspect ends when I attack or the scene ends.
+Not every enhancement fits every spell. Pick what makes fictional sense.
 
-**Fly**: Because I command the winds, once per scene I can grant myself or a willing target the ability to fly for the rest of the scene. While flying, ignore ground-based zone boundaries and obstacles.
+**Example: Force Bolt** (Morgrave War Mage)
+- **Base (1 stunt):** Once per scene, I can use Lore to make a physical attack against a target up to 2 zones away. Targets defend with Athletics.
+- **Enhancement: Master Force Bolt (1 stunt):** When I attack with Force Bolt, I get +2 to Lore.
+- **Enhancement: Force Shield (1 stunt):** When I am targeted by a ranged physical attack I can see, I can use Lore to defend.
+- **Enhancement: Concussive Wave (1 stunt):** I can spend a fate point to attack every target in a zone with Force Bolt.
 
-**Arcane Shield**: Because I weave protective wards, once per scene I can reduce incoming physical stress by 2 after seeing the result of an attack against me.
+**Example: Healing Prayer** (Priest of the Silver Flame)
+- **Base (1 stunt):** Once per scene, I can roll Will against Fair (+2) to clear all physical stress on a person I touch.
+- **Enhancement: Miraculous Recovery (1 stunt):** When I treat a physical consequence with Will, I reduce the consequence severity by one step. Mild consequences clear immediately.
+- **Enhancement: Radiant Shield (1 stunt):** I can spend a fate point to grant an ally in my zone Armor:2 against undead attacks for the rest of the scene.
 
-**Thunderwave**: Because I command elemental air, once per session I can push everyone in my zone (except myself) to adjacent zones of my choice. Spend a fate point to use this again in the same session.
+**Example: Whispering Shadows** (Phiarlan Shadow Spy)
+- **Base (1 stunt):** Once per scene, I can use Deceive to create the aspect *Cloaked in Shadow* on myself with two free invokes instead of the usual one.
+- **Enhancement: Shadow Step (1 stunt):** When I am in a zone with a shadow-related aspect, I can spend a fate point to move to any other zone in the scene that also has a shadow-related aspect, bypassing all obstacles.
+- **Enhancement: Phantom Decoy (1 stunt):** I can use Deceive to create a shadow illusion of myself in an adjacent zone. The illusion has one stress box and can be attacked or investigated (Investigate vs. my Deceive) to dispel.
 
-**Turn Undead**: Because the Silver Flame burns through me, I get +2 to Will when creating advantages against undead or fiends. On success with style, they must also move one zone away from me.
+**Example: Lightning Call** (Lyrandar Storm Caller)
+- **Base (1 stunt):** Once per scene, I can use Shoot to make a magical attack using lightning against a target up to 3 zones away. Targets defend with Athletics.
+- **Enhancement: Chain Lightning (1 stunt):** When I invoke an aspect on a Lightning Call attack, I may split the invoke bonus (+1/+1) across two targets in the same zone instead of +2 on one.
+- **Enhancement: Storm Shield (1 stunt):** When I am targeted by a ranged physical attack, I can use Shoot to defend by deflecting the projectile with a gust of wind.
+
+**Example: Animate Dead** (Order of the Emerald Claw Necromancer)
+- **Base (1 stunt):** Once per scene, I can summon one undead servant. It has one aspect (*Mindless Undead Servant*), one Good (+3) skill (Fight), and 2 physical stress boxes. It acts on my turn and lasts until the end of the scene or until destroyed.
+- **Enhancement: Stronger Dead (1 stunt):** My summoned undead gains an additional Good (+3) skill (chosen when summoned) and a mild consequence slot.
+- **Enhancement: Rise Again (1 stunt):** When my summoned undead is taken out, I can spend a fate point to immediately resummon it in my zone with full stress but carrying any consequences it had.
 
 #### Ritual Magic
 
-For complex magical workings (opening a portal to Thelanis, binding a demon, raising the dead), use a **challenge** or the **invention** rules. Big magic shouldn't be a single roll; it should be a scene (or several scenes) with multiple obstacles and potential complications.
+For complex magical workings (opening a portal to Thelanis, binding a demon, raising the dead), use a **challenge** or the **invention** rules. Big magic shouldn't be a single roll. It should be a scene (or several scenes) with multiple obstacles and potential complications.
 
 > **Example**: The party needs to close a manifest zone that's bleeding aberrations into Sharn. The GM frames it as a challenge:
 > - Contain the immediate threat (Fight vs. Good)
