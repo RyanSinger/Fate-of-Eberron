@@ -137,35 +137,69 @@ Other species exist on Eberron (gnomes, elves, halflings, orcs, goblinoids). For
 
 ---
 
-## Step 3: Remaining Aspects
+## Step 3: Write Your Aspects
 
-You have three more aspects to define:
+Your character has five aspects. Build them during creation, refine them in play.
 
-- **Relationship**: A connection to another PC. Good relationships have built-in tension or imbalance.
-- **Two Free Aspects**: Anything important about your character: beliefs, important items, connections, or history.
+### High Concept
+
+A broad description combining your archetype, background, species, and anything else that captures who you are at a glance. This is how you'd pitch the character to a friend.
+
+> Examples: *Cyran Refugee Turned Sharn Inquisitive*, *Warforged Artificer Seeking a Soul*, *Karrnathi Noble Playing Both Sides*, *Phiarlan Spy Who Fell in Love*
+
+### Motivation
+
+Why your character acts. This should push you into action, even when it's risky. Think of it as your trouble's proactive twin: not just what makes your life complicated, but what you can't stop yourself from doing about it.
+
+> Examples: *I Won't Let What Happened to Cyre Happen Again*, *Someone Has to Stop House Cannith*, *The Truth Is Worth Any Price*, *I Will Earn My Place Among the Living*
+
+### Background
+
+Where you grew up, the community that shaped you, and the values you carry (or reject). Use your background's character-building questions to inspire this.
+
+> Examples: *Proud Karrnathi, Ashamed of What We Did*, *Lower Dura Born, Lower Dura Loyal*, *Aundairian Patriot in Exile*
+
+### Relationship
+
+Your dynamic with another PC. If you have an even number of players, link in pairs. An odd number means one character links to two others.
+
+Bond types to consider: best friends, siblings in arms, mentor and protege, love interest, rivals, former enemies, debtor and creditor.
+
+> Examples: *She Saved My Life in the Mournland and I Still Don't Know Why*, *We Served in the Same Unit but on Different Sides*, *I Owe Them Everything and They Won't Let Me Forget It*
+
+Each player in the pair can interpret the relationship differently. One might write *Like a Daughter to Me* while the other writes *Reminds Me of the Father I Lost*. Different perspectives on the same bond create drama.
+
+### Free Aspect
+
+Anything else important about your character. A signature weapon, a personality trait, a secret, a catchphrase, an obligation.
+
+> Examples: *My Father's Byeshk Blade*, *Trust Is a Luxury I Can't Afford*, *Runaway Runekeeper*, *I'm Gorgeous (and I Know It)*
+
+**Tip**: If all your aspects are positive, adding a negative or mixed free aspect gives you more compel opportunities, which means more fate points.
 
 ### What Makes a Good Aspect?
 
-Think about what you'd want to see in a story about your character. Good aspects do one or more of these things:
+Good aspects are **double-edged**. They help you AND create complications. *Loyal to House Cannith* gets you resources and connections, but it also means the House can call in favors, drag you into politics, or put you in conflict with your friends.
 
-**Grant Permission**: Let you do things most people can't. *Member of the King's Dark Lanterns* lets you access intelligence networks. *Trained at Rekkenmark Academy* means you know military secrets.
+Good aspects are **specific**. *Strong* is boring. *Strongest Dockworker in Cliffside* tells a story.
 
-**Make You Awesome**: Ensure success when it matters. *Never Miss a Shot* helps when everything's on the line. *The Best Swordsman in Sharn* means something in a duel.
+Good aspects are **true**. Once you write it down, it's a fact about the world. *I Know Everyone in Lower Dura* means you actually do. The GM will hold you to it, and reward you for it.
 
-**Create Complications**: Invite trouble that makes the story interesting. *Wanted by House Tarkanan* means assassins show up. *Can't Resist a Challenge* means you take bad bets.
+---
 
-**Build Setting**: Connect you to Eberron's world. *Cyran Refugee* places you in the setting's tensions. *The Chamber Is Watching Me* suggests draconic plots.
+## Step 4: Assign Your Skills
 
-**Avoid aspects that duplicate skills.** You don't need *Good at Fighting*. That's what the Fight skill is for. Instead, *Karrnathi Swordsmanship* suggests specific training, cultural ties, and potential complications (Karrnath's enemies, undead associations).
+Arrange your skills in a pyramid with the highest rated skill at Great (+4):
 
-### Eberron-Specific Ideas
+- 1 Great (+4) skill
+- 2 Good (+3) skills
+- 3 Fair (+2) skills
+- 4 Average (+1) skills
+- All other skills at Mediocre (+0)
 
-- Your relationship to the Last War
-- Connections to organizations (dragonmarked houses, criminal syndicates, governments, religions)
-- Important items or heirlooms
-- Personal goals or secrets
+Your archetype and background important skills should guide your choices but don't restrict them. A Warrior with Fight, Athletics, and Physique as important skills might still put Contacts at Great (+4) because this particular warrior is a well-connected veteran, not a brute.
 
-> Examples: *My Sword Belonged to a Cyran Hero*, *The Boromar Clan Owes Me a Favor*, *I'm Looking for My Missing Brother*, *The Mourning Took Everything but My Rage*
+**The 18 skills:** Athletics, Burglary, Contacts, Crafts, Deceive, Drive, Empathy, Fight, Investigate, Lore, Notice, Physique, Provoke, Rapport, Resources, Shoot, Stealth, Will. See the Quick Reference at the end of this guide for descriptions of each.
 
 ---
 
