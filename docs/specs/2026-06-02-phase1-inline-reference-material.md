@@ -353,6 +353,14 @@ Each archetype defines what the character does now. It provides three important 
 
 Custom archetypes: a name, three important skills, three associated stunts, and an impact.
 
+### Multiple Archetypes
+
+Characters can combine two archetypes (e.g., Mage + Warrior, Spy + Face). When combining:
+- Copy important skills from both archetypes; use the combined list for skill pyramid guidance.
+- Pick one stunt from each archetype at creation.
+- At each major milestone, choose one archetype's impact action.
+- Reduce starting refresh by one (from 3 to 2).
+
 ### Backgrounds
 
 Each background defines where the character comes from and what they did before. It provides three important skills, three associated stunts (pick one at creation), and a set of character building questions that help flesh out aspects during creation.
