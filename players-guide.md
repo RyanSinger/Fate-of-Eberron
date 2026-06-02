@@ -203,39 +203,93 @@ Your archetype and background important skills should guide your choices but don
 
 ---
 
-## Step 4: Stunts
+## Step 5: Pick Your Stunts
 
-You get three free stunts. You may buy additional stunts by spending 1 refresh each (minimum 1 refresh).
+Stunts are special abilities that make your character unique. They break the normal rules in narrow, interesting ways. Each stunt falls into one of seven patterns.
 
-Stunts follow two basic templates:
+### 1. Skill Bonus (Narrow +2)
 
-### Bonus Stunts
+> Because I [reason], I get +2 to [skill] when [specific situation].
 
-**Because I [describe something special about you], I get +2 when I use [skill] to [action] when [specific circumstance].**
+- *Sharn Street Rat*: Because I grew up in the lower wards, I get +2 to Notice when spotting danger in Sharn's undercity.
+- *Veteran Interrogator*: Because I served in Karrnathi intelligence, I get +2 to Empathy when questioning someone I suspect of lying.
 
-> *Because I **was a Brelish reconnaissance scout**, I get +2 when I use **Notice** to **create an advantage** when **observing enemy positions**.*
+### 2. Skill Substitution
 
-> *Because I **studied at Arcanix**, I get +2 when I use **Lore** to **overcome** when **identifying magical effects**.*
+> Because I [reason], I can use [Skill A] instead of [Skill B] when [specific situation].
 
-### Rule-Changing Stunts
+- *Deft Hands*: Because I'm a trained pickpocket, I can use Burglary instead of Fight to defend against grab attempts.
+- *Inquisitive's Eye*: Because I notice what others miss, I can use Investigate to defend against ambushes and traps instead of Notice.
 
-**Because I [describe something special about you], I can [describe what you can do], but only [limitation].**
+### 3. Once Per Session Effect
 
-> *Because I **don't sleep**, I can **stay alert during long watches without penalty**, but only **when guarding something important**.*
+> Because I [reason], once per session I can [powerful effect].
 
-> *Because I **have contacts in every tavern**, I can **use Contacts instead of Investigate** to **gather rumors**, but only **in urban settings**.*
+- *Healing Touch (House Jorasco)*: Because I bear the Mark of Healing, once per session I can clear a mild physical consequence on a person I touch by rolling Empathy against Fair (+2).
+- *Changeling Vanish*: Because I can shift my features instantly, once per session I can disappear into a crowd by becoming someone else, escaping a scene without a roll.
 
-### Sample Stunts
+### 4. Fate Point Powered
 
-**Armor of Faith**: Because of my unwavering belief in the Silver Flame, I can use Will instead of Physique to determine my physical stress boxes.
+> Because I [reason], I can spend a fate point to [dramatic effect].
 
-**Deadly Sniper**: Because I trained as a Karrnathi sharpshooter, I get +2 to Shoot attacks when I have taken time to aim (spent an action to create an advantage first).
+- *Call Lightning (Mark of Storm)*: Because I bear the Mark of Storm, I can spend a fate point to make a zone attack with Shoot against every target in an outdoor zone.
+- *Warforged Resilience*: Because my body is built for war, I can spend a fate point to ignore all stress from a single physical attack.
 
-**Inquisitive's Eye**: Because I've investigated hundreds of crime scenes, I get +2 to Investigate when examining a location where violence occurred.
+### 5. Conditional Permission
 
-**Lightning Reflexes**: Because I have honed battlefield instincts, I can use Notice instead of Athletics to defend against surprise attacks.
+> Because I [reason], I can [action normally not allowed] when [condition].
 
-**War Machine**: Because I am a warforged built for battle, once per session I can ignore a mild consequence from physical damage.
+- *Silver Flame Exorcist*: Because I trained to fight possessing spirits, I can use Will to make mental attacks against entities from other planes.
+- *Lightning Reflexes*: Because I have honed battlefield instincts, I can use Notice instead of Athletics to defend against surprise attacks.
+
+### 6. Teamwork / Altruistic
+
+> When I'm in [situation] with an ally, they gain +2 to [skill] when [action].
+
+- *Watch Each Other's Backs*: When I'm in the same zone as an ally in a fight, they gain +2 to Athletics when defending against ranged attacks.
+- *Inspiring Presence*: When I lead a charge, allies in my zone gain +2 to Will when defending against fear or intimidation.
+
+### 7. Personal Hardware
+
+Your character has an iconic possession. Pick two options from the list below. If two isn't enough, take this stunt again for a different item.
+
+**Options (pick two):**
+- +1 to one situational application of one skill
+- Weapon:2 (add 2 shifts to successful attacks with this item)
+- Armor:1 (reduce incoming physical stress by 1)
+- Add a new action to a skill (once per session)
+
+Non-mechanical capabilities come free if they make fictional sense. A sending stone lets you communicate at distance. A featherfall token lets you survive a fall. No roll needed unless the situation is risky.
+
+**Eberron examples:**
+- *Cannith Repeating Crossbow*: Weapon:2, +1 to Shoot when laying down suppressive fire
+- *Darkleaf Weave Armor*: Armor:1, +1 to Stealth when moving quietly
+- *Docent (Warforged)*: +1 to Lore when recalling historical facts, once per session can use Lore to create an advantage representing tactical analysis from the docent's memory
+- *Jorasco Healing Kit*: +1 to Empathy when treating physical consequences, once per session can use Empathy as an overcome to stabilize a character who was taken out
+- *Tharashk Dragonshard Focus*: Weapon:2 on magical attacks, +1 to Notice when tracking a specific target
+
+### Stunt Design Guidance
+
+- If your stunt would work in every situation, it's too broad. Narrow it.
+- If your stunt would never come up, it's too narrow. Broaden it.
+- Skill substitution stunts don't need extra limits if the substitution is already situational.
+- Stunts that cost a fate point can be more dramatic than free stunts.
+- When in doubt, model it on an existing stunt and change the fiction.
+- Personal Hardware fills the gap between "I just have a sword" (narrative permission, no stunt needed) and "I have a legendary Dhakaani blade" (should be an aspect AND a stunt).
+
+### Three Starting Stunts
+
+At creation, pick three stunts, one from each source:
+
+- One **archetype stunt** (from your archetype's list or create your own)
+- One **background stunt** (from your background's list or create your own)
+- One **charter stunt** (from your group's charter; see the Charter section)
+
+You can buy additional stunts by spending refresh (1 refresh per extra stunt, minimum refresh of 1). If you took a species stunt, that also costs 1 refresh.
+
+### Refresh
+
+Your refresh starts at 3. This is the minimum number of fate points you begin each session with. Reduce it by 1 for each stunt beyond your starting three, and by 1 if you took a species stunt.
 
 ---
 
@@ -717,21 +771,9 @@ You can **concede** at any time *before* your opponent rolls, not after you see 
 
 ### Equipment
 
-Most equipment is handled narratively. If you have a sword, you can fight with it. If you're a Cannith artificer, you have tools.
+Most equipment is handled narratively. If you have a sword, you can fight with it. If you're an artificer, you have tools. Equipment grants narrative permission, not mechanical bonuses.
 
-For **signature gear** that's central to your character, take this stunt:
-
-**Personal Hardware**: You have an iconic possession. Choose two benefits:
-- +1 to a specific skill application (e.g., +1 to Fight when parrying)
-- Weapon:2 (add 2 shifts to successful attacks)
-- Armor:1 (reduce incoming physical stress by 1)
-- Once per session, use the item to take a skill action you normally couldn't
-
-Beyond these mechanical benefits, the item can do whatever makes sense narratively. A sending stone lets you communicate at distance. A glider cloak lets you fly short distances. No roll required unless it puts you at risk.
-
-> **Example**: Jak's **Cannith Multi-Tool** gives him +1 to Crafts when repairing and lets him once per session use Crafts to pick a lock (normally Burglary).
-
-You can take this stunt multiple times for different items.
+For gear that matters mechanically, use the **Personal Hardware** stunt pattern (see Step 5: Pick Your Stunts). For magical items, use the **Invention** rules.
 
 ### Spellcasting
 
