@@ -142,6 +142,12 @@ Before your first adventure, run a **session zero**, a conversation about expect
 
 **Character Creation**: Build characters together. When players see each other's aspects, they can build connections. "Oh, you're a Cyran refugee? My character blames Cyre for the war. That's interesting tension."
 
+### Build the Charter
+
+After establishing safety tools and expectations, build the party's **Charter** together. See the Player's Guide for the full Charter system. The Charter gives the group a shared framework, territory, headquarters, community, contact, antagonist, and reputation before anyone makes individual characters.
+
+Building the charter first means every character is created with shared context. Players know who they're protecting, where they're based, and who they've already fought.
+
 ### Questions to Ask Players
 
 - What does your character want? (Drives adventures)
@@ -615,6 +621,8 @@ Here are structures for different campaign types in Eberron.
 
 ### The Inquisitive Agency
 
+*Charter Framework: Agency. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
+
 The party runs a detective/problem-solving business in Sharn.
 
 **Starting Situation**: The characters have an office (or share one), a reputation (good or bad), and need for work.
@@ -635,6 +643,8 @@ The party runs a detective/problem-solving business in Sharn.
 - A mystery that connects multiple cases
 
 ### The Xen'drik Expedition
+
+*Charter Framework: Expedition. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
 
 The party explores the mysterious southern continent.
 
@@ -657,6 +667,8 @@ The party explores the mysterious southern continent.
 
 ### The Last War Never Ended
 
+*Charter Framework: Cell. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
+
 The party are operatives in an ongoing shadow war.
 
 **Starting Situation**: The characters work for a nation, a house, or an independent power broker. The peace is a fiction.
@@ -678,6 +690,8 @@ The party are operatives in an ongoing shadow war.
 
 ### Mournland Salvage
 
+*Charter Framework: Salvage Crew. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
+
 The party ventures into the dead nation to recover what was lost.
 
 **Starting Situation**: The characters are salvagers, treasure hunters, or seekers of lost family/artifacts.
@@ -698,6 +712,8 @@ The party ventures into the dead nation to recover what was lost.
 - Clues to what actually happened on the Day of Mourning
 
 ### Dragonmarked Intrigue
+
+*Charter Framework: House Operatives. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
 
 The party navigates house politics and interhouse competition.
 
@@ -1046,11 +1062,13 @@ At completion: Everyone makes Athletics Great (+4) defense or takes Severe conse
 
 ## Running Magic and Artifice
 
-### When Players Use Narrative Magic
+### When Players Use Magic
 
-When a player describes their skill roll as magical, let them. The wizard using Lore to create an advantage might describe casting Detect Magic. The cleric using Will to defend might invoke divine protection.
+Magic works in two gears. **Create Advantage** is the default for temporary tactical effects: a shield, a distraction, a divination. These create situation aspects that last until the scene ends or someone overcomes them.
 
-The rule: magic describes *how*, not *what*. The skill determines what's mechanically possible. Magic just makes it look cool.
+**Consequential magic** is for lasting effects. When a magical attack deals enough stress to force a consequence, that consequence IS the spell effect. *Magical Sleep*, *Phiarlan Glamour: Wrong Face*, *Mournland Corruption Spreading*. The consequence's recovery timeline is the spell's duration. See the Player's Guide for the full system.
+
+Let players describe their actions as magical whenever they have a magical aspect and are rolling an appropriate skill. The fiction is theirs. Your job is to set appropriate difficulty and introduce costs on failures and ties.
 
 ### When Players Research or Create
 
