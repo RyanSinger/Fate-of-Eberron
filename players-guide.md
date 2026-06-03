@@ -747,30 +747,34 @@ Every roll produces one of four outcomes:
 
 </div>
 
-#### Which Skills Attack and Defend?
+#### Which Skills Can Attack?
 
-| Type | Attack With | Defend With |
-|------|-------------|-------------|
-| Physical (melee) | Fight | Fight or Athletics |
-| Physical (ranged) | Shoot | Athletics |
-| Mental | Provoke | Will |
+| Skill | Use For | Notes |
+|-------|---------|-------|
+| Fight | Melee combat, unarmed strikes | Targets in your zone only |
+| Shoot | Ranged weapons, thrown objects | Adjacent zones or further if line of sight is clear |
+| Provoke | Intimidation, taunting, enraging | Deals mental stress. May not work on unfeeling or unthinking targets |
+| Rapport | Persuasion, negotiation, de-escalation | Deals mental stress. Less effective mid-violence or against hostile targets with no prior connection |
+| Deceive | Lies, manipulation, false promises | Deals mental stress. Fails once the truth is revealed |
+| Drive | Ramming, vehicular attacks | May cause harm to your own vehicle |
 
-#### Non-Violent Attacks
+#### Which Skills Can Defend?
 
-Attacks don't have to mean violence. An attack is any action that weakens an opponent's ability or desire to fight. You can "attack" in positive, non-violent ways:
+| Skill | Defend Against | Notes |
+|-------|---------------|-------|
+| Fight | Melee attacks | May not work against colossal foes or attacks you can't parry |
+| Athletics | Any physical attack, melee or ranged | Dodging, diving, leaping clear |
+| Will | Mental attacks, intimidation, fear | May not work against deception |
+| Empathy | Deceive attacks, manipulation | Reading intent, sensing the lie |
+| Notice | Traps, ambushes, surprises | Spotting danger before it hits |
+| Physique | Poisons, environmental hazards, extreme conditions | Enduring rather than evading |
+| Drive | Physical attacks while piloting | Evasive maneuvers, hard turns |
 
-- Flattering an enemy into becoming your friend (Rapport)
-- Correcting a logical fallacy in a courtroom (Lore)
-- Buying off a mercenary mid-fight (Resources, with a stunt)
-- Convincing soldiers you're not worth dying for (Rapport)
+The GM and table can grant other skills permission to attack or defend in specific circumstances. Stunts make that permission permanent.
 
-When you're trying to end a conflict by changing someone's mind rather than hurting them, that's still an attack. You're dealing mental stress with Rapport instead of Provoke.
+**Attacks don't have to mean violence.** An attack is any action that weakens an opponent's ability or desire to fight. Flattering an enemy into friendship, correcting a logical fallacy in court, convincing soldiers you're not worth dying for: these are all attacks. When you take someone out with words, treat it more like a concession than an unconditional surrender. You've changed their mind, not robbed them of agency.
 
-**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight. A talkative character isn't useless once combat starts. They can attack with words while others attack with weapons.
-
-**Using Deceive as Rapport**: You can lie to make someone feel good: false flattery, pretending to surrender, feigning respect. The target defends with Will (resisting influence) or Empathy (seeing through the lie). If they succeed with Empathy, you can't use Deceive against them for the rest of the scene. You've been exposed.
-
-**Taking Out with Words**: When you take someone out with Rapport or other "positive" attacks, treat it more like a concession than an unconditional surrender. The loser gets some say in what happens. You've convinced the guards to let you pass, but you can't force them to humiliate themselves or betray everything they believe. Robbing someone of all agency with smooth talk is just as villainous as robbing them at swordpoint.
+**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight.
 
 ### Aspects and Fate Points
 
@@ -894,6 +898,36 @@ Consequences require treatment before they can begin healing. Roll an appropriat
 - Severe: Fantastic (+6)
 
 Self-treatment adds +2 to the difficulty. After successful treatment, the consequence begins recovery and can be renamed to reflect healing (e.g., *Broken Arm* becomes *Arm in a Sling*).
+
+#### Naming Consequences
+
+The name IS the fiction. Once you write *Shattered Kneecap*, that character can't run. Consequences are aspects: always true, invokable, and compellable. The attacker gets one free invoke on any consequence they inflict.
+
+**Physical Consequences:**
+
+| Severity | Absorbs | Examples |
+|----------|---------|---------|
+| Mild (2) | Near miss, minor hurt | *Nasty Bruise*, *Winded*, *Grazed by Crossbow Bolt*, *Ringing Ears* |
+| Moderate (4) | Serious injury, needs treatment | *Deep Sword Cut*, *Dislocated Shoulder*, *Second Degree Burns*, *Cracked Ribs* |
+| Severe (6) | Life altering, long recovery | *Shattered Kneecap*, *Spine Damage*, *Crushed Hand*, *Internal Bleeding* |
+
+**Mental Consequences:**
+
+| Severity | Absorbs | Examples |
+|----------|---------|---------|
+| Mild (2) | Shaken, flustered | *Rattled*, *Flustered*, *Momentarily Paralyzed by Doubt*, *Stung Pride* |
+| Moderate (4) | Genuine emotional damage | *Terrified of the Dark*, *Crisis of Faith*, *Burning Shame*, *Shaken Loyalty* |
+| Severe (6) | Deep trauma | *Recurring Nightmares from the Mourning*, *Broken Will*, *Complete Loss of Trust*, *War Flashback Disorder* |
+
+**Magical Consequences:**
+
+| Severity | Absorbs | Examples |
+|----------|---------|---------|
+| Mild (2) | Minor magical effect | *Magical Sleep*, *Momentary Blindness*, *Frostbitten Fingers*, *Unsettling Whispers* |
+| Moderate (4) | Significant magical affliction | *Phiarlan Glamour: Wrong Face*, *Dreambound*, *Limbs Won't Obey*, *Marked by the Traveler* |
+| Severe (6) | Profound magical transformation | *Mournland Corruption Spreading*, *Soul Partially Unmoored*, *Petrification Creeping Up My Legs*, *Vol's Death Curse* |
+
+**Recovery renaming:** When treatment succeeds, rename to reflect healing. *Shattered Kneecap* becomes *Walking with a Limp*. *Magical Sleep* becomes *Groggy and Sluggish*. *Dreambound* becomes *Lingering Dream Fragments*. The renamed aspect can still be invoked and compelled until it fully clears.
 
 #### Taken Out
 
