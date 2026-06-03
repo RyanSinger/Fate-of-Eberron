@@ -1057,12 +1057,18 @@ When a major story arc concludes, you may do one thing from the milestone list, 
 - Rewrite your high concept if you want
 - Start recovery on any consequence not yet recovering (rename it); clear any that were already renamed
 - Increase one skill by +1
+- Perform your archetype's **Impact**: add something to the campaign map as described in your archetype
 
-**Skill balance**: When you increase a skill, you may need to promote other skills first. You can't have more skills at a given rating than you have at the rating below it. You can bank skill increases to spend together later.
+**Skill balance**: When you increase a skill, you must maintain the pyramid structure. You can't have more skills at a given rating than you have at the rating below it. You can bank skill increases to spend together later.
 
 The GM may also grant:
 - +1 refresh
 - A second skill increase
+
+The group may also:
+- Improve a community aspect in the charter
+- Upgrade the charter's headquarters
+- Change the charter's reputation aspect
 
 ---
 
@@ -1095,39 +1101,33 @@ From the modes, here's the complete skill list:
 
 ## Sample Character: Kaela ir'Taran
 
-**High Concept**: *Cyran Noble Turned Mercenary*
-**Trouble**: *The Mourning Took Everything but My Sword*
-**Relationship**: *Owes Theron a Life Debt from Cyre*
-**Free Aspects**: *Karrnathi Swordsmanship Training*, *House Deneith Owes Me Answers*
+Kaela was a Cyran noble's daughter who served as an officer in the Last War, then watched the Mourning erase everything she fought for. She landed in Sharn with a sword, a name no one recognizes, and a knack for asking questions that make people uncomfortable. She works as an inquisitive now, taking cases the Watch ignores.
 
-**Modes**:
-- Soldier (Good +3): Fight (Specialized), Athletics (Focused)
-- Noble (Fair +2): Rapport (Focused), Contacts (Focused)
-- Cyran (Average +1): Will (Focused)
+**Archetype:** Inquisitive
+**Background:** Soldier
 
-**Skills**:
-- Fight: Superb (+5), Soldier +3, Specialized +2
-- Athletics: Great (+4), Soldier +3, Focused +1
-- Notice: Good (+3), Soldier +3, trained
-- Physique: Good (+3), Soldier +3, trained
-- Shoot: Good (+3), Soldier +3, trained
-- Rapport: Good (+3), Noble +2, Focused +1
-- Contacts: Good (+3), Noble +2, Focused +1
-- Empathy: Fair (+2), Noble +2, trained
-- Resources: Fair (+2), Noble +2, trained
-- Deceive: Fair (+2), Noble +2, trained
-- Will: Fair (+2), Cyran +1, Focused +1
-- Lore: Average (+1), Cyran +1, trained
+**Aspects:**
+- **High Concept:** *Cyran Refugee Turned Sharn Inquisitive*
+- **Motivation:** *The Mourning Had a Cause and I Will Find It*
+- **Background:** *Karrnathi Swordsmanship Training from the Last War*
+- **Relationship:** *Owes Theron a Life Debt from Cyre*
+- **Free:** *House Deneith Owes Me Answers*
 
-**Stunts**:
-- **Cyran Blade Dance**: Because I trained with Cyran duelists, I get +2 to Fight when I'm outnumbered.
-- **Noble Bearing**: Because I carry myself like the noble I was, I get +2 to Rapport when first impressions matter.
-- **War Survivor**: Because I survived the Mourning, once per session I can spend a fate point to ignore all stress from a single attack by describing a flashback to something worse.
+**Skills:**
+- Great (+4): Investigate
+- Good (+3): Fight, Notice
+- Fair (+2): Athletics, Contacts, Empathy
+- Average (+1): Stealth, Rapport, Physique, Will
 
-**Refresh**: 3
-**Physical Stress**: [ ] [ ] [ ]
-**Mental Stress**: [ ] [ ] [ ]
-**Consequences**: Mild (2) [ ] | Moderate (4) [ ] | Severe (6) [ ]
+**Stunts:**
+- **Inquisitive's Eye**: Because I notice what others miss, I can use Investigate to defend against ambushes and traps instead of Notice.
+- **Battlefield Awareness**: Because I read combat situations from years on the front, I get +2 to Notice when determining turn order or spotting hidden threats in a fight.
+- **We Know This Town**: When investigating in our territory, the party gains +2 to Contacts when looking for witnesses or informants.
+
+**Refresh:** 3
+**Physical Stress:** ☐☐☐
+**Mental Stress:** ☐☐☐
+**Consequences:** Mild (2) / Moderate (4) / Severe (6)
 
 ---
 
@@ -1136,50 +1136,47 @@ From the modes, here's the complete skill list:
 ```
 CHARACTER NAME: _______________________________________
 
-HIGH CONCEPT: _________________________________________
+ARCHETYPE: ____________________________________________
 
-TROUBLE: ______________________________________________
+BACKGROUND: ___________________________________________
 
-RELATIONSHIP: _________________________________________
-
-FREE ASPECT: __________________________________________
-
-FREE ASPECT: __________________________________________
+SPECIES (optional): ___________________________________
 
 
-MODES                           SKILLS
-________________________        ________________________
-Mode 1: __________ (+___)       Athletics      [   ]
-  Specialized: ____________     Burglary       [   ]
-  Focused: ________________     Contacts       [   ]
-  Focused: ________________     Crafts         [   ]
-                                Deceive        [   ]
-Mode 2: __________ (+___)       Drive          [   ]
-  Focused: ________________     Empathy        [   ]
-  Focused: ________________     Fight          [   ]
-                                Investigate    [   ]
-Mode 3: __________ (+___)       Lore           [   ]
-  Focused: ________________     Notice         [   ]
-                                Physique       [   ]
-                                Provoke        [   ]
-STUNTS                          Rapport        [   ]
-1. ________________________     Resources      [   ]
-   ________________________     Shoot          [   ]
-                                Stealth        [   ]
-2. ________________________     Will           [   ]
-   ________________________
-
-3. ________________________
-   ________________________
+ASPECTS
+  High Concept:  ________________________________________
+  Motivation:    ________________________________________
+  Background:    ________________________________________
+  Relationship:  ________________________________________
+  Free:          ________________________________________
 
 
-PHYSICAL STRESS  [ ] [ ] [ ]
-MENTAL STRESS    [ ] [ ] [ ]
+SKILLS (pyramid: 1 at Great, 2 at Good, 3 at Fair, 4 at Average)
+
+  Great (+4):  _______________
+  Good  (+3):  _______________ , _______________
+  Fair  (+2):  _______________ , _______________ , _______________
+  Average (+1): _____________ , _____________ , _____________ , _____________
+
+
+STUNTS
+  Archetype stunt: ______________________________________
+  ______________________________________________________
+
+  Background stunt: _____________________________________
+  ______________________________________________________
+
+  Charter stunt: ________________________________________
+  ______________________________________________________
+
+
+PHYSICAL STRESS   ☐  ☐  ☐
+MENTAL STRESS     ☐  ☐  ☐
 
 CONSEQUENCES
-  Mild (2):     ________________________  [ ]
-  Moderate (4): ________________________  [ ]
-  Severe (6):   ________________________  [ ]
+  Mild (2):     __________________________________________
+  Moderate (4): __________________________________________
+  Severe (6):   __________________________________________
 
 REFRESH: [   ]    FATE POINTS: [   ]
 
