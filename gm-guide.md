@@ -1230,7 +1230,7 @@ Start at Fair (+2). Add +1 per complicating factor. Prefer aspects over difficul
 
 ### Magic in Brief
 
-- **Narrative permission** comes from aspects and modes
+- **Narrative permission** comes from aspects (you need a magical aspect to cast magic)
 - **Use the four actions** with magical flavor
 - **Costs on ties/failures**: backfire, unwanted attention, collateral damage
 - **Signature Spells** are stunts that follow normal stunt rules

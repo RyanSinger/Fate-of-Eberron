@@ -574,11 +574,11 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 >
 > The GM sets difficulty at 3 aspects needed.
 >
-> Thalia (Scholar mode) rolls Lore: Success! She creates the aspect *Identified the Binding Runes*.
+> Thalia (Scholar) rolls Lore: Success! She creates the aspect *Identified the Binding Runes*.
 >
-> Keth (Artificer mode) rolls Crafts: Success with style! He creates *Constructed a Resonance Key* with a free invoke.
+> Keth (Artificer) rolls Crafts: Success with style! He creates *Constructed a Resonance Key* with a free invoke.
 >
-> Mira (Priest mode) rolls Will: Failure. The GM describes that her attempt draws the attention of something below, but doesn't prevent progress.
+> Mira (Priest) rolls Will: Failure. The GM describes that her attempt draws the attention of something below, but doesn't prevent progress.
 >
 > Thalia tries again with Investigate: Success! She creates *Found the Ward's Weakness*.
 >
@@ -586,7 +586,7 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 
 ### Invention: Creating Magical Items
 
-Characters with the Artificer mode (or similar background) can create magical devices. The core principle: **you can't fail to make it**. You're a skilled artificer. Of course you can build it. The question is what complications arise along the way.
+Characters with the Artificer archetype (or similar background) can create magical devices. The core principle: **you can't fail to make it**. You're a skilled artificer. Of course you can build it. The question is what complications arise along the way.
 
 **Step 1: Define the Invention**
 
@@ -666,7 +666,7 @@ Fate uses a ladder of adjectives and numbers to rate skills, difficulty, and res
 | -1 | Poor |
 | -2 | Terrible |
 
-Player characters typically have skills ranging from Mediocre (+0) to Superb (+5).
+Player characters typically have skills ranging from Mediocre (+0) to Great (+4).
 
 ### Fiction First
 
@@ -1074,7 +1074,7 @@ The group may also:
 
 ## Quick Reference: Skill List
 
-From the modes, here's the complete skill list:
+Here's the complete skill list:
 
 | Skill | Use |
 |-------|-----|
