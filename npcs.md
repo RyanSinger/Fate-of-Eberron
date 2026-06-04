@@ -474,3 +474,249 @@ Skills: Deceive Average (+1), Stealth Average (+1)
 Nobody knows who the Whisper is. Nobody knows which house they belong to. They sell secrets from both Phiarlan and Thuranni, always accurate, always expensive. Dead drops, coded messages, never a face-to-face meeting. Both houses want the Whisper found. Neither has managed it. The Whisper might be a Phiarlan agent testing loyalty. Might be Thuranni running a long con. Might be someone from neither house who found a way into both. The information is real. That's all anyone knows for certain.
 
 **Hook:** The Whisper leaves a message for the PCs. It contains something they need. The price is a job. The job puts them between the two houses.
+
+---
+
+## The Emerald Claw / Blood of Vol
+
+The militant arm of the Blood of Vol, a religion that worships the divinity within the blood. Outlawed in most nations. Goals range from genuine spiritual seeking to undead supremacy. Lady Illmarrow (Vol) pulls strings from the shadows.
+
+### Commander Malik Draven (he/him)
+
+**Role:** Leader | **Tier:** Boss
+
+A true believer. Former Karrnathi soldier who lost his squad at Saerun Road and found purpose in the Blood of Vol when nothing else would take the weight. He commands an Emerald Claw cell in Sharn with military discipline and genuine conviction. Every operation serves the faith. Every recruit gets the speech about inner divinity. He means every word. That sincerity makes him effective. It also makes him blind to the ways Vol uses him.
+
+**Hook:** Draven's cell has been raiding Cannith supply shipments. He thinks he's funding the faith. Someone else is profiting. The PCs get caught in the middle.
+
+**Aspects:**
+- *Karrnathi Soldier Who Found Faith in the Blood*
+- *Discipline Is Devotion Made Visible*
+- *The Blood of Vol Saved Me When Karrnath Threw Me Away*
+- *I Will Build the World the Sovereigns Refused to Make*
+- *Lady Illmarrow Speaks Through Me (She Really Does)*
+
+**Skills:**
+- Fight Fantastic (+6)
+- Will Superb (+5)
+- Physique Great (+4), Provoke Great (+4)
+- Lore Good (+3), Notice Good (+3)
+- Athletics Fair (+2), Shoot Fair (+2)
+
+**Stunts:**
+- **Blood Command**: +2 to Provoke when giving orders to Blood of Vol faithful or undead under his authority.
+- **Karrnathi Combat Training**: Once per scene, use Fight to defend against ranged attacks by deflecting or dodging with battlefield awareness.
+- **Undying Conviction**: +2 to Will when resisting intimidation, fear, or magical compulsion.
+
+**Stress:** [ ] [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ] | Severe [ ]
+
+Draven fights like the soldier he was trained to be. Controlled, efficient, no wasted movement. He doesn't want to kill the PCs. He wants to convert them. Violence is his second choice, but his second choice is very good.
+
+---
+
+### Sera the Bone Mender (she/her)
+
+**Role:** Wild Card | **Tier:** Hitter
+
+A Vol necromancer who practices healing through necromantic techniques. She mends broken bones by commanding them to knit. She stops bleeding by speaking to the blood. The lower wards love her because she treats anyone for free. The Watch wants her arrested because her magic is illegal. Sera doesn't care about the Emerald Claw's politics. She cares about the woman with the infected wound who can't afford a Jorasco healer. That makes her dangerous to everyone who profits from the current system.
+
+**Hook:** The Watch is closing in on Sera's clinic. Her patients will die without her. She's not asking for protection. Her patients are.
+
+*Necromancer Who Heals the People Jorasco Won't Touch*
+*The Law Says My Medicine Is a Crime*
+
+**Skills:**
+- Lore Great (+4)
+- Empathy Good (+3), Will Good (+3)
+- Notice Fair (+2), Rapport Fair (+2)
+
+**Stunt:** **Blood and Bone**: +2 to Lore when using necromantic techniques to heal injuries or diagnose illness.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Skeledrone Squad (none)
+
+**Role:** Muscle | **Tier:** Filler (4 members)
+
+*Mindless Undead Soldiers Following Orders to the Letter*
+Skills: Fight Fair (+2), Physique Fair (+2), Athletics Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+Animated undead soldiers maintained by Emerald Claw necromancers. Tireless. Unsettling. They follow orders literally, which sometimes creates darkly comic results. Tell them to guard a door and they'll guard it against everyone, including you. Tell them to carry supplies and they'll carry them into a wall if nobody specifies a destination.
+
+Note: Immune to fear, poison, and Rapport or Provoke attacks that rely on emotion.
+
+**Hook:** A Skeledrone Squad is standing motionless in a Cogs corridor. They're guarding something. Nobody can remember who gave them the order or what they're guarding. The last person who tried to move them lost a hand.
+
+---
+
+### The Seeker (she/her)
+
+**Role:** Informant | **Tier:** Threat
+
+*Young Acolyte Whose Faith Recruits Better Than Any Soldier*
+Skills: Rapport Average (+1), Empathy Average (+1)
+A young Vol acolyte who genuinely believes in the faith's message of inner divinity. Not violent. Not scheming. Just devout. She sits in taverns and talks about purpose, about the power in every living soul, about a religion that says you are divine and doesn't ask you to kneel. Soldiers and veterans listen. The grieving listen. People who feel abandoned by the Sovereign Host listen. Her sincerity makes her the most effective recruiter the Emerald Claw has, and she doesn't even know the Claw is using her.
+
+**Hook:** Someone the PCs care about has started attending the Seeker's prayer meetings. They seem happier. That's the problem.
+
+---
+
+## The King's Citadel / Dark Lanterns
+
+Breland's national intelligence service. The Citadel handles domestic security. The Dark Lanterns handle espionage and deniable operations. They answer to the Brelish crown, in theory.
+
+### Captain Talleon Haliar Tonan (he/him)
+
+**Role:** Patron / Rival | **Tier:** Boss
+
+A Dark Lanterns handler stationed in Sharn. Talleon recruits assets, runs operations, and needs freelancers for jobs the Lanterns can't officially touch. He's polite, professional, and forthcoming about exactly as much as serves his purpose. His briefings are accurate. His omissions are strategic. He'll protect his assets as long as they're useful, and he's genuinely troubled when they get hurt. That doesn't stop him from sending them into danger. It just means he feels bad about it later, quietly, where nobody can see.
+
+**Hook:** Talleon contacts the PCs through a dead drop. He has a job that's technically legal, practically dangerous, and officially doesn't exist. The pay is good. The questions he won't answer should concern you.
+
+**Aspects:**
+- *Dark Lanterns Handler Who Plays Fair Within His Rules*
+- *I Protect Breland, Even from Itself*
+- *My Assets Are People, Not Resources (I Keep Telling Myself)*
+- *The Crown's Interests and My Conscience Don't Always Align*
+- *Every Secret I Keep Makes the Next One Easier*
+
+**Skills:**
+- Deceive Fantastic (+6)
+- Investigate Superb (+5)
+- Rapport Great (+4), Notice Great (+4)
+- Contacts Good (+3), Will Good (+3)
+- Lore Fair (+2), Stealth Fair (+2)
+
+**Stunts:**
+- **Handler's Briefing**: +2 to Rapport when recruiting an asset or convincing someone to take a job for the Citadel.
+- **Intelligence Analysis**: Once per scene, use Investigate instead of Empathy to determine whether someone is lying by cross-referencing their statements against known intelligence.
+- **Deniable Operation**: +2 to Deceive when creating a cover story for a Citadel operation.
+
+**Stress:** [ ] [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ] | Severe [ ]
+
+Talleon doesn't fight. He manages situations. If you're in a room with him and weapons come out, something went catastrophically wrong and he has three contingency plans for exactly this scenario.
+
+---
+
+### Agent Nali (she/her)
+
+**Role:** Contact | **Tier:** Hitter
+
+A Citadel field agent undercover in Lower Dura. Her cover is a bartender at a tavern called the Broken Anvil in Callestan. She's been undercover for two years and she's good at her job, which means she's genuinely good at bartending. She knows every regular's name, their drink, and their problems. She also knows which ones are Boromar enforcers, which ones deal in stolen goods, and which ones have warrants. She reports to Talleon. She likes the people she's spying on. Both things are true and neither cancels the other.
+
+**Hook:** Nali slips the PCs a note with their drinks. She needs help with something she can't report through official channels. If she breaks cover, two years of work disappear.
+
+*Citadel Agent Who Became the Best Bartender in Callestan*
+*My Cover Is My Life and My Life Is a Lie*
+
+**Skills:**
+- Rapport Great (+4)
+- Deceive Good (+3), Notice Good (+3)
+- Investigate Fair (+2), Fight Fair (+2)
+
+**Stunt:** **Bartender's Ear**: +2 to Rapport when gathering information through casual conversation while serving drinks.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Citadel Redcloaks (mixed)
+
+**Role:** Enforcer | **Tier:** Filler (4 members)
+
+*Breland's Best, Here Because the Watch Couldn't Handle It*
+Skills: Fight Fair (+2), Investigate Fair (+2), Notice Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+The Citadel's uniformed division. Better trained, better equipped, and better disciplined than the Sharn Watch. When Redcloaks show up, the situation has been escalated past what the local Watch commander can handle. They work in squads of four, carry Brelish military gear, and have the legal authority to detain, search, and seize. They're professional, not cruel. They're also not flexible. Orders are orders.
+
+**Hook:** A Redcloak squad arrives at a location the PCs are using. They have a writ. They're looking for something or someone. They're not interested in negotiation.
+
+---
+
+## The Aurum
+
+A secret society of the wealthy and powerful. They believe gold is the only true power and work to ensure that remains true. Members include nobles, house scions, and merchant princes from every nation.
+
+### Antus ir'Soldorak (he/him)
+
+**Role:** Rival | **Tier:** Boss
+
+A dwarf industrialist and Aurum concordian. Antus controls smelting operations in the Cogs and banking interests across Lower Dura. He sees the PCs' community as a market to be captured, not a people to be helped. Every public works project is an investment. Every charitable donation is a purchase order for goodwill. He's not evil in any simple sense. He genuinely believes that wealth creates order, that order creates safety, and that he should be the one holding the purse. The people who live under his economic shadow have a different perspective on the arrangement.
+
+**Hook:** A business the PCs rely on suddenly changes ownership. The new terms are worse. The new owner answers to Antus, and Antus wants a meeting.
+
+**Aspects:**
+- *Dwarf Industrialist Who Owns More of Sharn Than You Know*
+- *Gold Creates Order and I Hold the Gold*
+- *Every Community Is a Market Waiting to Be Captured*
+- *The Aurum's Interests and Mine Happen to Align*
+- *Generosity Is Just Investment with Better Publicity*
+
+**Skills:**
+- Resources Fantastic (+6)
+- Contacts Superb (+5)
+- Will Great (+4), Deceive Great (+4)
+- Rapport Good (+3), Investigate Good (+3)
+- Lore Fair (+2), Notice Fair (+2)
+
+**Stunts:**
+- **Economic Leverage**: +2 to Resources when acquiring property, businesses, or debts in Lower Dura.
+- **Concordian Network**: Once per scene, use Contacts instead of Investigate to learn a target's financial vulnerabilities by querying Aurum intelligence.
+- **The Golden Argument**: +2 to Rapport when making an offer that includes a significant financial incentive.
+
+**Stress:** [ ] [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ] | Severe [ ]
+
+Antus doesn't threaten. He acquires. He buys the building you live in, the shop you depend on, and the debt you owe. Then he offers you a deal. The deal is always reasonable. The alternative is always worse.
+
+---
+
+### Mara Thornton (she/her)
+
+**Role:** Contact | **Tier:** Hitter
+
+A mid-level Aurum member who manages investments for the organization's Sharn portfolio. Mara joined the Aurum because she believed in meritocracy and the power of commerce to improve lives. Five years in, she's seen how the concordians actually operate. She's not ready to betray the Aurum. She knows what happens to people who do. But she's willing to trade information when a deal crosses the line from ruthless to cruel. She tells herself it's principled. It might just be guilt looking for an outlet.
+
+**Hook:** Mara approaches the PCs at a social function. She has information about an Aurum operation that will hurt people they care about. She wants nothing in return. That should worry them.
+
+*Aurum Investor Whose Conscience Started Keeping Score*
+*Not Ready to Betray Them, Not Able to Stay Silent*
+
+**Skills:**
+- Deceive Great (+4)
+- Resources Good (+3), Rapport Good (+3)
+- Investigate Fair (+2), Notice Fair (+2)
+
+**Stunt:** **Follow the Money**: +2 to Investigate when tracing financial transactions or identifying hidden ownership.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### The Accountant (he/him)
+
+**Role:** Enforcer | **Tier:** Hitter
+
+The Aurum doesn't employ thugs. They employ financial instruments. The Accountant is a thin, precise man who carries a leather portfolio instead of a weapon. He doesn't hurt people. He destroys their credit, calls their debts, revokes their leases, and buries them in litigation. A broken leg heals in weeks. A destroyed credit history takes years. He's polite. He's thorough. He sleeps well at night because everything he does is legal.
+
+**Hook:** The PCs or someone they protect receives a visit from the Accountant. He's here to discuss outstanding obligations. He has paperwork. The paperwork is devastating.
+
+*Financial Enforcer Whose Weapons Are Writs and Ledgers*
+*Everything I Do Is Perfectly Legal (That's the Worst Part)*
+
+**Skills:**
+- Resources Great (+4)
+- Investigate Good (+3), Will Good (+3)
+- Deceive Fair (+2), Notice Fair (+2)
+
+**Stunt:** **Financial Assault**: Use Resources instead of Provoke to attack in economic or social conflicts by leveraging debt, liens, or credit destruction.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
