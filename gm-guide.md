@@ -122,6 +122,27 @@ If the game were a TV show, would they spend screen time on this? If not, skip i
 - Active opposition (an NPC rolling) is almost always better than passive difficulty.
 - If it seems impossible, let them stack create advantage actions first. That's the game working as intended.
 
+### Branches, Not Gates
+
+Every roll in Fate should be a fork in the road, not a gate. A gate means: succeed and the story continues, fail and the story stalls. A branch means: succeed and the story goes this way, fail and the story goes that way. Both directions are interesting.
+
+If failure means "nothing happens," don't roll. Either let the characters succeed, or frame the situation so that failure changes things.
+
+**The locked door test:** A locked door in a traditional game is a gate. Pick the lock or you don't get through. In Fate, if you can't think of an interesting failure for picking the lock, just let them through. If you can (the lock breaks and the noise attracts guards, the mechanism triggers an alarm, you get through but it took so long that the target has fled), now you have a branch. Roll for it.
+
+### Interesting Failure
+
+When a roll fails, the situation should change. The story moves forward, just not in the direction the characters wanted.
+
+- **Success at a major cost.** You get what you wanted, but something else goes wrong.
+- **New complication.** The attempt itself creates a new problem.
+- **Unwanted attention.** Someone or something noticed what you're doing.
+- **Shifted circumstances.** The window of opportunity changes. What was possible a moment ago no longer is, but something else opens up.
+
+"That doesn't work" is never the answer. Keep things moving.
+
+> **Example:** The party tries to break into a Cannith vault. The Burglary roll fails. Instead of "the lock doesn't budge," try: "You crack the outer seal, but House Cannith's security network logged the intrusion. You have maybe ten minutes before a response team arrives. The vault is open, but the clock is ticking."
+
 ---
 
 ## Session Zero
@@ -613,11 +634,15 @@ Compels drive story and earn players fate points. Eberron's themes provide plent
 
 *Morgrave Scholar* → "The artifact they're selling is clearly stolen from Xen'drik. Your professional ethics demand you intervene."
 
+For systematic guidance on compel rhythm, drama escalation, and using compels to drive entire campaigns, see the **[GM Toolkit]({{ '/toolkit' | relative_url }})**.
+
 ---
 
 ## Campaign Frameworks
 
 Here are structures for different campaign types in Eberron.
+
+For the full campaign management toolkit (region maps, downtime, drama escalation), see the **[GM Toolkit]({{ '/toolkit' | relative_url }})**.
 
 ### The Inquisitive Agency
 
