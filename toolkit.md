@@ -1341,3 +1341,111 @@ Discovery: The door is inscribed with historical records. Lore Good (+3) reveals
 Aspects: *Ancient Power Hums in the Walls*, *The Air Tastes Like Lightning*
 Threat: The vault's true guardian (Boss tier). OR the vault is empty, someone got here first. GM's choice based on campaign needs.
 Discovery: The MacGuffin, or evidence of who took it and where they went.
+
+### Terrain Profiles
+
+Four profiles for Eberron's key exploration locations. Each provides situation aspects, hazards, discoveries, and a sample encounter. Use them during travel or delves to make the environment feel alive and dangerous.
+
+#### Xen'drik
+
+*The continent of secrets. Everything here was built by giants and cursed by elves. The Traveler's Curse ensures no map stays accurate for long.*
+
+**Themes:** Ancient power, lost civilizations, the price of knowledge, things buried for a reason.
+
+**Situation Aspects:**
+- *The Traveler's Curse Warps Distance and Direction*
+- *Giant Architecture Built for Bodies Three Times Your Size*
+- *The Jungle Reclaims Everything Eventually*
+- *Drow Eyes Watch from the Canopy*
+
+**Hazards:**
+- Giant guardians (constructs or bound spirits) still protecting ruins millennia after their creators fell
+- Drow patrols: Sulatar fire-binders, Umbragen shadow elves, or Vulkoori hunters, depending on the region
+- The Traveler's Curse: distances change, landmarks move, maps become useless. Treat as a compel on any journey aspect.
+- Unstable ruins: floors collapse, ceilings give way, ancient mechanisms activate without warning
+
+**Discoveries:**
+- Giant artifacts (powerful but sized for giants, requiring adaptation or miniaturization)
+- Map fragments that are only accurate for a short time before the Curse shifts things
+- Draconic Prophecy marks carved into stone older than human civilization
+- Hidden drow settlements that trade, threaten, or both
+
+**Sample Encounter:** The party finds a giant observatory. The lenses still work, but they show the sky as it was 40,000 years ago. An Investigate challenge (3 aspects needed) can extract useful astronomical data. The observatory's defense system activates when the lenses are used. A construct guardian (Hitter, Fight Great +4) attacks while the scholars work.
+
+#### The Mournland
+
+*Cyre is dead. What remains isn't a country. It's a wound. The dead-gray mist marks the border. Inside, nothing is right.*
+
+**Themes:** Wrongness, preserved destruction, grief as landscape, things that shouldn't exist but do.
+
+**Situation Aspects:**
+- *The Dead-Gray Mist Swallows Sound and Light*
+- *Nothing Decays Here, Nothing Heals*
+- *Reality Is a Suggestion, Not a Rule*
+- *The Last Day of Cyre, Frozen in Time*
+
+**Hazards:**
+- Living spells: magical effects that gained sentience during the Mourning. A living *Fireball* hunts. A living *Cloudkill* drifts. Not malicious, just elemental forces with no purpose.
+- Warped terrain: gravity shifts, time loops, zones where magic works differently or not at all
+- The dead-gray mist itself: prolonged exposure causes mental stress (Provoke Fair +2 per scene spent in the mist, defended with Will)
+- Preserved war scenes: battlefields frozen mid-combat, soldiers still standing, weapons still charged. Disturbing anything can reactivate it.
+
+**Discoveries:**
+- Intact Cyran artifacts (pre-Mourning craftsmanship, valuable and emotionally charged)
+- Frozen battle scenes that contain clues about the war's final hours
+- Creation forge components (banned by treaty, worth a fortune, dangerous to possess)
+- Clues to the Mourning's cause (never the full answer, always enough to make powerful people nervous)
+
+**Sample Encounter:** The party enters a Cyran village perfectly preserved. Tables set for dinner. Meals still warm. No one home. Time is looping: every ten minutes, the village resets to the moment before the Mourning hit. An Investigate/Lore challenge (4 aspects needed) to understand the loop. Each reset erases physical changes the party made. Items taken from the village disappear at reset. The loop can be broken, but breaking it means the village finally experiences the Mourning. Is that mercy or destruction?
+
+#### Khyber
+
+*The underworld. Not a place of punishment, but a place of imprisonment. The daelkyr are sealed here. The overlords are bound here. The things that live here were never meant to see the sky.*
+
+**Themes:** Madness, alien biology, things older than civilization, boundaries between worlds.
+
+**Situation Aspects:**
+- *The Walls Are Alive and They're Watching*
+- *Light Doesn't Behave Correctly Down Here*
+- *Something Massive Breathes in the Deep*
+- *Gatekeeper Seals Hold, but for How Long?*
+
+**Hazards:**
+- Aberrations: dolgaunts, dolgrims, mind flayers, and stranger things. They don't think like surface creatures.
+- Daelkyr symbiont creatures: living weapons and armor that bond to hosts. Tempting, corrupting, powerful.
+- Madness zones: prolonged exposure attacks mental stress (Provoke Good +3 per scene, defended with Will). Consequences taken here should be psychological: *I Can Hear Them Thinking*, *The Geometry Makes Sense Now*.
+- Living architecture: walls that shift, passages that close, rooms that weren't there a moment ago.
+
+**Discoveries:**
+- Khyber dragonshards (valuable, resonant with binding magic, sometimes occupied)
+- Daelkyr artifacts (powerful, alien, always with a cost; use the Invention flaw system for drawbacks)
+- Sealed overlord prisons (do not open; but the seal might need reinforcing, and that's an adventure)
+- Connections to other planes: manifest zones within Khyber leading to Dal Quor, Xoriat, or Mabar
+
+**Sample Encounter:** A passage opens into a cathedral-sized chamber. The ceiling is covered in Khyber dragonshards glowing faint purple. At the center, a dolgaunt (Hitter, Deceive Great +4) performs a ritual on a Gatekeeper seal. The seal is weakening. The dolgaunt isn't hostile. It claims the seal is failing on its own and it's trying to repair it. Empathy vs its Deceive to read intent. If the party attacks, the ritual is disrupted and the seal cracks further.
+
+#### Wilderness
+
+*The Eldeen Reaches, Q'barra, the Shadow Marches, the Demon Wastes. Places where civilization thins and older powers hold sway.*
+
+**Themes:** Nature as power, civilization's edge, old conflicts, communities in hiding.
+
+**Situation Aspects:**
+- *The Forest Has Its Own Laws*
+- *Druidic Circles Guard the Balance*
+- *Ancient Dhakaani Ruins Beneath the Canopy*
+- *The Locals Don't Trust Outsiders, and They Have Reasons*
+
+**Hazards:**
+- Predators: dinosaurs in Q'barra, dire animals in the Eldeen Reaches, swamp creatures in the Shadow Marches
+- Hostile druids or nature guardians who consider outsiders a threat to the balance
+- Manifest zones: areas where Lamannia, Thelanis, or Mabar bleeds through, altering reality
+- Environmental extremes: flooding, volcanic activity, magical storms, season shifts near manifest zones
+
+**Discoveries:**
+- Druidic circles willing to trade knowledge for service
+- Ancient Dhakaani ruins (smaller than Xen'drik sites, more militant, trapped against goblinoid threats)
+- Dragonshard deposits (guarded by creatures, claimed by factions, or in manifest zones making extraction dangerous)
+- Communities in hiding: refugees, cult survivors, shifter enclaves, goblinoid settlements rebuilding
+
+**Sample Encounter:** A druidic circle has placed a ward around a manifest zone where Lamannia is bleeding through. Animals inside are growing massive and aggressive. The druids want help strengthening the ward (a brainstorm challenge). A Tharashk prospecting team wants access to the dragonshard deposit inside the zone. The druids won't negotiate. The prospectors have a legal claim. The animals are getting more dangerous every day.
