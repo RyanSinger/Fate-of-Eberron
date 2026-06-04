@@ -77,3 +77,51 @@ Don't plan what will happen.
 Plan the situation: who wants what, who's in the way, what's at stake, and what happens if nobody does anything. Then sit down at the table and find out what the characters do about it.
 
 That's the job.
+
+---
+
+## Eberron Story Elements
+
+During Session Zero, after choosing a Charter framework but before building the region or individual characters, the group fills out a Story Elements worksheet. Three steps.
+
+### Step 1: Inspirations
+
+The group brainstorms media, tropes, and themes that excite them. No bad suggestions. Write them all down.
+
+> *Blade Runner, Legend of Korra, Leverage, political intrigue, ancient mysteries, found family*
+
+### Step 2: Story Ingredients
+
+Go through the Eberron ingredient categories and sort each into Keepers (we want this), Deal Breakers (avoid this), or Conditional (fine under certain conditions, specify what).
+
+| Category | Ingredients to Discuss |
+|----------|----------------------|
+| **Tone** | Pulp adventure, noir mystery, horror, political drama, heist/caper, comedy, romance, tragedy |
+| **Scope** | Neighborhood, city, national, continental, planar |
+| **The Last War** | Background texture, active wound, resuming conflict, veteran trauma, war crimes, refugees |
+| **Factions** | Which Dragonmarked Houses are active? Which criminal organizations? Which governments? Which secret powers? |
+| **The Draconic Prophecy** | Not present, background mystery, central plot driver |
+| **The Planes** | Manifest zones as color, planar threats, planar travel, specific planes (Thelanis, Dal Quor, Xoriat, Shavarath) |
+| **Horror** | Daelkyr and aberrations, Vol and undead, the Mournland, Khyber, body horror, psychological horror |
+| **Identity and Prejudice** | Warforged personhood, changeling distrust, shifter discrimination, goblinoid marginalization |
+| **Magic and Technology** | Artifice and invention, dragonshards, creation forges, eldritch machines |
+
+- **Keepers**: Elements the group wants. No one objects.
+- **Deal Breakers**: Elements to avoid entirely. If one player flags it, it's off the table for everyone.
+- **Conditional**: Allowed under specific conditions the group agrees on. Examples: "Horror is fine as long as it's cosmic/existential, not body horror" or "The Last War can be background for NPCs but we don't want flashback scenes."
+
+This is an ideal time to introduce or review safety tools (X-Card, Lines and Veils).
+
+### Step 3: Campaign Aspects
+
+Distill the keepers and inspirations into 2-4 world aspects that apply to every session. These are always true, always invokable, always compellable.
+
+> *The Treaty of Thronehold Is Held Together by Lies, Nobody Trusts a Changeling, The Mourning Could Happen Again, Sharn Runs on Favors and Debts*
+
+### Between Sessions
+
+Revisit the Story Elements worksheet before each session:
+
+- **Review the elements.** Are the keepers, deal breakers, and conditionals still working? Anything to change just for this session?
+- **Summarize themes.** Give the players an overview of the themes planned for this session. Do they have feedback or concerns?
+- **Monitor the action.** During the game, watch for signs of discomfort and check in when things get intense.
