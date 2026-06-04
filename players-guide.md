@@ -697,6 +697,23 @@ Every roll produces one of four outcomes:
 - **Success** (you rolled 1 or 2 higher): You achieve your goal without complications.
 - **Success with Style** (you rolled 3+ higher): You achieve your goal and get an additional benefit, often a boost or extra effect.
 
+### Intent and Task
+
+Before you can determine which of the four actions applies, you need two things:
+
+1. **Intent**: What are you trying to accomplish? What does success look like?
+2. **Task**: How are you going about it? What does your character actually do?
+
+Without both, you can't pick the right action. The same task can be different actions depending on intent.
+
+When something is unclear, ask: "Okay, describe success. If this works, what happens?"
+
+**Eberron examples:**
+
+- "I pick the lock." Are you trying to get through the door (Overcome)? Or disable the security system so the whole team can pass freely (Create Advantage)?
+- "I cast a spell at them." Are you trying to hurt them (Attack)? Scare them into backing down (Attack with Provoke)? Slow them down (Create Advantage)? Get past them (Overcome)?
+- "I talk to the guard." Are you getting information (Overcome)? Building a relationship for later (Create Advantage)? Convincing them to abandon their post (Attack with Rapport)?
+
 ### The Four Actions
 
 <div class="action-grid">
@@ -872,6 +889,21 @@ Instead of taking an action on your turn, you can focus entirely on defense. Dec
 If you don't make any defend rolls before your next turn, you gain a **boost** as compensation. You've positioned yourself advantageously.
 
 > **Example**: Surrounded by Emerald Claw soldiers, Tira forgoes her attack and declares Full Defense against melee attacks. She gains +2 to all Fight defenses until her next turn. If somehow no one attacks her in melee, she gains a boost like *Perfect Guard Stance*.
+
+#### The Escalation
+
+A conflict with a named NPC isn't about tactics. It's a test of commitment. A bidding war. A game of chicken.
+
+The escalation goes like this:
+
+1. **Skills only.** Both sides roll. This costs nothing.
+2. **Invoke aspects.** Spend fate points for +2 or reroll. Now you're spending resources you might need later.
+3. **Take consequences.** Accept lasting harm to stay in the fight. Now you're paying with future capability.
+4. **Concede or get taken out.** Pay the final price, or walk away on your terms.
+
+At every step, both sides are asking: "How much do I want this?" The answer drives the drama. A conflict where neither side cares is boring. A conflict where both sides care deeply and are willing to bleed for it is electric.
+
+The concession mechanic makes this explicit. At any point before dice are rolled, you can accept a loss and gain fate points (one base, plus one per consequence taken). The longer you stay, the more the concession is worth, but the more you've already paid.
 
 ### Stress and Consequences
 
