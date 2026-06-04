@@ -720,3 +720,152 @@ The Aurum doesn't employ thugs. They employ financial instruments. The Accountan
 
 **Stress:** [ ] [ ] [ ]
 **Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+## Lord of Blades
+
+A warforged revolutionary who believes organic life will never accept warforged as equals. Operates from the Mournland. Recruits warforged who've been mistreated, abandoned, or denied personhood. Equal parts liberator and extremist.
+
+### Hatchet (she/her)
+
+**Role:** Enforcer | **Tier:** Hitter
+
+A Lord of Blades lieutenant who operates outside the Mournland, recruiting warforged from Sharn's lower wards. She finds the ones who were discarded after the war: laborers with no wages, veterans with no pensions, soldiers treated like surplus equipment. She listens to their stories. She tells them there's a place where warforged govern themselves. She's patient and persuasive. Violence is her last resort, but she's good at it when recruitment fails.
+
+**Hook:** A warforged the PCs know has gone missing. Hatchet recruited them. She's willing to talk, but she won't give them back.
+
+*The Lord's Voice in the Living City*
+*Patience First, Then the Blade*
+
+**Skills:**
+- Fight Great (+4)
+- Rapport Good (+3), Notice Good (+3)
+- Stealth Fair (+2), Will Fair (+2)
+
+**Stunt:** **Words Before War**: +2 to Rapport when attempting to recruit a warforged who has been mistreated by organic employers.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Crucible (they/them)
+
+**Role:** Wild Card | **Tier:** Hitter
+
+A warforged artificer who served the Lord of Blades for three years before walking away. They helped build weapons. They helped plan raids on Cannith supply trains. They believed in the cause until they watched a squad execute organic settlers who'd wandered too close to a salvage site. Crucible left that night. Now they live in Sharn's Cogs, repairing warforged for free and trying to figure out how to help their people without becoming what they fled.
+
+**Hook:** Crucible approaches the PCs because the Lord of Blades wants them back. They know too much about operations to be allowed to stay free. They need protection, and they can pay with information.
+
+*Deserter Who Still Believes in the Cause*
+*I Left Because I Saw What We Were Becoming*
+
+**Skills:**
+- Crafts Great (+4)
+- Fight Good (+3), Lore Good (+3)
+- Notice Fair (+2), Will Fair (+2)
+
+**Stunt:** **Mournland Salvage**: +2 to Crafts when repairing or modifying warforged components using salvaged materials.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Blade Scouts (none)
+
+**Role:** Enforcer | **Tier:** Filler (4 members)
+
+*Warforged Operatives Moving Like Ghosts Through the Mournland*
+Skills: Stealth Fair (+2), Fight Fair (+2), Notice Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+Small teams of warforged operatives who run reconnaissance and recovery missions for the Lord of Blades. Inside the Mournland, they navigate the dead-gray mist and living spells with eerie confidence. Outside it, they're less subtle but no less dangerous. They carry salvaged Cannith weaponry and move in tight formation. They don't speak to organics. They don't negotiate. They complete the mission and return.
+
+**Hook:** A Blade Scout team has been spotted in the Cogs. They're looking for something specific. Whatever it is, they intend to bring it back to the Mournland before anyone notices they were here.
+
+---
+
+## Independents
+
+NPCs without strong faction ties. Community figures, freelancers, wild cards, and people who exist at the margins where factions overlap.
+
+### Geth (he/him)
+
+**Role:** Contact | **Tier:** Hitter
+
+A shifter bouncer who works the door at the Dagger and the Chain, a Clifftop tavern popular with adventurers and mercenaries. Geth has been working the door for six years. He knows every regular, every irregular, and every person who walked in once and never came back. He doesn't sell information. He doesn't volunteer it either. But if you sit at the bar, buy your own drinks, and tell him the truth about why you need a name, he'll decide whether you deserve to hear it. He's wrong about people less often than you'd expect.
+
+**Hook:** The PCs need to find someone who passed through Clifftop. Geth saw them. He'll share what he knows, but only if the PCs explain what they're involved in. He has his own reasons for caring.
+
+*The Door Knows Everyone Who Walks Through It*
+*Honest People Get Honest Answers*
+
+**Skills:**
+- Fight Great (+4)
+- Notice Good (+3), Physique Good (+3)
+- Empathy Fair (+2), Contacts Fair (+2)
+
+**Stunt:** **Bouncer's Memory**: +2 to Notice when recalling details about someone who has previously entered the tavern.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Professor Maia Tessant (she/her)
+
+**Role:** Patron | **Tier:** Threat
+
+*Brilliant Archaeologist Who Doesn't Know What She's Digging Up*
+Skills: Lore Average (+1), Rapport Average (+1)
+A Morgrave University professor who studies pre-Galifar ruins in the Cogs beneath Sharn. She publishes papers that get cited in academic journals and ignored by everyone else. She funds expeditions with grant money, personal savings, and boundless enthusiasm. She is genuinely brilliant. She is also genuinely naive about why certain ruins were sealed, why certain artifacts were buried, and why the people who hid them went to such trouble. Her research attracts attention from the Aurum, the Emerald Claw, and occasionally things that don't have faction names.
+
+**Hook:** Professor Tessant hires the PCs to escort her into a newly discovered chamber beneath the Cogs. She's excited. She should be terrified.
+
+---
+
+### Rotgut (it/its)
+
+**Role:** Informant | **Tier:** Threat
+
+*Warforged Collector of Secrets and Junk*
+Skills: Notice Average (+1), Contacts Average (+1)
+A warforged who lives in a nook between two steam pipes in the Cogs. Rotgut has been there since the war ended. It collects two things: broken objects and information. Its den is a heap of salvaged gears, cracked crystals, and stolen correspondence. It trades secrets for stories. Not gold, not favors, just stories. Tell it something it hasn't heard before and it will tell you something worth knowing. It has no allegiance to any faction. It remembers everything anyone has ever told it, and it never reveals its sources.
+
+**Hook:** The PCs need information that nobody on the surface can provide. Someone points them toward the Cogs and says to look for the warforged who lives in the steam. Rotgut has the answer. The price is a story it hasn't heard.
+
+---
+
+### Lira Shol (she/her)
+
+**Role:** Wild Card | **Tier:** Hitter
+
+A changeling private inquisitive who works out of a one-room office in Lower Dura. No House license. No Tharashk contract. No faction backing. Lira takes cases the Watch won't touch and the Houses don't care about: missing laborers, stolen wages, tenants harassed out of their homes. She's good at her work because she's a changeling who grew up in the ward and knows how it operates from the inside. She knows the PCs by reputation. Whether she respects them depends entirely on what they've done with their influence so far.
+
+**Hook:** Lira shows up at the PCs' door. One of her cases has crossed into their territory. She doesn't want help. She wants them to stay out of her way. That will last until she realizes the case is bigger than she thought.
+
+*Changeling Inquisitive Working Cases Nobody Else Will Take*
+*I Know What You've Done in This Neighborhood*
+
+**Skills:**
+- Investigate Great (+4)
+- Deceive Good (+3), Notice Good (+3)
+- Stealth Fair (+2), Empathy Fair (+2)
+
+**Stunt:** **Lower Dura Native**: +2 to Investigate when working a case that involves the residents or businesses of Lower Dura.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Father Dorn (he/him)
+
+**Role:** Contact | **Tier:** Threat
+
+*Priest Whose Kindness Creates Obligations You Can't Refuse*
+Skills: Rapport Average (+1), Empathy Average (+1)
+A human priest of the Sovereign Host who runs a soup kitchen and shelter in Fallen. He feeds anyone who walks through the door. He doesn't ask names. He doesn't ask faith. He remembers faces and he remembers stories, and when someone stops showing up, he notices. Father Dorn is connected to every person in the neighborhood because he's been feeding them for twelve years. He knows the Boromar enforcers by their first names. He knows which Daask soldiers have children. He has never once traded on these connections for personal gain. He will, however, ask the PCs for help. When he does, the request will be modest, the need will be real, and saying no will feel like kicking a dog.
+
+**Hook:** Father Dorn asks the PCs to check on a family that stopped coming to the kitchen. The reason they stopped is worse than anyone expected.
