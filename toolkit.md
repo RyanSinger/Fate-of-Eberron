@@ -788,6 +788,8 @@ Four steps:
 3. **Build the threat around that pressure.** The villain, the faction, the ticking clock: all of it exists to put weight on that aspect.
 4. **The threat doesn't need to connect to the Big Question.** If it does, great. If it doesn't, that's fine too. Character episodes are just as valuable as plot episodes. They make the Big Question matter more because the players care more about the people answering it.
 
+For ready-made NPCs organized by faction and role, see the **[NPC Gallery]({{ '/npcs' | relative_url }})**.
+
 ### Calibration: Same Mechanics, Different Feel
 
 The same mechanical result means different things depending on the tone you've set. A 3 stress hit, a mild consequence, a severe consequence: these are numbers. The fiction is what makes them land.

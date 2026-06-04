@@ -56,6 +56,14 @@ Systems for running campaigns: the GM workflow, story elements, region maps, dow
 
 <div class="guide-card" markdown="1">
 
+### [NPC Gallery]({{ '/npcs' | relative_url }})
+
+36 ready-to-use NPCs organized by faction: Boromar Clan, Daask, House Cannith, House Tharashk, Phiarlan and Thuranni, the Emerald Claw, the King's Citadel, the Aurum, Lord of Blades, and independents.
+
+</div>
+
+<div class="guide-card" markdown="1">
+
 ### [Play Example]({{ '/play-example' | relative_url }})
 
 See Fate of Eberron in action with a complete scene featuring five iconic characters: a warforged detective, Cyran spy, artificer, noble, and kalashtar monk.
