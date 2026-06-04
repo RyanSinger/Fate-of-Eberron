@@ -948,3 +948,99 @@ Roll 2dF. Read the first die as the row, the second as the column.
 - Publishing the evidence will get someone killed. Sitting on it means the injustice continues.
 - The truth is more complicated than guilty or innocent. The target did it, but for reasons that make you question whether exposure is the right call.
 - You're part of the story. Something in your past, your network, or your charter connects you to the thing being covered up.
+
+---
+
+### Negotiate
+
+*The Job: Broker a deal, resolve a dispute, or forge an alliance between hostile parties.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | Two sites in your network are on the verge of open conflict. If they fight, the network fractures. Both sides have legitimate grievances and neither will back down. |
+| -1 | A hostage exchange with a faction you can't trust. The hostages are real. The faction's promises are questionable. Walking away means people die. |
+| 0 | The Boromar Clan and Daask are negotiating a territorial truce. Both sides want neutral mediators. Both sides are planning to cheat. The truce failing means a war in the streets. |
+| +1 | A hostile nation has filed an extradition request for someone in your community. The legal case is sound. The person's actual crime was opposing the regime. Refusing the request is a diplomatic incident. |
+| +2 | A labor dispute at a House Cannith forge is escalating. The workers (many of them warforged) are striking. The House is threatening to bring in strikebreakers. Both sides are talking to you. |
+
+**Themes:** Compromise means nobody gets everything they want. Fairness is subjective. The deal you make today shapes the world you live in tomorrow.
+
+**Adventure Aspects:** *No Deal Is Clean*, *The Table Is More Dangerous Than the Battlefield*
+
+**Twists:**
+- A third party is sabotaging negotiations because they profit from the conflict continuing.
+- One side has already made a deal with someone else. The negotiation is theater.
+- The terms of the deal require the PCs to give up something they care about.
+- The negotiation succeeds, but the deal creates a new, unforeseen problem that's worse than the original dispute.
+
+---
+
+### Escape
+
+*The Job: Get out of a bad situation. Prison, debt, a contract, a curse, a war zone.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | Wrongly imprisoned in a Kundarak holding facility. The evidence was fabricated, but the facility doesn't care about innocence. It cares about security. |
+| -1 | Trapped in the Mournland with supplies running out. The way you came in has changed. The dead-gray mist is moving. Something is tracking you. |
+| 0 | A magical contract binds a PC (or an NPC they care about) to service. The contract is legally and magically enforced. Breaking it has consequences. Finding a loophole is the only way out. |
+| +1 | A debt to the Boromar Clan has come due, and the payment demanded isn't gold. It's a job. A job that will compromise everything you stand for. Refusing means your community pays the price. |
+| +2 | A Thuranni shadow team has been dispatched to eliminate someone. That someone is you. You have 48 hours before they arrive. Running means leaving your network behind. Standing means fighting assassins. |
+
+**Themes:** Freedom has a price. What you leave behind matters as much as where you're going. The cage might be one you built yourself.
+
+**Adventure Aspects:** *No Way Out but Through*, *What Are You Willing to Leave Behind?*
+
+**Twists:**
+- The escape route leads somewhere worse. Out of the prison, into the Mournland. Out of the debt, into a bigger one.
+- Someone you're escaping with has a reason to stay. Or a reason to betray you.
+- The thing you're escaping from follows you. The contract reasserts, the hunters don't stop, the prison has reach.
+- You can escape, but only by sacrificing someone else's freedom.
+
+---
+
+### Thwart
+
+*The Job: Stop someone from achieving their goal before it's too late.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | A Vol cult is completing a necromantic ritual in the catacombs beneath a major city. If it succeeds, every corpse in the district rises. The cult believes they're bringing salvation. |
+| -1 | A faction is about to assassinate a leader who keeps a fragile peace. The leader is corrupt, but their death would start a war. Do you stop the assassination or let it happen? |
+| 0 | A rogue Cannith heir has located a functioning creation forge and plans to activate it. Creation forges are banned by the Treaty of Thronehold. What they plan to create could change everything. |
+| +1 | The Aurum is orchestrating a financial crisis to seize control of key businesses in your territory. The plan is legal. The consequences will devastate your community. |
+| +2 | A Dreaming Dark agent has infiltrated a position of trust near a key ally. Their influence is subtle but growing. By the time you can prove it, it may be too late. |
+
+**Themes:** Prevention is harder than reaction. The enemy might have a point. Stopping one thing often starts another.
+
+**Adventure Aspects:** *The Clock Is Running*, *Sometimes the Cure Is Worse Than the Disease*
+
+**Twists:**
+- You're too late to prevent it entirely. Now it's about damage control.
+- The person you're trying to thwart is someone you respect or owe a debt to.
+- Thwarting the plan requires doing something that violates your own principles.
+- The plan was a distraction. The real operation is happening somewhere else while you're focused here.
+
+---
+
+### Deliver
+
+*The Job: Transport something valuable or dangerous through hostile territory.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | A sealed message must reach a spy operating behind enemy lines. The message is magically encoded, but the route passes through three hostile territories. If the message is intercepted, the spy dies. |
+| -1 | A Khyber dragonshard is needed at a Gatekeeper seal to reinforce it. The shard whispers to anyone carrying it. The whispers get louder the closer you get to the seal, and the things imprisoned there can hear it too. |
+| 0 | A warforged child (newly awakened, no memories, vulnerable) needs safe passage to a community that will protect them. Lord of Blades agents want to recruit the child. House Cannith wants to study them. |
+| +1 | A prisoner must be delivered to trial in another city. The route is long. Everyone along the way has an opinion about the prisoner's guilt. Some want to free them. Some want to kill them before they can testify. |
+| +2 | Medical supplies are needed at a quarantined district. The quarantine is enforced by a House that profits from controlling access. The disease may not be natural. The supplies might not be enough. |
+
+**Themes:** The journey changes you. What you carry defines you. The destination isn't always what you expected.
+
+**Adventure Aspects:** *Precious Cargo*, *Every Mile Has a Price*
+
+**Twists:**
+- The cargo is not what you were told. It's more dangerous, more valuable, or more alive than advertised.
+- Someone on the receiving end doesn't want the delivery to arrive. They've hired people along the route.
+- The shortest path is through a site on your region map with a bad status. Helping the site means delaying the delivery.
+- You arrive to find the destination has changed. The recipient is gone, the location is compromised, or the situation the delivery was meant to address has already resolved (or worsened beyond what the delivery can fix).
