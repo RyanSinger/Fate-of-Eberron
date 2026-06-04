@@ -565,3 +565,64 @@ The official Cannith compound in Sharn's Dragon Towers district. Clean workshops
 **Aspects:** Warforged Coming Out of the Mournland Bearing Whitehearth Marks, The Mist Protects What's Inside
 **Skills:** Crafts, Lore, Fight
 **Power:** Fair (+2)
+
+---
+
+## Downtime
+
+### The Rhythm of Play
+
+Play alternates between adventures and downtime. Adventures are where the plot advances, the dice roll, and the stakes are immediate. Downtime is where the world breathes. It's where the region map comes alive. Factions act. Sites change. Relationships shift. The things players did (or didn't do) during the adventure ripple outward.
+
+### Start of Session: What Are You Up To?
+
+Go around the table. Each player describes what their character has been doing since last session. Don't skip this. It's not flavor. It's fuel.
+
+A player says "I've been drinking at the Broken Anvil and asking around about the Boromar Clan." Now you have a hook. You can introduce an NPC. You can compel an aspect. You can set up a complication that pays off later in the session. A player who says "nothing, just laying low" is telling you something too: they're conserving, which means you should give them a reason not to.
+
+This is also where you establish what's changed. If a site's status shifted between sessions, this is when the players hear about it. "You've been buying supplies at Terminus Station, but the prices have gone up. The status shifted to *Supply Lines Disrupted* last session, remember?"
+
+### End of Session: Downtime Actions
+
+Each PC takes one downtime action. This is a brief vignette between the player and the GM. Keep it short: a quick scene, one roll if needed, and a result that matters. The player picks the action type. The GM frames the scene.
+
+| Action | What It Does | Example |
+|--------|-------------|---------|
+| **Overcome** | Fix something harmful. | Remove *Running Low on Supplies* from a border town. |
+| **Create Advantage** | Discover or build something useful. | Research a peripheral site before visiting it. |
+| **Attack** | Convince a site to act against a hostile force. Risky. | Persuade the Clifftop Guild to raid a Daask warehouse. |
+| **Compel** | GM compels a player to deal with their aspects. | *Debts to House Cannith* means an agent shows up demanding a favor. |
+
+The attack action deserves a note. It's not literal combat. It's the PC leaning on a networked site and asking it to do something aggressive. This burns political capital. Failure can damage the relationship.
+
+### Downtime Rules
+
+- **Site Interaction:** When you interact with a networked site during downtime, you can invoke that site's aspects once for free. The connection your character built is paying off.
+- **GM Can Invoke Against You:** The GM can invoke site aspects against you during downtime, too. That *Boromar Clan Runs the Docks* aspect cuts both ways.
+- **Time Scale:** Downtime covers days, sometimes weeks. Don't track hours. The fiction tells you how long things take. A message to a contact? A day. Forging a new weapon? A week. Traveling to a peripheral site and back? Depends on the map.
+- **Shopping:** Handle shopping narratively, not mechanically. If the character has the resources and the site has the goods, they get what they need. If something is rare or restricted, that's a scene, not a price list.
+- **Personal Development:** Use downtime as an early milestone tied to a site. A PC training with a mentor at a networked site can rename a stunt or swap a skill. The advancement happens because of the relationship, not in a vacuum.
+- **Relax:** A PC who relaxes during downtime clears a mild consequence. This is also the best option for players who are absent from the session. Their character was resting, recovering, or handling something offscreen.
+
+### GM Actions Between Sessions
+
+Between sessions, the world keeps moving. You don't need to script everything. You need a few deliberate moves that make the region feel alive.
+
+| Action | What It Does | Example |
+|--------|-------------|---------|
+| **Foreshadow** | Drop a hint about something coming. Place a new aspect on a site or introduce a rumor. | A networked tavern owner mentions warforged moving through in unusual numbers. |
+| **Counter-Action** | An NPC or faction reacts to what the players did last session. | The Emerald Claw fortifies a site the PCs scouted. |
+| **Apply Pressure** | Worsen a situation the players have been ignoring. Shift a status toward negative. | The *Politically Unstable* district slides into *Open Gang War*. |
+| **Track Countdowns** | Advance any countdown clocks. If a countdown hits zero, the thing happens whether the PCs are ready or not. | The Daask takeover countdown ticks from 2 to 1. One more session of inaction and Callestan falls. |
+
+You don't need to do all four every time. Pick two or three. Focus on whatever the players will notice first.
+
+### Solving Bad Statuses
+
+Negative statuses on sites are adventure hooks, not bookkeeping problems. Downtime can mitigate them: a successful overcome action might slow the bleeding or buy time. But downtime alone can't resolve a negative status. That takes an adventure.
+
+When the players go to a site and deal with the source of the problem, that's when the status changes. Drove out the bandits? *Under Siege* becomes *Recovering*. Brokered a peace deal? *Open Gang War* drops to *Tense Standoff*. The fiction drives the change.
+
+Major milestones can also improve a site's status, reflecting the larger shift in the campaign's landscape. A major victory against a faction might flip several sites at once.
+
+If the players ignore a negative status, it gets worse. That's not punishment. That's the world reacting. *Running Low on Supplies* becomes *Starving*. *Politically Unstable* becomes *Martial Law*. The region map tracks consequences the same way character sheets do.
