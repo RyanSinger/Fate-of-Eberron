@@ -1176,3 +1176,92 @@ Every journey has 1-2 situation aspects representing the conditions. Examples: *
 #### Discoveries
 
 When a PC succeeds with style on a journey roll, they discover something: a shortcut, a hidden site, a clue, a resource. This is how new sites get added to the region map during play.
+
+---
+
+### Vehicles and Conveyances
+
+Eberron's transportation is iconic. Lightning rail, airships, ships, caravans, and skycoaches aren't just ways to get around. They're adventure settings. Each vehicle uses the Bronze Rule: it's a character with aspects, skills, stress, and consequences.
+
+| Component | What It Is |
+|-----------|-----------|
+| **High Concept** | What kind of vehicle is this? |
+| **Aspects** (1-2) | What makes it interesting as a setting? |
+| **Skills** (1-2) | How does it interact with scenes? |
+| **Stress** | Can the vehicle take hits? |
+| **Consequences** | Can it be damaged in lasting ways? |
+
+#### Lightning Rail
+
+*Fastest Thing on Land*
+*Hundreds of Passengers, Dozens of Secrets*
+
+Skills: Drive Good (+3), Physique Fair (+2)
+Stress: [ ] [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ]
+
+Adventure hooks:
+- Heist on a moving train. The cargo is in a warded car.
+- Murder mystery. A passenger is dead, and the train doesn't stop until Wroat.
+- The rail passes through territory with a bad status on the region map. Something forces a stop.
+- A VIP is aboard. Two factions both want access to them before the train arrives.
+
+#### Airship
+
+*Nothing Between You and the Sky*
+*Elemental Bound and Restless*
+
+Skills: Drive Good (+3), Physique Good (+3)
+Stress: [ ] [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+
+Adventure hooks:
+- The bound fire elemental is becoming agitated. Calm it or lose the ship.
+- Sky pirates. They want the cargo, not the passengers. Unless the passengers are worth more.
+- Diplomatic summit at altitude. No one can leave until an agreement is reached. Someone doesn't want an agreement.
+- An emergency landing in hostile territory. The ship needs repairs. The locals have conditions.
+
+#### Sea Vessel
+
+*At the Mercy of Wind and Wave*
+*Tight Quarters, No Escape*
+
+Skills: Drive Fair (+2), Physique Good (+3)
+Stress: [ ] [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ]
+
+Adventure hooks:
+- Storm drives the ship off course. Toward something that shouldn't exist.
+- A sahuagin raid. They want something specific, not just plunder.
+- Smuggling run through a naval blockade.
+- A passenger is ill. The illness isn't natural. It might be contagious.
+
+#### Caravan
+
+*Slow and Vulnerable, Rich and Tempting*
+*The Road Is Long and Full of Strangers*
+
+Skills: Notice Fair (+2), Physique Fair (+2)
+Stress: [ ] [ ] [ ]
+Consequences: Mild [ ] | Moderate [ ]
+
+Adventure hooks:
+- Bandit ambush at a narrow pass. The bandits have a legitimate grievance with the caravan's owner.
+- A fellow traveler is not what they seem. Changeling agent, Emerald Claw operative, or just someone running from their past.
+- Disease breaks out. Quarantine the caravan or press on and risk spreading it.
+- The caravan route crosses through a manifest zone. Reality gets strange for a few miles.
+
+#### Skycoach (Sharn)
+
+*Fast, Expensive, and Exposed*
+*Sharn's Vertical Geography*
+
+Skills: Drive Good (+3)
+Stress: [ ] [ ]
+Consequences: Mild [ ]
+
+Adventure hooks:
+- Chase through the towers. Multiple levels, tight gaps, falling debris.
+- Assassination attempt mid-flight. The coach is a kill box with no cover.
+- The coach breaks down over the Cogs. Hundreds of feet between you and the ground.
+- Your driver works for someone who wants to know where you're going.
