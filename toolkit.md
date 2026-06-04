@@ -812,8 +812,8 @@ Every session needs a job. The case generator builds one in four steps: pick a c
 
 1. **Roll for case type.** Roll 2dF on the Case Type Table below. This gives you the shape of the job.
 2. **Roll for premise.** Go to that case type's section and roll 2dF on its premise table. This gives you the specific situation.
-3. **Add a complication.** Roll or choose from the Complications table (coming in Part 2). Complications create the moral and dramatic tension that makes cases stick.
-4. **Connect it to the PCs.** Look at the party's aspects and pick a connection (coming in Part 2). The case should pressure something on a character sheet.
+3. **Add a complication.** Roll or choose from the Complications table below. Complications create the moral and dramatic tension that makes cases stick.
+4. **Connect it to the PCs.** Look at the party's aspects and pick a connection from the Connections table below. The case should pressure something on a character sheet.
 
 ### Case Type Table
 
@@ -1044,3 +1044,108 @@ Roll 2dF. Read the first die as the row, the second as the column.
 - Someone on the receiving end doesn't want the delivery to arrive. They've hired people along the route.
 - The shortest path is through a site on your region map with a bad status. Helping the site means delaying the delivery.
 - You arrive to find the destination has changed. The recipient is gone, the location is compromised, or the situation the delivery was meant to address has already resolved (or worsened beyond what the delivery can fix).
+
+---
+
+### Complications
+
+After rolling a case type and premise, roll or choose a complication. Complications make the surface job harder and create the moral and dramatic tension Eberron thrives on.
+
+Roll 1dF twice, reading the results in order. Or just choose.
+
+| 1dF, 1dF | Complication | What Goes Wrong |
+|-----------|-------------|----------------|
+| -, - | **It's personal** | A PC's aspect is directly involved. Family, past, faction loyalty. The case isn't just a job anymore. |
+| -, 0 | **Faction crossfire** | Two or more factions want different outcomes. The PCs are caught in the middle with no neutral ground. |
+| -, + | **The client is lying** | The stated job isn't the real job. The client has their own agenda, and the PCs are tools in someone else's scheme. |
+| 0, - | **Collateral damage** | Success will hurt innocents or allies. A clean solution doesn't exist. Every option has a cost someone else pays. |
+| 0, 0 | **Ticking clock** | A countdown is running. Delay means the situation gets worse. Rush means mistakes. |
+| 0, + | **Moral gray zone** | The "right" answer depends on your values. The target has reasons. The victim isn't innocent. Justice and mercy point different directions. |
+| +, - | **Inside job** | Someone on your side is compromised, corrupted, or working against you. Trust is the first casualty. |
+| +, 0 | **Escalation** | What starts small connects to something much bigger. The neighborhood crime leads to a city conspiracy. The missing person connects to a national secret. |
+| +, + | **Roll twice** | Two complications. The case just got a lot more interesting. |
+
+---
+
+### Connections
+
+The last layer ties the case to the PCs specifically. Roll or choose based on the party's aspects.
+
+| Connection Type | How It Ties to PCs |
+|----------------|-------------------|
+| **Aspect echo** | The case mirrors or challenges a PC's motivation aspect. They can't walk away because it's too close to who they are. |
+| **Background collision** | The case connects to a PC's background aspect. Someone from their past, a place they know, a community they left behind. |
+| **Relationship test** | The case puts two PCs' relationship aspect under strain. They disagree on the right course of action, or one PC's loyalty is tested. |
+| **Charter threat** | The case directly threatens a charter component: the community, the headquarters, the patron, or the reputation. |
+| **Faction entanglement** | A PC's dragonmark, house connection, or factional loyalty creates a conflict of interest. The job and the loyalty point different directions. |
+| **Free aspect hook** | The case involves a PC's free aspect: their signature item, their secret, their personal code. |
+
+---
+
+### General Adventure Aspects
+
+These are reusable story hooks that can be added to any case. Each comes with guidance on how to invoke, compel, and twist.
+
+#### The Treaty Means Nothing Here
+
+The law and the treaty carry no weight here. Whether it's the lower wards, the Mournland, Xen'drik, or a place where power matters more than paper.
+
+- **Invoke:** Acting outside the law, bold or illegal actions justified because the normal rules don't apply.
+- **Compel:** Lawlessness cuts both ways. Without treaty protections, the PCs are vulnerable. No Watch to call. No courts to appeal to.
+- **Twist:** Someone tries to impose order. A faction moves in claiming authority. Is their authority legitimate, or is it just power wearing a legal mask?
+
+#### Everyone Has a Price
+
+Corruption is the default, not the exception. Every institution has cracks, and money or favors flow through them.
+
+- **Invoke:** Bribery works. Information can be bought. Allies can be rented.
+- **Compel:** Someone offers the PCs a deal that solves everything, for a price that compromises their principles.
+- **Twist:** The person who can't be bought exists, and their integrity is inconvenient for everyone, including the PCs.
+
+#### The War Never Really Ended
+
+The Last War ended on paper. The scars, grudges, and unfinished business remain. Veterans recognize each other. Old units still have loyalties. Borders are lines on a map, not in people's hearts.
+
+- **Invoke:** Wartime skills, connections, and instincts are still sharp.
+- **Compel:** Old loyalties surface at the worst time. A former enemy asks for help. A former ally turns up on the wrong side.
+- **Twist:** The current conflict is a continuation of a wartime operation that never officially ended. Someone has been waiting for the right moment to finish what they started.
+
+#### What the Mourning Left Behind
+
+The destruction of Cyre echoes through everything. Refugees, lost artifacts, strange phenomena, and the unanswerable question of what caused it.
+
+- **Invoke:** Mournland knowledge, Cyran connections, or salvaged artifacts provide an edge no one else has.
+- **Compel:** The Mourning is contagious, metaphorically or literally. Contact with Mournland artifacts or survivors changes things. Fear, suspicion, contamination.
+- **Twist:** The case connects to the Mourning's cause. Not the answer, but a piece of it. Enough to make powerful people very nervous.
+
+#### Blood Is Thicker Than Dragonmarks
+
+Family and personal loyalty vs. institutional obligation. The dragonmarked houses demand obedience. Families demand love. These don't always point the same direction.
+
+- **Invoke:** Family connections open doors that credentials can't. Blood relatives will bend rules.
+- **Compel:** The House calls in a favor. The family makes a demand. Both are non-negotiable, and they conflict.
+- **Twist:** A family member is working against the House from the inside, or a House loyalist is betraying the family. The line between personal and institutional blurs.
+
+---
+
+### Building Cases from the Region Map
+
+The region map is a case generator on its own. Here's how to mine it.
+
+#### Bad Statuses as Case Seeds
+
+Every negative status on a network site is a case waiting to happen. Look at your region map and ask: what happens if this gets worse? That's your case.
+
+*Running Low on Supplies* at a border town becomes a Retrieve or Deliver case. *Boromar Protection Racket* at a neighborhood becomes an Expose or Thwart case. *Haunted by Something Below* becomes an Investigate or Protect case.
+
+#### Periphery Sites as Case Sources
+
+Periphery sites generate cases by asking for help, making threats, or presenting opportunities. A periphery site that wants to join your network needs a problem solved first. That problem is a case.
+
+#### Faction Moves as Case Triggers
+
+When you advance faction agendas during GM actions between sessions, each move can generate a case. The Boromar Clan tightens their grip on a neighborhood: that's a Thwart or Negotiate case. House Cannith sends investigators asking about your artificer's work: that's an Escape or Infiltrate case.
+
+#### Downtime Foreshadowing
+
+Use your GM foreshadowing actions during downtime to plant case seeds. A rumor. A strange visitor. A letter that arrives at the wrong time. These become full cases when the players follow up, or when the situation escalates on its own.
