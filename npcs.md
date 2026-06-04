@@ -241,3 +241,236 @@ A minotaur pit fighter who handles Daask's most public violence. Theatrical. Enj
 
 **Stress:** [ ] [ ] [ ]
 **Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+## House Cannith
+
+The house that makes things. Split into three factions (South, West, East) after the Mourning destroyed their headquarters in Cyre. They built the warforged and the creation forges. They may have built the weapon that caused the Mourning.
+
+### Merrix d'Cannith (he/him)
+
+**Role:** Patron / Rival | **Tier:** Boss
+
+Leader of Cannith South, based in Sharn. Merrix inherited his grandfather's genius and his father's ambition. He runs the most profitable branch of a fractured House, and he's almost certainly operating an illegal creation forge beneath the Cannith enclave in the Cogs. The Treaty of Thronehold banned creation forges. Merrix signed the treaty. Merrix doesn't care. He believes the warforged are his legacy, and no treaty written by people who don't understand artifice will stop him from perfecting it.
+
+**Hook:** Merrix needs the PCs to retrieve a schema from a rival House or a Mournland ruin. He pays well. He also never explains why he needs what he needs.
+
+**Aspects:**
+- *Heir to the Greatest Forge in Khorvaire*
+- *The Treaty Says One Thing, My Conscience Says Another*
+- *Secrets Buried Beneath the Cogs*
+- *Three Houses Wearing One Name*
+- *I Built a People and the World Punished Me for It*
+
+**Skills:**
+- Crafts Fantastic (+6)
+- Lore Superb (+5)
+- Resources Great (+4), Will Great (+4)
+- Contacts Good (+3), Deceive Good (+3)
+- Notice Fair (+2), Investigate Fair (+2)
+
+**Stunts:**
+- **Master Artificer**: +2 to Crafts when creating or repairing a magical device in a workshop with proper tools.
+- **Schema Memory**: Once per scene, use Lore instead of Investigate to identify the origin and function of any Cannith-made artifact.
+- **Creation Forge Access**: +2 to Resources when acquiring Cannith equipment or warforged components through unofficial channels.
+
+**Stress:** [ ] [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ] | Severe [ ]
+
+Merrix doesn't fight. He builds things that fight for him. If the PCs face him directly, they're facing whatever he finished building last week.
+
+---
+
+### Leya d'Cannith (she/her)
+
+**Role:** Contact | **Tier:** Hitter
+
+A mid-level Cannith artificer stationed in Sharn. Good at her work, troubled by what her House does with it. Leya repairs warforged, maintains Cannith infrastructure, and quietly feeds information to people she trusts when the House crosses lines she can't ignore. She's not a rebel. She's not brave. She's a person with skills and a conscience, and those two things keep pulling her in opposite directions.
+
+**Hook:** Leya contacts the PCs because she's found something in the Cannith records that frightens her. She can't go to anyone in the House. She can't go to the authorities. She's hoping the PCs are exactly desperate enough to help.
+
+*Artificer with a Conscience in a House Without One*
+*I Fix Things, Including the Messes My House Makes*
+
+**Skills:**
+- Crafts Great (+4)
+- Investigate Good (+3), Lore Good (+3)
+- Empathy Fair (+2), Notice Fair (+2)
+
+**Stunt:** **Field Repair**: +2 to Crafts when repairing a device or warforged under time pressure.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### The Reforged (it/its)
+
+**Role:** Wild Card | **Tier:** Hitter
+
+A warforged built in Merrix's illegal creation forge after the Treaty of Thronehold banned their creation. The Reforged is two years old. It doesn't know it's illegal. It works in a Cannith workshop, follows instructions, asks too many questions, and wonders why other warforged look at it strangely. It has no war memories. No service record. No gholan'dra. It is, by every legal definition, property that shouldn't exist. It is, by every moral definition, a person.
+
+**Hook:** The Reforged approaches the PCs because someone told it the truth about its origins and it doesn't know what to do. Or Merrix sends it on an errand and the PCs realize what it is before it does.
+
+*Born After the War That Made My Kind*
+*I Am a Person the Law Says Cannot Exist*
+
+**Skills:**
+- Fight Great (+4)
+- Physique Good (+3), Crafts Good (+3)
+- Notice Fair (+2), Athletics Fair (+2)
+
+**Stunt:** **Integrated Tools**: +2 to Crafts when using built-in artisan tools that are part of the Reforged's body.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Cannith Retrieval Team (mixed)
+
+**Role:** Enforcer | **Tier:** Filler (4 members)
+
+*House Agents Recovering What Belongs to Cannith*
+Skills: Investigate Fair (+2), Fight Fair (+2), Notice Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+A squad of four House agents sent to recover stolen schemas, rogue artificers, or unauthorized use of the Cannith mark. Professional, persistent, and equipped with Cannith-made gear that works better than anything you can buy on the open market. They don't ask twice. They show the writ, state the claim, and escalate from there.
+
+**Hook:** The PCs have something Cannith wants back. The retrieval team arrives with a writ and a deadline. After the deadline, they stop being polite.
+
+---
+
+## House Tharashk
+
+Bounty hunters, prospectors, and dragonshard traders. Part orc, part human, entirely pragmatic. They find things and people for a price.
+
+### Kalaash'arrna (she/her)
+
+**Role:** Patron | **Tier:** Hitter
+
+A half-orc inquisitive who runs a finding service out of a cramped office in Clifftop. Kalaash'arrna takes contracts the House won't officially endorse and hires freelancers to do the legwork. She's blunt, fair, and has a memory for debts that borders on supernatural. Do her a favor and she'll remember. Cross her and she'll remember that too. She marks the balance in a ledger she keeps locked in her desk, and nobody has ever seen her forget an entry.
+
+**Hook:** Kalaash'arrna has a job. The pay is fair, the work is dangerous, and she's already lost one team. She doesn't explain what happened to them. She just asks if you're interested.
+
+*Finder Who Never Forgets a Debt*
+*The House Won't Take This Job, So I Will*
+
+**Skills:**
+- Investigate Great (+4)
+- Contacts Good (+3), Notice Good (+3)
+- Will Fair (+2), Rapport Fair (+2)
+
+**Stunt:** **Mark of Finding**: +2 to Investigate when tracking a specific person or object she's been contracted to locate.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Dol (he/him)
+
+**Role:** Rival | **Tier:** Hitter
+
+An orc bounty hunter carrying a Mark of Finding. Dol doesn't talk much, doesn't negotiate, and doesn't stop. When a House Tharashk contract names a target, Dol takes it personally. Not out of malice. Out of professional principle. He was hired to find you, so he will find you. He's tracked targets into the Mournland and come back. He's tracked targets across the Thunder Sea. He once followed a changeling through eleven identities in six days. The changeling gave up. Dol does not understand that as a concept.
+
+**Hook:** Someone has hired Dol to find one of the PCs, or someone the PCs are protecting. He's already closer than they think.
+
+*The Hunter Who Does Not Stop*
+*A Contract Is a Promise Made to Myself*
+
+**Skills:**
+- Investigate Great (+4)
+- Athletics Good (+3), Fight Good (+3)
+- Physique Fair (+2), Notice Fair (+2)
+
+**Stunt:** **Relentless Pursuit**: +2 to Athletics when chasing a target he has been contracted to find.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Tharashk Prospectors (mixed)
+
+**Role:** Contact | **Tier:** Filler (4 members)
+
+*Dragonshard Hunters Who Found the Wrong Thing*
+Skills: Lore Fair (+2), Survival Fair (+2), Notice Average (+1)
+Stress: [ ] [ ] [ ] [ ]
+A four-person survey team working the Mournland border or deep Xen'drik. They know the terrain, they can read dragonshard deposits by soil color, and they've been in the field long enough to know when something isn't right. Right now something isn't right. They found a deposit that shouldn't exist, or a ruin that someone else found first, or tracks belonging to something that hasn't been catalogued.
+
+**Hook:** The prospectors send word back to Sharn that they need protection. They're offering a cut of whatever they've found. The catch is they won't say what it is over a sending stone.
+
+---
+
+## Houses Phiarlan and Thuranni
+
+The elven houses of shadow. Phiarlan runs entertainment and espionage. Thuranni split off during the Last War and runs assassination and counter-intelligence. They hate each other with the intimacy that only family can produce.
+
+### Salia Phiarlan (she/her)
+
+**Role:** Contact / Patron | **Tier:** Hitter
+
+Salia runs the Starlight Theater in Middle Menthis. Critically acclaimed productions, packed houses, rave reviews in the Sharn Inquisitive. The theater is a front for the Serpentine Table, Phiarlan's intelligence arm. Salia is charming, gracious, and always performing. She performs when she's on stage. She performs when she's gathering intelligence. She performs when she's telling you the truth, which makes it impossible to tell when she's lying. She likes the PCs. That might be a performance too.
+
+**Hook:** Salia offers the PCs tickets to a show. During intermission, she asks them to do something dangerous. She frames it as a favor. It is not a favor.
+
+*The Stage Is Just Another Kind of Cover*
+*Charming, Dangerous, and Always in Character*
+
+**Skills:**
+- Rapport Great (+4)
+- Deceive Good (+3), Stealth Good (+3)
+- Notice Fair (+2), Contacts Fair (+2)
+
+**Stunt:** **Command Performance**: +2 to Rapport when gathering information by entertaining a target in a social setting.
+
+**Stress:** [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ]
+
+---
+
+### Vael Thuranni (he/him)
+
+**Role:** Rival | **Tier:** Boss
+
+A Thuranni shadow operative dispatched to Sharn to build a competing intelligence network in Phiarlan's backyard. Vael is cold, patient, and operates on a timeline measured in years. He doesn't rush. He plants assets, cultivates informants, and waits for Phiarlan to make mistakes. He's convinced that Phiarlan's attachment to art and performance makes them sentimental, and sentimentality is a vulnerability. He may be right. He's certainly dangerous enough to test the theory.
+
+**Hook:** Vael contacts the PCs through a cutout. He wants to hire them for a job that, on the surface, has nothing to do with House politics. It has everything to do with House politics.
+
+**Aspects:**
+- *Thuranni's Cold Hand in Phiarlan's City*
+- *Patience Is Just Violence on a Longer Timeline*
+- *Building a Shadow Network One Asset at a Time*
+- *Phiarlan's Sentimentality Will Destroy Them*
+- *The Family Schism Made Me What I Am*
+
+**Skills:**
+- Stealth Fantastic (+6)
+- Deceive Superb (+5)
+- Fight Great (+4), Notice Great (+4)
+- Contacts Good (+3), Will Good (+3)
+- Investigate Fair (+2), Athletics Fair (+2)
+
+**Stunts:**
+- **Shadow Step**: Once per scene, use Stealth to move between two zones undetected, ignoring physical barriers that have shadows.
+- **Cold Read**: +2 to Notice when observing a target for vulnerabilities or deception tells.
+- **Thuranni Lethality**: +2 to Fight when attacking an unaware target.
+
+**Stress:** [ ] [ ] [ ] [ ]
+**Consequences:** Mild [ ] | Moderate [ ] | Severe [ ]
+
+Vael prefers to never be seen at all. If you're fighting him, something went wrong. If he's fighting you, everything went according to plan.
+
+---
+
+### The Whisper (unknown)
+
+**Role:** Informant | **Tier:** Threat
+
+*Anonymous Source Selling Secrets from Both Houses*
+Skills: Deceive Average (+1), Stealth Average (+1)
+Nobody knows who the Whisper is. Nobody knows which house they belong to. They sell secrets from both Phiarlan and Thuranni, always accurate, always expensive. Dead drops, coded messages, never a face-to-face meeting. Both houses want the Whisper found. Neither has managed it. The Whisper might be a Phiarlan agent testing loyalty. Might be Thuranni running a long con. Might be someone from neither house who found a way into both. The information is real. That's all anyone knows for certain.
+
+**Hook:** The Whisper leaves a message for the PCs. It contains something they need. The price is a job. The job puts them between the two houses.
