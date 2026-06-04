@@ -689,3 +689,115 @@ When sessions feel flat, check for these problems:
 - **Missing questions.** You're running scenes without naming what's uncertain. Go back to "every scene has a question" and rebuild from there.
 
 If all four of these are fine and the session still feels flat, ask the players what they want to do next. Sometimes the best move is handing them the wheel.
+
+---
+
+## Compels and Drama Escalation
+
+### Fate's Big Question: "How Much Do You Want This?"
+
+A Fate character can do anything. But they can't do everything. That's the engine.
+
+Every time a player spends a fate point, they're saying "this matters to me." Every time they accept a compel, they're saying "I'll take the complication to have resources later." The fate point economy is a constant negotiation between what the character wants now and what they might need later.
+
+Every victory costs something. Fate points spent here aren't available there. That stress you took to win the fight means you're going into the negotiation wounded. The consequence you accepted to escape the Emerald Claw is now a compellable aspect the GM can use against you in the next scene.
+
+Every scene should force a choice. Not a combat choice or a puzzle choice, but a priorities choice. The GM's real job isn't building encounters or plotting story arcs. It's pricing the things the characters want. Make the price interesting, and the players will create the drama themselves.
+
+### The Compel Rhythm
+
+Compels aren't random. They have a rhythm that matches the session's energy.
+
+| Session Phase | Compel Style | What It Looks Like |
+|--------------|-------------|-------------------|
+| **Opening** | Soft character compels | Minor inconveniences from PC aspects. "Your *Cyran Refugee* background means the innkeeper gives you the worst room." Easy to accept, builds the fate point pool. |
+| **Investigation** | Situational compels | The situation creates complications. "Because *Daask Controls This Block*, your contact won't meet in the open." Pushes the players to adapt. |
+| **Rising Action** | Escalating stacked compels | Multiple aspects align to create real problems. "You're *In Debt to Boromar* and you just walked into *Boromar Territory* while carrying *Stolen Boromar Goods*." Now the player has to decide which problem to solve. |
+| **Climax** | Hard compels with real consequences | The character's core identity is on the line. "You're *The Last Cyran Patriot*. The Mourning survivors are begging you to stay and lead them. But your friends are walking into a trap without you." Accept the compel and abandon the party, or pay a fate point and carry the guilt. |
+
+You don't need to follow this exact pattern. But notice the escalation. Early compels are cheap. Late compels are defining.
+
+### Compel Sources
+
+#### Character Compels
+
+Character compels come from the PC's own aspects. They escalate across a campaign:
+
+- **Early sessions:** Inconvenience. Your *Cyran Refugee* status means a guard hassles you at the checkpoint. Accept, take the fate point, move on.
+- **Mid campaign:** Dilemma. Your *Cyran Refugee* status means a group of refugees is asking you to smuggle them past a checkpoint. If you do, you risk your cover. If you don't, you abandon your people.
+- **Late campaign:** Defining choice. Your *Cyran Refugee* status means the Prince of New Cyre is asking you to lead a military strike against Breland. Everything you've built is on one side. Everything you've lost is on the other.
+
+Same aspect. Escalating stakes. The aspect doesn't change. The world's pressure on it does.
+
+#### Faction Compels
+
+Factions act between sessions. When they do, they create compel opportunities. If Daask expanded into a new district, anyone with ties to that district faces complications. If House Cannith recalled its operatives, anyone working for Cannith has a choice to make.
+
+Rotate faction pressure. Don't hammer the same faction every session. Let different parts of the region map create different kinds of trouble.
+
+#### Site Compels
+
+Negative statuses on sites are standing compel opportunities. A site with *Running Low on Supplies* can compel any PC with an aspect like *Nobody Left Behind* or *Protector of the Common Folk*. The compel writes itself: "You know Terminus Station is struggling. Are you really going to walk past?"
+
+This is one of the strongest connections between the region system and the fate point economy. When you update a site's status, you're creating or removing compel fuel.
+
+#### Relationship Compels
+
+The most powerful compels put PCs at odds with each other through their relationship aspects. If one PC has *I Owe Tarkanan My Life* and another has *Tarkanan Must Be Destroyed*, every encounter with House Tarkanan forces both players to negotiate their relationship.
+
+You don't compel relationship aspects to create PvP combat. You compel them to create scenes where the players have to talk, argue, compromise, and make choices about what their characters' relationships mean. These scenes are often the most memorable moments in a campaign.
+
+### Drama Escalation Across a Campaign
+
+The intensity of your compels and complications should match where you are in the campaign.
+
+| Phase | Sessions | Intensity | What Changes |
+|-------|---------|-----------|-------------|
+| **Early** | 1 to 5 | Low. Compels are inconveniences. Consequences are minor. | Players learn their characters and the region. Establish what normal looks like so you can break it later. |
+| **Mid** | 6 to 15 | Medium. Compels force genuine dilemmas. Consequences carry weight. | Factions start reacting to the PCs directly. Sites the players care about come under threat. The Big Question starts feeling urgent. |
+| **Late** | 16 and beyond | High. Compels threaten core identity. Consequences reshape the landscape. | Everything converges on the Big Question. Faction leaders make their moves. Sites change hands. The players' decisions determine what Eberron looks like when the campaign ends. |
+
+### Consequences as Drama Fuel
+
+Consequences are compellable aspects. This is obvious in the rules but easy to forget in play. Every consequence a PC takes is a new handle for future compels.
+
+Magical consequences from the consequential magic system are especially rich targets. A *Prophetic Nightmares* consequence from misusing a Draconic Prophecy artifact isn't just a mechanical penalty. It's a source of visions, complications, and compels for sessions to come. A *Bound to the Voice of the Keeper* consequence from a necromantic ritual means the GM has a direct line to the PC's inner life.
+
+Don't let consequences sit idle. If a PC has a consequence, use it. Compel it. Build scenes around it. Make the player feel the weight of what happened to them.
+
+### The Fate Point Economy as Drama Pacing
+
+Watch the fate point flow at your table. It tells you how the session is going.
+
+When players are stockpiling fate points, they're accepting compels and playing cautiously. The drama is building. Tension is rising. They're saving up for something big.
+
+When players are spending fate points freely, they're pushing hard. They're invoking aspects, refusing compels, and trying to control outcomes. The drama is peaking. They're burning resources because the stakes feel worth it.
+
+Don't try to balance the economy. Let it breathe. A session where players end with zero fate points was a session where everything was on the line. A session where they end with a full pool was a session of mounting pressure. Both are good. The problem is when the economy is static: no compels offered, no fate points spent, no tension at all.
+
+### Designing Threats Around Characters
+
+Don't start with the threat concept. Start with the PCs.
+
+This is the Buffy principle. In Buffy the Vampire Slayer, the monster of the week exists to highlight something about the characters. The invisible girl isn't about invisibility. It's about Cordelia's fear of being ignored. The demon that steals voices isn't about silence. It's about the characters' inability to communicate.
+
+Four steps:
+
+1. **Which PC aspects haven't been tested recently?** Look at the whole sheet. High concept, trouble, relationship aspects, consequences. Find the ones that haven't created drama in a while.
+2. **Design a situation that pressures that aspect.** Not a situation that uses it. A situation that tests it. "Are you really *The Last Honest Cop in Sharn* when the corrupt ones are the only ones who can save your partner?"
+3. **Build the threat around that pressure.** The villain, the faction, the ticking clock: all of it exists to put weight on that aspect.
+4. **The threat doesn't need to connect to the Big Question.** If it does, great. If it doesn't, that's fine too. Character episodes are just as valuable as plot episodes. They make the Big Question matter more because the players care more about the people answering it.
+
+### Calibration: Same Mechanics, Different Feel
+
+The same mechanical result means different things depending on the tone you've set. A 3 stress hit, a mild consequence, a severe consequence: these are numbers. The fiction is what makes them land.
+
+| Tone | 3 Stress Hit | Mild Consequence | Severe Consequence |
+|------|-------------|-----------------|-------------------|
+| **Pulp** | A nasty cut across the chest. Blood drips but you keep fighting. | *Scratched Up* | *Deep Gash to the Leg* |
+| **Noir** | Knocked off balance into a wall. Stars in your eyes. | *Seeing Stars* | *Something's Broken Inside* |
+| **Horror** | A moment of pure, freezing terror. Your body screams to run. | *Shaking Hands* | *I Can Still Hear It Breathing* |
+
+Use your Story Elements to determine your tone. The themes, the genre, and the mood you established in session zero tell you how to narrate. A pulp Eberron game describes a fireball as "a blast of heat that singes your coat." A horror Eberron game describes the same fireball as "the smell of your own skin burning before your mind catches up to what happened."
+
+Once you know the tone, you know how to narrate. The mechanics don't change. The fiction does.
