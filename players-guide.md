@@ -481,8 +481,10 @@ Each framework has associated charter stunts. When creating your character, pick
 
 ### Building the Charter (Session Zero)
 
+Before building the Charter, fill out the **Story Elements worksheet** as a group (see the [GM Toolkit]({{ '/toolkit' | relative_url }})). Establish your inspirations, sort the Eberron story ingredients into keepers, deal breakers, and conditionals, and write your campaign aspects. Then build the Charter:
+
 1. **Pick a framework.** Discuss what kind of campaign excites the group.
-2. **Define territory.** Pick or create a region. Write one or two issue aspects describing what's wrong there now. These are the problems the campaign is about.
+2. **Define territory.** Pick or create a region. Write one or two issue aspects describing what's wrong there now. For the full region building system (sites, networks, power scale), see the [GM Toolkit]({{ '/toolkit' | relative_url }}).
 3. **Create headquarters.** Name it, give it a high concept and one aspect. Start humble. The HQ can improve at major milestones.
 4. **Define community.** Who are the people you care about? Give them a high concept and a values aspect. These values may align with or challenge the PCs' own beliefs.
 5. **Create a patron or contact.** The NPC who brings you work, passes along information, or gives orders. Name, high concept, one relevant skill at Fair (+2) or higher.
@@ -1081,6 +1083,8 @@ At the end of each session, you may choose one:
 - Purchase a new stunt by spending 1 refresh (minimum 1 refresh)
 - Rewrite any aspect except your high concept
 - Rename a mild consequence to begin recovery
+
+**Downtime milestones:** You can also use a downtime action as an early milestone, adjusting skills or aspects between sessions. Tie it to a specific site: training at a site known for Fight, studying at a library site with Lore. See the [GM Toolkit]({{ '/toolkit' | relative_url }}) for the full downtime system.
 
 #### Breakthroughs (End of Arc)
 

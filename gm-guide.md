@@ -153,7 +153,7 @@ Before your first adventure, run a **session zero**, a conversation about expect
 
 **Campaign Pitch**: Share your vision for the campaign. Are you running a noir mystery in Sharn? A wilderness expedition to Xen'drik? A war story along the Karrnathi border? Give players enough to create fitting characters.
 
-**Tone and Content**: Eberron supports many tones: pulpy action, political intrigue, horror, war stories. Discuss which elements will feature prominently in your game. This is also when you establish safety tools (see below).
+**Story Elements**: Use the Story Elements worksheet from the [GM Toolkit]({{ '/toolkit' | relative_url }}) to decide your game's tone and content as a group. Brainstorm inspirations, sort Eberron's story ingredients into keepers, deal breakers, and conditionals, and write 2-4 campaign aspects. This is also when you establish safety tools (see below).
 
 **Party Connection**: Characters need a reason to work together. Consider:
 - A shared patron (dragonmarked house, university, government agency)
