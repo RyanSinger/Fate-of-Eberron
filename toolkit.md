@@ -1151,3 +1151,28 @@ When you advance faction agendas during GM actions between sessions, each move c
 #### Downtime Foreshadowing
 
 Use your GM foreshadowing actions during downtime to plant case seeds. A rumor. A strange visitor. A letter that arrives at the wrong time. These become full cases when the players follow up, or when the situation escalates on its own.
+
+---
+
+## Exploration
+
+The region system tracks the political map: who controls what, who's allied, what's at stake. Exploration rules cover what happens when you travel between sites or venture into dangerous locations.
+
+### Travel
+
+A journey is a challenge, contest, or series of scenes. Not a random encounter table. The GM picks the pacing mechanism based on what makes the journey interesting.
+
+| Journey Type | Pacing | When to Use |
+|-------------|--------|-------------|
+| **Routine** | Skip it | No interesting opposition, no time pressure, no discoveries. Narrate arrival. |
+| **Eventful** | Challenge (2-4 overcome rolls) | The journey has obstacles but no active opposition. Weather, terrain, navigation. |
+| **Pursued** | Contest | Someone is chasing you (or you're chasing someone). First to reach the destination wins. |
+| **Hostile** | Conflict | The journey itself is trying to kill you. The Mournland, Khyber, a storm at sea. |
+
+#### Journey Aspects
+
+Every journey has 1-2 situation aspects representing the conditions. Examples: *Dead-Gray Mist Closing In*, *Lightning Rail Running Behind Schedule*, *Jungle Heat Saps Your Strength*. These can be invoked and compelled during the journey.
+
+#### Discoveries
+
+When a PC succeeds with style on a journey roll, they discover something: a shortcut, a hidden site, a clue, a resource. This is how new sites get added to the region map during play.
