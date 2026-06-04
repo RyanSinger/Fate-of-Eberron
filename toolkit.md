@@ -626,3 +626,66 @@ When the players go to a site and deal with the source of the problem, that's wh
 Major milestones can also improve a site's status, reflecting the larger shift in the campaign's landscape. A major victory against a faction might flip several sites at once.
 
 If the players ignore a negative status, it gets worse. That's not punishment. That's the world reacting. *Running Low on Supplies* becomes *Starving*. *Politically Unstable* becomes *Martial Law*. The region map tracks consequences the same way character sheets do.
+
+---
+
+## Questions and Decisions
+
+### Every Campaign Has a Big Question
+
+Before the first session, state the central question your campaign is trying to answer. Write it down. Put it on the table. Everything in the campaign should connect to this question, even if the connection only becomes clear later.
+
+The Big Question isn't a plot summary. It's a genuine uncertainty. You don't know the answer yet. The players will answer it through play.
+
+Examples:
+
+- *Can the Treaty of Thronehold hold, or will the Last War resume?*
+- *Who really caused the Mourning, and can it be stopped?*
+- *Can a band of outcasts protect Lower Dura from forces bigger than all of them?*
+
+The Big Question shapes your Story Elements, your region map, and your first arc. If you can't state it in one sentence, narrow your focus until you can.
+
+### Every Arc Has a Question
+
+Each arc runs three to five sessions and answers a smaller question that connects to the Big Question. The arc question is more specific, more urgent, and more personal than the campaign question. It's what the players are dealing with right now.
+
+Examples:
+
+- *Can we stop the Emerald Claw before the solstice?*
+- *Will the Boromar Clan or Daask control Callestan?*
+- *Can we find the missing heir before House Cannith declares them dead?*
+
+When the arc question is answered, the arc ends. Start a new one. If the answer feeds back into the Big Question in a surprising way, you're doing it right.
+
+### Every Scene Has a Question
+
+Every scene needs a question. If you can't name the question, skip the scene.
+
+This is the single most useful piece of advice in this toolkit. Scenes without questions are travelogues. They feel flat because nothing is at stake, nothing is uncertain, and no one is making a choice. Name the question, play the scene, get the answer, move on.
+
+Examples:
+
+- *Will the party convince the Watch captain to share the autopsy report?*
+- *Can they cross the Mournland border before the living spell catches them?*
+- *Does the changeling tell the truth, or does she have her own agenda?*
+
+If the answer is obvious before the scene starts, you don't have a question. You have exposition. Cut it or add a complication.
+
+### Player Decisions Answer the Questions
+
+Questions set the stage. Decisions answer them. This is the core loop of good Fate play.
+
+If the players are going from point A to point B to point C, defeating challenges along the way, they're not making decisions. They're on a rail. Decisions require genuine alternatives with real consequences. "Do we ally with the Boromar Clan or try to take down both sides?" is a decision. "Do we fight the guards or sneak past?" is a decision only if both paths lead somewhere meaningfully different.
+
+The best sessions are the ones where the players face a question, argue about it, commit to an answer, and then live with the fallout. Your job is to give them questions worth arguing about.
+
+### If the Players Aren't Making Decisions, Something Is Wrong
+
+When sessions feel flat, check for these problems:
+
+- **Gates instead of branches.** There's only one way forward, so the players aren't choosing. They're solving a puzzle. Add a second option with different costs.
+- **No stakes.** The players don't care about the outcome because nothing they value is at risk. Connect the situation to a character aspect or a site they've invested in.
+- **Predetermined outcomes.** You already know what's going to happen and you're steering toward it. Stop. Let the dice and the players surprise you.
+- **Missing questions.** You're running scenes without naming what's uncertain. Go back to "every scene has a question" and rebuild from there.
+
+If all four of these are fine and the session still feels flat, ask the players what they want to do next. Sometimes the best move is handing them the wheel.
