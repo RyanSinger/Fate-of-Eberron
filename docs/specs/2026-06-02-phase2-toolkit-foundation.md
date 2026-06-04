@@ -2,33 +2,170 @@
 
 ## Overview
 
-Phase 2 creates a new `toolkit.md` document containing four interconnected systems for running Eberron campaigns. These systems draw structural patterns from Umdaar's campaign chapter (p.225-254) and adapt them for Eberron's setting and tone.
+Phase 2 creates a new `toolkit.md` document and adds inline material to the existing guides. The toolkit contains interconnected systems for running Eberron campaigns. The inline additions bring key Book of Hanz principles into the players and GM guides where they're needed at the table.
 
 This is the second of three phases:
 - **Phase 1** (complete): Inline reference material, character creation redesign, consequential magic, signature spells
-- **Phase 2** (this spec): Toolkit document with Story Elements, Region System, Downtime, Compels and Drama Escalation
+- **Phase 2** (this spec): Toolkit document + Book of Hanz inline additions
 - **Phase 3**: Toolkit content (case generator, NPC gallery, exploration rules)
 
 ### Sources
 
 - **Umdaar** (Rebel Broadcast Edition, EHP0077, 2026). Game Worksheet (p.19-24), Continent-Based Campaign (p.234-254).
-- **Fate of Eberron GM Guide** (existing). Compels in Eberron section (p.564-593 equivalent), Campaign Frameworks, Factions as Characters.
+- **Book of Hanz** (collected Fate advice). Intent and Task, Fate's Big Question, Conflict as Bidding War, Branches Not Gates, Questions and Decisions, Calibration, Monster of the Week, GM Workflow.
+- **Fate of Eberron GM Guide** (existing). Compels in Eberron section, Campaign Frameworks, Factions as Characters.
 
 ### Document Structure
 
+**Toolkit (`toolkit.md`):**
 ```
-toolkit.md
-  1. Eberron Story Elements (Session Zero ingredient menu)
-  2. The Region System (sites, communities, networks, status, power)
-  3. Downtime (start/end of session, GM actions)
-  4. Compels and Drama Escalation
+  1. The GM Workflow (campaign loop from pitch to session end)
+  2. Eberron Story Elements (Session Zero ingredient menu)
+  3. The Region System (sites, communities, networks, status, power)
+  4. Downtime (start/end of session, GM actions)
+  5. Questions and Decisions (scene and campaign structure)
+  6. Compels and Drama Escalation (including Fate's Big Question, MotW as character study, calibration)
 ```
 
-Story Elements first because it's done during Session Zero before anything else. Region system second because it's built during or right after Session Zero. Downtime third because it's the gameplay loop that uses the region. Compels last because they're the drama engine that runs through everything.
+**Inline additions to existing guides:**
+- `players-guide.md`: Intent and Task (near Four Actions), Conflict as Bidding War (in Conflicts section)
+- `gm-guide.md`: Branches Not Gates / Interesting Failure (near difficulty section)
+
+GM Workflow opens the toolkit because it frames everything else: when do you use Story Elements (Session Zero), when do you build the region (post Session Zero), when does downtime happen (between sessions), and when do compels fire (during play). The workflow is the skeleton; the other sections are the organs.
 
 ---
 
-## 1. Eberron Story Elements
+## Inline Addition A: Intent and Task
+
+**Location:** `players-guide.md`, added near the Four Actions section in "Playing the Game."
+
+**Pattern source:** Book of Hanz, "Intent and Task."
+
+Before you can determine which of the four actions to use, you need two things:
+
+1. **Intent**: What are you trying to accomplish? What does success look like?
+2. **Task**: How are you going about it? What does your character actually do?
+
+Without both, you can't pick the right action. The Hulk throwing someone over the horizon could be an Attack (trying to take them out of the fight), Create Advantage (knocking them into a bad position), or Overcome (clearing a path). Same task, different intent, different action.
+
+When a player says what they want to do, ask: "What does success look like for you?" This surfaces the intent, which tells you how to resolve it.
+
+**Eberron examples:**
+- "I pick the lock." Intent matters: are you trying to get through the door (Overcome), or disable the security system so the whole team can move freely (Create Advantage)?
+- "I cast a spell at them." Are you trying to hurt them (Attack), scare them (Attack with Provoke), slow them down (Create Advantage), or get past them (Overcome)?
+- "I talk to the guard." Are you getting information (Overcome), building a relationship for later (Create Advantage), or convincing them to abandon their post (Attack with Rapport)?
+
+---
+
+## Inline Addition B: Conflict as Bidding War
+
+**Location:** `players-guide.md`, added to or replacing part of the Conflicts subsection in "Playing the Game."
+
+**Pattern source:** Book of Hanz, "Conflict with Named NPCs."
+
+A conflict with a named NPC isn't really about tactics. It's a test of commitment. A bidding war. A game of chicken.
+
+The escalation goes like this:
+
+1. **Skills only.** Both sides roll and see what happens. This costs nothing.
+2. **Invoke aspects.** Spend fate points for +2 or reroll. Now it's costing you resources.
+3. **Take consequences.** Accept lasting harm to stay in the fight. Now it's costing you future capability.
+4. **Concede or get taken out.** Pay the final price, or walk away on your terms.
+
+At every step, both sides are asking: "How much do I want this?" The answer drives the drama. A conflict where neither side really cares is boring. A conflict where both sides care deeply and are willing to bleed for it is electric.
+
+The concession mechanic makes this explicit. At any point before dice are rolled, you can accept a loss and gain fate points. The longer you stay in, the more fate points the concession is worth, but the more you've already paid.
+
+---
+
+## Inline Addition C: Branches Not Gates / Interesting Failure
+
+**Location:** `gm-guide.md`, new subsection near the difficulty section (after "Put a Scene On It").
+
+**Pattern source:** Book of Hanz, "Failure" and general Fate principles.
+
+### Branches, Not Gates
+
+Every roll in Fate should be a fork in the road, not a gate. A gate means: succeed and the story continues, fail and the story stalls. A branch means: succeed and the story goes this way, fail and the story goes that way. Both directions are interesting.
+
+If failure means "nothing happens," don't roll. Either let the characters succeed, or frame the situation so that failure changes things.
+
+**The locked door test:** A locked door in a traditional game is a gate. Pick the lock or you don't get through. In Fate, if you can't think of an interesting failure for picking the lock, just let them through. If you can (the lock breaks and the noise attracts guards, the mechanism triggers an alarm, you get through but it took so long that the target has fled), now you have a branch. Roll for it.
+
+### Interesting Failure
+
+When a roll fails, the situation should change. The story moves forward, just not in the direction the characters wanted. Options:
+
+- **Success at a major cost.** You get what you wanted, but something else goes badly wrong.
+- **New complication.** The attempt itself creates a new problem that demands attention.
+- **Unwanted attention.** Someone or something noticed what you're doing.
+- **Shifted circumstances.** The window of opportunity changes. What was possible a moment ago no longer is, but something else opens up.
+
+"That doesn't work" is never the answer. Keep things moving.
+
+**Eberron example:** The party tries to break into a Cannith vault. The Burglary roll fails. Instead of "the lock doesn't budge," try: "You crack the outer seal, but as the ward discharges, House Cannith's security network logs the intrusion. You have maybe ten minutes before a response team arrives. The vault is open, but the clock is ticking."
+
+---
+
+## 1. The GM Workflow
+
+**Location:** `toolkit.md`, Section 1. This frames the entire toolkit.
+
+**Pattern source:** Book of Hanz, "How I GM Fate Core."
+
+The GM Workflow is the campaign loop. It tells you when to use each of the toolkit's systems, and what to do between sessions. It's the "how to actually run this" guide that ties everything together.
+
+### The Loop
+
+| Phase | What Happens | Toolkit System Used |
+|-------|-------------|-------------------|
+| **The Pitch** | Propose a game concept. Gauge interest. | None yet. |
+| **Session Zero** | Build Story Elements (inspirations, ingredients, campaign aspects). Build the Charter. Build the Region. Create characters. | Story Elements, Charter (players guide), Region System |
+| **Post Session Zero** | Reconcile player input with your ideas. Create NPCs based on character aspects and charter antagonists. Sketch the first arc. | Arc Generation (below) |
+| **Arc Generation** | Who wants what? Who opposes them? Why do the PCs care? What happens if nobody intervenes? | Questions and Decisions |
+| **Session Prep** | What changed since last session? What are the NPCs/factions doing? What hand grenades can you lob? Look at PC aspects for compels. | Downtime (GM actions), Compels |
+| **Running the Session** | Start of session check in. Frame scenes. Resolve scenes. Lob hand grenades if momentum stalls. End with downtime. | Downtime, Compels, Region System |
+| **Ending the Session** | Milestones. Downtime actions. Feedback. What's next? | Downtime, Advancement (players guide) |
+| **Between Sessions** | Update the region map. Advance faction agendas. Track countdowns. Prep the next session. | Region System, Downtime (GM actions) |
+
+### Arc Generation
+
+An arc is a multi-session storyline driven by NPC goals intersecting with PC concerns. To generate an arc, answer these questions:
+
+1. **Why is this relevant to the characters?** Tie it to character aspects. If you can't, find a different arc.
+2. **Who is involved?** Name the NPCs and factions.
+3. **What are they trying to achieve?** Define their goal.
+4. **Who opposes them?** Not just the PCs. Other factions, other NPCs.
+5. **What happens if nobody intervenes?** This is your countdown. It gives the situation urgency.
+
+The best arcs come from character creation. Player backstories aren't backstories in Fate. They're the story. The Phase Trio (or in our case, the five aspects + charter) generates NPCs, factions, threats, and relationships that the campaign should revolve around.
+
+### Session Prep
+
+Before each session:
+
+1. **What changed?** How did last session's events affect the world? Update the region map if needed.
+2. **What are the NPCs doing?** Every active NPC has a goal. What's their next move?
+3. **Look at character sheets.** Which aspects are ripe for compels? Which consequences are still in play?
+4. **Prep hand grenades.** A hand grenade is an event that demands a PC response without dictating what that response should be. An NPC shows up asking for help. A secret is revealed. A faction makes a move. Tie hand grenades to PC aspects whenever possible.
+5. **Don't predict.** The more you predict what will happen, the more you'll try to make it happen. Go in knowing the situation, not the outcome.
+
+### Running the Session
+
+1. **Start of session check in.** Ask players what their characters have been up to.
+2. **Frame scenes.** Drive toward interesting decisions. Ask: "What is this scene about? What's at stake? What could go wrong?"
+3. **"What do you do?"** Let the players drive. If they stall, lob a hand grenade.
+4. **Resolve scenes.** Use the right pacing mechanism (simple roll, challenge, contest, conflict). After resolution, recap what changed and let the players react.
+5. **End with downtime.** Each PC takes a downtime action. You take GM actions.
+6. **Solicit feedback.** What worked? What didn't? What do players want more of?
+
+### The Most Important Rule
+
+Don't plan what will happen. Plan the situation: who wants what, who's in the way, what's at stake. Then play to find out what the characters do about it.
+
+---
+
+## 2. Eberron Story Elements
 
 **Location:** `toolkit.md`, Section 1.
 
@@ -84,7 +221,7 @@ Revisit the Story Elements worksheet before each session (adapted from Umdaar p.
 
 ---
 
-## 2. The Region System
+## 3. The Region System
 
 **Location:** `toolkit.md`, Section 2.
 
@@ -213,7 +350,7 @@ Include one fully worked example per framework, each showing 5-6 sites with full
 
 ---
 
-## 3. Downtime
+## 4. Downtime
 
 **Location:** `toolkit.md`, Section 3.
 
@@ -271,11 +408,69 @@ Negative status aspects on sites are adventure hooks. They can be compelled, inv
 
 ---
 
-## 4. Compels and Drama Escalation
+## 5. Questions and Decisions
 
-**Location:** `toolkit.md`, Section 4.
+**Location:** `toolkit.md`, Section 5.
 
-**Pattern source:** Umdaar GM chapter on compels (p.122-127), Fate of Eberron existing compel categories.
+**Pattern source:** Book of Hanz, "Questions & Decisions."
+
+### Every Campaign Has a Big Question
+
+Before the first session, the GM should be able to state the campaign's central question. This is what the whole story is about. Player decisions will answer it.
+
+> *Can the Treaty of Thronehold hold, or will the Last War resume?*
+> *Who really caused the Mourning, and can it be stopped from happening again?*
+> *Can a band of outcasts protect Lower Dura from forces bigger than all of them?*
+
+The Big Question doesn't need to be answered quickly. It might take the entire campaign. But it should be present from the start, giving every session a sense of direction.
+
+### Every Arc Has a Question
+
+Each arc (3-5 sessions) answers a smaller question that feeds into the Big Question.
+
+> *Can we stop the Emerald Claw from completing the ritual before the solstice?*
+> *Will the Boromar Clan or Daask control Callestan by the end of the month?*
+> *Can we find the missing heir before House Cannith declares them dead?*
+
+### Every Scene Has a Question
+
+If you can't name the question a scene is answering, skip the scene. A scene without a question is exposition, and exposition should be brief.
+
+> *Will the party convince the Watch captain to share the autopsy report?*
+> *Can they cross the Mournland border before the living spell catches them?*
+> *Does the changeling contact tell the truth, or does she have her own agenda?*
+
+### Player Decisions Answer the Questions
+
+Questions set the stage. Decisions answer them. If the players are going from point A to B to C, defeating challenges along the way, they're not making decisions. They're following a path.
+
+The GM's job is to present situations where the answer isn't obvious, where the players' values and priorities determine what happens next. This ties directly into compels: compels are the mechanism that forces decisions by making characters choose between things they care about.
+
+### If the Players Aren't Making Decisions, Something Is Wrong
+
+Check for:
+- **Gates instead of branches.** Are failures stopping progress instead of changing direction?
+- **No stakes.** Do the players care about the outcome? If not, tie it to their aspects.
+- **Predetermined outcomes.** If you know what's going to happen, the players aren't driving. Let go.
+- **Missing questions.** If the scene doesn't have a question, it doesn't need to exist.
+
+---
+
+## 6. Compels and Drama Escalation
+
+**Location:** `toolkit.md`, Section 6.
+
+**Pattern source:** Umdaar GM chapter on compels (p.122-127), Book of Hanz ("Fate's Big Question," "In Defense of Monster of the Week," "Calibration"), Fate of Eberron existing compel categories.
+
+### Fate's Big Question: "How Much Do You Want This?"
+
+A Fate character can do anything, but they can't do everything.
+
+Given enough fate points and enough willingness to take consequences, a character can accomplish almost any reasonable goal. Sneak into the vault? You will. Defeat the lieutenant? You can. Convince the council? Possible.
+
+But every victory costs something. Fate points spent here aren't available there. Consequences taken now limit you later. The concession you avoided means the fate points you didn't earn.
+
+This is Fate's Big Question: not "can you do this?" but "what are you willing to give up to do it?" Every scene should drive toward this question. Every compel makes it sharper. The GM's real job isn't designing encounters. It's pricing the things the characters want.
 
 ### The Compel Rhythm
 
@@ -330,21 +525,52 @@ Players who accept compels stockpile fate points. Players who refuse them deplet
 
 A group flush with points can power through the final challenge. A group that's been refusing compels all session is now vulnerable. This is working as intended. Don't try to balance it. Let the economy create tension naturally.
 
+### Designing Threats Around Characters, Not the Other Way Around
+
+When designing a case, threat, or antagonist, start with PC aspects, not the threat concept.
+
+A Daask enforcer isn't interesting because they're tough. They're interesting because one PC used to run with Daask, and another PC lost family to them. A haunted Cannith workshop isn't interesting because it's spooky. It's interesting because the artificer's mentor died there, and the priest's faith is tested by what they find.
+
+This is the "Monster of the Week" principle from the Book of Hanz: episodic threats exist to highlight, pressure, or complicate a character. The first season of Buffy didn't use monster-of-the-week episodes as filler. The witch episode was about Buffy wanting a normal life. The mantis episode was about Xander's desperation in love. The monster was the vehicle, not the point.
+
+**The process:**
+1. Look at the PCs' aspects. Which ones haven't been tested recently?
+2. Design a situation that puts pressure on that aspect.
+3. Build the threat, antagonist, or complication around that pressure.
+4. The threat doesn't need to be connected to the campaign's Big Question (though it's great if it is). It needs to be connected to a character.
+
+### Calibration: Same Mechanics, Different Feel
+
+The same mechanical result means different things depending on your game's tone. A 3 stress hit, narratively, is completely different in a pulp game versus a noir game versus a horror game.
+
+| Tone | 3 Stress Hit | Mild Consequence | Severe Consequence |
+|------|-------------|-----------------|-------------------|
+| **Pulp** | A nasty cut across the chest. Blood drips but you keep fighting. | *Scratched Up* | *Deep Gash to the Leg* |
+| **Noir** | Knocked off balance into a wall. Stars in your eyes but nothing broken. | *Seeing Stars* | *Something's Broken Inside* |
+| **Horror** | A moment of pure, freezing terror. Your body screams to run. | *Shaking Hands* | *I Can Still Hear It Breathing* |
+
+Use the Story Elements to determine your tone. Once you know the tone, you know how to narrate mechanical results. The dice tell you the constraints. You tell the story within those constraints.
+
+This applies to consequences especially. A moderate consequence doesn't have to be a physical injury. It's whatever lasting impact fits the tone: a wound, a fear, a broken relationship, a compromised cover, a debt called in.
+
 ---
 
 ## Implementation Notes
 
 ### Files Created
-- `toolkit.md`: New document with all four sections. Gets a Jekyll front matter block matching the existing guide format (layout: guide, title, description).
+- `toolkit.md`: New document with six sections plus the framework examples. Gets a Jekyll front matter block matching the existing guide format (layout: guide, title, description).
 
 ### Files Modified
-- `gm-guide.md`: Add cross-reference to toolkit.md in the Campaign Frameworks section and the Compels in Eberron section. Brief notes pointing GMs to the toolkit for the full systems.
+- `players-guide.md`: Inline Addition A (Intent and Task, near Four Actions) and Inline Addition B (Conflict as Bidding War, in Conflicts section).
+- `gm-guide.md`: Inline Addition C (Branches Not Gates / Interesting Failure, near difficulty section). Cross-reference to toolkit.md in Campaign Frameworks and Compels sections.
 - `index.md`: Add toolkit.md to the site navigation.
 
 ### Cross-References
+- The GM Workflow (toolkit Section 1) references all other toolkit sections by name, telling GMs when to use each system.
 - The Charter system (in `players-guide.md`) references the Region System for building the map around the charter's territory and headquarters.
 - The Region System references the Charter components (home base = charter HQ, territory = charter territory).
-- The Compels section references the existing GM guide compel examples but expands them with the escalation framework and region-based compels.
+- The Questions and Decisions section connects to the Compels section (compels force decisions) and the future case generator (Phase 3).
+- The Compels section references the existing GM guide compel examples but expands them with Fate's Big Question, escalation framework, region-based compels, MotW character study, and calibration.
 - The Downtime section references the Region System (downtime actions interact with sites) and the Advancement section in the players guide (downtime can grant early milestones).
 
 ### Compatibility
@@ -352,3 +578,4 @@ A group flush with points can power through the final challenge. A group that's 
 - The Region System is compatible with all five Charter frameworks from Phase 1.
 - Downtime actions use the standard four actions (Overcome, Create Advantage, Attack, Defend) applied to sites.
 - The Compels section extends (does not replace) the existing GM guide compel categories.
+- The inline additions to players-guide.md and gm-guide.md are additions, not replacements. They add new subsections without modifying existing content.
