@@ -801,3 +801,150 @@ The same mechanical result means different things depending on the tone you've s
 Use your Story Elements to determine your tone. The themes, the genre, and the mood you established in session zero tell you how to narrate. A pulp Eberron game describes a fireball as "a blast of heat that singes your coat." A horror Eberron game describes the same fireball as "the smell of your own skin burning before your mind catches up to what happened."
 
 Once you know the tone, you know how to narrate. The mechanics don't change. The fiction does.
+
+---
+
+## The Case Generator
+
+Every session needs a job. The case generator builds one in four steps: pick a case type, roll a premise, add a complication, and connect it to the PCs. Use it during prep or at the table when the players go somewhere you didn't expect. Roll the dice or just choose what fits. Combine results, remix them, ignore what doesn't work.
+
+### How to Use
+
+1. **Roll for case type.** Roll 2dF on the Case Type Table below. This gives you the shape of the job.
+2. **Roll for premise.** Go to that case type's section and roll 2dF on its premise table. This gives you the specific situation.
+3. **Add a complication.** Roll or choose from the Complications table (coming in Part 2). Complications create the moral and dramatic tension that makes cases stick.
+4. **Connect it to the PCs.** Look at the party's aspects and pick a connection (coming in Part 2). The case should pressure something on a character sheet.
+
+### Case Type Table
+
+Roll 2dF. Read the first die as the row, the second as the column.
+
+| 2dF | Minus | Blank | Plus |
+|-----|-------|-------|------|
+| **Minus** | Investigate | Protect | Retrieve |
+| **Blank** | Infiltrate | GM's Choice | Expose |
+| **Plus** | Negotiate | Escape | Thwart |
+
+**Deliver:** Roll +/+ twice to get this tenth type. Save it for when you need a road trip.
+
+**GM's Choice:** Pick the type that fits the current campaign situation, combine two types, or roll again.
+
+---
+
+### Investigate
+
+*The Job: Find out what happened, who did it, or why.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | A body turns up in a district where bodies don't turn up. The Watch wants it handled quietly. The victim's identity raises more questions than it answers. |
+| -1 | A dragonmarked heir has vanished. The House says they're "on assignment." The family says otherwise. |
+| 0 | Strange magical disturbances are rippling through a neighborhood. Wards failing, spells misfiring, bound elementals agitated. Something is wrong with the local manifest zone. |
+| +1 | A series of seemingly unrelated crimes (theft, arson, assault) all connect to the same date, location, or person. The pattern only becomes visible if you look. |
+| +2 | A sealed Cannith vault has been opened from the inside. Nothing was taken. Something was left. |
+
+**Themes:** Truth has a cost. The deeper you dig, the more you wish you hadn't. Who benefits from the lie?
+
+**Adventure Aspects:** *The Truth Won't Set You Free*, *Follow the Money*
+
+**Twists:**
+- The victim isn't dead. They staged their own disappearance.
+- The investigation leads back to someone in the party's network. An ally is involved.
+- The answer was publicly available the whole time. Someone has been suppressing it.
+- There is no perpetrator. The event was caused by something nonsentient (a living spell, a manifest zone shift, a Mourning aftershock).
+
+---
+
+### Protect
+
+*The Job: Keep someone or something safe from a known or unknown threat.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | A witness has agreed to testify against a powerful faction. They need to survive until the hearing. The faction knows where they are. |
+| -1 | A convoy of refugees is crossing through territory claimed by two rival groups. Neither wants the refugees there, but for different reasons. |
+| 0 | A site in your network has a worsening status. The community is asking for help before things collapse entirely. What's causing the decline? |
+| +1 | A child has manifested an aberrant dragonmark. House Tarkanan wants to recruit them. House Deneith wants to contain them. The family wants them safe. |
+| +2 | A Mournland artifact has been recovered and stored at a site in your network. Three factions have made it clear they want it. Destroying it might be worse than letting someone take it. |
+
+**Themes:** Vulnerability, responsibility, the cost of caring. You can't protect everyone. Who do you choose?
+
+**Adventure Aspects:** *Nobody Gets Hurt on My Watch*, *The Hardest Part Is Letting Go*
+
+**Twists:**
+- The person you're protecting doesn't want to be protected. They have their own plan, and it's reckless.
+- The threat is coming from inside. A traitor, a curse, or a self-destructive impulse.
+- Protecting the target means failing someone else. Two people need you at the same time in different places.
+- The target turns out to be more dangerous than the threat. What you're protecting others from is the person you're protecting.
+
+---
+
+### Retrieve
+
+*The Job: Get something back, or get it first. Could be an object, person, or information.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | A stolen Cannith schema has resurfaced on the black market. The schema contains designs for something that should never be built. Multiple buyers are already bidding. |
+| -1 | A person who doesn't want to be found. They left deliberately, and they have good reasons. But someone who cares about them (or needs them) has hired you to bring them back. |
+| 0 | Evidence that could change the outcome of a trial, a treaty negotiation, or a House succession is about to be destroyed. You have a narrow window to get it. |
+| +1 | A lightning rail shipment was intercepted between Sharn and Wroat. The official manifest says medical supplies. The actual contents are something else entirely. |
+| +2 | A dying warforged carries critical information locked in its memory core. The core is degrading. A Cannith artificer can extract the data, but the nearest one is three days away, and someone is hunting the warforged. |
+
+**Themes:** Possession vs. ownership. Who has the right to this thing? Is retrieving it theft or justice?
+
+**Adventure Aspects:** *Finders Keepers Is Not a Legal Defense*, *Everyone Wants What You're Carrying*
+
+**Twists:**
+- The thing you're retrieving has been copied. The original is a decoy, or there are multiple versions and you have the wrong one.
+- Retrieving it was the easy part. Now everyone knows you have it.
+- The object is cursed, sentient, or otherwise problematic to possess. It starts affecting the party.
+- The person who hired you to retrieve it is the one who lost (or stole) it in the first place. Retrieving it completes their scheme, not yours.
+
+---
+
+### Infiltrate
+
+*The Job: Get inside somewhere you're not supposed to be.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | A Kundarak vault holds evidence that could exonerate (or condemn) someone important. The vault is impenetrable by design. |
+| -1 | A faction is holding a closed meeting. What they decide tonight will affect the party's community. Someone needs to be in that room. |
+| 0 | An old Cannith creation forge, supposedly decommissioned, is active again. Someone needs to get inside and see what's being built. |
+| +1 | A party or gala at a noble estate is the only chance to get close to a target. Invitations are tightly controlled. Your cover has to hold for one evening. |
+| +2 | A cult operating in the lower wards has recruited someone you care about. The only way to reach them is to join. |
+
+**Themes:** Deception, identity, how far you'll go. The mask starts to fit too well. What you find inside isn't what you expected.
+
+**Adventure Aspects:** *In Too Deep*, *The Mask Fits Too Well*
+
+**Twists:**
+- You get inside easily. Getting out is the problem.
+- Someone on the inside recognizes you. They don't blow your cover, but now they want something.
+- What you find inside changes your understanding of the target. They're not what you thought.
+- Your cover identity takes on a life of its own. People start depending on the person you're pretending to be.
+
+---
+
+### Expose
+
+*The Job: Bring a hidden truth to light. Corruption, conspiracy, false identity.*
+
+| 2dF | Premise |
+|-----|---------|
+| -2 | A Watch captain in your district is on a House payroll. Everyone suspects it, but nobody can prove it. The captain is also the only thing standing between the neighborhood and total Boromar control. |
+| -1 | A beloved community charity is a front for Daask operations. The people who run it may not even know. Exposing it will hurt the people the charity genuinely helps. |
+| 0 | A celebrated Last War hero is running for public office. Someone hires you to dig into their war record. What you find is worse than anyone expected, and the hero knows you're looking. |
+| +1 | A dragonmarked house is conducting experiments on people in the lower wards, disguised as a healing clinic. The patients are grateful. The results are real. The methods are unconscionable. |
+| +2 | A treaty violation is being covered up by multiple governments. Exposing it could restart hostilities between nations. Not exposing it means the violation continues. |
+
+**Themes:** The weight of truth. Is the world better off knowing? Who gets hurt by the revelation? Is the cover-up worse than the crime?
+
+**Adventure Aspects:** *The Truth Is a Weapon*, *Some Doors Don't Close Again*
+
+**Twists:**
+- The person who hired you to expose the truth is using you to eliminate a rival. The truth is real, but the motive for revealing it is dirty.
+- Publishing the evidence will get someone killed. Sitting on it means the injustice continues.
+- The truth is more complicated than guilty or innocent. The target did it, but for reasons that make you question whether exposure is the right call.
+- You're part of the story. Something in your past, your network, or your charter connects you to the thing being covered up.
