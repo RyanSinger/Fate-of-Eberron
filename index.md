@@ -14,7 +14,7 @@ title: Home
 
 Fate of Eberron combines the narrative flexibility of **Fate Core** with the setting of **Eberron**, a world of noir intrigue, magical technology, and moral complexity.
 
-This adaptation uses mode-based character creation inspired by *Atomic Robo RPG*, letting you quickly build characters that feel authentically Eberron while embracing Fate's fiction-first approach.
+This adaptation uses archetype-based character creation and a charter system for party identity, letting you quickly build characters and campaigns that feel authentically Eberron while embracing Fate's fiction-first approach.
 
 ---
 
@@ -48,6 +48,14 @@ Run Eberron campaigns with guidance on adversary building, factions, compels, an
 
 <div class="guide-card" markdown="1">
 
+### [GM Toolkit]({{ '/toolkit' | relative_url }})
+
+Systems for running campaigns: the GM workflow, story elements, region maps, downtime, and drama escalation. Start here after reading the GM's Guide.
+
+</div>
+
+<div class="guide-card" markdown="1">
+
 ### [Play Example]({{ '/play-example' | relative_url }})
 
 See Fate of Eberron in action with a complete scene featuring five iconic characters: a warforged detective, Cyran spy, artificer, noble, and kalashtar monk.
@@ -61,8 +69,8 @@ See Fate of Eberron in action with a complete scene featuring five iconic charac
 ## Quick Start
 
 1. **Read the Setting Guide** to understand Eberron's tone and themes
-2. **Create a character** using the Player's Guide's mode system
-3. **Jump into adventure** with the campaign frameworks in the GM's Guide
+2. **Create your charter and characters** using the Player's Guide
+3. **Set up your campaign** with the GM's Guide and GM Toolkit
 
 ---
 
