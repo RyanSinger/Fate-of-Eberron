@@ -1265,3 +1265,79 @@ Adventure hooks:
 - Assassination attempt mid-flight. The coach is a kill box with no cover.
 - The coach breaks down over the Cogs. Hundreds of feet between you and the ground.
 - Your driver works for someone who wants to know where you're going.
+
+### Delves
+
+A delve is a zone-by-zone exploration of a dangerous location: a ruin, a Mournland anomaly, a Khyber passage, a haunted tower.
+
+#### Zone Template
+
+Each zone in a delve has:
+
+| Component | What It Is |
+|-----------|-----------|
+| **Zone Name** | What is this area? |
+| **Aspects** (2-3) | What's true about this place? Environmental hazards, mood, features. |
+| **Threat or Obstacle** | What's dangerous here? A trap, a creature, an environmental hazard, or nothing. |
+| **Discovery** | What can be found here? A clue, an artifact, a shortcut. Requires a successful overcome or create advantage. |
+
+#### Delve Pacing
+
+Not every zone needs a roll. Alternate between:
+
+- **Set dressing zones**: Describe and move on. Build atmosphere. These cost nothing.
+- **Decision points**: Two passages, a fork, players choose. Consequences follow.
+- **Encounter zones**: Something demands action. A trap, a creature, a puzzle, a collapsing ceiling. Use the appropriate pacing mechanism.
+- **Safe zones**: A moment to breathe, heal, and plan. Characters can recover stress here. Tension drops before it rises again.
+
+A good delve alternates: set dressing, decision, encounter, safe, encounter, decision, climax.
+
+#### Traps and Obstacles
+
+**Active traps** attack with a skill. Dart traps use Shoot. Fear wards use Provoke. The trap rolls against the PC's defense.
+
+Three tiers:
+- **Simple trap**: Fair (+2), no stunt
+- **Dangerous trap**: Good (+3) or Great (+4), one stunt (e.g., "Repeating: attacks again next exchange if not disarmed")
+- **Deadly trap**: Superb (+5), one stunt, Weapon:2
+
+**Passive obstacles**: Set a difficulty. Overcome with an appropriate skill. Failure consequences: damage (stress or consequences), separation (party splits), alarm (reinforcements), time loss (countdown advances).
+
+**Puzzles**: Treat as challenges. Multiple skills contribute. The brainstorm mechanic works well for magical or ancient puzzles.
+
+#### Disarming and Bypassing
+
+Traps can be:
+- **Disarmed**: Overcome with Crafts (mechanical) or Lore (magical). Difficulty equals the trap's skill rating.
+- **Detected first**: Notice or Investigate to spot before triggering. Difficulty equals the trap's skill rating minus 1.
+- **Tanked**: Just take the hit and keep moving.
+- **Bypassed**: Find another route. Costs time (countdown advances) but avoids the trap.
+
+#### Sample Delve: The Sealed Vault
+
+A five-zone delve. Adapt the specifics to your campaign.
+
+**Zone 1: The Approach**
+Aspects: *Overgrown Entrance*, *Faded Warning Glyphs*
+Threat: None (set dressing). Glyphs readable with Lore Fair (+2) to learn what the vault was built to contain.
+Discovery: A name or symbol connecting to the campaign's larger mystery.
+
+**Zone 2: The Guardian**
+Aspects: *Narrow Corridor*, *Flickering Magical Lights*
+Threat: A construct or ward (Hitter, peak skill Great +4, one stunt). Can be fought, bypassed via Stealth vs its Notice, or reasoned with via Lore to speak its command language.
+Discovery: The construct carries or guards a key needed for Zone 4.
+
+**Zone 3: The False Treasury**
+Aspects: *Glittering Piles of Coins*, *Something Feels Wrong*
+Threat: A trap. The treasure is bait. Touching it triggers a sealing mechanism (Shoot Great +4, attacks everyone in the zone). Notice Good (+3) to detect before triggering.
+Discovery: A map of the vault's true layout, revealing Zone 5 exists.
+
+**Zone 4: The Locked Door**
+Aspects: *Massive Astrolanium Door*, *Three Keyholes*
+Threat: Passive obstacle. Three keys needed (one from Zone 2, two from elsewhere). Without all three, Crafts or Lore at Fantastic (+6) to bypass.
+Discovery: The door is inscribed with historical records. Lore Good (+3) reveals crucial lore.
+
+**Zone 5: The Heart**
+Aspects: *Ancient Power Hums in the Walls*, *The Air Tastes Like Lightning*
+Threat: The vault's true guardian (Boss tier). OR the vault is empty, someone got here first. GM's choice based on campaign needs.
+Discovery: The MacGuffin, or evidence of who took it and where they went.
