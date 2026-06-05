@@ -89,22 +89,59 @@ As GM, you have your own pool of fate points to use for NPCs.
 
 ## Setting Difficulty and Opposition
 
-When players roll against passive opposition, you set the difficulty. Here's a simple framework:
+### Should You Roll At All?
 
-**Difficulty Guidelines:**
-- **Low (Fair +2)**: Routine tasks for a competent person. Anyone with relevant training should succeed most of the time.
-- **Moderate (Good +3)**: Requires real effort or expertise. Failure is plausible even for skilled characters.
-- **High (Great +4)**: Challenging even for experts. Success requires both skill and luck.
-- **Extreme (Superb +5 or higher)**: Legendary difficulty. Most characters need to invoke aspects to succeed.
+Before setting a difficulty, ask:
 
-**Start at +2 and adjust.** Most difficulties should be Fair (+2). Raise it if:
-- The task is inherently difficult
-- Circumstances work against the character (but consider making this an aspect instead)
-- Success should feel like an accomplishment
+- What is this scene about?
+- What's at stake?
+- What could go wrong?
+- What interesting thing is about to happen?
 
-**Use aspects instead of difficulty bumps.** If the situation has a complication, make it an aspect rather than adding +2 to difficulty. *Slippery Floor* is more interesting than "the floor is slippery, so +2 to the difficulty." Aspects can be invoked, compelled, and addressed.
+If you don't have good answers, skip the roll. If the answers suggest drama, **put a scene on it.** Frame the time, place, and complications before anyone touches dice.
 
-**Active opposition is usually better.** When someone or something actively resists, have them roll instead of setting a static number. It's more dynamic and gives you something to invoke.
+A player wants to repair their skycoach. Don't just set a Crafts difficulty. Where's the hangar? Who else is there? Is the Boromar clan watching? Are the parts black market? Now you have a scene, and rolls within that scene mean something.
+
+If the game were a TV show, would they spend screen time on this? If not, skip it.
+
+### Difficulty Table
+
+| Difficulty | Rating | When to Use | Eberron Example |
+|------------|--------|-------------|-----------------|
+| Trivial | Mediocre (+0) | No real challenge, but something could still go interestingly wrong | Picking a simple lock in an empty room |
+| Routine | Fair (+2) | One clear reason it's tough | Fast talking past a bored Watch sergeant |
+| Challenging | Good (+3) | Tough even for a trained professional | Navigating the Cogs without a guide |
+| Hard | Great (+4) | Requires expertise and effort | Deciphering a Dhakaani cipher |
+| Extreme | Superb (+5) | Most characters need to invoke aspects | Breaking into a Kundarak vault |
+| Legendary | Fantastic (+6)+ | Nearly impossible without serious preparation | Dispelling a ward on a Cannith creation forge |
+
+### Rules of Thumb
+
+- Start at Fair (+2). Add +1 for each complicating factor.
+- Prefer creating a situation aspect over raising difficulty. *Slippery Skybridge* is more interesting than "+2 because it's wet."
+- Active opposition (an NPC rolling) is almost always better than passive difficulty.
+- If it seems impossible, let them stack create advantage actions first. That's the game working as intended.
+
+### Branches, Not Gates
+
+Every roll in Fate should be a fork in the road, not a gate. A gate means: succeed and the story continues, fail and the story stalls. A branch means: succeed and the story goes this way, fail and the story goes that way. Both directions are interesting.
+
+If failure means "nothing happens," don't roll. Either let the characters succeed, or frame the situation so that failure changes things.
+
+**The locked door test:** A locked door in a traditional game is a gate. Pick the lock or you don't get through. In Fate, if you can't think of an interesting failure for picking the lock, just let them through. If you can (the lock breaks and the noise attracts guards, the mechanism triggers an alarm, you get through but it took so long that the target has fled), now you have a branch. Roll for it.
+
+### Interesting Failure
+
+When a roll fails, the situation should change. The story moves forward, just not in the direction the characters wanted.
+
+- **Success at a major cost.** You get what you wanted, but something else goes wrong.
+- **New complication.** The attempt itself creates a new problem.
+- **Unwanted attention.** Someone or something noticed what you're doing.
+- **Shifted circumstances.** The window of opportunity changes. What was possible a moment ago no longer is, but something else opens up.
+
+"That doesn't work" is never the answer. Keep things moving.
+
+> **Example:** The party tries to break into a Cannith vault. The Burglary roll fails. Instead of "the lock doesn't budge," try: "You crack the outer seal, but House Cannith's security network logged the intrusion. You have maybe ten minutes before a response team arrives. The vault is open, but the clock is ticking."
 
 ---
 
@@ -116,7 +153,7 @@ Before your first adventure, run a **session zero**, a conversation about expect
 
 **Campaign Pitch**: Share your vision for the campaign. Are you running a noir mystery in Sharn? A wilderness expedition to Xen'drik? A war story along the Karrnathi border? Give players enough to create fitting characters.
 
-**Tone and Content**: Eberron supports many tones: pulpy action, political intrigue, horror, war stories. Discuss which elements will feature prominently in your game. This is also when you establish safety tools (see below).
+**Story Elements**: Use the Story Elements worksheet from the [GM Toolkit]({{ '/toolkit' | relative_url }}) to decide your game's tone and content as a group. Brainstorm inspirations, sort Eberron's story ingredients into keepers, deal breakers, and conditionals, and write 2-4 campaign aspects. This is also when you establish safety tools (see below).
 
 **Party Connection**: Characters need a reason to work together. Consider:
 - A shared patron (dragonmarked house, university, government agency)
@@ -125,6 +162,12 @@ Before your first adventure, run a **session zero**, a conversation about expect
 - A business venture (inquisitive agency, salvage company, courier service)
 
 **Character Creation**: Build characters together. When players see each other's aspects, they can build connections. "Oh, you're a Cyran refugee? My character blames Cyre for the war. That's interesting tension."
+
+### Build the Charter
+
+After establishing safety tools and expectations, build the party's **Charter** together. See the Player's Guide for the full Charter system. The Charter gives the group a shared framework, territory, headquarters, community, contact, antagonist, and reputation before anyone makes individual characters.
+
+Building the charter first means every character is created with shared context. Players know who they're protecting, where they're based, and who they've already fought.
 
 ### Questions to Ask Players
 
@@ -591,13 +634,19 @@ Compels drive story and earn players fate points. Eberron's themes provide plent
 
 *Morgrave Scholar* → "The artifact they're selling is clearly stolen from Xen'drik. Your professional ethics demand you intervene."
 
+For systematic guidance on compel rhythm, drama escalation, and using compels to drive entire campaigns, see the **[GM Toolkit]({{ '/toolkit' | relative_url }})**.
+
 ---
 
 ## Campaign Frameworks
 
 Here are structures for different campaign types in Eberron.
 
+For the full campaign management toolkit (region maps, downtime, drama escalation), see the **[GM Toolkit]({{ '/toolkit' | relative_url }})**.
+
 ### The Inquisitive Agency
+
+*Charter Framework: Agency. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
 
 The party runs a detective/problem-solving business in Sharn.
 
@@ -620,6 +669,8 @@ The party runs a detective/problem-solving business in Sharn.
 
 ### The Xen'drik Expedition
 
+*Charter Framework: Expedition. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
+
 The party explores the mysterious southern continent.
 
 **Starting Situation**: The characters have a patron (Morgrave, a House, an independent collector) and a ship or airship passage.
@@ -640,6 +691,8 @@ The party explores the mysterious southern continent.
 - The Traveler's Curse (things in Xen'drik never stay the same)
 
 ### The Last War Never Ended
+
+*Charter Framework: Cell. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
 
 The party are operatives in an ongoing shadow war.
 
@@ -662,6 +715,8 @@ The party are operatives in an ongoing shadow war.
 
 ### Mournland Salvage
 
+*Charter Framework: Salvage Crew. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
+
 The party ventures into the dead nation to recover what was lost.
 
 **Starting Situation**: The characters are salvagers, treasure hunters, or seekers of lost family/artifacts.
@@ -682,6 +737,8 @@ The party ventures into the dead nation to recover what was lost.
 - Clues to what actually happened on the Day of Mourning
 
 ### Dragonmarked Intrigue
+
+*Charter Framework: House Operatives. See the Player's Guide for charter components, stunts, and Session Zero build sequence.*
 
 The party navigates house politics and interhouse competition.
 
@@ -1030,11 +1087,13 @@ At completion: Everyone makes Athletics Great (+4) defense or takes Severe conse
 
 ## Running Magic and Artifice
 
-### When Players Use Narrative Magic
+### When Players Use Magic
 
-When a player describes their skill roll as magical, let them. The wizard using Lore to create an advantage might describe casting Detect Magic. The cleric using Will to defend might invoke divine protection.
+Magic works in two gears. **Create Advantage** is the default for temporary tactical effects: a shield, a distraction, a divination. These create situation aspects that last until the scene ends or someone overcomes them.
 
-The rule: magic describes *how*, not *what*. The skill determines what's mechanically possible. Magic just makes it look cool.
+**Consequential magic** is for lasting effects. When a magical attack deals enough stress to force a consequence, that consequence IS the spell effect. *Magical Sleep*, *Phiarlan Glamour: Wrong Face*, *Mournland Corruption Spreading*. The consequence's recovery timeline is the spell's duration. See the Player's Guide for the full system.
+
+Let players describe their actions as magical whenever they have a magical aspect and are rolling an appropriate skill. The fiction is theirs. Your job is to set appropriate difficulty and introduce costs on failures and ties.
 
 ### When Players Research or Create
 
@@ -1183,16 +1242,20 @@ Roll 4 Fate dice (4dF). Each die shows +1, 0, or -1. Add your skill rating.
 
 ### Quick Opposition Guidelines
 
-| Difficulty | When to Use |
-|------------|-------------|
-| +0 to +2 | Routine tasks, mook opposition |
-| +3 to +4 | Challenging, competent opposition |
-| +5 to +6 | Hard, expert opposition |
-| +7+ | Nearly impossible, legendary opposition |
+| Difficulty | Rating | When to Use |
+|------------|--------|-------------|
+| Trivial | Mediocre (+0) | No real challenge |
+| Routine | Fair (+2) | One reason it's tough |
+| Challenging | Good (+3) | Tough for professionals |
+| Hard | Great (+4) | Requires expertise |
+| Extreme | Superb (+5) | Needs aspect invokes |
+| Legendary | Fantastic (+6)+ | Needs serious preparation |
+
+Start at Fair (+2). Add +1 per complicating factor. Prefer aspects over difficulty bumps. Use active opposition when possible.
 
 ### Magic in Brief
 
-- **Narrative permission** comes from aspects and modes
+- **Narrative permission** comes from aspects (you need a magical aspect to cast magic)
 - **Use the four actions** with magical flavor
 - **Costs on ties/failures**: backfire, unwanted attention, collateral damage
 - **Signature Spells** are stunts that follow normal stunt rules

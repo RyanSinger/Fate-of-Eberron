@@ -48,536 +48,248 @@ The things that make Eberron different:
 
 Your character is defined by:
 
-- **Aspects**: Phrases describing who you are (5 total)
-- **Modes**: Bundles of skills reflecting your background (3 modes)
-- **Stunts**: Special tricks or abilities (3 free, buy more with refresh)
-- **Stress and Consequences**: How you absorb harm
-- **Refresh**: Your baseline fate points (starts at 3)
+- **Archetype**: What you do now. Defines your important skills, a signature stunt, and how you change the world at milestones.
+- **Background**: Where you come from and what you did before. Gives you a stunt and character-building questions.
+- **Species** (optional): If you're not human, an aspect and optional stunt.
+- **Charter**: Your party's shared stunt, reflecting your group's identity.
+- **Aspects**: Phrases describing who you are (5 total).
+- **Skills**: Arranged in a pyramid from Great (+4) down to Average (+1).
+- **Stunts**: Special tricks or abilities (3 at creation: one archetype, one background, one charter).
+- **Stress and Consequences**: How you absorb harm.
+- **Refresh**: Your baseline fate points (starts at 3).
 
-## Step 1: High Concept and Trouble
+## Step 1: Pick an Archetype
 
-Start with your **high concept**, a phrase that captures who your character fundamentally is.
+Your archetype defines what your character does now. Each archetype provides:
 
-> Examples: *Cynical Brelish War Veteran*, *Warforged Seeking Purpose*, *Morgrave Scholar with Xen'drik Fever*, *House Medani Inquisitive*
+- **Important Skills**: Three skills central to the archetype. These should guide your skill pyramid choices but don't restrict them.
+- **Stunts**: Three associated stunts. Pick one at character creation.
+- **Impact**: A unique way your character changes the campaign map at each major milestone.
 
-Then define your **trouble**, something that makes your life complicated.
+Pick an archetype from the list below, or create your own. A custom archetype needs: a name, three important skills, three associated stunts, and an impact.
 
-> Examples: *The War Isn't Over for Me*, *I Trust Too Easily*, *Debts to House Cannith*, *Hunted by the Aurum*
+| Archetype | Important Skills | Sample Stunts | Impact (at Major Milestones) |
+|-----------|-----------------|---------------|--------|
+| **Inquisitive** | Investigate, Notice, Contacts | Inquisitive's Eye, Scene Reconstruction, I Know a Guy | Add a contact or informant to the campaign map |
+| **Artificer** | Crafts, Lore, Investigate | Jury Rig, Maker's Eye, Improvised Device | Add a location tied to your work (workshop, dig site, client) |
+| **Mage** | Lore, Will, Shoot | Arcane Shield, Elemental Blast, Ward Specialist | Add a magical phenomenon or mystery to the campaign map |
+| **Priest** | Will, Empathy, Rapport | Divine Conviction, Healing Hands, Turn Undead | Add a community or congregation to the campaign map |
+| **Warrior** | Fight, Athletics, Physique | Combat Veteran, Shield Wall, Deadly Charge | Add a rival, enemy, or military contact to the campaign map |
+| **Face** | Rapport, Deceive, Contacts | Read the Room, Silver Tongue, Extensive Network | Add a faction relationship (ally, rival, or debt) to the campaign map |
+| **Spy** | Stealth, Deceive, Investigate | Dead Drop, Cover Identity, Shadow Network | Add a secret or hidden connection to the campaign map |
+| **Explorer** | Athletics, Notice, Will | Danger Sense, Trailblazer, Ruin Runner | Add a location (ruin, passage, landmark) to the campaign map |
+| **Pilot** | Drive, Crafts, Notice | Evasive Maneuvers, My Ship My Rules, Barnstormer | Add a route, port, or vehicle upgrade to the campaign map |
 
-## Step 2: Choose Three Modes
+### Multiple Archetypes
 
-Modes are bundles of skills that reflect your background, training, and expertise. You pick any three modes and rate them:
+Want to play a Mage who's also a Warrior? A Spy who's also a Face? You can combine two archetypes. Here's how:
 
-- One at **Good (+3)**
-- One at **Fair (+2)**
-- One at **Average (+1)**
-
-Each mode contains several skills. Your rating in a skill depends on:
-
-1. The mode's rating (Good, Fair, or Average)
-2. Whether you're **Trained** (+0), **Focused** (+1), or **Specialized** (+2) in that skill within the mode
-
-You get **improvement points** to spend within each mode:
-- **Good mode**: 3 points
-- **Fair mode**: 2 points
-- **Average mode**: 1 point
-
-That's **6 points total** across your three modes.
-
-Spend your points as follows:
-- **Focused** costs 1 point (+1 to skill)
-- **Specialized** costs 2 points (+2 to skill)
-- **Trained** is free (+0 to skill)
-
-All skills in a mode start as Trained. You can only have **one Specialized skill per mode**.
-
-If a skill appears in multiple modes, you take the highest rating. The overlap doesn't give a bonus; it just means the skill isn't wasted in the lower mode.
-
-> **Example**: Kaela picks Soldier (Good), Criminal (Fair), and Cyran (Average).
->
-> In Soldier mode (3 points), she makes Fight specialized (2 points) and Athletics focused (1 point).
->
-> In Criminal mode (2 points), she makes Stealth focused (1 point) and Burglary focused (1 point).
->
-> In Cyran mode (1 point), she makes Will focused (1 point).
->
-> Fight appears only in Soldier at Good +3, plus Specialized +2 = Superb (+5), exactly at the cap.
->
-> Athletics is in both Soldier and Criminal. Soldier gives Good +3 plus Focused +1 = Great (+4). Criminal gives Fair +2 plus Trained +0 = Fair (+2). She takes the higher: Great (+4).
-
-**Skill Cap**: No skill can exceed Superb (+5) at character creation.
-
-**The Modes**
-
-Modes are organized into three loose categories (**Origins**, **Backgrounds**, and **Callings**), but you can pick any three. A character could take three Origins, three Callings, or any mix.
+- **Important Skills**: Select a base archetype and copy over the important skills from the second archetype. Use the combined list when choosing your skill pyramid.
+- **Stunts**: Pick one stunt from each archetype at creation (instead of one from a single archetype).
+- **Impact**: At each major milestone, choose one of your two archetypes' impact actions.
+- **Refresh**: Reduce your starting refresh by one (from 3 to 2). Having two archetypes is powerful, and this is the cost.
 
 ---
 
-## Origins
+## Step 2: Pick a Background
 
-These modes reflect where you come from or what you fundamentally are.
+Your background defines where your character comes from and what they did before their current life. Each background provides:
 
-### Aundairian
+- **Important Skills**: Three skills central to the background.
+- **Stunts**: Three associated stunts. Pick one at character creation.
+- **Questions**: Prompts to help you flesh out your character's history and aspects.
 
-You hail from the nation of knowledge and magic.
+Pick a background from the list below, or create your own. A custom background needs: a name, three important skills, three associated stunts, and a set of character-building questions.
 
-**Skills**: Contacts, Deceive, Investigate, Lore, Rapport
+| Background | Important Skills | Sample Stunts | Questions to Consider |
+|-----------|-----------------|---------------|----------------------|
+| **Soldier** | Fight, Athletics, Provoke | War Stories, Battlefield Awareness, Brothers in Arms | Which nation did you serve? What did you see that changed you? Do you miss it? |
+| **Criminal** | Burglary, Stealth, Contacts | Underworld Connections, Case the Joint, Honor Among Thieves | Who do you still owe? What line won't you cross? Are you still in the life? |
+| **Scholar** | Lore, Investigate, Will | Obsessive Researcher, Ancient Languages, Theoretical Breakthrough | What's your field? What question drives you? What did you discover that scared you? |
+| **Noble** | Rapport, Resources, Contacts | Noble Bearing, Old Money, Political Favor | Is your family's influence a gift or a cage? What's expected of you? Who resents your privilege? |
+| **Entertainer** | Rapport, Deceive, Empathy | Play to the Crowd, Stage Presence, Read the Audience | What's your art? Where have you performed? What audience do you never want to face again? |
+| **Outlander** | Athletics, Notice, Physique | Survivor, Read the Wild, Hard to Kill | Where did you come from? Why did you leave? What about civilization confuses or disgusts you? |
+| **Street Urchin** | Stealth, Burglary, Notice | Rat Runner, Invisible in a Crowd, Scrappy Fighter | Who raised you, if anyone? What ward or district is yours? Who do you protect now? |
+| **Dragonmarked Heir** | Contacts, Resources, Rapport | House Connections, Mark Focus, Family Name | Which house? Are you loyal or rebellious? What does the house want from you that you're not willing to give? |
+| **Veteran Spy** | Deceive, Stealth, Investigate | Old Covers Still Work, Trust Issues, Burned but Not Forgotten | Which agency? Citadel? Trust? Royal Eyes? What secret do you carry? Are you still active? |
+| **Refugee** | Empathy, Will, Notice | Nothing Left to Lose, Community of Survivors, Keen Eye for Danger | What did you lose? Where are you from? What do you hold onto from the old life? |
 
-*Suggested Aspects*: *Arcanix Graduate*, *Aundairian Patriot*, *The Right Wine for Every Occasion*
+---
 
-*Suggested Stunts*:
-- **Arcane Education**: Because I studied at Arcanix, I get +2 to Lore when identifying magical effects or artifacts.
-- **Courtly Graces**: Because I was raised in Aundairian society, I can use Rapport instead of Deceive when navigating high society.
+## Step 2b: Species (Optional)
 
-### Brelish
+Most characters on Eberron are human. If you want to play a non-human species, take an aspect describing it (this counts as one of your five aspects) and optionally purchase a species stunt (costs 1 refresh).
 
-You're from the diverse, progressive nation of Breland.
+The aspect alone grants narrative permission for anything that species can naturally do. A Warforged aspect means you don't eat, sleep, or breathe. A Changeling aspect means you can shift your features. No stunt needed for these basic abilities.
 
-**Skills**: Contacts, Crafts, Deceive, Investigate, Resources
-
-*Suggested Aspects*: *Sharn Street Smart*, *Brelish Pragmatist*, *I Know a Guy*
-
-*Suggested Stunts*:
-- **I Know a Guy**: Because I have connections everywhere, I get +2 to Contacts when looking for someone who can help with a specific problem.
-- **Sharn Native**: Because I know Sharn's vertical geography, I can use Investigate instead of Athletics when navigating the city's towers and lifts.
-
-### Cyran
-
-You survived the destruction of your homeland. Cyre is gone, but you remain.
-
-**Skills**: Empathy, Lore, Notice, Rapport, Will
-
-*Suggested Aspects*: *Survivor of the Mourning*, *Cyre Lives in Me*, *I've Lost Everything Once Already*
-
-*Suggested Stunts*:
-- **Nothing Left to Lose**: Because I survived the Mourning, I get +2 to Will when resisting fear or intimidation.
-- **Cyran Solidarity**: Because refugees look out for each other, I get +2 to Rapport when dealing with fellow Cyran survivors.
-
-### Karrnathi
-
-You come from the militaristic nation that used undead soldiers in the war.
-
-**Skills**: Athletics, Fight, Physique, Provoke, Will
-
-*Suggested Aspects*: *Karrnathi Discipline*, *The Dead Served Beside Me*, *Cold as Karrnath*
-
-*Suggested Stunts*:
-- **Karrnathi Discipline**: Because I was raised with military precision, I get +2 to Will when resisting mental influence or distraction.
-- **Unflinching**: Because I fought alongside the undead, I can use Provoke instead of Will to resist fear caused by undead or horror.
-
-### Thrane
-
-You were raised in the theocracy devoted to the Silver Flame.
-
-**Skills**: Empathy, Lore, Notice, Provoke, Will
-
-*Suggested Aspects*: *Servant of the Silver Flame*, *Zealous but Righteous*, *The Flame Guides My Path*
-
-*Suggested Stunts*:
-- **Flame's Judgment**: Because I speak with the authority of the Silver Flame, I get +2 to Provoke when confronting those who serve darkness.
-- **Sense Corruption**: Because the Flame guides me, I get +2 to Empathy when detecting lies or evil intent.
-
-### Warforged
+The species stunt represents a mechanical advantage beyond narrative permission.
 
 ![A warforged veteran on a battlefield at dusk]({{ '/images/warforged-soldier.png' | relative_url }})
 
-You were built for war. Now you must find your own purpose.
+| Species | Aspect Grants (Narrative Permission) | Optional Stunt (Costs 1 Refresh) |
+|---------|-------------------------------------|----------------|
+| **Warforged** | Don't eat, sleep, or breathe. Resistant to poison and disease. Can be repaired instead of healed. | *Built for War*: Armor:1 against physical attacks. |
+| **Changeling** | Can shift features at will to match any humanoid. | *Perfect Mimic*: +2 to Deceive when impersonating a specific person you've studied. |
+| **Shifter** | Can briefly manifest bestial features (claws, enhanced senses, thick hide). | *Shifting*: Pick two skills when you take this stunt. Once per scene, you may swap their ratings for the rest of the scene. |
+| **Kalashtar** | Telepathic communication with willing targets. Resistance to dream invasion. | *Psychic Shield*: +2 to Will when defending against mental attacks from extraplanar entities. |
 
-**Skills**: Athletics, Crafts, Fight, Notice, Physique
-
-*Special*: As a warforged, you don't need to eat, sleep, or breathe. You can be repaired instead of healed. These are narrative truths, not mechanical bonuses.
-
-*Suggested Aspects*: *Built for War, Made for Peace*, *What Is My Purpose?*, *I Remember Every Battle*
-
-*Suggested Stunts*:
-- **Integrated Weapon**: Because I was built with a weapon, I get +2 to Fight when using my integrated blade or tool.
-- **Tireless Sentinel**: Because I don't sleep, I can use Notice instead of Will to stay alert during long watches or resist fatigue.
-
-### Changeling
-
-You can shift your appearance at will.
-
-**Skills**: Deceive, Empathy, Notice, Rapport, Stealth
-
-*Special*: You can change your appearance to any humanoid form you've studied. This is a narrative truth. You don't need to roll to change shape, but you might roll Deceive to maintain a persona under scrutiny.
-
-*Suggested Aspects*: *Many Faces, One Truth*, *Persona: [Name]*, *They Fear What They Don't Understand*
-
-*Suggested Stunts*:
-- **Perfect Mimic**: Because I can copy anyone, I get +2 to Deceive when impersonating a specific person I've studied.
-- **Read the Room**: Because I've learned to adapt to any social situation, I can use Empathy instead of Notice to detect social dangers or opportunities.
-
-### Shifter
-
-You carry lycanthropic heritage and can briefly shift to a more bestial form.
-
-**Skills**: Athletics, Empathy, Fight, Notice, Physique
-
-*Special*: Once per scene, you may shift to your bestial form. While shifted, you gain a boost related to your heritage (e.g., *Longtooth Strength*, *Swiftstride Speed*) that lasts until the scene ends.
-
-*Suggested Aspects*: *The Beast Within*, *Weretouched Heritage*, *Pack Loyalty*
-
-*Suggested Stunts*:
-- **Predator's Senses**: Because of my bestial nature, I get +2 to Notice when tracking by scent or hunting prey.
-- **Feral Instincts**: Because I trust my animal instincts, I can use Empathy instead of Notice to sense danger or ambushes.
-
-### Kalashtar
-
-You are bonded with a spirit from the plane of dreams.
-
-**Skills**: Empathy, Lore, Notice, Rapport, Will
-
-*Special*: You have innate psychic abilities. You can communicate telepathically with willing creatures you can see. You don't dream normally. You share a connection to Dal Quor that the Dreaming Dark would love to exploit.
-
-*Suggested Aspects*: *Two Souls, One Body*, *Hunted by the Dreaming Dark*, *Serenity Amid Chaos*
-
-*Suggested Stunts*:
-- **Psychic Shield**: Because my spirit protects my mind, I get +2 to Will when defending against mental attacks or intrusion.
-- **Dream Sight**: Because I perceive through two sets of senses, I can use Empathy instead of Notice to detect psychic or supernatural presences.
+Other species exist on Eberron (gnomes, elves, halflings, orcs, goblinoids). For these, take a descriptive aspect and work with your GM on a species stunt if one makes sense. Not every species needs a mechanical distinction. An elf's long life and keen senses are narrative color, not a stunt.
 
 ---
 
-## Backgrounds
+## Step 3: Write Your Aspects
 
-These modes reflect what you did before your current life.
+Your character has five aspects. Build them during creation, refine them in play.
 
-### Soldier
+### High Concept
 
-You served in the Last War.
+A broad description combining your archetype, background, species, and anything else that captures who you are at a glance. This is how you'd pitch the character to a friend.
 
-**Skills**: Athletics, Fight, Notice, Physique, Shoot
+> Examples: *Cyran Refugee Turned Sharn Inquisitive*, *Warforged Artificer Seeking a Soul*, *Karrnathi Noble Playing Both Sides*, *Phiarlan Spy Who Fell in Love*
 
-*Suggested Aspects*: *Hundred-Year War Veteran*, *I've Seen Things*, *Brothers and Sisters in Arms*
+### Motivation
 
-*Suggested Stunts*:
-- **Combat Reflexes**: Because I've been in countless battles, when my side has initiative advantage at the start of a conflict, I can go first before the group decides.
-- **Battlefield Awareness**: Because I'm trained to read the flow of combat, I can use Fight instead of Notice to spot tactical opportunities or dangers.
+Why your character acts. This should push you into action, even when it's risky. Think of it as your trouble's proactive twin: not just what makes your life complicated, but what you can't stop yourself from doing about it.
 
-### Criminal
+> Examples: *I Won't Let What Happened to Cyre Happen Again*, *Someone Has to Stop House Cannith*, *The Truth Is Worth Any Price*, *I Will Earn My Place Among the Living*
 
-You operated outside the law.
+### Background
 
-**Skills**: Burglary, Contacts, Deceive, Stealth, Notice
+Where you grew up, the community that shaped you, and the values you carry (or reject). Use your background's character-building questions to inspire this.
 
-*Suggested Aspects*: *Boromar Clan Connections*, *I Know Every Back Alley in Sharn*, *Honor Among Thieves*
+> Examples: *Proud Karrnathi, Ashamed of What We Did*, *Lower Dura Born, Lower Dura Loyal*, *Aundairian Patriot in Exile*
 
-*Suggested Stunts*:
-- **Case the Joint**: Because I know how to spot vulnerabilities, I get +2 to Notice when looking for security weaknesses or escape routes.
-- **Underworld Contacts**: Because I know the criminal element, I can use Contacts instead of Investigate when gathering information about illegal activities.
+### Relationship
 
-### Scholar
+Your dynamic with another PC. If you have an even number of players, link in pairs. An odd number means one character links to two others.
 
-You pursued knowledge at a university or library.
+Bond types to consider: best friends, siblings in arms, mentor and protege, love interest, rivals, former enemies, debtor and creditor.
 
-**Skills**: Contacts, Investigate, Lore, Notice, Will
+> Examples: *She Saved My Life in the Mournland and I Still Don't Know Why*, *We Served in the Same Unit but on Different Sides*, *I Owe Them Everything and They Won't Let Me Forget It*
 
-*Suggested Aspects*: *Morgrave University Researcher*, *Knowledge Is Worth Any Price*, *I Read About This Once*
+Each player in the pair can interpret the relationship differently. One might write *Like a Daughter to Me* while the other writes *Reminds Me of the Father I Lost*. Different perspectives on the same bond create drama.
 
-*Suggested Stunts*:
-- **I Read About This**: Because I've studied widely, I get +2 to Lore when recalling relevant historical or cultural information.
-- **Research Expert**: Because I know how to dig through archives, I get +2 to Investigate when searching documents, libraries, or records.
+### Free Aspect
 
-### Noble
+Anything else important about your character. A signature weapon, a personality trait, a secret, a catchphrase, an obligation.
 
-You were born into privilege.
+> Examples: *My Father's Byeshk Blade*, *Trust Is a Luxury I Can't Afford*, *Runaway Runekeeper*, *I'm Gorgeous (and I Know It)*
 
-**Skills**: Contacts, Deceive, Empathy, Rapport, Resources
-
-*Suggested Aspects*: *ir'[Name] Family Scion*, *Noblesse Oblige*, *I Know Everyone Who Matters*
-
-*Suggested Stunts*:
-- **Noble Bearing**: Because I carry myself like the noble I am, I get +2 to Rapport when first impressions matter.
-- **Call in a Favor**: Because I have powerful connections, I can use Contacts instead of Resources when acquiring something through social leverage.
-
-### Entertainer
-
-You performed for crowds, or for marks.
-
-**Skills**: Athletics, Deceive, Empathy, Rapport, Provoke
-
-*Suggested Aspects*: *House Phiarlan Performer*, *The Show Must Go On*, *Everyone Loves to Watch*
-
-*Suggested Stunts*:
-- **Captivate the Crowd**: Because I know how to hold an audience, I get +2 to Rapport when performing or giving a speech.
-- **Read the Audience**: Because I've learned to sense what people want, I can use Empathy instead of Deceive to figure out what lie someone wants to hear.
-
-### Outlander
-
-You grew up far from civilization.
-
-**Skills**: Athletics, Crafts, Notice, Physique, Stealth
-
-*Suggested Aspects*: *Eldeen Reaches Druid's Apprentice*, *The Wild Is My Home*, *Civilization Is the True Wilderness*
-
-*Suggested Stunts*:
-- **Wilderness Survival**: Because I grew up in the wild, I get +2 to Crafts when foraging, building shelter, or surviving in nature.
-- **One with Nature**: Because I understand the natural world, I can use Notice instead of Empathy when reading the behavior of animals.
-
-### Street Urchin
-
-You survived on the streets.
-
-**Skills**: Athletics, Burglary, Notice, Stealth, Will
-
-*Suggested Aspects*: *Lower Menthis Survivor*, *Nobody Sees the Beggars*, *I've Been Hungry Before*
-
-*Suggested Stunts*:
-- **Slip Away**: Because I've escaped trouble my whole life, I get +2 to Athletics when fleeing or escaping pursuit.
-- **Invisible in Plain Sight**: Because nobody notices the poor, I can use Stealth instead of Deceive when blending into crowds or being overlooked.
-
-### Dragonmarked Heir
-
-You carry a dragonmark and were raised in a House.
-
-**Skills**: Contacts, Deceive, Lore, Rapport, Resources
-
-*Special*: You should also take a dragonmark aspect and may take dragonmark stunts (see the [Dragonmarks](#dragonmarks) section).
-
-*Suggested Aspects*: *Heir to House [Name]*, *The Mark Chose Me*, *House Politics Are Cutthroat*
-
-*Suggested Stunts*:
-- **House Connections**: Because I was raised in a dragonmarked house, I get +2 to Contacts when dealing with house members or house business.
-- **Mark Lore**: Because I was taught about dragonmarks, I get +2 to Lore when recalling information about dragonmarks, their history, or their powers.
-
----
-
-## Callings
-
-These modes reflect what you do now: your current role or profession.
-
-### Inquisitive
-
-You solve mysteries and find the truth.
-
-**Skills**: Contacts, Empathy, Investigate, Notice, Rapport
-
-*Suggested Aspects*: *Private Eye for Hire*, *The Truth Is Always Complicated*, *I Notice Things*
-
-*Suggested Stunts*:
-- **Crime Scene Expert**: Because I've investigated hundreds of cases, I get +2 to Investigate when examining a location where a crime occurred.
-- **Read Between the Lines**: Because I know when people are hiding something, I can use Investigate instead of Empathy to detect lies during an interview.
-
-### Artificer
-
-You create and repair magical devices.
-
-**Skills**: Crafts, Investigate, Lore, Notice, Resources
-
-*Special*: You can use the Invention rules to create magical items (see Magic and Artifice).
-
-*Suggested Aspects*: *If I Can't Fix It, It Can't Be Fixed*, *Magic Is Just Engineering*, *My Workshop Is My Temple*
-
-*Suggested Stunts*:
-- **Jury-Rig**: Because I can make anything work, I get +2 to Crafts when making emergency repairs under time pressure.
-- **Analyze Device**: Because I understand how things work, I can use Crafts instead of Investigate when examining magical or mechanical devices.
-
-### Mage
-
-You study and wield arcane power.
-
-**Skills**: Investigate, Lore, Notice, Will, Empathy
-
-*Special*: You should take an aspect reflecting your magical training (see Magic and Artifice).
-
-*Suggested Aspects*: *Aundairian War Mage*, *Morgrave Arcanist*, *Magic Flows Through Me*, *Pact with a Quori Spirit*, *The Traveler Whispers to Me*, *I Bargained with Something in Khyber*
-
-*Suggested Stunts*:
-- **Arcane Shield**: Because I can conjure protective wards, I can use Will instead of Athletics to defend against magical attacks.
-- **Identify Magic**: Because I'm trained in the arcane arts, I get +2 to Lore when analyzing spells, enchantments, or magical phenomena.
-
-### Priest
-
-You serve a faith and channel divine power.
-
-**Skills**: Empathy, Lore, Notice, Rapport, Will
-
-*Special*: Your faith grants narrative permission to invoke divine aid.
-
-*Suggested Aspects*: *Vassal of the Sovereign Host*, *The Silver Flame Burns Within*, *Undying Court's Chosen*
-
-*Suggested Stunts*:
-- **Words of Comfort**: Because I speak with spiritual authority, I get +2 to Rapport when calming the frightened or grieving.
-- **Shield of Faith**: Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks.
-
-### Warrior
-
-You excel at combat.
-
-**Skills**: Athletics, Fight, Notice, Physique, Shoot
-
-*Suggested Aspects*: *Blade for Hire*, *The Best Defense Is a Good Offense*, *I Don't Start Fights, I Finish Them*
-
-*Suggested Stunts*:
-- **Signature Weapon**: Because I've mastered my weapon of choice, I get +2 to Fight when using [specific weapon type].
-- **Combat Assessment**: Because I know how to read a fight, I can use Fight instead of Empathy to gauge an opponent's skill and intentions.
-
-### Face
-
-You're the one who does the talking.
-
-**Skills**: Contacts, Deceive, Empathy, Provoke, Rapport
-
-*Suggested Aspects*: *I Can Talk My Way Out of Anything*, *Everyone's Got a Price*, *A Smile Is Just Another Weapon*
-
-*Suggested Stunts*:
-- **Silver Tongue**: Because I always know what to say, I get +2 to Rapport when negotiating or making deals.
-- **Cutting Remark**: Because I know how to hurt with words, I can use Provoke instead of Fight to make mental attacks in social conflicts.
-
-### Spy
-
-You gather information and work in shadows.
-
-**Skills**: Burglary, Deceive, Investigate, Notice, Stealth
-
-*Suggested Aspects*: *King's Dark Lantern*, *Trust No One*, *I Was Never Here*
-
-*Suggested Stunts*:
-- **Dead Drop**: Because I know tradecraft, I get +2 to Stealth when passing messages or items without being observed.
-- **Cover Identity**: Because I maintain false personas, I can use Deceive instead of Contacts when leveraging a cover identity's network.
-
-### Explorer
-
-You venture into dangerous places seeking treasure and knowledge.
-
-**Skills**: Athletics, Drive, Investigate, Lore, Notice
-
-*Suggested Aspects*: *Xen'drik Expedition Veteran*, *Fortune Favors the Bold*, *Every Ruin Has Secrets*
-
-*Suggested Stunts*:
-- **Trap Sense**: Because I've survived countless ruins, I get +2 to Notice when detecting traps or hazards.
-- **Ancient Languages**: Because I've studied dead civilizations, I get +2 to Lore when deciphering ancient writings, symbols, or languages.
-
-### Pilot
-
-You operate airships, lightning rails, or other vehicles.
-
-**Skills**: Athletics, Crafts, Drive, Notice, Will
-
-*Suggested Aspects*: *Lyrandar Airship Captain*, *I Can Fly Anything*, *The Sky Is My Home*
-
-*Suggested Stunts*:
-- **Evasive Maneuvers**: Because I'm an expert pilot, I get +2 to Drive when defending my vehicle against attacks or hazards.
-- **Feel the Machine**: Because I understand my vehicle intimately, I can use Drive instead of Crafts to diagnose mechanical problems while in operation.
-
-### Creating Custom Modes
-
-If no existing mode fits your concept, create your own.
-
-**Step 1: Name and Concept**
-
-Give your mode a name that captures its essence. A mode represents a coherent set of capabilities: what someone *is*, *was*, or *does*.
-
-**Step 2: Choose 5 Skills**
-
-Pick 5 skills that make sense for the mode. The skills should hang together thematically.
-
-- Think about what someone with this mode would be good at
-- Include at least one "active" skill (Fight, Shoot, Athletics) and one "social" or "mental" skill for breadth
-- Avoid modes that are just "5 combat skills" or "5 social skills." That's min-maxing, not a character concept
-
-**Step 3: Add Flavor**
-
-Write two or three suggested aspects and two suggested stunts that fit the mode. This helps communicate what the mode is about and gives players a starting point.
-
-> **Example Custom Mode: Morgrave Scholar**
->
-> You study ancient history and lost civilizations at Morgrave University.
->
-> **Skills**: Contacts, Investigate, Lore, Notice, Resources
->
-> *Suggested Aspects*: *Morgrave University Professor*, *I've Read About This*, *Academic Rivals Are the Worst*
->
-> *Suggested Stunts*:
-> - **Expedition Contacts**: Because I've funded digs across Xen'drik, I get +2 to Contacts when dealing with explorers or antiquarians.
-> - **Appraise Artifact**: Because I know relics, I can use Lore instead of Resources to determine an artifact's value.
-
-> **Example Custom Mode: Daask Enforcer**
->
-> You work for the monstrous crime syndicate.
->
-> **Skills**: Athletics, Fight, Provoke, Notice, Physique
->
-> *Suggested Aspects*: *Droaam's Reach in Sharn*, *Fear Is a Tool*, *Monster Among Humans*
->
-> *Suggested Stunts*:
-> - **Monstrous Reputation**: Because Daask is feared, I get +2 to Provoke when intimidating through threat of violence.
-> - **Droaam Tough**: Because I was raised among monsters, I can use Physique instead of Will to resist fear or intimidation.
-
-**For GMs: Quick NPC Modes**
-
-When building NPCs, you can create modes on the fly. A mode is just "5 skills that make sense together." Don't overthink it.
-
-- **Sharn Watch Guard**: Athletics, Fight, Notice, Physique, Shoot
-- **Boromar Smuggler**: Burglary, Contacts, Deceive, Notice, Stealth
-- **Emerald Claw Knight**: Athletics, Fight, Lore, Physique, Will
-
----
-
-## Step 3: Remaining Aspects
-
-You have three more aspects to define:
-
-- **Relationship**: A connection to another PC. Good relationships have built-in tension or imbalance.
-- **Two Free Aspects**: Anything important about your character: beliefs, important items, connections, or history.
+**Tip**: If all your aspects are positive, adding a negative or mixed free aspect gives you more compel opportunities, which means more fate points.
 
 ### What Makes a Good Aspect?
 
-Think about what you'd want to see in a story about your character. Good aspects do one or more of these things:
+Good aspects are **double-edged**. They help you AND create complications. *Loyal to House Cannith* gets you resources and connections, but it also means the House can call in favors, drag you into politics, or put you in conflict with your friends.
 
-**Grant Permission**: Let you do things most people can't. *Member of the King's Dark Lanterns* lets you access intelligence networks. *Trained at Rekkenmark Academy* means you know military secrets.
+Good aspects are **specific**. *Strong* is boring. *Strongest Dockworker in Cliffside* tells a story.
 
-**Make You Awesome**: Ensure success when it matters. *Never Miss a Shot* helps when everything's on the line. *The Best Swordsman in Sharn* means something in a duel.
-
-**Create Complications**: Invite trouble that makes the story interesting. *Wanted by House Tarkanan* means assassins show up. *Can't Resist a Challenge* means you take bad bets.
-
-**Build Setting**: Connect you to Eberron's world. *Cyran Refugee* places you in the setting's tensions. *The Chamber Is Watching Me* suggests draconic plots.
-
-**Avoid aspects that duplicate skills.** You don't need *Good at Fighting*. That's what the Fight skill is for. Instead, *Karrnathi Swordsmanship* suggests specific training, cultural ties, and potential complications (Karrnath's enemies, undead associations).
-
-### Eberron-Specific Ideas
-
-- Your relationship to the Last War
-- Connections to organizations (dragonmarked houses, criminal syndicates, governments, religions)
-- Important items or heirlooms
-- Personal goals or secrets
-
-> Examples: *My Sword Belonged to a Cyran Hero*, *The Boromar Clan Owes Me a Favor*, *I'm Looking for My Missing Brother*, *The Mourning Took Everything but My Rage*
+Good aspects are **true**. Once you write it down, it's a fact about the world. *I Know Everyone in Lower Dura* means you actually do. The GM will hold you to it, and reward you for it.
 
 ---
 
-## Step 4: Stunts
+## Step 4: Assign Your Skills
 
-You get three free stunts. You may buy additional stunts by spending 1 refresh each (minimum 1 refresh).
+Arrange your skills in a pyramid with the highest rated skill at Great (+4):
 
-Stunts follow two basic templates:
+- 1 Great (+4) skill
+- 2 Good (+3) skills
+- 3 Fair (+2) skills
+- 4 Average (+1) skills
+- All other skills at Mediocre (+0)
 
-### Bonus Stunts
+Your archetype and background important skills should guide your choices but don't restrict them. A Warrior with Fight, Athletics, and Physique as important skills might still put Contacts at Great (+4) because this particular warrior is a well-connected veteran, not a brute.
 
-**Because I [describe something special about you], I get +2 when I use [skill] to [action] when [specific circumstance].**
+**The 18 skills:** Athletics, Burglary, Contacts, Crafts, Deceive, Drive, Empathy, Fight, Investigate, Lore, Notice, Physique, Provoke, Rapport, Resources, Shoot, Stealth, Will. See the Quick Reference at the end of this guide for descriptions of each.
 
-> *Because I **was a Brelish reconnaissance scout**, I get +2 when I use **Notice** to **create an advantage** when **observing enemy positions**.*
+---
 
-> *Because I **studied at Arcanix**, I get +2 when I use **Lore** to **overcome** when **identifying magical effects**.*
+## Step 5: Pick Your Stunts
 
-### Rule-Changing Stunts
+Stunts are special abilities that make your character unique. They break the normal rules in narrow, interesting ways. Each stunt falls into one of seven patterns.
 
-**Because I [describe something special about you], I can [describe what you can do], but only [limitation].**
+### 1. Skill Bonus (Narrow +2)
 
-> *Because I **don't sleep**, I can **stay alert during long watches without penalty**, but only **when guarding something important**.*
+> Because I [reason], I get +2 to [skill] when [specific situation].
 
-> *Because I **have contacts in every tavern**, I can **use Contacts instead of Investigate** to **gather rumors**, but only **in urban settings**.*
+- *Sharn Street Rat*: Because I grew up in the lower wards, I get +2 to Notice when spotting danger in Sharn's undercity.
+- *Veteran Interrogator*: Because I served in Karrnathi intelligence, I get +2 to Empathy when questioning someone I suspect of lying.
 
-### Sample Stunts
+### 2. Skill Substitution
 
-**Armor of Faith**: Because of my unwavering belief in the Silver Flame, I can use Will instead of Physique to determine my physical stress boxes.
+> Because I [reason], I can use [Skill A] instead of [Skill B] when [specific situation].
 
-**Deadly Sniper**: Because I trained as a Karrnathi sharpshooter, I get +2 to Shoot attacks when I have taken time to aim (spent an action to create an advantage first).
+- *Deft Hands*: Because I'm a trained pickpocket, I can use Burglary instead of Fight to defend against grab attempts.
+- *Inquisitive's Eye*: Because I notice what others miss, I can use Investigate to defend against ambushes and traps instead of Notice.
 
-**Inquisitive's Eye**: Because I've investigated hundreds of crime scenes, I get +2 to Investigate when examining a location where violence occurred.
+### 3. Once Per Session Effect
 
-**Lightning Reflexes**: Because I have honed battlefield instincts, I can use Notice instead of Athletics to defend against surprise attacks.
+> Because I [reason], once per session I can [powerful effect].
 
-**War Machine**: Because I am a warforged built for battle, once per session I can ignore a mild consequence from physical damage.
+- *Healing Touch (House Jorasco)*: Because I bear the Mark of Healing, once per session I can clear a mild physical consequence on a person I touch by rolling Empathy against Fair (+2).
+- *Changeling Vanish*: Because I can shift my features instantly, once per session I can disappear into a crowd by becoming someone else, escaping a scene without a roll.
+
+### 4. Fate Point Powered
+
+> Because I [reason], I can spend a fate point to [dramatic effect].
+
+- *Call Lightning (Mark of Storm)*: Because I bear the Mark of Storm, I can spend a fate point to make a zone attack with Shoot against every target in an outdoor zone.
+- *Warforged Resilience*: Because my body is built for war, I can spend a fate point to ignore all stress from a single physical attack.
+
+### 5. Conditional Permission
+
+> Because I [reason], I can [action normally not allowed] when [condition].
+
+- *Silver Flame Exorcist*: Because I trained to fight possessing spirits, I can use Will to make mental attacks against entities from other planes.
+- *Lightning Reflexes*: Because I have honed battlefield instincts, I can use Notice instead of Athletics to defend against surprise attacks.
+
+### 6. Teamwork / Altruistic
+
+> When I'm in [situation] with an ally, they gain +2 to [skill] when [action].
+
+- *Watch Each Other's Backs*: When I'm in the same zone as an ally in a fight, they gain +2 to Athletics when defending against ranged attacks.
+- *Inspiring Presence*: When I lead a charge, allies in my zone gain +2 to Will when defending against fear or intimidation.
+
+### 7. Personal Hardware
+
+Your character has an iconic possession. Pick two options from the list below. If two isn't enough, take this stunt again for a different item.
+
+**Options (pick two):**
+- +1 to one situational application of one skill
+- Weapon:2 (add 2 shifts to successful attacks with this item)
+- Armor:1 (reduce incoming physical stress by 1)
+- Add a new action to a skill (once per session)
+
+Non-mechanical capabilities come free if they make fictional sense. A sending stone lets you communicate at distance. A featherfall token lets you survive a fall. No roll needed unless the situation is risky.
+
+**Eberron examples:**
+- *Cannith Repeating Crossbow*: Weapon:2, +1 to Shoot when laying down suppressive fire
+- *Darkleaf Weave Armor*: Armor:1, +1 to Stealth when moving quietly
+- *Docent (Warforged)*: +1 to Lore when recalling historical facts, once per session can use Lore to create an advantage representing tactical analysis from the docent's memory
+- *Jorasco Healing Kit*: +1 to Empathy when treating physical consequences, once per session can use Empathy as an overcome to stabilize a character who was taken out
+- *Tharashk Dragonshard Focus*: Weapon:2 on magical attacks, +1 to Notice when tracking a specific target
+
+### Stunt Design Guidance
+
+- If your stunt would work in every situation, it's too broad. Narrow it.
+- If your stunt would never come up, it's too narrow. Broaden it.
+- Skill substitution stunts don't need extra limits if the substitution is already situational.
+- Stunts that cost a fate point can be more dramatic than free stunts.
+- When in doubt, model it on an existing stunt and change the fiction.
+- Personal Hardware fills the gap between "I just have a sword" (narrative permission, no stunt needed) and "I have a legendary Dhakaani blade" (should be an aspect AND a stunt).
+
+### Three Starting Stunts
+
+At creation, pick three stunts, one from each source:
+
+- One **archetype stunt** (from your archetype's list or create your own)
+- One **background stunt** (from your background's list or create your own)
+- One **charter stunt** (from your group's charter; see the Charter section)
+
+You can buy additional stunts by spending refresh (1 refresh per extra stunt, minimum refresh of 1). If you took a species stunt, that also costs 1 refresh.
+
+### Refresh
+
+Your refresh starts at 3. This is the minimum number of fate points you begin each session with. Reduce it by 1 for each stunt beyond your starting three, and by 1 if you took a species stunt.
 
 ---
 
@@ -690,19 +402,161 @@ Having the dragonmark aspect grants narrative permission to use your mark's basi
 
 ---
 
+## Your Charter
+
+A Charter is the party's shared identity: who they are together, where they operate, who they know, and who wants to stop them. Every group builds one during Session Zero.
+
+### Charter Components
+
+| Component | What It Is | What You Create |
+|-----------|-----------|-----------------|
+| **Framework** | The type of campaign | Pick one: Agency, Expedition, Cell, Salvage Crew, House Operatives |
+| **Territory** | Where the action happens | A region with one or two issue aspects |
+| **Headquarters** | Where the party is based | A location with a high concept and one aspect |
+| **Community** | The people you care about and protect | A group with a high concept and a values aspect |
+| **Patron or Contact** | The NPC who connects you to work | A name, high concept, one skill at Fair (+2)+ |
+| **Antagonist** | The recurring opposition you've already tangled with | A name, high concept, and motivation |
+| **Reputation** | What people say about you | A party name and reputation aspect |
+
+### Framework Examples
+
+**Agency** (Inquisitive shop):
+- Territory: A Sharn ward or district
+- HQ: Ramshackle office in Callestan, Lower Dura. *Aspect: Everyone Knows Where to Find Us*
+- Community: The working people of Lower Dura who can't afford the Watch's attention
+- Antagonist: A Boromar underboss who you've crossed before
+
+**Expedition** (Xen'drik explorers):
+- Territory: A stretch of Xen'drik coastline or interior
+- HQ: A chartered ship docked at Stormreach. *Aspect: Our Funding Depends on What We Bring Back*
+- Community: The crew and scholars aboard the ship
+- Antagonist: A rival Morgrave expedition with fewer scruples
+
+**Cell** (Shadow war / resistance):
+- Territory: A nation or occupied territory
+- HQ: A safehouse that changes every few sessions. *Aspect: If They Find This Place, We're Done*
+- Community: A network of sympathizers and informants
+- Antagonist: A Citadel handler who's hunting you, or a Trust agent
+
+**Salvage Crew** (Mournland operations):
+- Territory: The border towns and the Mournland interior
+- HQ: A fortified camp outside the dead gray mist. *Aspect: Last Stop Before the Nothing*
+- Community: Other salvagers, refugees, border town locals
+- Antagonist: A Lord of Blades lieutenant, or a living spell that seems to follow you
+
+**House Operatives** (Dragonmarked intrigue):
+- Territory: Multiple cities connected by House interests
+- HQ: A House enclave or satellite office. *Aspect: The House Provides, the House Expects*
+- Community: House heirs, workers, and allies caught in internal politics
+- Antagonist: A rival faction within your own House
+
+### Charter Stunts
+
+Each framework has associated charter stunts. When creating your character, pick one from your framework's list or create your own.
+
+**Agency Stunts:**
+- *We Know This Town*: When investigating in our territory, the party gains +2 to Contacts when looking for witnesses or informants.
+- *The Office Never Closes*: Once per session, a client or contact shows up at HQ with a lead, creating a situation aspect with a free invoke.
+- *Street Cred*: When our reputation is known, gain +2 to Rapport with locals who've heard of us.
+
+**Expedition Stunts:**
+- *Provisioned for Anything*: Once per session, a party member can declare they packed a useful non-magical item, creating a situation aspect with a free invoke.
+- *Seasoned Explorers*: When navigating unknown terrain together, the lead explorer gains +2 to Investigate or Notice.
+- *Shared Field Notes*: When one party member succeeds with style on a Lore or Investigate roll related to ruins or artifacts, another party member gains a boost.
+
+**Cell Stunts:**
+- *Safe House Protocol*: When the party retreats to their HQ, each member clears one additional stress box.
+- *Dead Drops*: Once per session, a party member can use Contacts to receive intelligence from the network without being seen.
+- *Ghosts in the Machine*: When operating covertly as a group, gain +2 to Stealth against organized opposition.
+
+**Salvage Crew Stunts:**
+- *Mournland Survival Instinct*: When in the Mournland, the party gains +2 to Notice against environmental hazards.
+- *Scavenger's Eye*: Once per session, a party member can declare that a piece of salvage they recovered is useful right now, creating a situation aspect with a free invoke.
+- *Nobody Left Behind*: When a party member is taken out, another party member in the same zone can spend a fate point to convert the taken out result to a severe consequence instead.
+
+**House Operative Stunts:**
+- *House Resources*: Once per session, a party member can use the House's resources to gain +2 to Resources for a single roll.
+- *Internal Contacts*: When dealing with members of your own House, gain +2 to Contacts.
+- *The House Remembers*: When an NPC who has previously interacted with the party encounters them again, the party starts with a boost representing the House's reputation.
+
+### Building the Charter (Session Zero)
+
+Before building the Charter, fill out the **Story Elements worksheet** as a group (see the [GM Toolkit]({{ '/toolkit' | relative_url }})). Establish your inspirations, sort the Eberron story ingredients into keepers, deal breakers, and conditionals, and write your campaign aspects. Then build the Charter:
+
+1. **Pick a framework.** Discuss what kind of campaign excites the group.
+2. **Define territory.** Pick or create a region. Write one or two issue aspects describing what's wrong there now. For the full region building system (sites, networks, power scale), see the [GM Toolkit]({{ '/toolkit' | relative_url }}).
+3. **Create headquarters.** Name it, give it a high concept and one aspect. Start humble. The HQ can improve at major milestones.
+4. **Define community.** Who are the people you care about? Give them a high concept and a values aspect. These values may align with or challenge the PCs' own beliefs.
+5. **Create a patron or contact.** The NPC who brings you work, passes along information, or gives orders. Name, high concept, one relevant skill at Fair (+2) or higher.
+6. **Create an antagonist.** Someone you've already clashed with. Not the campaign's final villain, but a persistent mid-level threat. Name, high concept, motivation.
+7. **Name yourselves and write a reputation aspect.** Assume you've been together for a while with at least one victory and one failure behind you. Mixed reputations work best for longer campaigns.
+
+### Charter Advancement
+
+At major milestones, the group can:
+- Improve a community aspect
+- Upgrade headquarters (add a new aspect or improve the high concept)
+- Change the reputation aspect
+- Change the framework if the campaign shifts direction
+
+---
+
 ## Magic and Artifice
 
-Magic in Eberron is everywhere but powerful magic is rare. There are two ways to use magic in play:
+Magic in Eberron is everywhere, but powerful magic is rare. Your character needs a magical aspect (high concept, free aspect, or species aspect) to use magic at all. Without one, you're a mundane person in a magical world.
 
-### Narrative Magic
+Magic uses the same four actions as everything else. The difference is in how lasting and powerful the effect is.
 
-If you have an aspect that establishes magical ability (such as *Morgrave-Trained Wizard*, *Kalashtar Mindlink*, *Servant of the Silver Flame*, or a dragonmark), you can describe any skill roll as being accomplished through magic.
+### Two Gears of Magic
 
-When you use Lore to create an advantage, you might describe it as casting a divination spell. When you use Will to defend, you might describe a magical shield. When you Attack with Fight, you might describe a flaming sword.
+| What You Want | How It Works | Duration |
+|---------------|-------------|----------|
+| Temporary tactical effect | Create Advantage (situation aspect) | Scene, or until overcome |
+| Lasting effect on a target | Attack (consequence) | Consequence recovery timeline |
+| Repeatable signature ability | Stunt (see Signature Spells below) | Permanent (per stunt limits) |
+| Collaborative ritual/research | Brainstorm (see below) | Until the problem is solved |
+| Crafted magical item | Invention (see below) | Permanent until broken/lost |
 
-The mechanics don't change. You're still rolling the appropriate skill. Magic is the narrative "how," not a separate system.
+**Create Advantage** is the default for most magical actions. A mage uses Lore to create the aspect *Blinding Light*. A priest uses Will to create *Shield of the Silver Flame*. An artificer uses Crafts to create *Smoke Bomb Deployed*. These are powerful and flexible, but temporary and removable with a standard overcome action. This is the minor power level of magic: useful, tactical, and easy to produce.
 
-**What Magic Can't Do**: Your magical description can't exceed what the skill normally allows. Rolling Lore doesn't let you attack (unless you have a stunt that permits it). Magic provides flavor and permission, not new capabilities.
+**Consequential magic** is for when magic attacks or creates lasting effects.
+
+### Consequential Magic: Four Channels of Attack
+
+| Channel | Skill | Defense | When to Use |
+|---------|-------|---------|-------------|
+| Precise | Shoot | Athletics | Target can physically dodge the effect (bolt of lightning, ray of frost, force missile) |
+| Coercive | Provoke | Will | Target resists mentally (fear, domination, psychic assault, compulsion) |
+| Subtle | Deceive | Empathy | Target doesn't realize they're being affected (illusions, charms, suggestion) |
+| Unresisted | Lore or Crafts | Passive difficulty | Target is an object, zone, willing subject, or unable to resist |
+
+Lore and Crafts both work for unresisted magic. Lore channels through knowledge and incantation; Crafts channels through artifice and inscription. An Artificer wards a door with Crafts. A Mage wards it with Lore. Same result, different fiction.
+
+### Consequences as Spell Effects
+
+When a magical attack forces a consequence, that consequence IS the spell effect. The consequence's recovery timeline is the spell's duration.
+
+| Consequence | Shifts to Inflict | Duration | Example |
+|-------------|-------------------|----------|---------|
+| Mild (2) | 2 beyond stress | Clears 1 scene after treatment | *Magical Sleep*, *Momentary Blindness* |
+| Moderate (4) | 4 beyond stress | Clears 1 session after treatment | *Phiarlan Glamour: Wrong Face*, *Dreambound* |
+| Severe (6) | 6 beyond stress | Clears 1 scenario after treatment | *Mournland Corruption*, *Soul Anchored* |
+
+### Consented / Beneficial Magic
+
+When a target welcomes the effect (buffing allies, shapeshifting yourself), they skip the attack roll and simply accept the consequence at the desired severity. The consequence slot is occupied, which is the real cost: a warded character is harder to hurt with further magic but also more fragile if physically attacked.
+
+Examples: *Shapechanged: Hawk Form*, *Warded Against Scrying*, *Blessing of the Silver Flame*.
+
+### Treatment / Dispelling
+
+Same as normal consequence recovery. Lore always works for treating magical consequences, in addition to the usual Empathy for mental and appropriate skills for physical. Difficulty follows the standard: Fair (+2) for mild, Great (+4) for moderate, Fantastic (+6) for severe. Self-treatment adds +2 to difficulty.
+
+When treatment succeeds, rename the consequence to reflect recovery. *Magical Sleep* becomes *Groggy and Sluggish*. *Dreambound* becomes *Lingering Dream Fragments*. The renamed aspect can still be invoked and compelled until it fully clears.
+
+### Wards and Persistent Effects (Bronze Rule)
+
+Objects and locations can take consequences via the Bronze Rule. A warded door, a cursed room, an enchanted bridge. The GM sets passive difficulty for the Lore or Crafts roll. The caster chooses the severity of consequence to impose, which determines total shifts needed (the object's stress boxes + consequence absorption). Creating powerful wards requires preparation through create advantage actions first.
 
 ### Brainstorms: Solving Magical Problems
 
@@ -722,11 +576,11 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 >
 > The GM sets difficulty at 3 aspects needed.
 >
-> Thalia (Scholar mode) rolls Lore: Success! She creates the aspect *Identified the Binding Runes*.
+> Thalia (Scholar) rolls Lore: Success! She creates the aspect *Identified the Binding Runes*.
 >
-> Keth (Artificer mode) rolls Crafts: Success with style! He creates *Constructed a Resonance Key* with a free invoke.
+> Keth (Artificer) rolls Crafts: Success with style! He creates *Constructed a Resonance Key* with a free invoke.
 >
-> Mira (Priest mode) rolls Will: Failure. The GM describes that her attempt draws the attention of something below, but doesn't prevent progress.
+> Mira (Priest) rolls Will: Failure. The GM describes that her attempt draws the attention of something below, but doesn't prevent progress.
 >
 > Thalia tries again with Investigate: Success! She creates *Found the Ward's Weakness*.
 >
@@ -734,7 +588,7 @@ Brainstorms are collaborative problem-solving scenes. They work as follows:
 
 ### Invention: Creating Magical Items
 
-Characters with the Artificer mode (or similar background) can create magical devices. The core principle: **you can't fail to make it**. You're a skilled artificer. Of course you can build it. The question is what complications arise along the way.
+Characters with the Artificer archetype (or similar background) can create magical devices. The core principle: **you can't fail to make it**. You're a skilled artificer. Of course you can build it. The question is what complications arise along the way.
 
 **Step 1: Define the Invention**
 
@@ -790,6 +644,8 @@ If "Flaw" was chosen as a catch, the GM creates a **flaw aspect** for the invent
 >
 > After acquiring the dragonshard and dealing with a Cannith inquisitor who comes asking questions, Keth completes the Docent with the aspect *Repository of Dhakaani Military History*.
 
+**Venture City Drawbacks**: When "Flaw" is chosen as a catch, you can use drawback aspects from the Venture City model: aspects that exist specifically to be compelled. *Drains Quickly*, *Attracts Unwanted Attention*, *Only Works in Moonlight*.
+
 ---
 
 ## Playing the Game
@@ -812,7 +668,7 @@ Fate uses a ladder of adjectives and numbers to rate skills, difficulty, and res
 | -1 | Poor |
 | -2 | Terrible |
 
-Player characters typically have skills ranging from Mediocre (+0) to Superb (+5).
+Player characters typically have skills ranging from Mediocre (+0) to Great (+4).
 
 ### Fiction First
 
@@ -842,6 +698,23 @@ Every roll produces one of four outcomes:
 - **Tie** (you rolled equal): Partial success, or success at a minor cost. You get what you want, but there's a catch.
 - **Success** (you rolled 1 or 2 higher): You achieve your goal without complications.
 - **Success with Style** (you rolled 3+ higher): You achieve your goal and get an additional benefit, often a boost or extra effect.
+
+### Intent and Task
+
+Before you can determine which of the four actions applies, you need two things:
+
+1. **Intent**: What are you trying to accomplish? What does success look like?
+2. **Task**: How are you going about it? What does your character actually do?
+
+Without both, you can't pick the right action. The same task can be different actions depending on intent.
+
+When something is unclear, ask: "Okay, describe success. If this works, what happens?"
+
+**Eberron examples:**
+
+- "I pick the lock." Are you trying to get through the door (Overcome)? Or disable the security system so the whole team can pass freely (Create Advantage)?
+- "I cast a spell at them." Are you trying to hurt them (Attack)? Scare them into backing down (Attack with Provoke)? Slow them down (Create Advantage)? Get past them (Overcome)?
+- "I talk to the guard." Are you getting information (Overcome)? Building a relationship for later (Create Advantage)? Convincing them to abandon their post (Attack with Rapport)?
 
 ### The Four Actions
 
@@ -893,30 +766,34 @@ Every roll produces one of four outcomes:
 
 </div>
 
-#### Which Skills Attack and Defend?
+#### Which Skills Can Attack?
 
-| Type | Attack With | Defend With |
-|------|-------------|-------------|
-| Physical (melee) | Fight | Fight or Athletics |
-| Physical (ranged) | Shoot | Athletics |
-| Mental | Provoke | Will |
+| Skill | Use For | Notes |
+|-------|---------|-------|
+| Fight | Melee combat, unarmed strikes | Targets in your zone only |
+| Shoot | Ranged weapons, thrown objects | Adjacent zones or further if line of sight is clear |
+| Provoke | Intimidation, taunting, enraging | Deals mental stress. May not work on unfeeling or unthinking targets |
+| Rapport | Persuasion, negotiation, de-escalation | Deals mental stress. Less effective mid-violence or against hostile targets with no prior connection |
+| Deceive | Lies, manipulation, false promises | Deals mental stress. Fails once the truth is revealed |
+| Drive | Ramming, vehicular attacks | May cause harm to your own vehicle |
 
-#### Non-Violent Attacks
+#### Which Skills Can Defend?
 
-Attacks don't have to mean violence. An attack is any action that weakens an opponent's ability or desire to fight. You can "attack" in positive, non-violent ways:
+| Skill | Defend Against | Notes |
+|-------|---------------|-------|
+| Fight | Melee attacks | May not work against colossal foes or attacks you can't parry |
+| Athletics | Any physical attack, melee or ranged | Dodging, diving, leaping clear |
+| Will | Mental attacks, intimidation, fear | May not work against deception |
+| Empathy | Deceive attacks, manipulation | Reading intent, sensing the lie |
+| Notice | Traps, ambushes, surprises | Spotting danger before it hits |
+| Physique | Poisons, environmental hazards, extreme conditions | Enduring rather than evading |
+| Drive | Physical attacks while piloting | Evasive maneuvers, hard turns |
 
-- Flattering an enemy into becoming your friend (Rapport)
-- Correcting a logical fallacy in a courtroom (Lore)
-- Buying off a mercenary mid-fight (Resources, with a stunt)
-- Convincing soldiers you're not worth dying for (Rapport)
+The GM and table can grant other skills permission to attack or defend in specific circumstances. Stunts make that permission permanent.
 
-When you're trying to end a conflict by changing someone's mind rather than hurting them, that's still an attack. You're dealing mental stress with Rapport instead of Provoke.
+**Attacks don't have to mean violence.** An attack is any action that weakens an opponent's ability or desire to fight. Flattering an enemy into friendship, correcting a logical fallacy in court, convincing soldiers you're not worth dying for: these are all attacks. When you take someone out with words, treat it more like a concession than an unconditional surrender. You've changed their mind, not robbed them of agency.
 
-**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight. A talkative character isn't useless once combat starts. They can attack with words while others attack with weapons.
-
-**Using Deceive as Rapport**: You can lie to make someone feel good: false flattery, pretending to surrender, feigning respect. The target defends with Will (resisting influence) or Empathy (seeing through the lie). If they succeed with Empathy, you can't use Deceive against them for the rest of the scene. You've been exposed.
-
-**Taking Out with Words**: When you take someone out with Rapport or other "positive" attacks, treat it more like a concession than an unconditional surrender. The loser gets some say in what happens. You've convinced the guards to let you pass, but you can't force them to humiliate themselves or betray everything they believe. Robbing someone of all agency with smooth talk is just as villainous as robbing them at swordpoint.
+**Don't separate "physical conflicts" and "social conflicts."** They're the same thing. Like Spider-Man throwing shade *and* punches, your characters can mix insults, intimidation, and swordplay in the same fight.
 
 ### Aspects and Fate Points
 
@@ -1015,6 +892,21 @@ If you don't make any defend rolls before your next turn, you gain a **boost** a
 
 > **Example**: Surrounded by Emerald Claw soldiers, Tira forgoes her attack and declares Full Defense against melee attacks. She gains +2 to all Fight defenses until her next turn. If somehow no one attacks her in melee, she gains a boost like *Perfect Guard Stance*.
 
+#### The Escalation
+
+A conflict with a named NPC isn't about tactics. It's a test of commitment. A bidding war. A game of chicken.
+
+The escalation goes like this:
+
+1. **Skills only.** Both sides roll. This costs nothing.
+2. **Invoke aspects.** Spend fate points for +2 or reroll. Now you're spending resources you might need later.
+3. **Take consequences.** Accept lasting harm to stay in the fight. Now you're paying with future capability.
+4. **Concede or get taken out.** Pay the final price, or walk away on your terms.
+
+At every step, both sides are asking: "How much do I want this?" The answer drives the drama. A conflict where neither side cares is boring. A conflict where both sides care deeply and are willing to bleed for it is electric.
+
+The concession mechanic makes this explicit. At any point before dice are rolled, you can accept a loss and gain fate points (one base, plus one per consequence taken). The longer you stay, the more the concession is worth, but the more you've already paid.
+
 ### Stress and Consequences
 
 When you take harm, absorb it with **stress** and **consequences**:
@@ -1041,6 +933,36 @@ Consequences require treatment before they can begin healing. Roll an appropriat
 
 Self-treatment adds +2 to the difficulty. After successful treatment, the consequence begins recovery and can be renamed to reflect healing (e.g., *Broken Arm* becomes *Arm in a Sling*).
 
+#### Naming Consequences
+
+The name IS the fiction. Once you write *Shattered Kneecap*, that character can't run. Consequences are aspects: always true, invokable, and compellable. The attacker gets one free invoke on any consequence they inflict.
+
+**Physical Consequences:**
+
+| Severity | Absorbs | Examples |
+|----------|---------|---------|
+| Mild (2) | Near miss, minor hurt | *Nasty Bruise*, *Winded*, *Grazed by Crossbow Bolt*, *Ringing Ears* |
+| Moderate (4) | Serious injury, needs treatment | *Deep Sword Cut*, *Dislocated Shoulder*, *Second Degree Burns*, *Cracked Ribs* |
+| Severe (6) | Life altering, long recovery | *Shattered Kneecap*, *Spine Damage*, *Crushed Hand*, *Internal Bleeding* |
+
+**Mental Consequences:**
+
+| Severity | Absorbs | Examples |
+|----------|---------|---------|
+| Mild (2) | Shaken, flustered | *Rattled*, *Flustered*, *Momentarily Paralyzed by Doubt*, *Stung Pride* |
+| Moderate (4) | Genuine emotional damage | *Terrified of the Dark*, *Crisis of Faith*, *Burning Shame*, *Shaken Loyalty* |
+| Severe (6) | Deep trauma | *Recurring Nightmares from the Mourning*, *Broken Will*, *Complete Loss of Trust*, *War Flashback Disorder* |
+
+**Magical Consequences:**
+
+| Severity | Absorbs | Examples |
+|----------|---------|---------|
+| Mild (2) | Minor magical effect | *Magical Sleep*, *Momentary Blindness*, *Frostbitten Fingers*, *Unsettling Whispers* |
+| Moderate (4) | Significant magical affliction | *Phiarlan Glamour: Wrong Face*, *Dreambound*, *Limbs Won't Obey*, *Marked by the Traveler* |
+| Severe (6) | Profound magical transformation | *Mournland Corruption Spreading*, *Soul Partially Unmoored*, *Petrification Creeping Up My Legs*, *Vol's Death Curse* |
+
+**Recovery renaming:** When treatment succeeds, rename to reflect healing. *Shattered Kneecap* becomes *Walking with a Limp*. *Magical Sleep* becomes *Groggy and Sluggish*. *Dreambound* becomes *Lingering Dream Fragments*. The renamed aspect can still be invoked and compelled until it fully clears.
+
 #### Taken Out
 
 If you can't absorb all the shifts from an attack, you're **taken out**. You're removed from the scene. The attacker decides what happens to you: death, capture, forced retreat, humiliating defeat, or something worse.
@@ -1059,87 +981,86 @@ You can **concede** at any time *before* your opponent rolls, not after you see 
 
 ### Equipment
 
-Most equipment is handled narratively. If you have a sword, you can fight with it. If you're a Cannith artificer, you have tools.
+Most equipment is handled narratively. If you have a sword, you can fight with it. If you're an artificer, you have tools. Equipment grants narrative permission, not mechanical bonuses.
 
-For **signature gear** that's central to your character, take this stunt:
-
-**Personal Hardware**: You have an iconic possession. Choose two benefits:
-- +1 to a specific skill application (e.g., +1 to Fight when parrying)
-- Weapon:2 (add 2 shifts to successful attacks)
-- Armor:1 (reduce incoming physical stress by 1)
-- Once per session, use the item to take a skill action you normally couldn't
-
-Beyond these mechanical benefits, the item can do whatever makes sense narratively. A sending stone lets you communicate at distance. A glider cloak lets you fly short distances. No roll required unless it puts you at risk.
-
-> **Example**: Jak's **Cannith Multi-Tool** gives him +1 to Crafts when repairing and lets him once per session use Crafts to pick a lock (normally Burglary).
-
-You can take this stunt multiple times for different items.
+For gear that matters mechanically, use the **Personal Hardware** stunt pattern (see Step 5: Pick Your Stunts). For magical items, use the **Invention** rules.
 
 ### Spellcasting
 
-Magic in Eberron is common: magewrights light lamps, Orien heirs teleport cargo, and wandslingers duel in Sharn's streets. For player characters, magic works through the same Fate mechanics as everything else.
+See **Magic and Artifice** above for the full magic system. This section summarizes how magic works in play.
 
 #### Narrative Permission
 
-Your aspects and modes determine what magic you can attempt. If you have the **Mage** or **Priest** mode, you have broad permission to attempt magic appropriate to your tradition. An *Aundairian War Mage* can hurl fire; a *Gatekeeper Druid* communes with nature spirits; a *Priest of the Silver Flame* channels divine power against darkness.
-
-Characters without a magical mode can still use magic if they have an appropriate aspect. A *Cyran Refugee with a Stolen Wand* might manage a few tricks, but they're not a trained spellcaster.
+Your aspects determine what magic you can attempt. A *Morgrave War Mage* can hurl force bolts. A *Gatekeeper Druid* communes with nature spirits. A *Priest of the Silver Flame* channels divine power. Characters without a magical aspect can't cast spells.
 
 #### Magic as Actions
 
-Most spells are just the four actions with magical flavor:
-
-**Create Advantage** is the workhorse of battlefield magic. Cast *Shield of Faith* to create an aspect you can invoke for defense. Conjure *Deeper Darkness* to hinder enemies. Summon a *Spectral Hound* as an aspect that can be invoked for tracking or intimidation. Roll Lore (arcane) or Will (divine) against a difficulty set by the GM.
-
-**Overcome** handles magical problem-solving. Dispel a ward, break a curse, identify an enchantment, calm a hostile spirit. The skill depends on the approach: Lore for analytical magic, Will for force of personality or faith.
-
-**Attack** with magic works like any attack. Roll your skill, deal stress. Whether you're swinging a sword or hurling lightning, the mechanics are identical. Mages typically attack with Lore or Shoot (for ranged blasts); priests might use Will for divine wrath.
-
-**Defend** can be magical when appropriate. A wizard might use Lore to defend against magical attacks. A priest might use Will to resist mental intrusion or possession.
+| What You Want | How It Works | Duration |
+|---------------|-------------|----------|
+| Temporary tactical effect | Create Advantage (situation aspect) | Scene, or until overcome |
+| Lasting effect on a target | Attack (consequence) | Consequence recovery timeline |
+| Repeatable signature ability | Stunt (see Signature Spells) | Permanent (per stunt limits) |
+| Collaborative ritual/research | Brainstorm | Until the problem is solved |
+| Crafted magical item | Invention (catches) | Permanent until broken/lost |
 
 #### Magical Costs
 
-When magic fails or ties, the GM can introduce costs that reflect the unpredictable nature of magic:
+When magic fails or ties, the GM can introduce costs:
 
-**Minor costs** (ties):
-- The spell draws unwanted attention (magical or mundane)
-- It takes longer than expected, so you act last next exchange
-- A minor side effect occurs (lights flicker, temperature drops)
-- You take one or two stress from the strain
+**Minor costs** (ties): unwanted attention, takes longer than expected, minor side effect, 1-2 stress from strain.
 
-**Major costs** (failures offered as success-at-cost):
-- The spell works but affects more than intended (allies caught in the blast, innocents frightened)
-- Something notices your magic from across the planes
-- The magic leaves a lingering aspect the GM can invoke against you (*Magical Signature Traced*)
-- You take a consequence representing magical backlash (*Drained*, *Arcane Burnout*)
-
-> **Example**: Theron attempts to magically unlock a Cannith vault (Overcome with Lore vs. Great +4). He rolls +2, a failure. The GM offers success at a cost: "You crack the ward, but House Cannith's security systems logged the intrusion. You have maybe ten minutes before response teams arrive."
+**Major costs** (failures offered as success at cost): affects more than intended, something notices from across the planes, leaves a lingering aspect the GM can invoke, magical consequence (*Drained*, *Arcane Burnout*).
 
 #### Signature Spells
 
-For magic your character uses reliably (their go-to spells), build them as stunts. These follow the standard stunt patterns: +2 in narrow circumstances, permission to do something new, or break a rule once per session.
+For magic your character uses reliably, build it as a stunt. A signature spell follows the normal stunt patterns (see Step 5) with one important rule:
 
-**Burning Hands**: Because I specialize in evocation, I can attack everyone in my zone with Lore. I must spend a fate point or free invoke to target the whole zone instead of one target.
+**The Replication Rule**: A signature spell that replicates what another skill already does needs a limit. Either once per scene, costs a fate point, or is restricted to a specific situation. The limit is what makes it a spell instead of just having the skill.
 
-**Charm Person**: Because I weave enchantments, I get +2 to Deceive when using magic to make someone view me favorably. This doesn't work on targets who are actively hostile.
+Signature spells that do things no skill covers (healing consequences, summoning creatures, creating wards) can be more permissive because they're not stepping on another skill's territory.
 
-**Detect Magic**: Because I sense magical auras, I can use Lore instead of Notice to detect magical effects, items, and creatures, even if they're hidden or disguised.
+**Enhancement**: You can invest additional stunts into an existing signature spell to upgrade it. Each enhancement extends the spell's reach, power, or flexibility.
 
-**Healing Word**: Because I channel restorative power, once per scene I can roll Will vs. Fair (+2) to clear one ally's physical stress box. On success with style, also clear a mental stress box.
+| Enhancement | Effect |
+|-------------|--------|
+| **Master** | +2 to rolls with this spell |
+| **Widen** | Affect a full zone instead of one target |
+| **Extend** | Increase range by one zone |
+| **Fortify** | Use the spell's skill to defend as well as attack |
+| **Deepen** | Inflict a consequence instead of stress, or reduce consequence severity for healing |
+| **Quicken** | Use the spell as a free action once per scene |
 
-**Invisibility**: Because I've mastered illusion, I can use Lore to create *Invisible* on myself. While invisible, I get +2 to Stealth. The aspect ends when I attack or the scene ends.
+Not every enhancement fits every spell. Pick what makes fictional sense.
 
-**Fly**: Because I command the winds, once per scene I can grant myself or a willing target the ability to fly for the rest of the scene. While flying, ignore ground-based zone boundaries and obstacles.
+**Example: Force Bolt** (Morgrave War Mage)
+- **Base (1 stunt):** Once per scene, I can use Lore to make a physical attack against a target up to 2 zones away. Targets defend with Athletics.
+- **Enhancement: Master Force Bolt (1 stunt):** When I attack with Force Bolt, I get +2 to Lore.
+- **Enhancement: Force Shield (1 stunt):** When I am targeted by a ranged physical attack I can see, I can use Lore to defend.
+- **Enhancement: Concussive Wave (1 stunt):** I can spend a fate point to attack every target in a zone with Force Bolt.
 
-**Arcane Shield**: Because I weave protective wards, once per scene I can reduce incoming physical stress by 2 after seeing the result of an attack against me.
+**Example: Healing Prayer** (Priest of the Silver Flame)
+- **Base (1 stunt):** Once per scene, I can roll Will against Fair (+2) to clear all physical stress on a person I touch.
+- **Enhancement: Miraculous Recovery (1 stunt):** When I treat a physical consequence with Will, I reduce the consequence severity by one step. Mild consequences clear immediately.
+- **Enhancement: Radiant Shield (1 stunt):** I can spend a fate point to grant an ally in my zone Armor:2 against undead attacks for the rest of the scene.
 
-**Thunderwave**: Because I command elemental air, once per session I can push everyone in my zone (except myself) to adjacent zones of my choice. Spend a fate point to use this again in the same session.
+**Example: Whispering Shadows** (Phiarlan Shadow Spy)
+- **Base (1 stunt):** Once per scene, I can use Deceive to create the aspect *Cloaked in Shadow* on myself with two free invokes instead of the usual one.
+- **Enhancement: Shadow Step (1 stunt):** When I am in a zone with a shadow-related aspect, I can spend a fate point to move to any other zone in the scene that also has a shadow-related aspect, bypassing all obstacles.
+- **Enhancement: Phantom Decoy (1 stunt):** I can use Deceive to create a shadow illusion of myself in an adjacent zone. The illusion has one stress box and can be attacked or investigated (Investigate vs. my Deceive) to dispel.
 
-**Turn Undead**: Because the Silver Flame burns through me, I get +2 to Will when creating advantages against undead or fiends. On success with style, they must also move one zone away from me.
+**Example: Lightning Call** (Lyrandar Storm Caller)
+- **Base (1 stunt):** Once per scene, I can use Shoot to make a magical attack using lightning against a target up to 3 zones away. Targets defend with Athletics.
+- **Enhancement: Chain Lightning (1 stunt):** When I invoke an aspect on a Lightning Call attack, I may split the invoke bonus (+1/+1) across two targets in the same zone instead of +2 on one.
+- **Enhancement: Storm Shield (1 stunt):** When I am targeted by a ranged physical attack, I can use Shoot to defend by deflecting the projectile with a gust of wind.
+
+**Example: Animate Dead** (Order of the Emerald Claw Necromancer)
+- **Base (1 stunt):** Once per scene, I can summon one undead servant. It has one aspect (*Mindless Undead Servant*), one Good (+3) skill (Fight), and 2 physical stress boxes. It acts on my turn and lasts until the end of the scene or until destroyed.
+- **Enhancement: Stronger Dead (1 stunt):** My summoned undead gains an additional Good (+3) skill (chosen when summoned) and a mild consequence slot.
+- **Enhancement: Rise Again (1 stunt):** When my summoned undead is taken out, I can spend a fate point to immediately resummon it in my zone with full stress but carrying any consequences it had.
 
 #### Ritual Magic
 
-For complex magical workings (opening a portal to Thelanis, binding a demon, raising the dead), use a **challenge** or the **invention** rules. Big magic shouldn't be a single roll; it should be a scene (or several scenes) with multiple obstacles and potential complications.
+For complex magical workings (opening a portal to Thelanis, binding a demon, raising the dead), use a **challenge** or the **invention** rules. Big magic shouldn't be a single roll. It should be a scene (or several scenes) with multiple obstacles and potential complications.
 
 > **Example**: The party needs to close a manifest zone that's bleeding aberrations into Sharn. The GM frames it as a challenge:
 > - Contain the immediate threat (Fight vs. Good)
@@ -1163,6 +1084,8 @@ At the end of each session, you may choose one:
 - Rewrite any aspect except your high concept
 - Rename a mild consequence to begin recovery
 
+**Downtime milestones:** You can also use a downtime action as an early milestone, adjusting skills or aspects between sessions. Tie it to a specific site: training at a site known for Fight, studying at a library site with Lore. See the [GM Toolkit]({{ '/toolkit' | relative_url }}) for the full downtime system.
+
 #### Breakthroughs (End of Arc)
 
 When a major story arc concludes, you may do one thing from the milestone list, plus:
@@ -1170,18 +1093,24 @@ When a major story arc concludes, you may do one thing from the milestone list, 
 - Rewrite your high concept if you want
 - Start recovery on any consequence not yet recovering (rename it); clear any that were already renamed
 - Increase one skill by +1
+- Perform your archetype's **Impact**: add something to the campaign map as described in your archetype
 
-**Skill balance**: When you increase a skill, you may need to promote other skills first. You can't have more skills at a given rating than you have at the rating below it. You can bank skill increases to spend together later.
+**Skill balance**: When you increase a skill, you must maintain the pyramid structure. You can't have more skills at a given rating than you have at the rating below it. You can bank skill increases to spend together later.
 
 The GM may also grant:
 - +1 refresh
 - A second skill increase
 
+The group may also:
+- Improve a community aspect in the charter
+- Upgrade the charter's headquarters
+- Change the charter's reputation aspect
+
 ---
 
 ## Quick Reference: Skill List
 
-From the modes, here's the complete skill list:
+Here's the complete skill list:
 
 | Skill | Use |
 |-------|-----|
@@ -1208,39 +1137,33 @@ From the modes, here's the complete skill list:
 
 ## Sample Character: Kaela ir'Taran
 
-**High Concept**: *Cyran Noble Turned Mercenary*
-**Trouble**: *The Mourning Took Everything but My Sword*
-**Relationship**: *Owes Theron a Life Debt from Cyre*
-**Free Aspects**: *Karrnathi Swordsmanship Training*, *House Deneith Owes Me Answers*
+Kaela was a Cyran noble's daughter who served as an officer in the Last War, then watched the Mourning erase everything she fought for. She landed in Sharn with a sword, a name no one recognizes, and a knack for asking questions that make people uncomfortable. She works as an inquisitive now, taking cases the Watch ignores.
 
-**Modes**:
-- Soldier (Good +3): Fight (Specialized), Athletics (Focused)
-- Noble (Fair +2): Rapport (Focused), Contacts (Focused)
-- Cyran (Average +1): Will (Focused)
+**Archetype:** Inquisitive
+**Background:** Soldier
 
-**Skills**:
-- Fight: Superb (+5), Soldier +3, Specialized +2
-- Athletics: Great (+4), Soldier +3, Focused +1
-- Notice: Good (+3), Soldier +3, trained
-- Physique: Good (+3), Soldier +3, trained
-- Shoot: Good (+3), Soldier +3, trained
-- Rapport: Good (+3), Noble +2, Focused +1
-- Contacts: Good (+3), Noble +2, Focused +1
-- Empathy: Fair (+2), Noble +2, trained
-- Resources: Fair (+2), Noble +2, trained
-- Deceive: Fair (+2), Noble +2, trained
-- Will: Fair (+2), Cyran +1, Focused +1
-- Lore: Average (+1), Cyran +1, trained
+**Aspects:**
+- **High Concept:** *Cyran Refugee Turned Sharn Inquisitive*
+- **Motivation:** *The Mourning Had a Cause and I Will Find It*
+- **Background:** *Karrnathi Swordsmanship Training from the Last War*
+- **Relationship:** *Owes Theron a Life Debt from Cyre*
+- **Free:** *House Deneith Owes Me Answers*
 
-**Stunts**:
-- **Cyran Blade Dance**: Because I trained with Cyran duelists, I get +2 to Fight when I'm outnumbered.
-- **Noble Bearing**: Because I carry myself like the noble I was, I get +2 to Rapport when first impressions matter.
-- **War Survivor**: Because I survived the Mourning, once per session I can spend a fate point to ignore all stress from a single attack by describing a flashback to something worse.
+**Skills:**
+- Great (+4): Investigate
+- Good (+3): Fight, Notice
+- Fair (+2): Athletics, Contacts, Empathy
+- Average (+1): Stealth, Rapport, Physique, Will
 
-**Refresh**: 3
-**Physical Stress**: [ ] [ ] [ ]
-**Mental Stress**: [ ] [ ] [ ]
-**Consequences**: Mild (2) [ ] | Moderate (4) [ ] | Severe (6) [ ]
+**Stunts:**
+- **Inquisitive's Eye**: Because I notice what others miss, I can use Investigate to defend against ambushes and traps instead of Notice.
+- **Battlefield Awareness**: Because I read combat situations from years on the front, I get +2 to Notice when determining turn order or spotting hidden threats in a fight.
+- **We Know This Town**: When investigating in our territory, the party gains +2 to Contacts when looking for witnesses or informants.
+
+**Refresh:** 3
+**Physical Stress:** ☐☐☐
+**Mental Stress:** ☐☐☐
+**Consequences:** Mild (2) / Moderate (4) / Severe (6)
 
 ---
 
@@ -1249,50 +1172,47 @@ From the modes, here's the complete skill list:
 ```
 CHARACTER NAME: _______________________________________
 
-HIGH CONCEPT: _________________________________________
+ARCHETYPE: ____________________________________________
 
-TROUBLE: ______________________________________________
+BACKGROUND: ___________________________________________
 
-RELATIONSHIP: _________________________________________
-
-FREE ASPECT: __________________________________________
-
-FREE ASPECT: __________________________________________
+SPECIES (optional): ___________________________________
 
 
-MODES                           SKILLS
-________________________        ________________________
-Mode 1: __________ (+___)       Athletics      [   ]
-  Specialized: ____________     Burglary       [   ]
-  Focused: ________________     Contacts       [   ]
-  Focused: ________________     Crafts         [   ]
-                                Deceive        [   ]
-Mode 2: __________ (+___)       Drive          [   ]
-  Focused: ________________     Empathy        [   ]
-  Focused: ________________     Fight          [   ]
-                                Investigate    [   ]
-Mode 3: __________ (+___)       Lore           [   ]
-  Focused: ________________     Notice         [   ]
-                                Physique       [   ]
-                                Provoke        [   ]
-STUNTS                          Rapport        [   ]
-1. ________________________     Resources      [   ]
-   ________________________     Shoot          [   ]
-                                Stealth        [   ]
-2. ________________________     Will           [   ]
-   ________________________
-
-3. ________________________
-   ________________________
+ASPECTS
+  High Concept:  ________________________________________
+  Motivation:    ________________________________________
+  Background:    ________________________________________
+  Relationship:  ________________________________________
+  Free:          ________________________________________
 
 
-PHYSICAL STRESS  [ ] [ ] [ ]
-MENTAL STRESS    [ ] [ ] [ ]
+SKILLS (pyramid: 1 at Great, 2 at Good, 3 at Fair, 4 at Average)
+
+  Great (+4):  _______________
+  Good  (+3):  _______________ , _______________
+  Fair  (+2):  _______________ , _______________ , _______________
+  Average (+1): _____________ , _____________ , _____________ , _____________
+
+
+STUNTS
+  Archetype stunt: ______________________________________
+  ______________________________________________________
+
+  Background stunt: _____________________________________
+  ______________________________________________________
+
+  Charter stunt: ________________________________________
+  ______________________________________________________
+
+
+PHYSICAL STRESS   ☐  ☐  ☐
+MENTAL STRESS     ☐  ☐  ☐
 
 CONSEQUENCES
-  Mild (2):     ________________________  [ ]
-  Moderate (4): ________________________  [ ]
-  Severe (6):   ________________________  [ ]
+  Mild (2):     __________________________________________
+  Moderate (4): __________________________________________
+  Severe (6):   __________________________________________
 
 REFRESH: [   ]    FATE POINTS: [   ]
 
