@@ -27,7 +27,7 @@ curl -s https://api.openai.com/v1/audio/speech -H "Authorization: Bearer $OPENAI
 
 ```
 ├── setting-guide.md      # Lore-only setting primer (no mechanics)
-├── players-guide.md      # Character creation, modes, stunts, dragonmarks, magic
+├── players-guide.md      # Character creation (archetype/background/species/charter), stunts, dragonmarks, magic
 ├── gm-guide.md           # Running the game, adversaries, factions, campaigns
 ├── play-example.md       # Full scene with 5 iconic PCs demonstrating gameplay
 ├── campaign.md           # Campaign-specific content
@@ -52,21 +52,23 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 ### Base System
 - **Fate Condensed** as foundation
-- **Default power level**: Superb (+5) peak skill, 3 refresh, 3 free stunts
+- **Default power level**: Great (+4) peak skill, 3 refresh, 3 free stunts
 - **Dual stress tracks**: Physical (3 boxes) and Mental (3 boxes)
 - **Standard consequences** (Mild/Moderate/Severe, not conditions system)
 
-### Character Creation: Mode-Based
-- Characters pick **3 modes** from a unified list
-- Modes rate at Good (+3), Fair (+2), Average (+1)
-- Skills within modes: Trained (+0), Focused (+1), Specialized (+2) above mode rating
-- Overlapping skills (in multiple modes) take the highest rating, no extra bonus
-- Skill cap: Superb (+5) at character creation
-- Modes organized loosely as Origins, Backgrounds, Callings—but players can pick any 3
-- **Custom modes**: Pick 5 thematically coherent skills, add suggested aspects
+### Character Creation: Archetype + Background + Species + Charter
+- Characters pick one **Archetype** (current calling) and one **Background** (origin/history), plus an optional **Species** and a shared party **Charter**
+- **Skills**: a pyramid (1 Great +4, 2 Good +3, 3 Fair +2, 4 Average +1). Important skills from the archetype and background guide the pyramid but don't restrict it
+- **Skill cap**: Great (+4) at character creation
+- **Five aspects**: High Concept, Motivation, Background, Relationship, Free Aspect
+- **Three starting stunts**: one archetype, one background, one charter. Refresh starts at 3
+- **Archetype vs background**: archetype is what you do now; background is where you come from. A background must add color, not duplicate an archetype (no Soldier/Warrior or Spy/Operative overlaps)
+- **Species** (optional): the aspect grants narrative permission for free; an optional species stunt costs 1 refresh
+- **Multiple archetypes**: allowed, at -1 refresh
+- **Custom archetypes/backgrounds**: name, 3 important skills, 3 stunts (archetypes also get an Impact at major milestones; backgrounds get character questions)
 
 ### Magic System: Actions with Flavor
-- **Narrative permission**: Modes/aspects grant permission to describe actions as magic
+- **Narrative permission**: Archetypes, backgrounds, and aspects grant permission to describe actions as magic
 - **Magic as the four actions**: Overcome, Create Advantage, Attack, Defend with magical flavor
 - **Magical costs**: Minor costs on ties, major costs on failures (backfire, collateral damage, unwanted attention)
 - **Signature Spells**: Stunts that follow normal stunt patterns (+2 narrow, permission, once per session)
@@ -126,8 +128,9 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - GM and player guidance for tone
 
 **Player's Guide**: Character creation and rules. Covers:
-- Mode-based character creation
-- Full mode list (9 Origins, 8 Backgrounds, 9 Callings)
+- Archetype + background + species + charter character creation
+- 9 archetypes, 10 backgrounds, 4 species with stunts, 5 charter frameworks
+- Charter (shared party identity) and charter stunts
 - Dragonmark aspects and stunts for all 12 marks (13 houses, but Phiarlan/Thuranni share Mark of Shadow)
 - Narrative magic and brainstorm rules
 - Invention rules for artificers
@@ -153,17 +156,21 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 ---
 
-## Mode Reference
+## Character Options Reference
 
-**Origins** (where you're from/what you are):
-- Aundairian, Brelish, Cyran, Karrnathi, Thrane
-- Warforged, Changeling, Shifter, Kalashtar
-
-**Backgrounds** (what you did):
-- Soldier, Criminal, Scholar, Noble, Entertainer, Outlander, Street Urchin, Dragonmarked Heir
-
-**Callings** (what you do now):
+**Archetypes** (what you do now):
 - Inquisitive, Artificer, Mage, Priest, Warrior, Face, Spy, Explorer, Pilot
+
+**Backgrounds** (where you come from):
+- War Veteran, Criminal, Scholar, Noble, Entertainer, Outlander, Street Urchin, Dragonmarked Heir, Laborer, Refugee
+
+**Species** (optional; aspect is free, stunt costs 1 refresh):
+- Warforged, Changeling, Shifter, Kalashtar (other species via a descriptive aspect)
+
+**Charter Frameworks** (shared party identity):
+- Agency, Expedition, Cell, Salvage Crew, House Operatives
+
+Origin/nationality (Aundairian, Brelish, Cyran, Karrnathi, Thrane) is now an aspect, not a mode.
 
 ---
 
@@ -207,3 +214,4 @@ Session 3: Added Play Example, Pilot calling, zone attacks, custom modes, stunts
 Session 4: Rewrote adversary section (Fate Adversary Toolkit categories), boss stat blocks, countdowns.
 Session 5: Added spellcasting section, scale system, scene framing guidance (Book of Hanz), non-violent attacks (Atomic Robo), Quick Reference appendix. Fixed dual stress track inconsistencies, merged Academics into Lore.
 Sessions 6+: Jekyll site build, art deco noir frontend, campaign page.
+Rules rewrite: Replaced mode-based creation with Archetype + Background + Species + Charter. Skill cap lowered to Great (+4). Five named aspects (High Concept, Motivation, Background, Relationship, Free). Reworked the play example PCs and sample character to the new system. Made backgrounds distinct from archetypes in kind: renamed Soldier to War Veteran (the war's mark, not weapon skill), dropped the Spy-duplicate background, added Laborer.
