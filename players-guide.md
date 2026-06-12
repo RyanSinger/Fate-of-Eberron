@@ -491,6 +491,8 @@ Before building the Charter, fill out the **Story Elements worksheet** as a grou
 6. **Create an antagonist.** Someone you've already clashed with. Not the campaign's final villain, but a persistent mid-level threat. Name, high concept, motivation.
 7. **Name yourselves and write a reputation aspect.** Assume you've been together for a while with at least one victory and one failure behind you. Mixed reputations work best for longer campaigns.
 
+For a worked example of a group going through all of this, building a charter and five connected characters from scratch, see the [example Session Zero]({{ '/session-zero' | relative_url }}).
+
 ### Charter Advancement
 
 At major milestones, the group can:
