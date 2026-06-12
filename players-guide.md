@@ -93,7 +93,7 @@ Want to play a Mage who's also a Warrior? A Spy who's also a Face? You can combi
 
 ## Step 2: Pick a Background
 
-Your background defines where your character comes from and what they did before their current life. Each background provides:
+Your background is your roots: where you come from, the people who shaped you, and the life you led before your current calling. Where your archetype says what you do, your background says where you've been. A good background adds color the archetype doesn't, rather than repeating it. (If you want to play a fighter, the Warrior archetype already covers that; the War Veteran background is about what the war left in you, not weapon skill.) Each background provides:
 
 - **Important Skills**: Three skills central to the background.
 - **Stunts**: Three associated stunts. Pick one at character creation.
@@ -103,7 +103,7 @@ Pick a background from the list below, or create your own. A custom background n
 
 | Background | Important Skills | Sample Stunts | Questions to Consider |
 |-----------|-----------------|---------------|----------------------|
-| **Soldier** | Fight, Athletics, Provoke | War Stories, Battlefield Awareness, Brothers in Arms | Which nation did you serve? What did you see that changed you? Do you miss it? |
+| **War Veteran** | Physique, Provoke, Will | War Stories, Battlefield Awareness, Brothers in Arms | Which nation did you serve? What did you see that changed you? Do you miss it? |
 | **Criminal** | Burglary, Stealth, Contacts | Underworld Connections, Case the Joint, Honor Among Thieves | Who do you still owe? What line won't you cross? Are you still in the life? |
 | **Scholar** | Lore, Investigate, Will | Obsessive Researcher, Ancient Languages, Theoretical Breakthrough | What's your field? What question drives you? What did you discover that scared you? |
 | **Noble** | Rapport, Resources, Contacts | Noble Bearing, Old Money, Political Favor | Is your family's influence a gift or a cage? What's expected of you? Who resents your privilege? |
@@ -111,7 +111,7 @@ Pick a background from the list below, or create your own. A custom background n
 | **Outlander** | Athletics, Notice, Physique | Survivor, Read the Wild, Hard to Kill | Where did you come from? Why did you leave? What about civilization confuses or disgusts you? |
 | **Street Urchin** | Stealth, Burglary, Notice | Rat Runner, Invisible in a Crowd, Scrappy Fighter | Who raised you, if anyone? What ward or district is yours? Who do you protect now? |
 | **Dragonmarked Heir** | Contacts, Resources, Rapport | House Connections, Mark Focus, Family Name | Which house? Are you loyal or rebellious? What does the house want from you that you're not willing to give? |
-| **Intelligence Officer** | Investigate, Contacts, Will | Old Covers Still Work, Trust Issues, Burned but Not Forgotten | Which agency? Citadel? Trust? Royal Eyes? What secret do you carry? Are you still active? |
+| **Laborer** | Physique, Crafts, Contacts | Strong Back, Knows the Crew, Make Do | What trade did you work? Which ward or worksite raised you? Who did you leave behind, or who left you? |
 | **Refugee** | Empathy, Will, Notice | Nothing Left to Lose, Community of Survivors, Keen Eye for Danger | What did you lose? Where are you from? What do you hold onto from the old life? |
 
 ---
@@ -1140,7 +1140,7 @@ Here's the complete skill list:
 Kaela was a Cyran noble's daughter who served as an officer in the Last War, then watched the Mourning erase everything she fought for. She landed in Sharn with a sword, a name no one recognizes, and a knack for asking questions that make people uncomfortable. She works as an inquisitive now, taking cases the Watch ignores.
 
 **Archetype:** Inquisitive
-**Background:** Soldier
+**Background:** War Veteran
 
 **Aspects:**
 - **High Concept:** *Cyran Refugee Turned Sharn Inquisitive*

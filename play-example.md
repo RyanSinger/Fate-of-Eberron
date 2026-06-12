@@ -36,7 +36,7 @@ The party runs a small inquisitive agency out of Lower Dura. They built this Cha
 - **Relationship**: *Kira Saved Me from the Cogs*
 - **Free Aspect**: *Cold Logic, Warm Justice*
 
-**Archetype**: Inquisitive · **Background**: Soldier · **Species**: Warforged (doesn't eat, sleep, or breathe; repaired rather than healed; resists poison and disease)
+**Archetype**: Inquisitive · **Background**: War Veteran · **Species**: Warforged (doesn't eat, sleep, or breathe; repaired rather than healed; resists poison and disease)
 
 **Skills**:
 - Great (+4): Notice
@@ -46,7 +46,7 @@ The party runs a small inquisitive agency out of Lower Dura. They built this Cha
 
 **Stunts**:
 - **Photographic Memory** (Inquisitive): Because I never forget what I see, I get +2 to Investigate when recalling details from a previous scene.
-- **Tireless Sentinel** (Soldier): Because I stood endless watches in the war and never need sleep, I get +2 to Notice when detecting ambushes.
+- **Tireless Sentinel** (War Veteran): Because I stood endless watches in the war and never need sleep, I get +2 to Notice when detecting ambushes.
 - **We Know This Town** (Charter): When investigating in our territory, the party gains +2 to Contacts when looking for witnesses or informants.
 
 **Refresh**: 3 | **Physical**: [ ] [ ] [ ] | **Mental**: [ ] [ ] [ ]
@@ -88,7 +88,7 @@ The party runs a small inquisitive agency out of Lower Dura. They built this Cha
 - **Relationship**: *Kaela Saved My Life; I Owe Her My Faith*
 - **Free Aspect**: *The Flame Burns Within*
 
-**Archetype**: Priest · **Background**: Soldier · **Species**: Human
+**Archetype**: Priest · **Background**: War Veteran · **Species**: Human
 
 **Skills**:
 - Great (+4): Will
@@ -98,7 +98,7 @@ The party runs a small inquisitive agency out of Lower Dura. They built this Cha
 
 **Stunts**:
 - **Shield of Faith** (Priest): Because of my unwavering belief, I can use Will instead of Athletics to defend against physical attacks.
-- **Sense Evil** (Soldier): Because I hunted fiends and the undead during the Purge, I get +2 to Notice when detecting supernatural corruption.
+- **Sense Evil** (War Veteran): Because I hunted fiends and the undead during the Purge, I get +2 to Notice when detecting supernatural corruption.
 - **Street Cred** (Charter): When our reputation is known, gain +2 to Rapport with locals who've heard of us.
 
 **Refresh**: 3 | **Physical**: [ ] [ ] [ ] | **Mental**: [ ] [ ] [ ]
