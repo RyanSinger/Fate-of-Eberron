@@ -111,7 +111,7 @@ Pick a background from the list below, or create your own. A custom background n
 | **Outlander** | Athletics, Notice, Physique | Survivor, Read the Wild, Hard to Kill | Where did you come from? Why did you leave? What about civilization confuses or disgusts you? |
 | **Street Urchin** | Stealth, Burglary, Notice | Rat Runner, Invisible in a Crowd, Scrappy Fighter | Who raised you, if anyone? What ward or district is yours? Who do you protect now? |
 | **Dragonmarked Heir** | Contacts, Resources, Rapport | House Connections, Mark Focus, Family Name | Which house? Are you loyal or rebellious? What does the house want from you that you're not willing to give? |
-| **Veteran Spy** | Deceive, Stealth, Investigate | Old Covers Still Work, Trust Issues, Burned but Not Forgotten | Which agency? Citadel? Trust? Royal Eyes? What secret do you carry? Are you still active? |
+| **Intelligence Officer** | Investigate, Contacts, Will | Old Covers Still Work, Trust Issues, Burned but Not Forgotten | Which agency? Citadel? Trust? Royal Eyes? What secret do you carry? Are you still active? |
 | **Refugee** | Empathy, Will, Notice | Nothing Left to Lose, Community of Survivors, Keen Eye for Danger | What did you lose? Where are you from? What do you hold onto from the old life? |
 
 ---
