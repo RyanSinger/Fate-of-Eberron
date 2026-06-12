@@ -34,7 +34,7 @@ Learn about the world of Eberron: the Five Nations, dragonmarked houses, unique 
 
 ### [Player's Guide]({{ '/players-guide' | relative_url }})
 
-Create your character using modes, aspects, and stunts. Covers the full mode list, dragonmarks, narrative magic, and invention rules for artificers.
+Create your character using archetypes, backgrounds, aspects, and stunts. Covers the full options list, dragonmarks, charters, narrative magic, and invention rules for artificers.
 
 </div>
 
@@ -64,9 +64,17 @@ Systems for running campaigns: the GM workflow, story elements, region maps, dow
 
 <div class="guide-card" markdown="1">
 
+### [Session Zero]({{ '/session-zero' | relative_url }})
+
+Watch five players build their charter and characters from scratch: the kind of game they want, the agency they run, and the bonds that tie them together. Read this before the Play Example.
+
+</div>
+
+<div class="guide-card" markdown="1">
+
 ### [Play Example]({{ '/play-example' | relative_url }})
 
-See Fate of Eberron in action with a complete scene featuring five iconic characters: a warforged detective, Cyran spy, artificer, noble, and kalashtar monk.
+See Fate of Eberron in action with a complete scene featuring five iconic characters: a warforged detective, a Cyran spy, a Silver Flame priest, a Cyran noble, and an excoriated artificer.
 
 </div>
 

@@ -149,6 +149,8 @@ When a roll fails, the situation should change. The story moves forward, just no
 
 Before your first adventure, run a **session zero**, a conversation about expectations, character creation, and campaign setup. This session is as important as any adventure.
 
+For a worked example of all of this in action, the pitch, safety tools, Story Elements, charter, region, and five characters built together, see the [example Session Zero]({{ '/session-zero' | relative_url }}).
+
 ### What to Cover
 
 **Campaign Pitch**: Share your vision for the campaign. Are you running a noir mystery in Sharn? A wilderness expedition to Xen'drik? A war story along the Karrnathi border? Give players enough to create fitting characters.
