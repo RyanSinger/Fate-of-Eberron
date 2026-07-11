@@ -29,6 +29,8 @@ curl -s https://api.openai.com/v1/audio/speech -H "Authorization: Bearer $OPENAI
 ├── setting-guide.md      # Lore-only setting primer (no mechanics)
 ├── players-guide.md      # Character creation (archetype/background/species/charter), stunts, dragonmarks, magic
 ├── gm-guide.md           # Running the game, adversaries, factions, campaigns
+├── toolkit.md            # Exploration rules, vehicles, terrain profiles, delves
+├── npcs.md               # NPC gallery organized by type and setting
 ├── play-example.md       # Full scene with 5 iconic PCs demonstrating gameplay
 ├── campaign.md           # Campaign-specific content
 ├── index.md              # Site landing page
@@ -117,7 +119,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 
 ---
 
-## The Three Documents
+## The Documents
 
 **Setting Guide**: Lore reference. No mechanics. Covers:
 - Core themes (moral ambiguity, aftermath of war, wide magic, cinematic action)
@@ -136,6 +138,14 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 - Invention rules for artificers
 - Sample character
 - Blank character sheet
+
+**GM's Toolkit**: Play reference material. Covers:
+- Exploration and travel rules
+- Vehicle profiles (lightning rail, airship, ship, caravan, skycoach)
+- Terrain profiles (Xen'drik, Mournland, Khyber, Wilderness)
+- Delve system with traps, obstacles, and sample vault delve
+
+**NPC Gallery**: Ready to use NPCs organized by type and setting.
 
 **GM's Guide**: Running the game. Covers:
 - Core principles for Eberron tone
@@ -170,7 +180,7 @@ These are the settled design choices. Don't revisit unless Ryan asks.
 **Charter Frameworks** (shared party identity):
 - Agency, Expedition, Cell, Salvage Crew, House Operatives
 
-Origin/nationality (Aundairian, Brelish, Cyran, Karrnathi, Thrane) is now an aspect, not a mode.
+Origin/nationality (Aundairian, Brelish, Cyran, Karrnathi, Thrane) is an aspect, not a separate mechanical choice.
 
 ---
 
