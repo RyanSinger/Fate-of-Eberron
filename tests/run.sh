@@ -37,14 +37,21 @@ echo ""
 # Disable errexit around subcommands so we can capture exit codes
 set +e
 
-# Always run lint tests
+# Always run lint and design tests
 bash "$SCRIPT_DIR/lint.sh"
 lint_exit=$?
+
+echo ""
+bash "$SCRIPT_DIR/design.sh"
+design_exit=$?
 
 set -e
 
 if [ "$LINT_ONLY" = true ]; then
-  exit $lint_exit
+  if [ $lint_exit -ne 0 ] || [ $design_exit -ne 0 ]; then
+    exit 1
+  fi
+  exit 0
 fi
 
 echo ""
@@ -66,7 +73,7 @@ smoke_exit=$?
 set -e
 
 # Combined exit
-if [ $lint_exit -ne 0 ] || [ $smoke_exit -ne 0 ]; then
+if [ $lint_exit -ne 0 ] || [ $design_exit -ne 0 ] || [ $smoke_exit -ne 0 ]; then
   exit 1
 fi
 exit 0
