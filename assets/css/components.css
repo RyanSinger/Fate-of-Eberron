@@ -471,3 +471,81 @@
 .die--plus::before { content: "+"; color: var(--gold); }
 .die--minus::before { content: "\2212"; color: var(--red-text); }
 .die--blank::before { content: "\00a0"; }
+
+/* ================================
+   ACTION GRID
+   ================================ */
+.action-grid {
+  display: grid;
+  gap: var(--space-lg);
+  margin: var(--space-xl) 0;
+}
+
+@media (min-width: 600px) {
+  .action-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.action {
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-sm);
+  padding: var(--space-lg);
+  text-align: center;
+}
+
+.action-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto var(--space-md);
+  display: block;
+  filter: invert(1) opacity(0.8);
+}
+
+.action p {
+  margin: 0;
+  font-size: var(--text-small);
+  text-align: left;
+}
+
+.action strong {
+  color: var(--gold);
+}
+
+/* Fate dice display */
+.fate-dice {
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-sm);
+  padding: var(--space-lg);
+  margin: var(--space-xl) 0;
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.fate-die-icon {
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+  filter: invert(1) opacity(0.8);
+  margin: 0;
+  box-shadow: none;
+}
+
+.fate-dice p {
+  margin: 0;
+}
+
+/* Icons are dark multi-tone art: inverted on noir, shown as drawn on parchment */
+[data-theme="parchment"] .action-icon,
+[data-theme="parchment"] .fate-die-icon {
+  filter: none;
+}
+@media print {
+  .action-icon,
+  .fate-die-icon {
+    filter: none;
+  }
+}
