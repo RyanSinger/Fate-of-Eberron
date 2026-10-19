@@ -31,6 +31,7 @@ class StageDesignSystemTest < Minitest::Test
     assert_equal '<!-- @dsCard group="Character" height=160 -->', html.lines.first.chomp
     assert_includes html, "<b>x</b>"
     assert_includes html, "fonts.googleapis.com"
+    assert_includes html, "color: var(--ink)"
   end
 
   def test_relative_site_urls_become_absolute

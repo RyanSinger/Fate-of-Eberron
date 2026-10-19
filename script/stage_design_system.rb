@@ -48,6 +48,7 @@ module StageDesignSystem
       <head>
       <meta charset="utf-8">
       <link rel="stylesheet" href="#{FONTS}">
+      <style>body { margin: 0; padding: var(--space-sm); color: var(--ink); font-family: var(--font-body); line-height: 1.6; }</style>
       </head>
       <body>
       #{body}
