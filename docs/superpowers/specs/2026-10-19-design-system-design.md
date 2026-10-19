@@ -25,7 +25,7 @@ The current Art Deco Noir look is the identity. This work formalizes and extends
 design/
   tokens.json            source of truth: colors (noir + parchment), type, spacing, radius
   README.md              brand book: voice, foundations, iconography, usage rules
-  components/<Name>/     README.md + preview.html per component (artifact side)
+  components/<Name>/     README.md per component (guidelines; previews are generated at sync)
 design-sample.md         hidden page rendering every component in both themes
 _plugins/
   design_tokens.rb       Jekyll generator: design/tokens.json to /assets/css/tokens.css at build
@@ -34,6 +34,8 @@ assets/css/
   components.css         game components; also published as the artifact's bundle.css
   handouts.css           in-world documents, layered on tokens
 _includes/components/    pyramid.html, track.html, consequences.html, ladder.html, seal.html, word-count.html
+script/
+  stage_design_system.rb  builds the artifact's project/ folder from the repo and the built sample page
 .claude/skills/design-sync/SKILL.md
 tests/design.sh          token shape, unique names, contrast in both themes, build check
 ```
@@ -47,7 +49,7 @@ tests/design.sh          token shape, unique names, contrast in both themes, bui
    - type styles, spacing and radius as custom properties
    No generated CSS is committed, so it cannot drift. The GitHub Actions workflow runs a full `bundle exec jekyll build`, so custom plugins work in deploy.
 3. `default.html` links `tokens.css` before `style.css`, `components.css` and (on handout pages) `handouts.css`.
-4. `design/` is added to `exclude` in `_config.yml`; the plugin reads `tokens.json` from disk, so exclusion does not affect it. `design-sample.md` sits at the repo root, builds with `sitemap: false`, and has no nav link.
+4. `design/` and `script/` are added to `exclude` in `_config.yml`; the plugin reads `tokens.json` from disk, so exclusion does not affect it. `design-sample.md` sits at the repo root, has `search: false` (honored by `search.json`), and has no nav link.
 
 ## Tokens
 
@@ -62,13 +64,22 @@ tests/design.sh          token shape, unique names, contrast in both themes, bui
 | `ink-soft` | `#a8a5a0` | `#4a4238` | Secondary text on any surface |
 | `ink-muted` | `#918e89` | `#5f5444` | Captions and metadata. Noir: surface-0 and surface-1 only |
 | `gold` | `#c9a227` | `#735709` | Headings, accents, active states, dragonmark borders |
-| `gold-bright` | `#dbb84d` | `#a8831a` | Hover. On parchment, decoration only (fails text contrast) |
-| `blue` | `#4a90a4` | `#2a5c6c` | Links. Noir: surface-0 only for text |
-| `blue-bright` | `#6bb3c9` | `#3d7a8e` | Link hover, second accent. Parchment: large text and borders only |
+| `gold-bright` | `#dbb84d` | `#614a07` | Hover, emphasis (`em`) text |
+| `blue` | `#4a90a4` | `#2a5c6c` | Fills and borders. Noir: text on surface-0 only |
+| `blue-bright` | `#6bb3c9` | `#1f4f5e` | Links, `h3`, code text |
 | `red` | `#a44a4a` | `#8a3030` | Fills and borders for consequences and danger |
 | `red-text` | `#dc7f7f` | `{red}` | Text for consequences, failure, danger |
 | `rule` | `#3a3a45` | `#b9a67c` | Borders, dividers, stress box outlines |
 | `shadow` | `rgba(0, 0, 0, 0.4)` | `rgba(60, 40, 10, 0.15)` | Drop shadows |
+| `paper-news` | `#efe9dc` | same | Korranberg Chronicle stock |
+| `paper-letter` | `#f6efdd` | same | House letterhead stock |
+| `paper-slip` | `#ece4cf` | same | Sending slip stock |
+| `paper-poster` | `#e8dcc0` | same | Wanted poster stock |
+| `ink-print` | `#1c1813` | same | Text on any paper token |
+| `ink-print-soft` | `#4d4235` | same | Secondary text on any paper token |
+| `wax` | `#7a1f1f` | same | Seals, stamps, poster reward line |
+
+Handout tokens have one value in both themes because handouts always render on paper. Their text pairs pass on every paper token (lowest: `ink-print-soft` on `paper-poster`, 7.19).
 
 Changes from today's site: `ink-muted` moves from `#6b6966` (3.17:1, failing) to `#918e89`; `red-text` is new. Every other noir value is unchanged.
 
@@ -80,6 +91,8 @@ Measured contrast for the changed and new text tokens:
 | noir `red-text` `#dc7f7f` | 6.10 | 5.33 | 4.65 |
 | parchment `ink-muted` `#5f5444` | 6.28 | 5.64 | 4.98 |
 | parchment `gold` `#735709` | 5.76 | 5.17 | 4.57 |
+| parchment `gold-bright` `#614a07` | 7.16 | 6.43 | 5.68 |
+| parchment `blue-bright` `#1f4f5e` | 7.63 | 6.85 | 6.05 |
 
 ### Type
 
@@ -92,18 +105,19 @@ Families are unchanged and load from Google Fonts:
 | `body` | `'Open Sans', -apple-system, BlinkMacSystemFont, sans-serif` |
 | `mono` | `'Fira Code', Consolas, monospace` |
 
-The scale collapses today's 18 font sizes to 8 steps. Existing sizes snap to the nearest step (largest shift 0.1rem):
+The scale collapses today's 18 font sizes to 9 steps, one per element role. Existing sizes snap to the nearest step (largest shift 0.1rem, except the mobile hero title, 2.2rem to 2rem):
 
 | style | family | size | use |
 |---|---|---|---|
 | `display` | display | 3.2rem | Hero title |
-| `h1` | heading | 2.5rem | Guide titles |
-| `h2` | heading | 2rem | Section heads |
-| `h3` | heading | 1.4rem | Subsections, stat block names |
-| `h4` | heading | 1.2rem | Component labels, card titles |
+| `title` | heading | 2.5rem | Guide page titles |
+| `h1` | heading | 2rem | Content `h1`, mobile hero |
+| `h2` | heading | 1.6rem | Content `h2` |
+| `h3` | heading | 1.3rem | Content `h3`, stat block names, mobile `h2` and guide title |
+| `h4` | heading | 1.2rem | `h4`, TOC heading, component labels, lead text |
 | `body` | body | 1rem | Prose, line height 1.7 |
-| `small` | body | 0.9rem | Nav, tables, rules text in components |
-| `caption` | body | 0.8rem | Footer, metadata, aspect labels |
+| `small` | body | 0.9rem | Nav, tables, TOC sublist, rules text in components |
+| `caption` | body | 0.8rem | Footer, metadata, aspect labels, search snippets |
 
 ### Spacing and radius
 
@@ -140,13 +154,13 @@ All components live in `components.css`, read only from tokens, and work in both
 ### Rules reference
 
 - **Ladder** (`{% include components/ladder.html highlight="4" %}`): Legendary (+8) to Terrible (-2), optional highlighted step.
-- **Actions**: existing four action grid and icons moved onto tokens. The SVGs in `images/icons/` are cleaned of Illustrator boilerplate and switched to `currentColor` so they render on parchment.
+- **Actions**: existing four action grid moved onto tokens. The SVGs in `images/icons/` are multi-tone illustrations, not glyphs, so they keep their art: inverted on noir (as today), shown as drawn on parchment.
 - **Outcomes** (`.outcomes`): fail, tie, succeed, succeed with style as a four column strip.
 - **Fate die glyphs** (`.die--plus`, `.die--minus`, `.die--blank`): inline faces for rules text and examples.
 
 ## In-world handouts
 
-`handouts.css` adds handout-only tokens (paper tones, extra families) as additions, not overrides. Handouts always render on paper tones, including on noir pages, and print one per US Letter page. Only Eberron's fictional institutions appear; never real people or organizations.
+`handouts.css` uses the paper and wax tokens and the handout font families from `tokens.json`. Handouts always render on paper tones, including on noir pages, and print one per US Letter page. Only Eberron's fictional institutions appear; never real people or organizations.
 
 | handout | class | look | fonts |
 |---|---|---|---|
@@ -162,7 +176,7 @@ Includes: `{% include components/seal.html house="Sivis" %}` (empty seal slot wi
 `.claude/skills/design-sync/SKILL.md` publishes the repo to the claude.ai Design System artifact:
 
 1. Read the artifact's current `project/design-system.json`.
-2. Stage `design/tokens.json`, `design/README.md`, `design/components/*`, `assets/css/components.css` (as `components/bundle.css`, with `handouts.css` appended) and the cleaned icon SVGs (uploaded as assets in an Icons group) under the artifact's `project/` layout.
+2. Build the site, then run `script/stage_design_system.rb`, which stages `design/tokens.json`, `design/README.md`, each `design/components/<Name>/README.md`, a `preview.html` per component cut from the built `design-sample.html` (each sample section is marked with `data-component`), and `components.css` plus `handouts.css` as `components/bundle.css`, under the artifact's `project/` layout. The icon SVGs are uploaded as assets in an Icons group.
 3. Publish once, with the index last and its `lastChange` set.
 4. State that edits made on the claude.ai page are overwritten by a sync.
 
@@ -187,7 +201,7 @@ Each step is its own commit, built and pushed.
 - `tokens.json` parses; every family is list shaped; every color value is a form the Design System reads (hex, `rgb()`, `rgba()`, or an alias to an existing token); no name repeats.
 - Every text and surface pair permitted by a usage note passes 4.5:1 in both themes; borders and large text pass 3:1.
 - `bundle exec jekyll build` succeeds and `_site/assets/css/tokens.css` exists with both themes.
-- No raw hex colors in `style.css`, `components.css` or `handouts.css` outside handout token definitions.
+- No raw hex colors in `style.css`, `components.css` or `handouts.css`.
 
 By eye before each commit: the sample page in noir and parchment, and a print to PDF.
 
