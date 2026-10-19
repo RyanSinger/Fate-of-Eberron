@@ -2,7 +2,8 @@
 # frozen_string_literal: true
 
 # Stages the claude.ai Design System project/ folder from the repository and a built site.
-# Usage: ruby script/stage_design_system.rb SITE_DIR OUT_DIR
+# Usage: ruby script/stage_design_system.rb SITE_DIR OUT_DIR [ICON_BLOBS_JSON]
+# ICON_BLOBS_JSON maps icon file names to uploaded blob ids; when given, every icon a preview uses must be in it.
 require "fileutils"
 
 module StageDesignSystem
@@ -41,6 +42,10 @@ module StageDesignSystem
     blobs.each do |file, id|
       body = body.gsub(%r{"#{Regexp.escape(base_url)}/[^"]*/images/icons/#{Regexp.escape(file)}"}, "\"/_blob/#{id}\"")
     end
+    unless blobs.empty?
+      left = body[%r{#{Regexp.escape(base_url)}/[^"]*/images/icons/([^"/]+)"}, 1]
+      raise "preview #{preview[:name]} uses icon #{left} which is missing from the blobs map" if left
+    end
     <<~HTML
       <!-- @dsCard group="#{preview[:group]}" height=#{preview[:height]} -->
       <!doctype html>
@@ -64,6 +69,7 @@ module StageDesignSystem
     missing = list.map { |p| p[:name] }.reject { |n| File.exist?(File.join(root, "design/components", n, "README.md")) }
     raise "components without design/components/<Name>/README.md: #{missing.join(', ')}" unless missing.empty?
 
+    htmls = list.to_h { |p| [p[:name], preview_html(p, base_url, blobs)] }
     project = File.join(out_dir, "project")
     FileUtils.mkdir_p(File.join(project, "components"))
     FileUtils.cp(File.join(root, "design/tokens.json"), project)
@@ -72,7 +78,7 @@ module StageDesignSystem
       dir = File.join(project, "components", preview[:name])
       FileUtils.mkdir_p(dir)
       FileUtils.cp(File.join(root, "design/components", preview[:name], "README.md"), dir)
-      File.write(File.join(dir, "preview.html"), preview_html(preview, base_url, blobs))
+      File.write(File.join(dir, "preview.html"), htmls[preview[:name]])
     end
     css = %w[components handouts].map { |f| File.read(File.join(root, "assets/css/#{f}.css")) }
     File.write(File.join(project, "components/bundle.css"), css.join("\n\n"))

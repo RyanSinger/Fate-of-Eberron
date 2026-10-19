@@ -58,6 +58,10 @@ body::after {
   box-shadow: 0 2px 20px var(--shadow);
 }
 
+[data-theme="parchment"] .site-nav {
+  background: var(--surface-1);
+}
+
 .nav-container {
   max-width: var(--max-width);
   margin: 0 auto;
@@ -188,6 +192,16 @@ body::after {
   background-position: center 30%;
   background-repeat: no-repeat;
   position: relative;
+}
+
+/* Parchment: no dark image overlay; the hero sits on the light surface */
+[data-theme="parchment"] .hero {
+  background-image: none;
+  background-color: var(--surface-0);
+}
+
+[data-theme="parchment"] .hero h1 {
+  text-shadow: none;
 }
 
 .hero h1 {
@@ -1026,11 +1040,6 @@ blockquote code,
   a {
     color: inherit;
     text-decoration: underline;
-  }
-
-  .action-icon,
-  .fate-die-icon {
-    filter: none;
   }
 
   blockquote::before {

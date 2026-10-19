@@ -47,6 +47,19 @@ class StageDesignSystemTest < Minitest::Test
     refute_includes html, "github.io"
   end
 
+  def test_stage_fails_when_a_supplied_blob_map_lacks_an_icon
+    sample = <<~HTML
+      <section class="ds-sample" data-component="Actions"><img src="/Fate-of-Eberron/images/icons/defend.svg"></section>
+    HTML
+    with_repo(readmes: %w[Actions], sample: sample) do |root, site, out|
+      error = assert_raises(RuntimeError) do
+        S.stage(site, out, root: root, base_url: "https://example.test", blobs: { "attack.svg" => "abc" })
+      end
+      assert_includes error.message, "Actions"
+      assert_includes error.message, "defend.svg"
+    end
+  end
+
   def with_repo(readmes:, sample: SAMPLE)
     Dir.mktmpdir do |dir|
       root = File.join(dir, "repo")
