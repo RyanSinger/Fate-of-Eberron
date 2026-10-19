@@ -92,8 +92,8 @@ class SiteTest < Minitest::Test
     names.each do |name|
       path = File.join(ROOT, "design/components", name, "README.md")
       assert File.exist?(path), "missing #{path}"
-      refute_match(/[–—]/, File.read(path), "#{name} README contains a dash")
+      refute_match(/[\u2013\u2014]/, File.read(path), "#{name} README contains a dash")
     end
-    refute_match(/[–—]/, File.read(File.join(ROOT, "design/README.md")))
+    refute_match(/[\u2013\u2014]/, File.read(File.join(ROOT, "design/README.md")))
   end
 end
