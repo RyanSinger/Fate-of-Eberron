@@ -83,4 +83,17 @@ class SiteTest < Minitest::Test
     refute_includes html, "handouts.css"
     refute_includes html, "UnifrakturMaguntia"
   end
+
+  ROOT = File.expand_path("../..", __dir__)
+
+  def test_every_sample_section_has_a_readme
+    names = read("design-sample.html").scan(/data-component="([A-Za-z]+)"/).flatten
+    assert_equal 16, names.size
+    names.each do |name|
+      path = File.join(ROOT, "design/components", name, "README.md")
+      assert File.exist?(path), "missing #{path}"
+      refute_match(/[–—]/, File.read(path), "#{name} README contains a dash")
+    end
+    refute_match(/[–—]/, File.read(File.join(ROOT, "design/README.md")))
+  end
 end
