@@ -299,11 +299,15 @@ Fillers are grouped enemies that share a stress track. They're tougher than thre
 
 **When to use:** Guards, cultists, mercenary squads. Opposition that should feel substantial but not individually memorable.
 
-> **Example: Emerald Claw Squad (4 soldiers)**
-> *Vol's Faithful Servants*
-> Skills: Fight Fair (+2), Shoot Fair (+2), Will Average (+1)
-> Stress: [ ] [ ] [ ] [ ]
-> Attack at Great (+4) with teamwork. Each stress removes one soldier.
+<div class="statblock statblock--example" markdown="1">
+
+**Example: Emerald Claw Squad (4 soldiers)**
+*Vol's Faithful Servants*
+Skills: Fight Fair (+2), Shoot Fair (+2), Will Average (+1)
+{% include components/track.html label="Stress" boxes=4 %}
+Attack at Great (+4) with teamwork. Each stress removes one soldier.
+
+</div>
 
 #### Hitters
 
@@ -319,13 +323,17 @@ Hitters deal damage and can take a few hits before going down. They're the dange
 
 **When to use:** Assassins, elite guards, dangerous monsters, anyone who should make the party sweat.
 
-> **Example: House Deneith Blademark**
-> *Professional Mercenary*
-> *Honor in Service*
-> Skills: Fight Great (+4), Athletics Good (+3), Notice Fair (+2), Physique Fair (+2)
-> Stunt: **Shield Wall**. +2 to defense when fighting alongside allies
-> Stress: [ ] [ ] [ ]
-> Consequence: Moderate [ ]
+<div class="statblock statblock--example" markdown="1">
+
+**Example: House Deneith Blademark**
+*Professional Mercenary*
+*Honor in Service*
+Skills: Fight Great (+4), Athletics Good (+3), Notice Fair (+2), Physique Fair (+2)
+Stunt: **Shield Wall**. +2 to defense when fighting alongside allies
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
+
+</div>
 
 #### Bosses
 
@@ -347,24 +355,28 @@ Bosses are major antagonists who can threaten the whole party. They should feel 
 
 **When to use:** Campaign villains, faction leaders, monsters that define an adventure.
 
-> **Example: The Lord of Blades**
-> *Warforged Prophet of Revolution*
-> *Flesh Is Weakness*
-> *The Mournland Is Our Homeland*
-> *Built for War, Born to Lead*
-> *No Compromise with the Breathers*
->
-> Skills: Fight Fantastic (+6), Provoke Superb (+5), Will Superb (+5), Physique Great (+4), Lore Great (+4), Athletics Good (+3), Notice Good (+3)
->
-> Stunts:
-> - **Adamantine Blades**: Weapon:2 on Fight attacks
-> - **Inspiring Presence**: Warforged allies get +2 to Will when they can see him
-> - **Machine Perfection**: Immune to poison, disease, and fear
->
-> Boss Features: Extra Actions (acts twice), Lieutenants (warforged hitters)
->
-> Stress: [ ] [ ] [ ] [ ]
-> Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+<div class="statblock statblock--example" markdown="1">
+
+**Example: The Lord of Blades**
+*Warforged Prophet of Revolution*
+*Flesh Is Weakness*
+*The Mournland Is Our Homeland*
+*Built for War, Born to Lead*
+*No Compromise with the Breathers*
+
+Skills: Fight Fantastic (+6), Provoke Superb (+5), Will Superb (+5), Physique Great (+4), Lore Great (+4), Athletics Good (+3), Notice Good (+3)
+
+Stunts:
+- **Adamantine Blades**: Weapon:2 on Fight attacks
+- **Inspiring Presence**: Warforged allies get +2 to Will when they can see him
+- **Machine Perfection**: Immune to poison, disease, and fear
+
+Boss Features: Extra Actions (acts twice), Lieutenants (warforged hitters)
+
+{% include components/track.html label="Stress" boxes=4 %}
+{% include components/consequences.html slots="mild,moderate,severe" %}
+
+</div>
 
 ### Obstacles and Constraints
 
@@ -421,21 +433,33 @@ Countdowns create urgency. Something bad happens when they complete.
 
 The countdown is visible to players. The tension comes from knowing what's coming.
 
-> **Example: Ritual Completion**
-> The Emerald Claw is raising a bone knight. When complete, the battle gets much harder.
-> [ ] [ ] [ ] [ ]
-> Advances each exchange. PCs can spend actions to disrupt (overcome Lore Good +3 to remove a box).
+<div class="statblock statblock--example" markdown="1">
 
-> **Example: Airship Going Down**
-> The elemental ring is damaged. When this fills, the ship crashes.
-> [ ] [ ] [ ]
-> Advances when: Taking hull damage, failed piloting checks, or each exchange after the second.
-> PCs can repair (Crafts Good +3) to remove a box.
+**Example: Ritual Completion**
+The Emerald Claw is raising a bone knight. When complete, the battle gets much harder.
+{% include components/track.html label="Countdown" boxes=4 style="clock" %}
+Advances each exchange. PCs can spend actions to disrupt (overcome Lore Good +3 to remove a box).
 
-> **Example: Cover Blown**
-> The party is infiltrating a Daask stronghold. When this fills, the alarm sounds.
-> [ ] [ ] [ ] [ ] [ ]
-> Advances when: Failed Stealth or Deceive rolls, suspicious activity noticed, time passes.
+</div>
+
+<div class="statblock statblock--example" markdown="1">
+
+**Example: Airship Going Down**
+The elemental ring is damaged. When this fills, the ship crashes.
+{% include components/track.html label="Countdown" boxes=3 style="clock" %}
+Advances when: Taking hull damage, failed piloting checks, or each exchange after the second.
+PCs can repair (Crafts Good +3) to remove a box.
+
+</div>
+
+<div class="statblock statblock--example" markdown="1">
+
+**Example: Cover Blown**
+The party is infiltrating a Daask stronghold. When this fills, the alarm sounds.
+{% include components/track.html label="Countdown" boxes=5 style="clock" %}
+Advances when: Failed Stealth or Deceive rolls, suspicious activity noticed, time passes.
+
+</div>
 
 ### Eberron Adversary Categories
 
@@ -839,8 +863,8 @@ Everything can be a character. This is especially useful for Eberron's unique el
 - *Soarwood Hull, Bound Elemental*
 - *Captain Alia d'Lyrandar's Pride and Joy*
 - Skills: Drive Good (+3) for maneuverability, Physique Fair (+2) for structural integrity
-- Stress: [ ] [ ] [ ] [ ]
-- Consequences: Mild [ ] | Moderate [ ]
+- {% include components/track.html label="Stress" boxes=4 %}
+- {% include components/consequences.html slots="mild,moderate" %}
 
 ### Locations
 
@@ -904,97 +928,143 @@ Fanatic. Won't flee. May have minor aberrant abilities.
 
 ### Fillers (Grouped Opposition)
 
+<div class="statblock" markdown="1">
+
 #### Emerald Claw Squad (4)
 *Vol's Faithful Servants*
 Skills: Fight Fair (+2), Shoot Fair (+2), Will Average (+1)
-Stress: [ ] [ ] [ ] [ ]
+{% include components/track.html label="Stress" boxes=4 %}
 Attack at Great (+4) with teamwork. May return as undead.
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Karrnathi Undead Patrol (4)
 *Deathless Servants of Karrnath*
 Skills: Fight Good (+3), Physique Fair (+2)
-Stress: [ ] [ ] [ ] [ ]
+{% include components/track.html label="Stress" boxes=4 %}
 Immune to fear, poison, morale. Never break. Never tire.
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Daask Thugs (4)
 *Monster Muscle for Hire*
 Skills: Fight Fair (+2), Physique Fair (+2), Provoke Average (+1)
-Stress: [ ] [ ] [ ] [ ]
+{% include components/track.html label="Stress" boxes=4 %}
 Monstrous abilities vary by type (gnoll pack tactics, goblin numbers).
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### House Guard Detachment (4)
 *[House Name]'s Private Security*
 Skills: Fight Fair (+2), Notice Fair (+2), Athletics Average (+1)
-Stress: [ ] [ ] [ ] [ ]
+{% include components/track.html label="Stress" boxes=4 %}
 Professional. Can call for reinforcements.
+
+</div>
 
 ---
 
 ### Hitters (Dangerous Individuals)
 
+<div class="statblock" markdown="1">
+
 #### Daask Enforcer
 *Monster in the City*
 *Strength Demands Respect*
 Skills: Fight Good (+3), Physique Good (+3), Provoke Fair (+2), Notice Average (+1)
-Stress: [ ] [ ] [ ]
-Consequence: Moderate [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
 Monstrous heritage grants unusual capabilities (ogre strength, troll regeneration, etc.)
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### King's Dark Lantern
 *Breland's Hidden Hand*
 *Loyalty to Crown and Country*
 Skills: Deceive Great (+4), Investigate Good (+3), Stealth Good (+3), Fight Fair (+2), Notice Fair (+2)
 Stunt: **Backup Plan**. Once per scene, reveal a prepared advantage
-Stress: [ ] [ ] [ ]
-Consequence: Moderate [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
 Has backup. Always.
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Warforged Soldier (Lord of Blades)
 *Built for War, Now Free*
 *Flesh Is Weak*
 Skills: Fight Great (+4), Physique Good (+3), Athletics Good (+3), Notice Fair (+2)
 Stunt: **Relentless**. +2 to overcome when pursuing a target
-Stress: [ ] [ ] [ ]
-Consequence: Moderate [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
 Immune to poison and disease. Doesn't need food, water, or sleep. Won't surrender.
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### House Assassin
 *[House]'s Quiet Solution*
 *Nothing Personal, Just Business*
 Skills: Stealth Great (+4), Fight Good (+3), Notice Good (+3), Athletics Fair (+2), Deceive Fair (+2)
 Stunt: **Death from Shadows**. +2 to attack when target is unaware
-Stress: [ ] [ ] [ ]
-Consequence: Moderate [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
 Patient. Professional. Has an exit strategy.
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Quori-Possessed Agent
 *The Dreaming Dark's Puppet*
 *Not Quite Right*
 Skills: Deceive Great (+4), Empathy Good (+3), Will Good (+3), Notice Fair (+2), Fight Fair (+2)
 Stunt: **Mind Touch**. Can use Deceive to attack mental stress (if you use such rules) or create psychic advantages
-Stress: [ ] [ ] [ ]
-Consequence: Moderate [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
 Telepathic link to other Inspired. When defeated, the quori flees. The host remembers nothing.
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Droaam Monster
 *[Monster Type] Mercenary*
 *Strength Earns Respect*
 Skills: Fight Great (+4), Physique Good (+3), Provoke Good (+3), Notice Fair (+2)
-Stress: [ ] [ ] [ ]
-Consequence: Moderate [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
 Adjust for type: Ogre (+5 Physique), Harpy (flight), Medusa (petrifying gaze: create advantage to place *Turning to Stone*, then attack to complete).
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Living Spell
 *Magic Given Horrible Life*
 *The Mourning Made Me*
 Skills: [Spell Effect] Great (+4), Notice Good (+3), Athletics Fair (+2)
-Stress: [ ] [ ] [ ]
-Consequence: Moderate [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="moderate" %}
 Aspects define the danger: *Living Cloudkill* poisons zones, *Living Fireball* explodes when defeated, *Living Lightning Bolt* chains between targets.
+
+</div>
 
 ---
 
 ### Bosses (Major Antagonists)
+
+<div class="statblock" markdown="1">
 
 #### Emerald Claw Commander
 *Vol's Chosen General*
@@ -1007,8 +1077,12 @@ Stunts:
 - **Undying Devotion**: +2 to Will when invoking Vol
 - **Raise the Fallen**: Once per scene, turn a defeated Emerald Claw soldier into a zombie threat
 Boss Feature: Lieutenants (bring 2 Emerald Claw squads)
-Stress: [ ] [ ] [ ] [ ]
-Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+{% include components/track.html label="Stress" boxes=4 %}
+{% include components/consequences.html slots="mild,moderate,severe" %}
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Lady Elaydren d'Cannith
 *House Cannith Patron with Secrets*
@@ -1021,9 +1095,13 @@ Stunts:
 - **House Connections**: +2 to Resources when calling on Cannith assets
 - **Reading People**: Use Empathy instead of Notice to detect deception
 Boss Feature: Recovery (escapes to return with new schemes)
-Stress: [ ] [ ] [ ]
-Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="mild,moderate,severe" %}
 Not a combat boss. Threatens through manipulation, resources, and information.
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Daelkyr Cultist Champion
 *Flesh Reshaped by Xoriat*
@@ -1037,8 +1115,12 @@ Stunts:
 - **Reality Bleeds**: Once per scene, create a *Xoriat Breach* zone aspect for free
 - **Touch of Madness**: Use Provoke instead of Fight for mental attacks
 Boss Features: Extra Actions (acts twice), Zone Control (free invoke on Xoriat aspects)
-Stress: [ ] [ ] [ ] [ ]
-Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+{% include components/track.html label="Stress" boxes=4 %}
+{% include components/consequences.html slots="mild,moderate,severe" %}
+
+</div>
+
+<div class="statblock" markdown="1">
 
 #### Chamber Dragon (in Humanoid Form)
 *Ancient Wyrm Playing the Long Game*
@@ -1052,8 +1134,10 @@ Stunts:
 - **True Form**: Can reveal dragon form, gaining Fight Fantastic (+6), Physique Legendary (+8), flight, breath weapon
 - **Timeless Patience**: +2 to Will against provocation or deception
 Boss Features: Recovery (vanishes to machinate elsewhere), Special Weakness (dragons bound by prophecy: using it against them deals +2 stress)
-Stress: [ ] [ ] [ ] [ ] [ ]
-Consequences: Mild [ ] | Moderate [ ] | Severe [ ]
+{% include components/track.html label="Stress" boxes=5 %}
+{% include components/consequences.html slots="mild,moderate,severe" %}
+
+</div>
 
 ---
 
@@ -1069,21 +1153,33 @@ If triggered: Attacks everyone in zone at Great (+4), then alerts House Cannith
 Attacks Physique at Fair (+2) each exchange you're exposed
 Effect: On success, creates *Mournland Corruption* aspect on target
 
+<div class="statblock" markdown="1">
+
 #### Collapsing Ruin (Countdown)
-[ ] [ ] [ ]
+{% include components/track.html label="Countdown" boxes=3 style="clock" %}
 Advances each exchange or when structure takes damage
 At completion: Zone becomes impassable, everyone inside takes Great (+4) attack
 
+</div>
+
+<div class="statblock" markdown="1">
+
 #### Ritual of Awakening (Countdown)
-[ ] [ ] [ ] [ ]
+{% include components/track.html label="Countdown" boxes=4 style="clock" %}
 Advances each exchange unless disrupted (overcome Lore Good +3)
 At completion: The bone knight rises (add Boss to the scene)
 
+</div>
+
+<div class="statblock" markdown="1">
+
 #### Airship Going Down (Countdown)
-[ ] [ ] [ ]
+{% include components/track.html label="Countdown" boxes=3 style="clock" %}
 Advances on hull damage, failed piloting, or each exchange after round 2
 Repair: Crafts Good (+3) removes a box
 At completion: Everyone makes Athletics Great (+4) defense or takes Severe consequence
+
+</div>
 
 ---
 
@@ -1224,11 +1320,11 @@ Roll 4 Fate dice (4dF). Each die shows +1, 0, or -1. Add your skill rating.
 
 ### Stress and Consequences
 
-**Stress**: Absorb shifts equal to box value. Clears after scene.
+**Stress**: Each box absorbs 1 shift. Check as many as you need. Clears after scene.
 
-| Physical | [ ]1 [ ]2 [ ]3 |
-|----------|----------------|
-| Mental | [ ]1 [ ]2 [ ]3 |
+{% include components/track.html label="Physical" boxes=3 %}
+
+{% include components/track.html label="Mental" boxes=3 %}
 
 **Consequences**: Absorb shifts; create aspect that can be invoked against you.
 

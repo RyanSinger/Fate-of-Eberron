@@ -52,4 +52,20 @@ class SiteTest < Minitest::Test
       assert_includes html, %(data-component="#{name}"), "missing sample section #{name}"
     end
   end
+
+  def test_npc_stat_blocks_are_components
+    html = read("npcs.html")
+    assert_equal 36, html.scan('class="statblock"').size
+    refute_includes html, "[ ]"
+    assert_equal 30, html.scan('<span class="track"').size
+  end
+
+  def test_gm_guide_stat_lines_are_components
+    html = read("gm-guide.html")
+    assert_equal 18, html.scan('class="statblock"').size, "Filler, Hitter, Boss and countdown templates"
+    assert_equal 6, html.scan('class="statblock statblock--example"').size, "worked examples"
+    refute_includes html, "[ ]", "no markdown boxes may remain"
+    refute_includes html, "equal to box value", "Quick Reference must use the Fate Condensed stress rule"
+    assert_includes html, "Each box absorbs 1 shift."
+  end
 end
