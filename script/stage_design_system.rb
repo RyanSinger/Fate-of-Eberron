@@ -32,8 +32,13 @@ module StageDesignSystem
     end
   end
 
-  def preview_html(preview, base_url)
+  # Previews on claude.ai may load only the system's own files and uploads, so icons
+  # that are uploaded assets (blobs: file name => blob id) point at /_blob/<id>.
+  def preview_html(preview, base_url, blobs = {})
     body = preview[:body].gsub(/(src|href)="\//, "\\1=\"#{base_url}/")
+    blobs.each do |file, id|
+      body = body.gsub(%r{"#{Regexp.escape(base_url)}/[^"]*/images/icons/#{Regexp.escape(file)}"}, "\"/_blob/#{id}\"")
+    end
     <<~HTML
       <!-- @dsCard group="#{preview[:group]}" height=#{preview[:height]} -->
       <!doctype html>
@@ -49,7 +54,7 @@ module StageDesignSystem
     HTML
   end
 
-  def stage(site_dir, out_dir, root: ROOT, base_url: BASE_URL)
+  def stage(site_dir, out_dir, root: ROOT, base_url: BASE_URL, blobs: {})
     list = previews(File.read(File.join(site_dir, "design-sample.html")))
     raise "no ds-sample sections found in design-sample.html" if list.empty?
 
@@ -64,7 +69,7 @@ module StageDesignSystem
       dir = File.join(project, "components", preview[:name])
       FileUtils.mkdir_p(dir)
       FileUtils.cp(File.join(root, "design/components", preview[:name], "README.md"), dir)
-      File.write(File.join(dir, "preview.html"), preview_html(preview, base_url))
+      File.write(File.join(dir, "preview.html"), preview_html(preview, base_url, blobs))
     end
     css = %w[components handouts].map { |f| File.read(File.join(root, "assets/css/#{f}.css")) }
     File.write(File.join(project, "components/bundle.css"), css.join("\n\n"))
@@ -73,8 +78,10 @@ module StageDesignSystem
 end
 
 if $PROGRAM_NAME == __FILE__
-  site_dir, out_dir = ARGV
-  abort "usage: ruby script/stage_design_system.rb SITE_DIR OUT_DIR" unless site_dir && out_dir
-  names = StageDesignSystem.stage(site_dir, out_dir)
+  require "json"
+  site_dir, out_dir, blobs_file = ARGV
+  abort "usage: ruby script/stage_design_system.rb SITE_DIR OUT_DIR [ICON_BLOBS_JSON]" unless site_dir && out_dir
+  blobs = blobs_file ? JSON.parse(File.read(blobs_file)) : {}
+  names = StageDesignSystem.stage(site_dir, out_dir, blobs: blobs)
   puts "Staged #{names.size} components into #{File.join(out_dir, 'project')}: #{names.join(', ')}"
 end

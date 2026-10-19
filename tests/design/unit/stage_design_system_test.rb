@@ -39,6 +39,13 @@ class StageDesignSystemTest < Minitest::Test
     assert_includes html, 'src="https://ryansinger.github.io/Fate-of-Eberron/images/icons/attack.svg"'
   end
 
+  def test_uploaded_icons_point_at_blobs
+    html = S.preview_html({ name: "Actions", group: "Rules", height: 400, body: '<img src="/Fate-of-Eberron/images/icons/attack.svg">' },
+                          "https://ryansinger.github.io", { "attack.svg" => "abc123" })
+    assert_includes html, 'src="/_blob/abc123"'
+    refute_includes html, "github.io"
+  end
+
   def with_repo(readmes:, sample: SAMPLE)
     Dir.mktmpdir do |dir|
       root = File.join(dir, "repo")
