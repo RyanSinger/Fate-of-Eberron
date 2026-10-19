@@ -1,0 +1,6 @@
+{%- comment -%}
+  Consequence slots with shift values: mild 2, moderate 4, severe 6.
+  slots (default "mild,moderate,severe"), any case, spaces allowed. Unknown slots get no value.
+{%- endcomment -%}
+{%- assign slots = include.slots | default: "mild,moderate,severe" | downcase | split: "," -%}
+<span class="consequences">{% for raw in slots %}{% assign slot = raw | strip %}{% assign shift = "" %}{% case slot %}{% when "mild" %}{% assign shift = "2" %}{% when "moderate" %}{% assign shift = "4" %}{% when "severe" %}{% assign shift = "6" %}{% endcase %}<span class="consequence consequence--{{ slot }}"><span class="consequence__label">{{ slot | capitalize }}</span>{% if shift != "" %}<span class="consequence__shift">{{ shift }}</span>{% endif %}<span class="consequence__line"></span></span>{% endfor %}</span>

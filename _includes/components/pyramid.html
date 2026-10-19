@@ -1,0 +1,8 @@
+{%- comment -%}
+  Skill pyramid: Great (+4) x1, Good (+3) x2, Fair (+2) x3, Average (+1) x4.
+  skills: comma list filled top to bottom; empty slots are write lines; extras past ten are dropped.
+{%- endcomment -%}
+{%- assign skills = include.skills | default: "" | split: "," -%}
+{%- assign rungs = "Great (+4)|Good (+3)|Fair (+2)|Average (+1)" | split: "|" -%}
+{%- assign n = 0 -%}
+<div class="pyramid">{% for rung in rungs %}{% assign slots = forloop.index %}<div class="pyramid__row"><span class="pyramid__rung">{{ rung }}</span>{% for s in (1..slots) %}{% assign skill = skills[n] | strip %}<span class="pyramid__slot">{{ skill }}</span>{% assign n = n | plus: 1 %}{% endfor %}</div>{% endfor %}</div>

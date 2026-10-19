@@ -34,6 +34,20 @@ else
   fail "jekyll build" "bundle exec jekyll build failed"
 fi
 
+section "Component includes"
+mkdir -p "$WORK_DIR/fixture-src"
+cp -R "$PROJECT_ROOT/_includes" "$WORK_DIR/fixture-src/_includes"
+cp "$SCRIPT_DIR/design/fixtures/_config.yml" "$SCRIPT_DIR/design/fixtures/index.md" "$WORK_DIR/fixture-src/"
+if (cd "$PROJECT_ROOT" && bundle exec jekyll build --quiet -s "$WORK_DIR/fixture-src" -d "$WORK_DIR/fixture-site"); then
+  if FIXTURE_SITE="$WORK_DIR/fixture-site" ruby "$SCRIPT_DIR/design/includes_test.rb"; then
+    pass "includes_test"
+  else
+    fail "includes_test" "see minitest output above"
+  fi
+else
+  fail "fixture build" "jekyll could not render tests/design/fixtures"
+fi
+
 section "No raw hex colors"
 for css in style components handouts; do
   file="$PROJECT_ROOT/assets/css/$css.css"

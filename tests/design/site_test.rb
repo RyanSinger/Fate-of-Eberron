@@ -34,4 +34,15 @@ class SiteTest < Minitest::Test
     assert tokens && style && components, "all three stylesheets must be linked"
     assert tokens < style && style < components, "order must be tokens, style, components"
   end
+
+  def test_sample_page_has_character_sections
+    html = read("design-sample.html")
+    %w[Aspect Dragonmark Stunt Pyramid Track Consequences].each do |name|
+      assert_includes html, %(data-component="#{name}"), "missing sample section #{name}"
+    end
+  end
+
+  def test_sample_page_is_not_in_search
+    refute_includes read("search.json"), "Design System Sample"
+  end
 end
