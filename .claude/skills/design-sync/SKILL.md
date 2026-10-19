@@ -18,8 +18,9 @@ The artifact URL is recorded in CLAUDE.md under "Design System".
    STAGE="<scratchpad>/design-sync"
    rm -rf "$STAGE" && mkdir -p "$STAGE"
    bundle exec jekyll build --quiet -d "$STAGE/site"
-   ruby script/stage_design_system.rb "$STAGE/site" "$STAGE/out"
+   ruby script/stage_design_system.rb "$STAGE/site" "$STAGE/out" "$STAGE/blobs.json"
    ```
+   `blobs.json` maps each icon file name to its upload id from the index's `assetGroups.Icons.files` (`{"attack.svg": "<blob id>", ...}`), so previews load icons from `/_blob/<id>`. Write it after step 3 and stage after it. The script also writes an empty `components/bundle.js`; claude.ai does not run previews without one.
 
 3. **Read the live system.** With the Artifact tool, `read` the artifact URL, then `read` with `path: "project/design-system.json"` and with `path: "artifact-type/reference/format.md"` and `path: "artifact-type/reference/cover.md"` if this session has not read them. Follow `format.md` for every file shape.
 
