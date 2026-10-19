@@ -94,4 +94,22 @@ class IncludesTest < Minitest::Test
   def test_ladder_without_highlight
     refute_includes fragment("ladder-none"), "ladder__step--highlight"
   end
+
+  def test_seal_names_the_house
+    assert_includes fragment("seal-house"), '<span class="seal__house">Sivis</span>'
+    assert_includes fragment("seal-house"), 'aria-label="Seal of House Sivis"'
+    assert_includes fragment("seal-empty"), '<span class="seal__house">Unsealed</span>'
+  end
+
+  def test_word_count_fills_used_ticks
+    assert_equal 25, count("words-some", '<span class="word-count__tick')
+    assert_equal 18, count("words-some", "word-count__tick--used")
+    refute_includes fragment("words-some"), "word-count--over"
+  end
+
+  def test_word_count_over_limit_is_flagged_and_capped
+    assert_includes fragment("words-over"), "word-count--over"
+    assert_equal 25, count("words-over", "word-count__tick--used")
+    assert_includes fragment("words-over"), "30/25"
+  end
 end

@@ -28,3 +28,11 @@
 <section id="ladder-plus">{% include components/ladder.html highlight="+4" %}</section>
 
 <section id="ladder-none">{% include components/ladder.html %}</section>
+
+<section id="seal-house">{% include components/seal.html house="Sivis" %}</section>
+
+<section id="seal-empty">{% include components/seal.html %}</section>
+
+<section id="words-some">{% include components/word-count.html words=18 %}</section>
+
+<section id="words-over">{% include components/word-count.html words=30 %}</section>

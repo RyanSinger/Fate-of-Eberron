@@ -68,4 +68,19 @@ class SiteTest < Minitest::Test
     refute_includes html, "equal to box value", "Quick Reference must use the Fate Condensed stress rule"
     assert_includes html, "Each box absorbs 1 shift."
   end
+
+  def test_sample_page_has_handout_sections_and_fonts
+    html = read("design-sample.html")
+    %w[Chronicle Letter Sending Wanted].each do |name|
+      assert_includes html, %(data-component="#{name}"), "missing sample section #{name}"
+    end
+    assert_includes html, "assets/css/handouts.css"
+    assert_includes html, "UnifrakturMaguntia"
+  end
+
+  def test_handout_assets_load_only_where_flagged
+    html = read("index.html")
+    refute_includes html, "handouts.css"
+    refute_includes html, "UnifrakturMaguntia"
+  end
 end

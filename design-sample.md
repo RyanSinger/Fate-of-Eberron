@@ -132,3 +132,63 @@ A roll of <span class="die die--plus" role="img" aria-label="plus"></span> <span
 <div class="action"><img src="{{ '/images/icons/defend.svg' | relative_url }}" alt="Defend" class="action-icon"><p><strong>Defend</strong> Stop harm or an advantage.</p></div>
 </div>
 </section>
+
+## Korranberg Chronicle
+
+<section class="ds-sample" data-component="Chronicle" data-group="Handouts" data-height="520" markdown="1">
+<div class="handout handout--chronicle" markdown="1">
+<p class="handout__masthead">The Korranberg Chronicle</p>
+<p class="handout__dateline">Sharn Edition · Zarantyr 14, 998 YK · Two Coppers</p>
+
+### Lightning Rail Stalls Outside Starilaskur
+
+<div class="handout__columns" markdown="1">
+Passengers on the Orien line spent a cold night in the Brelish hills after the conductor stones failed without warning. House Orien declined to comment beyond a promise of refunds.
+
+Witnesses describe a figure in a long coat walking the length of the train before the lights went out. The Sharn Watch has asked anyone with information to come forward.
+
+The line reopened at dawn. Orien inspectors were seen removing a crate from the third car.
+</div>
+</div>
+</section>
+
+## House letterhead
+
+<section class="ds-sample" data-component="Letter" data-group="Handouts" data-height="460" markdown="1">
+<div class="handout handout--letter" markdown="1">
+<p class="handout__letterhead">House Sivis · Office of the Speaker's Heir</p>
+
+To the bearer,
+
+Your inquiry regarding the Cyran manifests has been received. The documents you seek were sealed by order of the Speaker in 994 YK. I am prepared to discuss exceptions in person.
+
+<div class="handout__footer" markdown="1">
+<p class="handout__signature">Lady Sora Maenya d'Sivis</p>
+{% include components/seal.html house="Sivis" %}
+</div>
+</div>
+</section>
+
+## Sending message slip
+
+<section class="ds-sample" data-component="Sending" data-group="Handouts" data-height="300" markdown="1">
+<div class="handout handout--sending" markdown="1">
+<p class="handout__stamp">Sivis Message Station · Sharn</p>
+
+CARGO NOT ON MANIFEST. DO NOT OPEN THIRD CAR. MEET AT DRAGONEYES BEFORE THE WATCH ARRIVES. TRUST NO ONE IN ORIEN COLORS. BURN THIS.
+
+{% include components/word-count.html words=24 %}
+</div>
+</section>
+
+## Wanted poster
+
+<section class="ds-sample" data-component="Wanted" data-group="Handouts" data-height="620" markdown="1">
+<div class="handout handout--wanted" markdown="1">
+<p class="handout__wanted">Wanted</p>
+<p class="handout__name">The Man in the Long Coat</p>
+<div class="handout__portrait"></div>
+<p class="handout__reward">Reward: 500 Galifars</p>
+<p class="handout__authority">By order of the Sharn Watch</p>
+</div>
+</section>
