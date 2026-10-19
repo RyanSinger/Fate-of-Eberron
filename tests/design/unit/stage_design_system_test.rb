@@ -75,6 +75,9 @@ class StageDesignSystemTest < Minitest::Test
       assert_equal "# Track", File.read(File.join(project, "components/Track/README.md"))
       assert File.read(File.join(project, "components/Wanted/preview.html")).start_with?("<!-- @dsCard")
       assert_equal ".track{}\n\n.handout{}", File.read(File.join(project, "components/bundle.css"))
+      bundle = File.read(File.join(project, "components/bundle.js"))
+      assert_includes bundle, '"namespace":"FateOfEberron"'
+      assert_includes bundle, "window.FateOfEberron = {}"
     end
   end
 

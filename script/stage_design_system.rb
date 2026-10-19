@@ -15,6 +15,8 @@ module StageDesignSystem
           "&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400" \
           "&family=Courier+Prime&family=Playfair+Display+SC:wght@700;900&display=swap"
 
+  BUNDLE_JS = %(/* @ds-bundle: {"format":4,"namespace":"FateOfEberron","components":[]} */\nwindow.FateOfEberron = {};\n)
+
   module_function
 
   def attribute(attrs, name)
@@ -73,6 +75,8 @@ module StageDesignSystem
     end
     css = %w[components handouts].map { |f| File.read(File.join(root, "assets/css/#{f}.css")) }
     File.write(File.join(project, "components/bundle.css"), css.join("\n\n"))
+    # claude.ai runs previews only when a bundle exists; the components here are plain HTML and CSS, so it is empty.
+    File.write(File.join(project, "components/bundle.js"), BUNDLE_JS)
     list.map { |p| p[:name] }
   end
 end
