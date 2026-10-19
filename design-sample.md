@@ -61,3 +61,74 @@ This page renders every component in the design system. It is not linked from th
 <section class="ds-sample" data-component="Consequences" data-group="Character" data-height="120" markdown="1">
 {% include components/consequences.html %}
 </section>
+
+## Stat block
+
+<section class="ds-sample" data-component="Statblock" data-group="Adversaries" data-height="460" markdown="1">
+<div class="statblock" markdown="1">
+
+### Hallia Boromar (she/her)
+
+{% include components/tier.html role="Rival" tier="Hitter" %}
+
+Saidan's niece and likely successor. She smiles too easily and means it too rarely.
+
+**Aspects:**
+- *Boromar Heir with Modern Ambitions*
+- *Underestimated by Everyone Who Should Know Better*
+
+**Skills:**
+- Deceive Great (+4)
+- Rapport Good (+3), Contacts Good (+3)
+
+**Stunt:** **Better Offer**: +2 to Rapport when proposing a deal that undercuts a rival's arrangement.
+
+{% include components/track.html label="Stress" boxes=3 %}
+{% include components/consequences.html slots="mild,moderate" %}
+
+</div>
+</section>
+
+## Tier badges
+
+<section class="ds-sample" data-component="Tier" data-group="Adversaries" data-height="180" markdown="1">
+{% include components/tier.html role="Lookout" tier="Threat" %}
+{% include components/tier.html role="Muscle" tier="Filler" note="4 members" %}
+{% include components/tier.html role="Enforcer" tier="Hitter" %}
+{% include components/tier.html role="Leader" tier="Boss" %}
+{% include components/tier.html role="Ward" tier="Obstacle" %}
+</section>
+
+## Ladder
+
+<section class="ds-sample" data-component="Ladder" data-group="Rules" data-height="420" markdown="1">
+{% include components/ladder.html highlight="4" %}
+</section>
+
+## Outcomes
+
+<section class="ds-sample" data-component="Outcomes" data-group="Rules" data-height="200" markdown="1">
+<div class="outcomes" markdown="1">
+- **Fail** You don't get what you want, or you get it at a serious cost.
+- **Tie** You get it at a minor cost, or a lesser version.
+- **Succeed** You get what you want.
+- **Succeed with Style** You get it plus a boost.
+</div>
+</section>
+
+## Fate dice
+
+<section class="ds-sample" data-component="Die" data-group="Rules" data-height="100" markdown="1">
+A roll of <span class="die die--plus" role="img" aria-label="plus"></span> <span class="die die--plus" role="img" aria-label="plus"></span> <span class="die die--blank" role="img" aria-label="blank"></span> <span class="die die--minus" role="img" aria-label="minus"></span> is +1.
+</section>
+
+## Actions
+
+<section class="ds-sample" data-component="Actions" data-group="Rules" data-height="420" markdown="1">
+<div class="action-grid">
+<div class="action"><img src="{{ '/images/icons/overcome.svg' | relative_url }}" alt="Overcome" class="action-icon"><p><strong>Overcome</strong> Get past an obstacle.</p></div>
+<div class="action"><img src="{{ '/images/icons/create-advantage.svg' | relative_url }}" alt="Create an Advantage" class="action-icon"><p><strong>Create an Advantage</strong> Make or discover an aspect.</p></div>
+<div class="action"><img src="{{ '/images/icons/attack.svg' | relative_url }}" alt="Attack" class="action-icon"><p><strong>Attack</strong> Harm someone.</p></div>
+<div class="action"><img src="{{ '/images/icons/defend.svg' | relative_url }}" alt="Defend" class="action-icon"><p><strong>Defend</strong> Stop harm or an advantage.</p></div>
+</div>
+</section>

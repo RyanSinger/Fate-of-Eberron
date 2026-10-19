@@ -45,4 +45,11 @@ class SiteTest < Minitest::Test
   def test_sample_page_is_not_in_search
     refute_includes read("search.json"), "Design System Sample"
   end
+
+  def test_sample_page_has_reference_sections
+    html = read("design-sample.html")
+    %w[Statblock Tier Ladder Outcomes Die Actions].each do |name|
+      assert_includes html, %(data-component="#{name}"), "missing sample section #{name}"
+    end
+  end
 end

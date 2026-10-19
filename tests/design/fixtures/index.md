@@ -20,3 +20,11 @@
 <section id="pyramid-empty">{% include components/pyramid.html %}</section>
 
 <section id="pyramid-skills">{% include components/pyramid.html skills="Crafts,Lore,Investigate,Notice,Will,Rapport,Resources,Contacts,Empathy,Athletics,Stealth" %}</section>
+
+<section id="tier-note">{% include components/tier.html role="Muscle" tier="Filler" note="4 members" %}</section>
+
+<section id="tier-unknown">{% include components/tier.html tier="Minion" %}</section>
+
+<section id="ladder-plus">{% include components/ladder.html highlight="+4" %}</section>
+
+<section id="ladder-none">{% include components/ladder.html %}</section>

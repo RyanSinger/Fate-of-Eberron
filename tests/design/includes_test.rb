@@ -66,4 +66,32 @@ class IncludesTest < Minitest::Test
     assert_equal "Athletics", slots.last
     refute_includes html, "Stealth"
   end
+
+  def test_tier_badge_with_role_and_note
+    html = fragment("tier-note")
+    assert_includes html, "tier--filler"
+    assert_includes html, '<span class="tier__role">Muscle</span>'
+    assert_includes html, '<span class="tier__badge">Filler</span>'
+    assert_includes html, '<span class="tier__note">4 members</span>'
+  end
+
+  def test_unknown_tier_still_renders_badge
+    html = fragment("tier-unknown")
+    assert_includes html, "tier--minion"
+    assert_includes html, '<span class="tier__badge">Minion</span>'
+    refute_includes html, "tier__role"
+  end
+
+  def test_ladder_has_eleven_steps_and_accepts_plus_sign
+    assert_equal 11, count("ladder-plus", '<li class="ladder__step')
+    assert_equal 1, count("ladder-plus", "ladder__step--highlight")
+    highlighted = fragment("ladder-plus")[%r{ladder__step--highlight">(.*?)</li>}m, 1]
+    assert_includes highlighted, "Great"
+    assert_includes fragment("ladder-plus"), '<span class="ladder__value">-2</span>'
+    assert_includes fragment("ladder-plus"), '<span class="ladder__value">+8</span>'
+  end
+
+  def test_ladder_without_highlight
+    refute_includes fragment("ladder-none"), "ladder__step--highlight"
+  end
 end

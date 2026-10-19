@@ -1,0 +1,7 @@
+{%- comment -%}
+  Stat block header line: role (optional), tier (Threat, Filler, Hitter, Boss, Obstacle), note (optional).
+  Tiers are told apart by label and glyph, never by color alone.
+{%- endcomment -%}
+{%- assign tier = include.tier | strip -%}
+{%- assign key = tier | downcase -%}
+<span class="tier tier--{{ key }}">{% if include.role %}<span class="tier__role">{{ include.role }}</span>{% endif %}<span class="tier__badge">{{ tier }}</span>{% if include.note %}<span class="tier__note">{{ include.note }}</span>{% endif %}</span>

@@ -277,3 +277,197 @@
   border-bottom: 1px solid var(--ink-soft);
   font-size: var(--text-small);
 }
+
+/* ================================
+   STAT BLOCK
+   ================================ */
+.statblock {
+  position: relative;
+  margin: var(--space-xl) 0;
+  padding: var(--space-lg);
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-top: 3px solid var(--gold);
+}
+
+.statblock > h3:first-child,
+.statblock > h4:first-child {
+  margin-top: 0;
+  font-size: var(--text-h3);
+  color: var(--gold);
+}
+
+/* Compact stat lines are written one per source line */
+.statblock p {
+  white-space: pre-line;
+}
+
+.statblock p:last-child,
+.statblock ul:last-child {
+  margin-bottom: 0;
+}
+
+.statblock strong {
+  color: var(--gold);
+}
+
+.statblock .track,
+.statblock .consequences {
+  display: flex;
+  margin: var(--space-xs) 0;
+}
+
+.statblock--example {
+  border-top-width: 1px;
+  border-left: 3px solid var(--gold);
+}
+
+/* ================================
+   TIER BADGE
+   ================================ */
+.tier {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-sm);
+  margin: 0 0 var(--space-md);
+  font-size: var(--text-small);
+}
+
+.tier__role {
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+.tier__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: 0 var(--space-sm);
+  border: 1px solid var(--gold);
+  font-family: var(--font-heading);
+  font-size: var(--text-caption);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.tier__badge::before { content: "\25CF"; }
+.tier--threat .tier__badge::before { content: "\25B2"; }
+.tier--filler .tier__badge::before { content: "\25A0"; }
+.tier--hitter .tier__badge::before { content: "\25C6"; }
+.tier--boss .tier__badge::before { content: "\2605"; }
+.tier--obstacle .tier__badge::before { content: "\25AC"; }
+
+.tier--boss .tier__badge {
+  background: var(--gold);
+  color: var(--surface-0);
+}
+
+.tier__note {
+  font-size: var(--text-caption);
+  color: var(--ink-muted);
+}
+
+/* ================================
+   LADDER
+   ================================ */
+.ladder {
+  max-width: 22rem;
+  margin: var(--space-lg) 0;
+  padding: 0;
+  list-style: none;
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+}
+
+.ladder__step {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-md);
+  margin: 0;
+  padding: var(--space-xs) var(--space-md);
+  border-bottom: 1px solid var(--rule);
+  font-size: var(--text-small);
+}
+
+.ladder__step:last-child {
+  border-bottom: 0;
+}
+
+.ladder__value {
+  min-width: 2.5rem;
+  font-family: var(--font-mono);
+  color: var(--gold);
+}
+
+.ladder__name {
+  font-family: var(--font-heading);
+  color: var(--ink);
+}
+
+.ladder__step--highlight {
+  background: var(--surface-2);
+  box-shadow: inset 3px 0 0 var(--gold);
+}
+
+.ladder__step--highlight .ladder__name {
+  color: var(--gold-bright);
+}
+
+/* ================================
+   OUTCOMES
+   ================================ */
+.outcomes ul {
+  display: grid;
+  gap: var(--space-sm);
+  margin: var(--space-lg) 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 600px) {
+  .outcomes ul {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.outcomes li {
+  margin: 0;
+  padding: var(--space-md);
+  background: var(--surface-1);
+  border-top: 3px solid var(--rule);
+  font-size: var(--text-small);
+}
+
+.outcomes li:nth-child(1) { border-top-color: var(--red); }
+.outcomes li:nth-child(2) { border-top-color: var(--ink-soft); }
+.outcomes li:nth-child(3) { border-top-color: var(--gold); }
+.outcomes li:nth-child(4) { border-top-color: var(--gold-bright); }
+
+.outcomes strong {
+  display: block;
+  font-family: var(--font-heading);
+  color: var(--gold);
+}
+
+/* ================================
+   FATE DIE GLYPHS
+   ================================ */
+.die {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4em;
+  height: 1.4em;
+  border: 1px solid var(--ink-soft);
+  border-radius: var(--radius-sm);
+  vertical-align: -0.2em;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.die--plus::before { content: "+"; color: var(--gold); }
+.die--minus::before { content: "\2212"; color: var(--red-text); }
+.die--blank::before { content: "\00a0"; }
