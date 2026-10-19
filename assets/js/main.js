@@ -1,5 +1,13 @@
 // Fate of Eberron - UI interactions
 
+// Theme preview: ?theme=parchment shows the print theme on screen. Any other value is ignored.
+(function () {
+  var theme = new URLSearchParams(window.location.search).get('theme');
+  if (theme === 'parchment') {
+    document.documentElement.setAttribute('data-theme', 'parchment');
+  }
+})();
+
 (function () {
   'use strict';
 

@@ -16,4 +16,22 @@ class SiteTest < Minitest::Test
     assert_includes css, %([data-theme="parchment"])
     assert_includes css, "@media print"
   end
+
+  OLD_NAMES = %w[--bg-dark --bg-medium --bg-light --text-primary --text-secondary --text-muted
+                 --accent-gold --accent-blue --accent-red --border-color --shadow-color --spacing-].freeze
+
+  def test_style_css_uses_only_new_token_names
+    css = read("assets/css/style.css")
+    OLD_NAMES.each { |name| refute_includes css, name }
+    refute_match(/font-size: \d*\.?\d+rem/, css, "font sizes must come from --text-* tokens")
+  end
+
+  def test_layout_loads_tokens_before_style_and_components_after
+    html = read("index.html")
+    tokens = html.index("assets/css/tokens.css")
+    style = html.index("assets/css/style.css")
+    components = html.index("assets/css/components.css")
+    assert tokens && style && components, "all three stylesheets must be linked"
+    assert tokens < style && style < components, "order must be tokens, style, components"
+  end
 end

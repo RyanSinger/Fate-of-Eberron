@@ -34,4 +34,18 @@ else
   fail "jekyll build" "bundle exec jekyll build failed"
 fi
 
+section "No raw hex colors"
+for css in style components handouts; do
+  file="$PROJECT_ROOT/assets/css/$css.css"
+  if [ ! -f "$file" ]; then
+    skip "$css.css" "not created yet"
+    continue
+  fi
+  if hits=$(grep -nE '#[0-9a-fA-F]{3,8}([^0-9a-zA-Z_-]|$)' "$file"); then
+    fail "$css.css has no raw hex" "$hits"
+  else
+    pass "$css.css has no raw hex"
+  fi
+done
+
 summary
