@@ -25,7 +25,7 @@
 
 ## Review Focus
 
-1. A stat block migration run twice must not double wrap blocks, and the Quick Reference table rows `| Physical | [ ]1 [ ]2 [ ]3 |` must stay untouched. (Task 5 tests.)
+1. A stat block migration run twice must not double wrap blocks, and the script must never rewrite markdown table rows. The GM's Guide Quick Reference stress rule is corrected by hand to Fate Condensed (each box absorbs 1 shift), and no numbered boxes remain. (Task 5 tests.)
 2. Bad include parameters must degrade, not break: `boxes=0`, `boxes="abc"`, `boxes=50`, capitalized or unknown consequence slots, `highlight="+4"`. (Task 3, 4 and 6 fixture tests.)
 3. Printing any guide page must use parchment colors, and `?theme=` with any value other than `parchment` must do nothing. (Task 1 CSS test, Task 2 manual browser check.)
 4. A handout on a noir page keeps its paper colors, and a sending longer than 25 words shows 25 filled ticks plus an over limit marker. (Task 6 fixture tests.)
@@ -1768,7 +1768,7 @@ git push
 
 **Interfaces:**
 - Consumes: includes `components/track.html`, `components/consequences.html`, `components/tier.html`; classes `.statblock`, `.statblock--example`.
-- Produces: no new interfaces. After this task `npcs.md` has no `[ ]` and `gm-guide.md` has `[ ]` only in the two Quick Reference table rows.
+- Produces: no new interfaces. After this task neither `npcs.md` nor `gm-guide.md` has any `[ ]`, and the GM's Guide Quick Reference states the Fate Condensed stress rule.
 
 - [ ] **Step 1: Write the failing migration tests**
 
@@ -2082,8 +2082,9 @@ Append to `SiteTest`:
     html = read("gm-guide.html")
     assert_equal 18, html.scan('class="statblock"').size, "Filler, Hitter, Boss and countdown templates"
     assert_equal 6, html.scan('class="statblock statblock--example"').size, "worked examples"
-    assert_equal 2, html.scan("[ ]1").size, "Quick Reference table rows must stay"
-    refute_match(/\[ \] \[ \]/, html)
+    refute_includes html, "[ ]", "no markdown boxes may remain"
+    refute_includes html, "equal to box value", "Quick Reference must use the Fate Condensed stress rule"
+    assert_includes html, "Each box absorbs 1 shift."
   end
 ```
 
@@ -2106,7 +2107,29 @@ Expected: the second command prints nothing (every removed line was a stat line,
 grep -c '\[ \]' npcs.md gm-guide.md
 ```
 
-Expected: `npcs.md:0`, `gm-guide.md:2`.
+Expected: `npcs.md:0`, `gm-guide.md:2` (the two Quick Reference table rows, which the script deliberately leaves alone).
+
+Now correct the Quick Reference to the Fate Condensed stress rule (the Player's Guide, line 916, already says each box absorbs 1 shift). In `gm-guide.md`, under `### Stress and Consequences`, replace:
+
+```markdown
+**Stress**: Absorb shifts equal to box value. Clears after scene.
+
+| Physical | [ ]1 [ ]2 [ ]3 |
+|----------|----------------|
+| Mental | [ ]1 [ ]2 [ ]3 |
+```
+
+with:
+
+```markdown
+**Stress**: Each box absorbs 1 shift. Check as many as you need. Clears after scene.
+
+{% include components/track.html label="Physical" boxes=3 %}
+
+{% include components/track.html label="Mental" boxes=3 %}
+```
+
+Then `grep -c '\[ \]' npcs.md gm-guide.md` prints `npcs.md:0`, `gm-guide.md:0`.
 
 - [ ] **Step 7: Run tests**
 
@@ -2115,13 +2138,13 @@ Expected: all PASS.
 
 - [ ] **Step 8: Visual check**
 
-Open `/npcs/` and `/gm-guide/` (sections Adversaries, Quick Antagonist Templates, Countdowns) in noir and parchment at desktop and 375px. Check every stat block has a gold top border, tier badges render, filler notes show, compact blocks keep one stat per line, countdown examples show dials, the Quick Reference table is unchanged, and the TOC still lists every h2.
+Open `/npcs/` and `/gm-guide/` (sections Adversaries, Quick Antagonist Templates, Countdowns) in noir and parchment at desktop and 375px. Check every stat block has a gold top border, tier badges render, filler notes show, compact blocks keep one stat per line, countdown examples show dials, the Quick Reference shows Physical and Mental tracks with plain boxes and the 1 shift rule, and the TOC still lists every h2.
 
 - [ ] **Step 9: Commit the migration**
 
 ```bash
 git add npcs.md gm-guide.md script/migrate_statblocks.rb tests/design/unit/migrate_statblocks_test.rb tests/design/site_test.rb
-git commit -m "Convert NPC and GM guide stat blocks to components
+git commit -m "Convert NPC and GM guide stat blocks to components, fix Quick Reference stress rule
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 git push
