@@ -1,0 +1,7 @@
+{%- comment -%}
+  Sending word counter: 25 ticks, the spell's limit. words: how many the message uses.
+  Over 25 fills every tick and flags the total.
+{%- endcomment -%}
+{%- assign words = include.words | default: 0 | plus: 0 -%}
+{%- assign limit = 25 -%}
+<span class="word-count{% if words > limit %} word-count--over{% endif %}" aria-label="{{ words }} of {{ limit }} words">{% for i in (1..limit) %}<span class="word-count__tick{% if i <= words %} word-count__tick--used{% endif %}"></span>{% endfor %}<span class="word-count__total">{{ words }}/{{ limit }}</span></span>

@@ -1,0 +1,559 @@
+/* Fate of Eberron game components. Colors, type and spacing come from tokens.css. */
+
+/* ================================
+   SAMPLE PAGE
+   ================================ */
+.ds-sample {
+  margin: var(--space-lg) 0 var(--space-xxl);
+}
+
+/* ================================
+   ASPECT
+   ================================ */
+.aspect {
+  position: relative;
+  margin: var(--space-md) 0;
+  padding: var(--space-sm) var(--space-md);
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-0);
+}
+
+.aspect::before {
+  content: attr(data-label);
+  display: block;
+  font-family: var(--font-heading);
+  font-size: var(--text-caption);
+  line-height: var(--leading-caption);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.aspect p {
+  margin: 0;
+  font-size: var(--text-h4);
+  line-height: var(--leading-h4);
+  color: var(--ink);
+}
+
+.aspect em {
+  color: inherit;
+}
+
+/* Free invoke pips */
+.aspect[data-invokes]::after {
+  position: absolute;
+  top: var(--space-sm);
+  right: var(--space-md);
+  font-size: var(--text-caption);
+  letter-spacing: 0.2em;
+  color: var(--gold);
+}
+
+.aspect[data-invokes="1"]::after { content: "\25C6"; }
+.aspect[data-invokes="2"]::after { content: "\25C6\25C6"; }
+.aspect[data-invokes="3"]::after { content: "\25C6\25C6\25C6"; }
+
+/* Dragonmark: gold filigree corners and a faint Siberys glow */
+.aspect--dragonmark {
+  border-color: var(--gold);
+  background:
+    linear-gradient(var(--gold-bright), var(--gold-bright)) top left / 16px 2px no-repeat,
+    linear-gradient(var(--gold-bright), var(--gold-bright)) top left / 2px 16px no-repeat,
+    linear-gradient(var(--gold-bright), var(--gold-bright)) bottom right / 16px 2px no-repeat,
+    linear-gradient(var(--gold-bright), var(--gold-bright)) bottom right / 2px 16px no-repeat,
+    var(--surface-1);
+  box-shadow: inset 0 0 18px -10px var(--gold-bright);
+}
+
+.aspect--dragonmark::before {
+  color: var(--gold);
+}
+
+.aspect__sigil {
+  float: right;
+  width: 48px;
+  height: 48px;
+  margin: 0 0 var(--space-sm) var(--space-md);
+  border: 0;
+  box-shadow: none;
+}
+
+/* ================================
+   STUNT
+   ================================ */
+.stunt {
+  position: relative;
+  margin: var(--space-md) 0;
+  padding: var(--space-sm) var(--space-md);
+  background: var(--surface-1);
+  border-top: 2px solid var(--gold);
+  font-size: var(--text-small);
+  line-height: var(--leading-small);
+}
+
+.stunt::before {
+  content: attr(data-source);
+  display: block;
+  font-family: var(--font-heading);
+  font-size: var(--text-caption);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.stunt[data-cost]::after {
+  content: attr(data-cost) " refresh";
+  position: absolute;
+  top: var(--space-sm);
+  right: var(--space-md);
+  padding: 0 var(--space-xs);
+  border: 1px solid var(--gold);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-caption);
+  color: var(--gold);
+}
+
+.stunt p {
+  margin: 0 0 var(--space-xs);
+}
+
+.stunt p:last-child {
+  margin-bottom: 0;
+}
+
+.stunt strong {
+  font-family: var(--font-heading);
+  color: var(--gold);
+}
+
+.stunt--house {
+  border-top-color: var(--gold-bright);
+  background:
+    linear-gradient(var(--gold-bright), var(--gold-bright)) top right / 16px 2px no-repeat,
+    linear-gradient(var(--gold-bright), var(--gold-bright)) top right / 2px 16px no-repeat,
+    var(--surface-1);
+}
+
+.stunt--house::before {
+  content: "House exclusive";
+  color: var(--gold);
+}
+
+/* ================================
+   TRACK (stress, refresh, countdowns)
+   ================================ */
+.track {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs);
+  vertical-align: middle;
+}
+
+.track__label {
+  margin-right: var(--space-xs);
+  font-family: var(--font-heading);
+  font-size: var(--text-caption);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.track__box {
+  display: inline-flex;
+  width: 1.25rem;
+  height: 1.25rem;
+  cursor: pointer;
+}
+
+.track__box input {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border: 2px solid var(--ink-soft);
+  border-radius: var(--radius-0);
+  background: transparent;
+  cursor: pointer;
+}
+
+.track__box input:checked {
+  border-color: var(--gold);
+  background: var(--gold);
+  box-shadow: inset 0 0 0 3px var(--surface-1);
+}
+
+@media print {
+  .track__box input:checked {
+    background: transparent;
+    box-shadow: none;
+    border-color: var(--ink-soft);
+  }
+}
+
+.track__box input:focus-visible {
+  outline: 2px solid var(--blue-bright);
+  outline-offset: 2px;
+}
+
+.track__dial {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: var(--space-sm);
+  border: 2px solid var(--ink-soft);
+  border-radius: var(--radius-round);
+  background: repeating-conic-gradient(var(--ink-soft) 0deg 2deg, transparent 2deg calc(360deg / var(--segments)));
+}
+
+/* ================================
+   CONSEQUENCES
+   ================================ */
+.consequences {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm) var(--space-md);
+  vertical-align: middle;
+}
+
+.consequence {
+  display: inline-flex;
+  flex: 1 1 10rem;
+  align-items: center;
+  gap: var(--space-xs);
+  min-width: 10rem;
+}
+
+.consequence__label {
+  font-family: var(--font-heading);
+  font-size: var(--text-caption);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--red-text);
+}
+
+.consequence__shift {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.4rem;
+  height: 1.4rem;
+  border: 2px solid var(--red-text);
+  border-radius: var(--radius-round);
+  font-size: var(--text-caption);
+  font-weight: 700;
+  color: var(--red-text);
+}
+
+.consequence__line {
+  flex: 1;
+  min-width: 4rem;
+  height: 1.2em;
+  border-bottom: 1px solid var(--ink-soft);
+}
+
+/* ================================
+   SKILL PYRAMID
+   ================================ */
+.pyramid {
+  display: grid;
+  gap: var(--space-xs);
+  margin: var(--space-lg) 0;
+}
+
+.pyramid__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.pyramid__rung {
+  flex: 0 0 7.5rem;
+  font-family: var(--font-heading);
+  font-size: var(--text-small);
+  color: var(--gold);
+}
+
+.pyramid__slot {
+  flex: 1 1 6rem;
+  min-height: 2rem;
+  padding: var(--space-xs) var(--space-sm);
+  background: var(--surface-1);
+  border-bottom: 1px solid var(--ink-soft);
+  font-size: var(--text-small);
+}
+
+/* ================================
+   STAT BLOCK
+   ================================ */
+.statblock {
+  position: relative;
+  margin: var(--space-xl) 0;
+  padding: var(--space-lg);
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-top: 3px solid var(--gold);
+}
+
+.statblock > h3:first-child,
+.statblock > h4:first-child {
+  margin-top: 0;
+  font-size: var(--text-h3);
+  color: var(--gold);
+}
+
+/* Compact stat lines are written one per source line */
+.statblock p {
+  white-space: pre-line;
+}
+
+.statblock p:last-child,
+.statblock ul:last-child {
+  margin-bottom: 0;
+}
+
+.statblock strong {
+  color: var(--gold);
+}
+
+.statblock .track,
+.statblock .consequences {
+  display: flex;
+  margin: var(--space-xs) 0;
+}
+
+.statblock--example {
+  border-top-width: 1px;
+  border-left: 3px solid var(--gold);
+}
+
+/* ================================
+   TIER BADGE
+   ================================ */
+.tier {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-sm);
+  margin: 0 0 var(--space-md);
+  font-size: var(--text-small);
+}
+
+.tier__role {
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+.tier__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: 0 var(--space-sm);
+  border: 1px solid var(--gold);
+  font-family: var(--font-heading);
+  font-size: var(--text-caption);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.tier__badge::before { content: "\25CF"; }
+.tier--threat .tier__badge::before { content: "\25B2"; }
+.tier--filler .tier__badge::before { content: "\25A0"; }
+.tier--hitter .tier__badge::before { content: "\25C6"; }
+.tier--boss .tier__badge::before { content: "\2605"; }
+.tier--obstacle .tier__badge::before { content: "\25AC"; }
+
+.tier--boss .tier__badge {
+  background: var(--gold);
+  color: var(--surface-0);
+}
+
+.tier__note {
+  font-size: var(--text-caption);
+  color: var(--ink-muted);
+}
+
+/* ================================
+   LADDER
+   ================================ */
+.ladder {
+  max-width: 22rem;
+  margin: var(--space-lg) 0;
+  padding: 0;
+  list-style: none;
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+}
+
+.ladder__step {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-md);
+  margin: 0;
+  padding: var(--space-xs) var(--space-md);
+  border-bottom: 1px solid var(--rule);
+  font-size: var(--text-small);
+}
+
+.ladder__step:last-child {
+  border-bottom: 0;
+}
+
+.ladder__value {
+  min-width: 2.5rem;
+  font-family: var(--font-mono);
+  color: var(--gold);
+}
+
+.ladder__name {
+  font-family: var(--font-heading);
+  color: var(--ink);
+}
+
+.ladder__step--highlight {
+  background: var(--surface-2);
+  box-shadow: inset 3px 0 0 var(--gold);
+}
+
+.ladder__step--highlight .ladder__name {
+  color: var(--gold-bright);
+}
+
+/* ================================
+   OUTCOMES
+   ================================ */
+.outcomes ul {
+  display: grid;
+  gap: var(--space-sm);
+  margin: var(--space-lg) 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 600px) {
+  .outcomes ul {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.outcomes li {
+  margin: 0;
+  padding: var(--space-md);
+  background: var(--surface-1);
+  border-top: 3px solid var(--rule);
+  font-size: var(--text-small);
+}
+
+.outcomes li:nth-child(1) { border-top-color: var(--red); }
+.outcomes li:nth-child(2) { border-top-color: var(--ink-soft); }
+.outcomes li:nth-child(3) { border-top-color: var(--gold); }
+.outcomes li:nth-child(4) { border-top-color: var(--gold-bright); }
+
+.outcomes strong {
+  display: block;
+  font-family: var(--font-heading);
+  color: var(--gold);
+}
+
+/* ================================
+   FATE DIE GLYPHS
+   ================================ */
+.die {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4em;
+  height: 1.4em;
+  border: 1px solid var(--ink-soft);
+  border-radius: var(--radius-sm);
+  vertical-align: -0.2em;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.die--plus::before { content: "+"; color: var(--gold); }
+.die--minus::before { content: "\2212"; color: var(--red-text); }
+.die--blank::before { content: "\00a0"; }
+
+/* ================================
+   ACTION GRID
+   ================================ */
+.action-grid {
+  display: grid;
+  gap: var(--space-lg);
+  margin: var(--space-xl) 0;
+}
+
+@media (min-width: 600px) {
+  .action-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.action {
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-sm);
+  padding: var(--space-lg);
+  text-align: center;
+}
+
+.action-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto var(--space-md);
+  display: block;
+  filter: invert(1) opacity(0.8);
+}
+
+.action p {
+  margin: 0;
+  font-size: var(--text-small);
+  text-align: left;
+}
+
+.action strong {
+  color: var(--gold);
+}
+
+/* Fate dice display */
+.fate-dice {
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-sm);
+  padding: var(--space-lg);
+  margin: var(--space-xl) 0;
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.fate-die-icon {
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+  filter: invert(1) opacity(0.8);
+  margin: 0;
+  box-shadow: none;
+}
+
+.fate-dice p {
+  margin: 0;
+}
+
+/* Icons are dark multi-tone art: inverted on noir, shown as drawn on parchment */
+[data-theme="parchment"] .action-icon,
+[data-theme="parchment"] .fate-die-icon {
+  filter: none;
+}
+@media print {
+  .action-icon,
+  .fate-die-icon {
+    filter: none;
+  }
+}

@@ -9,6 +9,8 @@ Working notes on this project. No sugarcoating.
 curl -s https://api.openai.com/v1/audio/speech -H "Authorization: Bearer $OPENAI_API_KEY" -H "Content-Type: application/json" -d '{"model":"tts-1-hd","voice":"nova","input":"TEXT HERE"}' --output /tmp/tts.mp3 && afplay /tmp/tts.mp3
 ```
 
+**Design System**: tokens and components live in `design/` (source of truth), `assets/css/components.css` and `assets/css/handouts.css`, published to claude.ai at https://claude.ai/artifact/JY8TcPbf739cJ1sbj9EShc. Read that system's README before designing any sheet, card, handout or page for this project. After changing any of those files, run the `design-sync` skill. Editing `design/tokens.json` needs a `jekyll serve` restart, because the excluded `design/` folder is not watched.
+
 ---
 
 ## Commands
@@ -37,8 +39,12 @@ curl -s https://api.openai.com/v1/audio/speech -H "Authorization: Bearer $OPENAI
 ├── README.md             # Project overview
 ├── CLAUDE.md             # This file
 ├── _config.yml           # Jekyll config (baseurl: /Fate-of-Eberron)
+├── design/               # Design system source: tokens.json, brand book, component guidelines
+├── design-sample.md      # Hidden page rendering every component (source of claude.ai previews)
+├── _plugins/             # design_tokens.rb: tokens.json to assets/css/tokens.css at build
+├── script/               # stage_design_system.rb for design-sync
 ├── _layouts/             # default.html, guide.html
-├── _includes/            # toc.html
+├── _includes/            # toc.html, components/ (design system includes)
 ├── assets/css/           # Stylesheets
 ├── assets/js/            # Scripts
 ├── images/               # Art and icons

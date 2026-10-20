@@ -34,3 +34,5 @@ exclude:
   - "*.jsonl"
   - campaign/
   - tests
+  - design/
+  - script

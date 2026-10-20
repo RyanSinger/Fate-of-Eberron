@@ -1,0 +1,9 @@
+{%- comment -%}
+  Track: a row of boxes for stress, refresh or countdowns.
+  label (default "Stress"), boxes (default 3, clamped 1 to 12), style="clock" adds a segmented dial.
+{%- endcomment -%}
+{%- assign boxes = include.boxes | default: 3 | plus: 0 -%}
+{%- if boxes < 1 -%}{%- assign boxes = 1 -%}{%- endif -%}
+{%- if boxes > 12 -%}{%- assign boxes = 12 -%}{%- endif -%}
+{%- assign label = include.label | default: "Stress" -%}
+<span class="track{% if include.style == 'clock' %} track--clock{% endif %}" role="group" aria-label="{{ label }}" style="--segments: {{ boxes }}"><span class="track__label">{{ label }}</span>{% if include.style == 'clock' %}<span class="track__dial" aria-hidden="true"></span>{% endif %}{% for i in (1..boxes) %}<label class="track__box"><input type="checkbox" aria-label="{{ label }} {{ i }}"></label>{% endfor %}</span>
